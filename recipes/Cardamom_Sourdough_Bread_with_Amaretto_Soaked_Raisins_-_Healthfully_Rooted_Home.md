@@ -1,0 +1,348 @@
+---
+subject: "Cardamom Sourdough Bread with Amaretto Soaked Raisins - Healthfully Rooted Home"
+from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
+to: "Family <benemanuel.family@gmail.com>"
+date: "Tue, 6 Sep 2022 07:01:02 +0300"
+date_parsed: 2022-09-06T07:01:02+03:00
+labels: [dairy, bread, cake]
+---
+
+# Cardamom Sourdough Bread with Amaretto Soaked Raisins - Healthfully Rooted Home
+
+<https://healthfullyrootedhome.com/cardamom-sourdough-bread/>
+
+---
+
+Sharing is caring!
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDI2IDMyIiB3aWR0aD0iMzIiPjxwYXRoIGQ9Ik0yMC44IDIwLjhxMS45ODQgMCAzLjM5MiAxLjM3NnQxLjQwOCAzLjQyNHEwIDEuOTg0LTEuNDA4IDMuMzkydC0zLjM5MiAxLjQwOC0zLjM5Mi0xLjQwOC0xLjQwOC0zLjM5MnEwLTAuMTkyIDAuMDMyLTAuNDQ4dDAuMDMyLTAuMzg0bC04LjMyLTQuOTkycS0xLjM0NCAxLjAyNC0yLjk0NCAxLjAyNC0xLjk4NCAwLTMuMzkyLTEuNDA4dC0xLjQwOC0zLjM5MiAxLjQwOC0zLjM5MiAzLjM5Mi0xLjQwOHExLjcyOCAwIDIuOTQ0IDAuOTZsOC4zMi00Ljk5MnEwLTAuMTI4LTAuMDMyLTAuMzg0dC0wLjAzMi0wLjM4NHEwLTEuOTg0IDEuNDA4LTMuMzkydDMuMzkyLTEuNDA4IDMuMzkyIDEuMzc2IDEuNDA4IDMuNDI0cTAgMS45ODQtMS40MDggMy4zOTJ0LTMuMzkyIDEuNDA4cS0xLjY2NCAwLTIuODgtMS4wMjRsLTguMzg0IDQuOTkycTAuMDY0IDAuMjU2IDAuMDY0IDAuODMyIDAgMC41MTItMC4wNjQgMC43NjhsOC4zODQgNC45OTJxMS4xNTItMC45NiAyLjg4LTAuOTZ6IiAvPjwvc3ZnPg==) 114 shares
+
+- [![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiB2aWV3Qm94PSIwIDAgMTggMzIiPjxwYXRoIGQ9Ik0xNy4xMiAwLjIyNHY0LjcwNGgtMi43ODRxLTEuNTM2IDAtMi4wODAgMC42NHQtMC41NDQgMS45MnYzLjM5Mmg1LjI0OGwtMC43MDQgNS4yOGgtNC41NDR2MTMuNTY4aC01LjQ3MnYtMTMuNTY4aC00LjU0NHYtNS4yOGg0LjU0NHYtMy45MDRxMC0zLjMyOCAxLjg1Ni01LjE1MnQ0Ljk2LTEuODI0cTIuNjI0IDAgNC4wNjQgMC4yMjR6IiAvPjwvc3ZnPg==) Facebook29](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhealthfullyrootedhome.com%2Fcardamom-sourdough-bread%2F&t=Cardamom%20Sourdough%20Bread%20with%20Amaretto%20Soaked%20Raisins "Share on Facebook")
+-  ![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjMyIiB2ZXJzaW9uPSIxLjEiIHdpZHRoPSIzMiIgdmlld0JveD0iMCAwIDIzIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0wIDEwLjY1NnEwLTEuOTIgMC42NzItMy42MTZ0MS44NTYtMi45NzYgMi43Mi0yLjIwOCAzLjI5Ni0xLjQwOCAzLjYxNi0wLjQ0OHEyLjgxNiAwIDUuMjQ4IDEuMTg0dDMuOTM2IDMuNDU2IDEuNTA0IDUuMTJxMCAxLjcyOC0wLjMyIDMuMzZ0LTEuMDg4IDMuMTY4LTEuNzkyIDIuNjU2LTIuNTYgMS44NTYtMy4zOTIgMC42NzJxLTEuMjE2IDAtMi40LTAuNTc2dC0xLjcyOC0xLjU2OHEtMC4xNiAwLjcwNC0wLjQ4IDIuMDE2dC0wLjQ0OCAxLjY5Ni0wLjM1MiAxLjI4LTAuNDggMS4yNDgtMC41NDQgMS4xMi0wLjgzMiAxLjQwOC0xLjEyIDEuNTM2bC0wLjIyNCAwLjA5Ni0wLjE2LTAuMTkycS0wLjI4OC0yLjgxNi0wLjI4OC0zLjM2IDAtMS42MzIgMC4zODQtMy42OHQxLjE4NC01LjE1MiAwLjkyOC0zLjYxNnEtMC41NzYtMS4xNTItMC41NzYtMy4wMDggMC0xLjUwNCAwLjkyOC0yLjc4NHQyLjM2OC0xLjMxMnExLjA4OCAwIDEuNjk2IDAuNzM2dDAuNjA4IDEuODI0cTAgMS4xODQtMC43NjggMy4zOTJ0LTAuOCAzLjM2cTAgMS4xMiAwLjggMS44NTZ0MS45NTIgMC43MzZxMC45OTIgMCAxLjgyNC0wLjQ0OHQxLjQwOC0xLjIxNiAwLjk5Mi0xLjY5NiAwLjY3Mi0xLjk1MiAwLjM1Mi0xLjk4NCAwLjEyOC0xLjc5MnEwLTMuMDcyLTEuOTUyLTQuOHQtNS4xMi0xLjcyOHEtMy41NTIgMC01Ljk1MiAyLjMwNHQtMi40IDUuODU2cTAgMC44IDAuMjI0IDEuNTM2dDAuNDggMS4xNTIgMC40OCAwLjgzMiAwLjIyNCAwLjU0NHEwIDAuNDgtMC4yNTYgMS4yOHQtMC42NzIgMC44cS0wLjAzMiAwLTAuMjg4LTAuMDMyLTAuOTI4LTAuMjg4LTEuNjMyLTAuOTkydC0xLjA4OC0xLjY5Ni0wLjU3Ni0xLjkyLTAuMTkyLTEuOTJ6IiAvPjwvc3ZnPg==) Pinterest85
+
+- [![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI4IDMyIiBoZWlnaHQ9IjMyIiB2ZXJzaW9uPSIxLjEiPjxwYXRoIGQ9Ik0xOC41NiAxNy40MDhsOC4yNTYgOC41NDRoLTI1LjI0OGw4LjI4OC04LjQ0OCA0LjMyIDQuMDY0ek0yLjAxNiA2LjA0OGgyNC4zMmwtMTIuMTYgMTEuNTg0ek0yMC4xMjggMTUuOTM2bDguMjI0LTcuNzQ0djE2LjI1NnpNMCAyNC40NDh2LTE2LjI1Nmw4LjI4OCA3Ljc3NnoiIC8+PC9zdmc+) Email](/cdn-cgi/l/email-protection#37084442555d5254430a74564553565a585a12050764584245535842505f1205077545525653120507405e435f120507765a5645524343581205076458565c525312050765565e445e5944111407040f0c5558534e0a5f434347441204761205711205715f52565b435f51425b5b4e4558584352535f585a521954585a12057154564553565a585a1a44584245535842505f1a5545525653120571 "Send over email")
+
+[![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMTYiIHdpZHRoPSIxNiIgdmlld0JveD0iMCAwIDI0IDI0Ij48ZyBmaWxsPSIjZmZmZmZmIiBjbGFzcz0ibmMtaWNvbi13cmFwcGVyIj48cGF0aCBkPSJNOSwyaDZjMC42LDAsMS0wLjQsMS0xcy0wLjQtMS0xLTFIOUM4LjQsMCw4LDAuNCw4LDFTOC40LDIsOSwyeiIgZGF0YS1jb2xvcj0iY29sb3ItMiIgLz4gPHBhdGggZD0iTTE2LDExVjVjMC0wLjYtMC40LTEtMS0xSDlDOC40LDQsOCw0LjQsOCw1djZIMS45TDEyLDIzLjZMMjIuMSwxMUgxNnoiIGZpbGw9IiNmZmZmZmYiIC8+PC9nPjwvc3ZnPg==) Jump to Recipe](#recipe) [![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGhlaWdodD0iMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjE2Ij48ZyBmaWxsPSIjZmZmZmZmIiBjbGFzcz0ibmMtaWNvbi13cmFwcGVyIj48cGF0aCBkPSJNMjIsOEgyQzEuNDQ4LDgsMSw4LjQ0NywxLDl2MTRjMCwwLjU1MywwLjQ0OCwxLDEsMWgyMGMwLjU1MiwwLDEtMC40NDcsMS0xVjlDMjMsOC40NDcsMjIuNTUyLDgsMjIsOHogTTksMjB2LThsNyw0TDksMjB6IiBmaWxsPSIjZmZmZmZmIiAvPiA8cmVjdCBkYXRhLWNvbG9yPSJjb2xvci0yIiBoZWlnaHQ9IjIiIHg9IjAuMDAxIiB5PSIyLjExMSIgdHJhbnNmb3JtPSJtYXRyaXgoMC45Nzk4IC0wLjE5OTkgMC4xOTk5IDAuOTc5OCAtMC40MDI4IDIuMjMyMykiIHdpZHRoPSIyMS43MDEiIC8+PC9nPjwvc3ZnPg==) Jump to Video](#recipe-video) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE2cHgiIHdpZHRoPSIxNnB4IiB4PSIwcHgiIHk9IjBweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmlld0JveD0iMCAwIDI0IDI0Ij48Zz48cGF0aCBkPSJNMTksNS4wOVYxYzAtMC41NTItMC40NDgtMS0xLTFINkM1LjQ0OCwwLDUsMC40NDgsNSwxdjQuMDlDMi4xNjcsNS41NjksMCw4LjAzMywwLDExdjdjMCwwLjU1MiwwLjQ0OCwxLDEsMWg0djRjMCwwLjU1MiwwLjQ0OCwxLDEsMWgxMmMwLjU1MiwwLDEtMC40NDgsMS0xdi00aDRjMC41NTIsMCwxLTAuNDQ4LDEtMXYtN0MyNCw4LjAzMywyMS44MzMsNS41NjksMTksNS4wOXogTTcsMmgxMHYzSDdWMnogTTE3LDIySDd2LTloMTBWMjJ6IE0xOCwxMGMtMC41NTIsMC0xLTAuNDQ4LTEtMWMwLTAuNTUyLDAuNDQ4LTEsMS0xczEsMC40NDgsMSwxQzE5LDkuNTUyLDE4LjU1MiwxMCwxOCwxMHoiIGZpbGw9IiNmZmZmZmYiIC8+PC9nPjwvc3ZnPg==) Print Recipe](https://healthfullyrootedhome.com/wprm_print/cardamom-sourdough-bread-with-soaked-amaretto-raisins)
+
+My Cardamom Sourdough Bread reminds me of my childhood! Do you remember that cinnamon raisin bread you would get in the purple bag? This is a healthy version of that; and even better because it has cardamom spice and amaretto-soaked raisins! I’m telling you guys, this bread is perfect for Fall – slather it with some ghee and enjoy with some [coffee](https://healthfullyrootedhome.com/make-at-home-fall-coffee-recipes/).
+
+[Related: Sourdough Monkey Bread](https://healthfullyrootedhome.com/sourdough-monkey-bread/)
+
+Related: [Sourdough Babka with Chocolate Filling](https://healthfullyrootedhome.com/sourdough-babka/)
+
+![This cardamom sourdough bread recipe is perfect for a cozy fall morning!](https://healthfullyrootedhome.com/wp-content/uploads/2021/10/Cardamom-sourdough-bread-pin-683x1024.jpg)
+
+**This post contains affiliate links, which means I make a small commission at no extra cost to you. See my full disclosure* [here](https://healthfullyrootedhome.com/disclosure-and-privacy-policy/).*
+
+Table Of Contents
+
+1. [Cardamom Sourdough bread recipe](#cardamom-sourdough-bread-recipe)
+  - [Ingredients](#ingredients)
+  -
+  - [Instructions](#instructions)
+2. [Why this cardamom sourdough bread recipe works](#why-this-cardamom-sourdough-bread-recipe-works)
+3. [Cardamom Bread FAQ](#cardamom-bread-faq)
+4. [shop cardamom sourdough bread](#shop-cardamom-sourdough-bread)
+5. [more Sourdough recipes](#more-sourdough-recipes)
+6. [Homestead living – harvest edition free ebook](#homestead-living-harvest-edition-free-ebook)
+7. [Pin it – Cardamom Sourdough Bread recipe](#pin-it-cardamom-sourdough-bread-recipe)
+8. [Print the cardamom sourdough bread recipe](#print-the-cardamom-sourdough-bread-recipe)
+9. [Cardamom Sourdough Bread with Soaked Amaretto Raisins](#cardamom-sourdough-bread-with-soaked-amaretto-raisins)
+10. [about me](#about-me)
+
+Related: [Pumpkin Spice Granola Bark Recipe](https://healthfullyrootedhome.com/pumpkin-spice-granola-bark/)
+
+Related: [sourdough donut recipe](https://healthfullyrootedhome.com/sourdough-donuts/)
+
+## Cardamom Sourdough bread recipe
+
+![This cardamom sourdough bread recipe is perfect for a cozy fall morning. ](https://healthfullyrootedhome.com/wp-content/uploads/2021/10/1-1.jpg)
+
+For my cardamom sourdough bread recipe, I used einkorn flour since I didn’t long ferment the dough – I like to use this ancient grain in recipes that aren’t long-fermented because it’s more easily digestible.
+
+## Ingredients
+
+#### Sourdough batter
+
+- 113g sourdough starter, active or discard
+- 360g all-purpose flour
+- 2 tsp baking powder
+- 1 tablespoon coconut sugar
+- 1 1/4 teaspoons salt
+- 1 large egg
+- 5 tablespoons butter, softened
+- 180g warm water
+
+#### Cardamom Filling
+
+- 1/3 cup coconut sugar
+- 1 tsp cardamom
+- 1/2 tsp cinnamon
+- 2 tsp flour
+- 1 egg, beaten
+- 1 cup raisins (soaked)
+- 1 cup amaretto (or filtered water)
+
+## Instructions
+
+#### sourdough
+
+1. Soak your raisins in amaretto filtered water and set aside.
+2. Combine all of the dough ingredients in the bowl of a stand mixer fitted with the dough hook attachment. Knead until it becomes soft and smooth.
+3. Place the dough in a lightly greased glass or ceramic bowl, and allow it to rise for about 2 hours until it has doubled in size.
+
+![mixing ingredients for cardamom sourdough bread recipe](https://healthfullyrootedhome.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-07-at-1.18.43-PM-1024x576.png)
+![letting cardamom sourdough bread dough rise in a bowl](https://healthfullyrootedhome.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-07-at-1.19.22-PM-1024x576.png)
+
+#### cardamom Filling
+
+1. Meanwhile, make the filling by stirring together the coconut sugar, cardamom, cinnamon, and flour.
+2. Once it’s done rising, gently deflate the dough, and transfer it to a lightly greased counter.
+3. Flatten the dough into a rectangle about 6″ x 18″.
+4. Brush the dough with the egg wash and sprinkle it evenly with the filling and top with the soaked raisins, leaving a bare strip about 1″ wide along one short edge (enabling you to seal the ends).
+5. Starting with the short end that’s covered with filling, roll the dough into a log. Pinch the ends and the long seam closed.
+
+![making the cardamom filling for a sourdough loaf](https://healthfullyrootedhome.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-07-at-1.17.41-PM-1024x576.png)
+![shaping the sourdough for cardamom sourdough bread](https://healthfullyrootedhome.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-07-at-1.22.15-PM-1024x576.png)
+![washing the sourdough with egg wash](https://healthfullyrootedhome.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-07-at-1.22.53-PM-1024x576.png)
+![placing the cardamom cinnamon filling inside the sourdough](https://healthfullyrootedhome.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-07-at-1.23.28-PM-1024x576.png)
+![placing the raisins on top of the cardamom filling ](https://healthfullyrootedhome.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-07-at-1.24.43-PM-1024x576.png)
+![rolling the sourdough loaf with a dough scraper](https://healthfullyrootedhome.com/wp-content/uploads/2021/10/Screen-Shot-2021-10-07-at-1.25.19-PM-1024x576.png)
+
+#### Bake bread
+
+1. Transfer the log, seam-side down, to a lightly greased 9″ x 5″ loaf pan. Cover and allow the bread to rise for about 1 hour.
+2. While the dough is rising, preheat the oven to 350°F.
+3. Bake the bread for 40 to 45 minutes, tenting it lightly with foil after 20 minutes to prevent burning.
+4. Remove the bread from the oven, and gently loosen the edges. Turn it out of the pan, and brush the top surface with butter.
+5. Allow the bread to cool completely before slicing.
+
+![](https://healthfullyrootedhome.com/wp-content/uploads/2021/10/DSC02962-1024x683.jpg)
+![cardamom sourdough bread in loaf pan before second rise](https://healthfullyrootedhome.com/wp-content/uploads/2021/10/DSC02966-1024x683.jpg)
+
+[Related: Pumpkin Sourdough Cinnamon Rolls recipe](https://healthfullyrootedhome.com/pumpkin-sourdough-cinnamon-rolls/)
+
+[Related: how to make a sourdough starter from scratch](https://healthfullyrootedhome.com/einkorn-flour-for-making-sourdough-starter/)
+
+## Why this cardamom sourdough bread recipe works
+
+![This recipe is perfect for a cozy Fall morning!](https://healthfullyrootedhome.com/wp-content/uploads/2021/10/2-1.jpg)
+
+1. The flavors of cardamom and amaretto work perfectly together.
+2. Great recipe for Fall.
+3. The sourdough starter can be active or discard so it’s a very low-maintenance recipe.
+4. Lastly, you can opt-out of using yeast and just long ferment the dough during the first rise.
+
+## Cardamom Bread FAQ
+
+**What do I do with cardamom?**
+
+Cardamom is a great spice to add to your spice rubs for meat, use to spice up your grains, add flavor to your coffee drinks, or use in baked goods.
+
+**What does cardamom taste like?**
+
+Cardamom has a spicy flavor similar to the cinnamon family of taste profile. It’s a little smokey, a little piney, and very unique! The complexity of the flavor of cardamom makes it a somewhat acquired taste, and it’s not everyone’s cup of tea.
+
+**What are the health benefits of cardamom?**
+
+Cardamom may help to lower blood pressure, anti-inflammatory, helps digestion, it even has cancer-fighting compounds. It may help with oral care by preventing cavities, and it may help to fight infections. It may help lower blood sugar and [many more potential health benefits](https://www.healthline.com/nutrition/cardamom-benefits).
+
+**What goes well with cardamom in baking?**
+
+Cardamom pairs quite well with spices like cinnamon and nutmeg. Cardamom plays well with orange and almond flavors as well!
+
+**Is cardamom good for hair?**
+
+Yes, cardamom is great for hair due to its potassium, calcium, iron, magnesium, and phosphorus which promote hair growth.
+
+**Why is cardamom so expensive?**
+
+Cardamom is so expensive because it has to be harvested by hand so it’s very time-consuming to acquire.
+
+**Is cardamom good in coffee?**
+
+Cardamom tastes great in coffee! grind your coffee beans and add them to the basin of your french press or pour-over, sprinkle some ground cardamom spice on top, and brew as normal. The flavor of [cardamom will envelop your coffee](https://healthfullyrootedhome.com/make-at-home-fall-coffee-recipes/)!
+
+**What is amaretto made from?**
+
+Amaretto can be made from apricot pits, almonds, or both. You can make your own amaretto by using a mixture of sugar, water, vodka, almond extract and vanilla extract.
+
+**How to plump raisins?**
+
+To plump raisins, you’ll need to rehydrate them. Soak them in a liquid for several hours (the longer the better). If you want to plump them up quickly, you can do so by pouring boiling water over them and they will plump up in minutes.
+
+## shop cardamom sourdough bread
+
+*These affiliate links help to support my blog at no extra cost to you. Your support means the world to me!*
+
+[Thrive Market – 25% off & free gift!](https://www.tkqlhce.com/click-100511001-13895805)(where I get a ton of my ingredients)
+
+[Azure Standard: $25 off your order.](https://www.azurestandard.com/shop/category/food/21244?subcategories=true&a_aid=5d74fae582)Code kyrieluke1
+
+[Berkey water filter](http://berkeyfiltersaffiliateprogram.pxf.io/a1J0qQ)
+
+[Dutch oven](https://rstyle.me/+Q6WgfZrBPpJ9PKKZutozcg)
+
+[Stand mixer](https://rstyle.me/+nT8myV6UjO34f0dcFKIkXg)
+
+[Boos Block Butcher Block](https://rstyle.me/+ilc7NOKoREfxpR2vufxnfw)
+
+## more Sourdough recipes
+
+[Roasted Garlic Sourdough Bread](https://healthfullyrootedhome.com/roasted-garlic-sourdough/)
+
+[Pumpkin Sourdough Cinnamon Rolls](https://healthfullyrootedhome.com/pumpkin-sourdough-cinnamon-rolls/)
+
+[Lemon and Lavender Sourdough Discard Muffins](https://healthfullyrootedhome.com/lemon-and-lavender-sourdough-discard-muffins/)
+
+[Sourdough Starter from Scratch](https://healthfullyrootedhome.com/einkorn-flour-for-making-sourdough-starter/)
+
+## Homestead living – harvest edition free ebook
+
+![free ebook homestead living fall edition](https://healthfullyrootedhome.com/wp-content/uploads/2021/10/Homestead-Living-Fall-Edition-Graphic-1.png)
+
+## Pin it – Cardamom Sourdough Bread recipe
+
+![This cardamom sourdough bread recipe is perfect for a cozy fall morning!](https://healthfullyrootedhome.com/wp-content/uploads/2021/10/Cardamom-sourdough-bread-pin-683x1024.jpg)
+
+[Sourdough Sandwich bread recipe](https://healthfullyrootedhome.com/einkorn-sourdough-sandwich-bread/)
+
+[Sourdough Pumpkin Muffins Recipe](https://healthfullyrootedhome.com/sourdough-pumpkin-muffins/)
+
+## Print the cardamom sourdough bread recipe
+
+![This cardamom sourdough bread recipe is perfect for a cozy fall morning!](https://healthfullyrootedhome.com/wp-content/uploads/2021/10/1-1-400x400.jpg)
+
+## Cardamom Sourdough Bread with Soaked Amaretto Raisins
+
+Kyrie | Healthfully Rooted Home
+
+This is the perfect easy fall quick bread! It will remind you of that childhood cinnamon raisin bread in the purple bag – but way better. And healthier! Use this bread for the ultimate french toast, or just slather some ghee on top.
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJkaXNwbGF5OmJsb2NrO3dpZHRoOjBweDtoZWlnaHQ6MHB4IiBoZWlnaHQ9IjAiIHdpZHRoPSIwIj48ZGVmcz48bGluZWFyZ3JhZGllbnQgaWQ9Indwcm0tcmVjaXBlLXJhdGluZy0wLTMzIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSIzMyUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjMzJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjwvbGluZWFyZ3JhZGllbnQ+PC9kZWZzPjxkZWZzPjxsaW5lYXJncmFkaWVudCBpZD0id3BybS1yZWNpcGUtcmF0aW5nLTAtNTAiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PC9saW5lYXJncmFkaWVudD48L2RlZnM+PGRlZnM+PGxpbmVhcmdyYWRpZW50IGlkPSJ3cHJtLXJlY2lwZS1yYXRpbmctMC02NiI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iNjYlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI2NiUiIHN0b3Atb3BhY2l0eT0iMCIgLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3Atb3BhY2l0eT0iMCIgLz48L2xpbmVhcmdyYWRpZW50PjwvZGVmcz48L3N2Zz4=)
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB5PSIwcHgiIGhlaWdodD0iMTZweCIgd2lkdGg9IjE2cHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeD0iMHB4Ij48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLCAwKSI+PHBvbHlnb24gc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWpvaW49Im1pdGVyIiBzdHJva2U9IiM1QTgyMkIiIGZpbGw9Im5vbmUiIHBvaW50cz0iMTIsMi42IDE1LDkgMjEuNCw5IDE2LjcsMTMuOSAxOC42LDIxLjQgMTIsMTcuNiA1LjQsMjEuNCA3LjMsMTMuOSAyLjYsOSA5LDkgIiBzdHJva2UtbGluZWNhcD0ic3F1YXJlIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIC8+PC9nPjwvc3ZnPg==)![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTZweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIxNnB4IiB5PSIwcHgiIHg9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0Ij48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLCAwKSI+PHBvbHlnb24gZmlsbD0ibm9uZSIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBwb2ludHM9IjEyLDIuNiAxNSw5IDIxLjQsOSAxNi43LDEzLjkgMTguNiwyMS40IDEyLDE3LjYgNS40LDIxLjQgNy4zLDEzLjkgMi42LDkgOSw5ICIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2U9IiM1QTgyMkIiIHN0cm9rZS1saW5lY2FwPSJzcXVhcmUiIC8+PC9nPjwvc3ZnPg==)![SVG Image](data:image/svg+xml;base64,PHN2ZyB4PSIwcHgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHk9IjBweCIgaGVpZ2h0PSIxNnB4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxNnB4Ij48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLCAwKSI+PHBvbHlnb24gc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWpvaW49Im1pdGVyIiBmaWxsPSJub25lIiBzdHJva2U9IiM1QTgyMkIiIHN0cm9rZS1saW5lY2FwPSJzcXVhcmUiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgcG9pbnRzPSIxMiwyLjYgMTUsOSAyMS40LDkgMTYuNywxMy45IDE4LjYsMjEuNCAxMiwxNy42IDUuNCwyMS40IDcuMywxMy45IDIuNiw5IDksOSAiIC8+PC9nPjwvc3ZnPg==)![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE2cHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE2cHgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeT0iMHB4IiB4PSIwcHgiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLCAwKSI+PHBvbHlnb24gc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBmaWxsPSJub25lIiBwb2ludHM9IjEyLDIuNiAxNSw5IDIxLjQsOSAxNi43LDEzLjkgMTguNiwyMS40IDEyLDE3LjYgNS40LDIxLjQgNy4zLDEzLjkgMi42LDkgOSw5ICIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2U9IiM1QTgyMkIiIHN0cm9rZS1saW5lY2FwPSJzcXVhcmUiIC8+PC9nPjwvc3ZnPg==)![SVG Image](data:image/svg+xml;base64,PHN2ZyB4PSIwcHgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgd2lkdGg9IjE2cHgiIGhlaWdodD0iMTZweCIgeT0iMHB4Ij48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLCAwKSI+PHBvbHlnb24gc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWpvaW49Im1pdGVyIiBwb2ludHM9IjEyLDIuNiAxNSw5IDIxLjQsOSAxNi43LDEzLjkgMTguNiwyMS40IDEyLDE3LjYgNS40LDIxLjQgNy4zLDEzLjkgMi42LDkgOSw5ICIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBmaWxsPSJub25lIiBzdHJva2U9IiM1QTgyMkIiIHN0cm9rZS1saW5lY2FwPSJzcXVhcmUiIC8+PC9nPjwvc3ZnPg==)
+
+5 from 1 vote
+
+[![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTZweCIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZpZXdCb3g9IjAgMCAyNCAyNCIgaGVpZ2h0PSIxNnB4IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZT0ibm9uZSI+PGcgZmlsbD0iI2ZmZmZmZiI+PGc+PHBhdGggZD0iTTE3LjU0NTQsMC4wMDA1IEMxOC4yOTA0LDAuMDAwNSAxOC45MDA0LDAuNjEwNSAxOC45MDA0LDEuMzU2NSBMMTguOTAwNCwxLjM1NjUgTDE4LjkwMDQsNC45NDQ1IEwyMS45OTA0LDQuOTQ0NSBDMjMuMDk1NCw0Ljk0NDUgMjQuMDAwNCw1Ljg0ODUgMjQuMDAwNCw2Ljk1MzUgTDI0LjAwMDQsNi45NTM1IEwyNC4wMDA0LDE3LjI0MTUgQzI0LjAwMDQsMTguMzQ2NSAyMy4wOTU0LDE5LjI1MDUgMjEuOTkwNCwxOS4yNTA1IEwyMS45OTA0LDE5LjI1MDUgTDE5Ljg0MTQsMTkuMjUwNSBMMTkuODQxNCwyMi4yNzk1IEMxOS44NDE0LDIzLjE3MjUgMTkuMTEwNCwyMy45MDM1IDE4LjIxNzQsMjMuOTAzNSBMMTguMjE3NCwyMy45MDM1IEw1Ljc4MzQsMjMuOTAzNSBDNC44ODk0LDIzLjkwMzUgNC4xNTk0LDIzLjE3MjUgNC4xNTk0LDIyLjI3OTUgTDQuMTU5NCwyMi4yNzk1IEw0LjE1OTQsMTkuMjUwNSBMMi4wMTA0LDE5LjI1MDUgQzAuOTA0NCwxOS4yNTA1IDAuMDAwNCwxOC4zNDY1IDAuMDAwNCwxNy4yNDE1IEwwLjAwMDQsMTcuMjQxNSBMMC4wMDA0LDYuOTUzNSBDMC4wMDA0LDUuODQ4NSAwLjkwNDQsNC45NDQ1IDIuMDEwNCw0Ljk0NDUgTDIuMDEwNCw0Ljk0NDUgTDUuMDk4NCw0Ljk0NDUgTDUuMDk4NCwxLjM1NjUgQzUuMDk4NCwwLjYxMDUgNS43MDk0LDAuMDAwNSA2LjQ1NTQsMC4wMDA1IEw2LjQ1NTQsMC4wMDA1IFogTTE3Ljg0MTQsMTUuNTk3NSBMNi4xNTk0LDE1LjU5NzUgTDYuMTU5NCwyMS45MDM1IEwxNy44NDE0LDIxLjkwMzUgTDE3Ljg0MTQsMTUuNTk3NSBaIE0yMS45OTA0LDYuOTQ0NSBMMi4wMTA0LDYuOTQ0NSBMMi4wMDA0LDE3LjI0MTUgTDQuMTU5NCwxNy4yNDI1IEw0LjE1OTQsMTUuMjIxNSBDNC4xNTk0LDE0LjMyODUgNC44ODk0LDEzLjU5NzUgNS43ODM0LDEzLjU5NzUgTDUuNzgzNCwxMy41OTc1IEwxOC4yMTc0LDEzLjU5NzUgQzE5LjExMDQsMTMuNTk3NSAxOS44NDE0LDE0LjMyODUgMTkuODQxNCwxNS4yMjE1IEwxOS44NDE0LDE1LjIyMTUgTDE5Ljg0MTQsMTcuMjQ5NSBMMjEuOTkwNCwxNy4yNTA1IEwyMi4wMDA0LDYuOTUzNSBMMjEuOTkwNCw2Ljk0NDUgWiBNNi4xNjMyLDkuMTMxOCBDNi43OTAyLDkuMTMxOCA3LjI5OTIsOS42NDA4IDcuMjk5MiwxMC4yNjc4IEM3LjI5OTIsMTAuODk0OCA2Ljc5MDIsMTEuNDAyOCA2LjE2MzIsMTEuNDAyOCBMNi4xNjMyLDExLjQwMjggTDUuMDk5MiwxMS40MDI4IEM0LjQ3MjIsMTEuNDAyOCAzLjk2MzIsMTAuODk0OCAzLjk2MzIsMTAuMjY3OCBDMy45NjMyLDkuNjQwOCA0LjQ3MjIsOS4xMzE4IDUuMDk5Miw5LjEzMTggTDUuMDk5Miw5LjEzMTggWiBNMTYuNjMwNCwyLjI3MTUgTDcuMzcwNCwyLjI3MTUgTDcuMzcwNCw0LjY4NDUgTDE2LjYzMDQsNC42ODQ1IEwxNi42MzA0LDIuMjcxNSBaIiAvPjwvZz48L2c+PC9nPjwvc3ZnPg==) Print Recipe](https://healthfullyrootedhome.com/wprm_print/cardamom-sourdough-bread-with-soaked-amaretto-raisins) [![SVG Image](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGhlaWdodD0iMjBweCIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjE3cHgiIHZpZXdCb3g9IjAgMCAxNyAyMCI+PGcgZmlsbC1ydWxlPSJldmVub2RkIiBmaWxsPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZT0ibm9uZSI+PGcgZmlsbD0iIzYxNjE2MSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTQuMDAwMDAwLCAtMi4wMDAwMDApIj48cGF0aCBkPSJNMTAuNzYzNjcyOCwxNS4yMjc2MjY2IEMxMC4yMDc3MzE3LDE3Ljk4MDI5OSA5LjUyOTU1NDA1LDIwLjYyMDEzNzcgNy41MjA4Nzg5MSwyMiBDNi45MDAyOTM0OSwxNy44MzgwODE1IDguNDMxNzc2MDYsMTQuNzEyODIyOCA5LjE0Mjg2MzUyLDExLjM5NDgwNjQgQzcuOTMxMDc2NDcsOS40NjQ4Nzk3OSA5LjI4ODYwNzA2LDUuNTgyNjk0ODggMTEuODQ0OTk1OSw2LjUzOTQzMDczIEMxNC45OTAyMzU2LDcuNzE1OTU3MjUgOS4xMjA1MzE4NSwxMy43MTE0MjM2IDEzLjA2MTQ4NDMsMTQuNDYxMjk3NiBDMTcuMTc1MjEzNCwxNS4yNDI5MDYxIDE4Ljg1NDc5MDIsNy43MTEyNTU4NSAxNi4zMDQyNzgyLDUuMjYxODI0MDEgQzEyLjYxODM3NjksMS43MjUxOTIzNSA1LjU3MzMyMjAyLDUuMTgwNzI0NzggNi40Mzk1NTU4MywxMC4yNDQxMzc2IEM2LjY1MTExOTA0LDExLjQ4Mjk1NzcgOC4wMDI3NzI4OSwxMS44NTc4OTQ4IDYuOTgwMjE3MzcsMTMuNTY2ODU1NCBDNC42MjEyODc1OCwxMy4wNzIwMzI1IDMuOTE2MDc2ODcsMTEuMzEyNTMxOCA0LjAwNzc1NDI3LDguOTY2NTMwOSBDNC4xNTM0OTc4MSw1LjEyNzgzMzk4IDcuNjU2MDQ0MjksMi40Mzk4MDU4NiAxMS4xNjkxNjg5LDIuMDY3MjE5NTQgQzE1LjYxMTk5NjQsMS41OTcwNzkwNyAxOS43ODIxNDIzLDMuNjEwNDU1NjIgMjAuMzU4MDY0NCw3LjU2MTk4NjI1IEMyMS4wMDU2ODI5LDEyLjAyMjQ0MzkgMTguMzUyOTE1MywxNi44NTMxMzcyIDEzLjYwMDk3MDUsMTYuNTA1MjMzMyBDMTIuMzEzOTYxLDE2LjQxMDAyOTggMTEuNzczMjk5NCwxNS44MDcwNzQ3IDEwLjc2MzY3MjgsMTUuMjI3NjI2NiIgLz48L2c+PC9nPjwvc3ZnPg==) Pin Recipe](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fhealthfullyrootedhome.com%2Fcardamom-sourdough-bread%2F&media=https%3A%2F%2Fhealthfullyrootedhome.com%2Fwp-content%2Fuploads%2F2021%2F10%2F1-1.jpg&description=Cardamom+Sourdough+Bread+with+Soaked+Amaretto+Raisins&is_video=false)
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTZweCIgaGVpZ2h0PSIxNnB4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbC1ydWxlPSJldmVub2RkIiBmaWxsPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZT0ibm9uZSI+PGcgZmlsbD0iIzllOWU5ZSI+PGc+PHBhdGggZD0iTTEyLDAgQzE4LjYyNywwIDI0LDQuMzczIDI0LDExIEMyNCwxOS40MDYgMTguNjQ2LDI0IDE4LjY0NiwyNCBMMTguNjQ2LDI0IEw1LjM1NCwyNCBDNS4zNTQsMjQgMCwxOS40MDYgMCwxMSBDMCw0LjM3MyA1LjM3MywwIDEyLDAgWiBNMTIsMiBDNi4yMDYsMiAyLDUuNzg1IDIsMTEgQzIsMTYuOTU2IDQuOTYyLDIwLjcxNiA2LjE2OCwyMiBMNi4xNjgsMjIgTDE3LjgzMiwyMiBDMTkuMDMyLDIwLjcyNCAyMiwxNi45NjIgMjIsMTEgQzIyLDUuNzg1IDE3Ljc5NCwyIDEyLDIgWiBNMTUuNDE3NSwxNy43OTgzIEMxNS45Njk3ODQ3LDE3Ljc5ODMgMTYuNDE3NSwxOC4yNDYwMTUzIDE2LjQxNzUsMTguNzk4MyBDMTYuNDE3NSwxOS4zMTExMzU4IDE2LjAzMTQ1OTgsMTkuNzMzODA3MiAxNS41MzQxMjExLDE5Ljc5MTU3MjMgTDE1LjQxNzUsMTkuNzk4MyBMOC41ODI1LDE5Ljc5ODMgQzguMDMwMjE1MjUsMTkuNzk4MyA3LjU4MjUsMTkuMzUwNTg0NyA3LjU4MjUsMTguNzk4MyBDNy41ODI1LDE4LjI4NTQ2NDIgNy45Njg1NDAxOSwxNy44NjI3OTI4IDguNDY1ODc4ODcsMTcuODA1MDI3NyBMOC41ODI1LDE3Ljc5ODMgTDE1LjQxNzUsMTcuNzk4MyBaIE0xMiw0LjI1NDQgQzE1LjE3Myw0LjI1NDQgMTcuNzQ2LDYuODI2NCAxNy43NDYsMTAuMDAwNCBDMTcuNzQ2LDEzLjE3MzQgMTUuMTczLDE1Ljc0NTQgMTIsMTUuNzQ1NCBDOC44MjcsMTUuNzQ1NCA2LjI1NCwxMy4xNzM0IDYuMjU0LDEwLjAwMDQgQzYuMjU0LDYuODI2NCA4LjgyNyw0LjI1NDQgMTIsNC4yNTQ0IFogTTEwLjk5OTk3NzMsNi4zODk5Mzc2MSBDOS40MTg2NDY0Niw2LjgyODUwNDg2IDguMjU0LDguMjgwNzM2MzMgOC4yNTQsMTAuMDAwNCBDOC4yNTQsMTIuMDY1NCA5LjkzNSwxMy43NDU0IDEyLDEzLjc0NTQgQzE0LjA2NSwxMy43NDU0IDE1Ljc0NiwxMi4wNjU0IDE1Ljc0NiwxMC4wMDA0IEMxNS43NDYsOC4yODExMDA1MSAxNC41ODE4NDY4LDYuODI5MTE5OTcgMTMuMDAxMDI3Myw2LjM5MDIxNjM4IEwxMyw5LjI5NjIgQzEzLDkuODQ4NDg0NzUgMTIuNTUyMjg0NywxMC4yOTYyIDEyLDEwLjI5NjIgQzExLjQ4NzE2NDIsMTAuMjk2MiAxMS4wNjQ0OTI4LDkuOTEwMTU5ODEgMTEuMDA2NzI3Nyw5LjQxMjgyMTEzIEwxMSw5LjI5NjIgWiIgLz48L2c+PC9nPjwvZz48L3N2Zz4=)
+
+Prep Time 15 minutes mins
+
+Cook Time 45 minutes mins
+
+Resting Time 3 hours hrs
+
+Total Time 4 hours hrs
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTZweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiIGhlaWdodD0iMTZweCIgdmVyc2lvbj0iMS4xIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+PGcgZmlsbC1ydWxlPSJldmVub2RkIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZT0ibm9uZSIgZmlsbD0ibm9uZSI+PGcgZmlsbD0iIzllOWU5ZSI+PHBhdGggZD0iTTE5LjU0NDEsMTIuMDU4NiBMMTcuODQxMSwxMi4zMTQ2IEwxNy44NDExLDE0LjAzNzYgTDE3Ljg0MTEsMTcuODYwNiBMNi4xNTkxLDE3Ljg2MDYgTDYuMTU5MSwxNC4wMzc2IEw2LjE1OTEsMTIuMzE0NiBMNC40NTYxLDEyLjA1ODYgQzMuMDMzMSwxMS44NDQ2IDIuMDAwMSwxMC42NTM2IDIuMDAwMSw5LjIyNDYgQzIuMDAwMSw3LjY2MjYgMy4yNDcxLDYuMzg3NiA0Ljc5NzEsNi4zNDA2IEM0Ljg2NTEsNi4zNDg2IDQuOTM1MSw2LjM1NTYgNS4wMDUxLDYuMzU3NiBMNi4zMjIxLDYuNDEzNiBMNi44OTMxLDUuMjI0NiBDNy44NDgxLDMuMjM1NiA5LjgwNTEsMS45OTk2IDEyLjAwMDEsMS45OTk2IEMxNC4xOTUxLDEuOTk5NiAxNi4xNTIxLDMuMjM1NiAxNy4xMDcxLDUuMjI0NiBMMTcuNjc4MSw2LjQxMzYgTDE4Ljk5NTEsNi4zNTc2IEMxOS4wNjQxLDYuMzU1NiAxOS4xMzIxLDYuMzQ4NiAxOS4yMDIxLDYuMzQwNiBDMjAuNzUzMSw2LjM4NjYgMjIuMDAwMSw3LjY2MjYgMjIuMDAwMSw5LjIyNDYgQzIyLjAwMDEsMTAuNjUzNiAyMC45NjcxLDExLjg0NDYgMTkuNTQ0MSwxMi4wNTg2IEwxOS41NDQxLDEyLjA1ODYgWiBNNi4xNTkxLDIyLjAwMDYgTDE3Ljg0MTEsMjIuMDAwNiBMMTcuODQxMSwxOS44NjA2IEw2LjE1OTEsMTkuODYwNiBMNi4xNTkxLDIyLjAwMDYgWiBNMTkuMTE0MSw0LjMzODYgQzE5LjA0NTEsNC4zMzg2IDE4Ljk4MDEsNC4zNTY2IDE4LjkxMDEsNC4zNTk2IEMxNy42NzQxLDEuNzgzNiAxNS4wNDkxLC0wLjAwMDQgMTIuMDAwMSwtMC4wMDA0IEM4Ljk1MTEsLTAuMDAwNCA2LjMyNjEsMS43ODM2IDUuMDkwMSw0LjM1OTYgQzUuMDIxMSw0LjM1NjYgNC45NTUxLDQuMzM4NiA0Ljg4NjEsNC4zMzg2IEMyLjE4ODEsNC4zMzg2IDAuMDAwMSw2LjUyNjYgMC4wMDAxLDkuMjI0NiBDMC4wMDAxLDExLjY3MzYgMS44MDgxLDEzLjY4MzYgNC4xNTkxLDE0LjAzNzYgTDQuMTU5MSwyMi4zNzU2IEM0LjE1OTEsMjMuMjY5NiA0Ljg5MDEsMjMuOTk5NiA1Ljc4MzEsMjMuOTk5NiBMMTguMjE3MSwyMy45OTk2IEMxOS4xMTAxLDIzLjk5OTYgMTkuODQxMSwyMy4yNjk2IDE5Ljg0MTEsMjIuMzc1NiBMMTkuODQxMSwxNC4wMzc2IEMyMi4xOTExLDEzLjY4MzYgMjQuMDAwMSwxMS42NzM2IDI0LjAwMDEsOS4yMjQ2IEMyNC4wMDAxLDYuNTI2NiAyMS44MTMxLDQuMzM4NiAxOS4xMTQxLDQuMzM4NiBMMTkuMTE0MSw0LjMzODYgWiIgaWQ9IkZpbGwtMSIgLz48L2c+PC9nPjwvc3ZnPg==)
+
+Course Appetizer, Breakfast, Snack
+
+Cuisine American
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE2cHgiIHdpZHRoPSIxNnB4IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+PGcgZmlsbD0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2U9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PGcgZmlsbD0iIzllOWU5ZSI+PHBhdGggZD0iTTE1LjkxOTksNC45NDQzIEwxOC4xMzk5LDIuNzI0MyBDMTguNTUwOSwyLjMxMzMgMTkuMDkwOSwyLjEwODMgMTkuNjI5OSwyLjEwODMgQzIwLjE2OTksMi4xMDgzIDIwLjcwOTksMi4zMTMzIDIxLjEyMDksMi43MjQzIEMyMS45NDI5LDMuNTQ3MyAyMS45NDE5LDQuODg0MyAyMS4xMjA5LDUuNzA3MyBMMTguOTAxOSw3LjkyNTMgQzE4LjA3OTksOC43NDgzIDE2Ljc0MTksOC43NDgzIDE1LjkxOTksNy45MjUzIEMxNS4wOTc5LDcuMTAzMyAxNS4wOTc5LDUuNzY2MyAxNS45MTk5LDQuOTQ0MyBNMjMuNTUyOSwyMi4xMzgzIEwxMy4zMzY5LDExLjkyMzMgTDE1LjMxMDksOS45NDkzIEMxNS45NTU5LDEwLjMzNTMgMTYuNjgwOSwxMC41NDEzIDE3LjQxMDksMTAuNTQxMyBDMTguNDYyOSwxMC41NDEzIDE5LjUxNTksMTAuMTQwMyAyMC4zMTU5LDkuMzQwMyBMMjIuNTM0OSw3LjEyMTMgQzI0LjEzNjksNS41MTgzIDI0LjEzNjksMi45MTIzIDIyLjUzNDksMS4zMTAzIEMyMS43NTk5LDAuNTM0MyAyMC43Mjc5LDAuMTA3MyAxOS42Mjk5LDAuMTA3MyBDMTguNTMyOSwwLjEwNzMgMTcuNTAxOSwwLjUzNDMgMTYuNzI1OSwxLjMxMDMgTDE0LjUwNTksMy41MzAzIEMxMy43Mjk5LDQuMzA2MyAxMy4zMDI5LDUuMzM4MyAxMy4zMDI5LDYuNDM0MyBDMTMuMzAyOSw3LjE4ODMgMTMuNTE3OSw3LjkwNTMgMTMuODk1OSw4LjUzNjMgTDExLjkyMjksMTAuNTA4MyBMOS45NDg5LDguNTM1MyBDMTAuODkwOSw2Ljk1OTMgMTAuNjk1OSw0Ljg4NjMgOS4zMzk5LDMuNTMwMyBMNi4xMDM5LDAuMjkzMyBDNS43MTI5LC0wLjA5NzcgNS4wNzk5LC0wLjA5NzcgNC42ODk5LDAuMjkzMyBDNC4yOTg5LDAuNjgzMyA0LjI5ODksMS4zMTYzIDQuNjg5OSwxLjcwNzMgTDcuOTI1OSw0Ljk0NDMgQzguNDkwOSw1LjUwOTMgOC42NTc5LDYuMzE1MyA4LjQ0NTksNy4wMzIzIEwzLjY1MzksMi4yNDAzIEMzLjI2MzksMS44NDkzIDIuNjMwOSwxLjg0OTMgMi4yMzk5LDIuMjQwMyBDMS44NDk5LDIuNjMxMyAxLjg0OTksMy4yNjMzIDIuMjM5OSwzLjY1NDMgTDcuMDMxOSw4LjQ0NjMgQzYuMzE0OSw4LjY1ODMgNS41MDg5LDguNDkxMyA0Ljk0MjksNy45MjUzIEwxLjcwNjksNC42ODkzIEMxLjMxNTksNC4yOTgzIDAuNjgzOSw0LjI5ODMgMC4yOTI5LDQuNjg5MyBDLTAuMDk4MSw1LjA4MDMgLTAuMDk4MSw1LjcxMzMgMC4yOTI5LDYuMTAzMyBMMy41Mjg5LDkuMzQwMyBDNC4zMzA5LDEwLjE0MDMgNS4zODI5LDEwLjU0MTMgNi40MzQ5LDEwLjU0MTMgQzcuMTY0OSwxMC41NDEzIDcuODg5OSwxMC4zMzUzIDguNTM0OSw5Ljk0OTMgTDEwLjUwODksMTEuOTIzMyBMMC4yOTI5LDIyLjEzODMgQy0wLjA5ODEsMjIuNTI5MyAtMC4wOTgxLDIzLjE2MjMgMC4yOTI5LDIzLjU1MjMgQzAuNDg3OSwyMy43NDgzIDAuNzQzOSwyMy44NDUzIDAuOTk5OSwyMy44NDUzIEMxLjI1NTksMjMuODQ1MyAxLjUxMTksMjMuNzQ4MyAxLjcwNjksMjMuNTUyMyBMMTEuOTIyOSwxMy4zMzczIEwyMi4xMzg5LDIzLjU1MjMgQzIyLjMzMzksMjMuNzQ4MyAyMi41ODk5LDIzLjg0NTMgMjIuODQ1OSwyMy44NDUzIEMyMy4xMDE5LDIzLjg0NTMgMjMuMzU2OSwyMy43NDgzIDIzLjU1MjksMjMuNTUyMyBDMjMuOTQyOSwyMy4xNjIzIDIzLjk0MjksMjIuNTI5MyAyMy41NTI5LDIyLjEzODMiIC8+PC9nPjwvZz48L3N2Zz4=)
+
+Servings 16 slices
+
+Calories 176 kcal
+
+### Equipment
+
+- loaf pan
+
+- Glass bowl
+
+- dough scraper (optional)
+
+- stand mixer with dough hook attachment (optional)
+
+### Ingredients
+
+#### Dough
+
+- 113 grams sourdough starter active or discard
+- 360 grams all-purpose flour
+- 1 tbs coconut sugar
+- 2 tsp baking powder
+- 1 1/4  tsp salt
+- 1 large egg
+- 5 tbs butter softened
+- 180 g water warm
+
+#### Filling
+
+- 1/3 cup coconut sugar
+- 1 tsp cardamom
+- 1/2 tsp cinnamon
+- 2 tsp flour
+- 1  egg beaten
+- 1 cup raisins
+- 1 cup amaretto can sub filtered water
+
+### Instructions
+
+#### Dough
+
+- Soak your raisins in amaretto or filtered water.
+
+- Combine all of the dough ingredients in the bowl of a stand mixer fitted with the dough hook attachment.
+
+- Knead until it becomes soft and smooth.
+
+- Place the dough in a lightly greased glass or ceramic bowl, and allow it to rise for about 2 hours until it has doubled in size.
+
+- Place the dough in a lightly greased glass or ceramic bowl, and allow it to rise for about 2 hours until it has doubled in size.
+
+#### Filling
+
+- Meanwhile, make the filling by stirring together the coconut sugar, cardamom, cinnamon, and flour.
+
+- Once dough is done rising, gently deflate the dough, and transfer it to a lightly greased counter.
+
+- Roll and flatten the dough into a rectangle about 6" x 18".
+
+- Brush the dough with the egg wash and sprinkle the filling evenly and top with the soaked raisins, leaving a bare strip about 1" wide along one short edge (enabling you to seal the ends).
+
+#### Bread
+
+- Starting with the short end that's covered with filling, roll the dough into a log. Pinch the ends and long seam closed.
+
+- Transfer the log, seam-side down, to a lightly greased 9" x 5" loaf pan. Cover and allow the bread to rise for about 1 hour.
+
+- While the dough is rising, preheat the oven to 350°F.
+
+- Bake the bread for 40 to 45 minutes, tenting it lightly with foil after 15 to 20 minutes to prevent burning.
+
+- Remove the bread from the oven, and gently loosen the edges. Turn it out of the pan, and brush the top surface with butter.
+
+- Allow the bread to cool completely before slicing.
+
+### Video
+
+<https://www.youtube.com/watch?v=jGIPlwCKAeA&t=1s>
+
+### Notes
+
+- The alcohol in the raisins should be cooked off during the baking process, however, if you’re more comfortable using filtered water please do so.
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMTZweCIgd2lkdGg9IjE2cHgiIHZlcnNpb249IjEuMSI+PGcgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGZpbGw9Im5vbmUiIHN0cm9rZT0ibm9uZSIgaWQ9Ikljb25zIj48ZyBmaWxsPSIjOWU5ZTllIj48cGF0aCBkPSJNOS4wMDM5LDE2LjAwNzkgQzUuMTQxOSwxNi4wMDc5IDEuOTk5OSwxMi44NjU5IDEuOTk5OSw5LjAwMzkgQzEuOTk5OSw1LjE0MTkgNS4xNDE5LDEuOTk5OSA5LjAwMzksMS45OTk5IEMxMi44NjU5LDEuOTk5OSAxNi4wMDc5LDUuMTQxOSAxNi4wMDc5LDkuMDAzOSBDMTYuMDA3OSwxMi44NjU5IDEyLjg2NTksMTYuMDA3OSA5LjAwMzksMTYuMDA3OSBNMjMuNjIwOSwyMi4yMDY5IEwxNi4xNDM5LDE0LjcyOTkgQzE2LjEwNTksMTQuNjkxOSAxNi4wNTc5LDE0LjY3NTkgMTYuMDE1OSwxNC42NDQ5IEMxNy4yNTk5LDEzLjEwMDkgMTguMDA3OSwxMS4xNDA5IDE4LjAwNzksOS4wMDM5IEMxOC4wMDc5LDQuMDMwOSAxMy45NzY5LC0wLjAwMDEgOS4wMDM5LC0wLjAwMDEgQzQuMDMwOSwtMC4wMDAxIC0wLjAwMDEsNC4wMzA5IC0wLjAwMDEsOS4wMDM5IEMtMC4wMDAxLDEzLjk3NjkgNC4wMzA5LDE4LjAwNzkgOS4wMDM5LDE4LjAwNzkgQzExLjE0MDksMTguMDA3OSAxMy4xMDA5LDE3LjI1OTkgMTQuNjQ0OSwxNi4wMTY5IEMxNC42NzQ5LDE2LjA1NzkgMTQuNjkxOSwxNi4xMDU5IDE0LjcyOTksMTYuMTQzOSBMMjIuMjA2OSwyMy42MjA5IEMyMi40MDE5LDIzLjgxNjkgMjIuNjU3OSwyMy45MTM5IDIyLjkxMzksMjMuOTEzOSBDMjMuMTY5OSwyMy45MTM5IDIzLjQyNTksMjMuODE2OSAyMy42MjA5LDIzLjYyMDkgQzI0LjAxMTksMjMuMjMwOSAyNC4wMTE5LDIyLjU5NzkgMjMuNjIwOSwyMi4yMDY5IiAvPjwvZz48L2c+PC9zdmc+)
+
+Keyword cardamom sourdough bread, cinnamon raisin sourdough bread, fall quick bread, french toast bread, sourdough quick bread
+
+## [about me](https://healthfullyrootedhome.com/meet-kyrie-from-healthfully-rooted-home/)
+
+[![Healthfully rooted home author woman with rose tattoo and blue striped sundress](https://healthfullyrootedhome.com/wp-content/uploads/2021/06/bright-2-Healthfully-rooted-home-kyrie-1024x1024.png)](https://healthfullyrootedhome.com/meet-kyrie-from-healthfully-rooted-home/)
+
+*Learn more about me [here](https://healthfullyrootedhome.com/meet-kyrie-from-healthfully-rooted-home/)!*
+
+Sharing is caring!
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMzIiIHZlcnNpb249IjEuMSIgd2lkdGg9IjMyIiB2aWV3Qm94PSIwIDAgMjYgMzIiPjxwYXRoIGQ9Ik0yMC44IDIwLjhxMS45ODQgMCAzLjM5MiAxLjM3NnQxLjQwOCAzLjQyNHEwIDEuOTg0LTEuNDA4IDMuMzkydC0zLjM5MiAxLjQwOC0zLjM5Mi0xLjQwOC0xLjQwOC0zLjM5MnEwLTAuMTkyIDAuMDMyLTAuNDQ4dDAuMDMyLTAuMzg0bC04LjMyLTQuOTkycS0xLjM0NCAxLjAyNC0yLjk0NCAxLjAyNC0xLjk4NCAwLTMuMzkyLTEuNDA4dC0xLjQwOC0zLjM5MiAxLjQwOC0zLjM5MiAzLjM5Mi0xLjQwOHExLjcyOCAwIDIuOTQ0IDAuOTZsOC4zMi00Ljk5MnEwLTAuMTI4LTAuMDMyLTAuMzg0dC0wLjAzMi0wLjM4NHEwLTEuOTg0IDEuNDA4LTMuMzkydDMuMzkyLTEuNDA4IDMuMzkyIDEuMzc2IDEuNDA4IDMuNDI0cTAgMS45ODQtMS40MDggMy4zOTJ0LTMuMzkyIDEuNDA4cS0xLjY2NCAwLTIuODgtMS4wMjRsLTguMzg0IDQuOTkycTAuMDY0IDAuMjU2IDAuMDY0IDAuODMyIDAgMC41MTItMC4wNjQgMC43NjhsOC4zODQgNC45OTJxMS4xNTItMC45NiAyLjg4LTAuOTZ6IiAvPjwvc3ZnPg==) 114 shares
+
+- [![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjMyIiB2aWV3Qm94PSIwIDAgMTggMzIiIHZlcnNpb249IjEuMSIgd2lkdGg9IjMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xNy4xMiAwLjIyNHY0LjcwNGgtMi43ODRxLTEuNTM2IDAtMi4wODAgMC42NHQtMC41NDQgMS45MnYzLjM5Mmg1LjI0OGwtMC43MDQgNS4yOGgtNC41NDR2MTMuNTY4aC01LjQ3MnYtMTMuNTY4aC00LjU0NHYtNS4yOGg0LjU0NHYtMy45MDRxMC0zLjMyOCAxLjg1Ni01LjE1MnQ0Ljk2LTEuODI0cTIuNjI0IDAgNC4wNjQgMC4yMjR6IiAvPjwvc3ZnPg==) Facebook29](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhealthfullyrootedhome.com%2Fcardamom-sourdough-bread%2F&t=Cardamom%20Sourdough%20Bread%20with%20Amaretto%20Soaked%20Raisins "Share on Facebook")
+-  ![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiB2aWV3Qm94PSIwIDAgMjMgMzIiPjxwYXRoIGQ9Ik0wIDEwLjY1NnEwLTEuOTIgMC42NzItMy42MTZ0MS44NTYtMi45NzYgMi43Mi0yLjIwOCAzLjI5Ni0xLjQwOCAzLjYxNi0wLjQ0OHEyLjgxNiAwIDUuMjQ4IDEuMTg0dDMuOTM2IDMuNDU2IDEuNTA0IDUuMTJxMCAxLjcyOC0wLjMyIDMuMzZ0LTEuMDg4IDMuMTY4LTEuNzkyIDIuNjU2LTIuNTYgMS44NTYtMy4zOTIgMC42NzJxLTEuMjE2IDAtMi40LTAuNTc2dC0xLjcyOC0xLjU2OHEtMC4xNiAwLjcwNC0wLjQ4IDIuMDE2dC0wLjQ0OCAxLjY5Ni0wLjM1MiAxLjI4LTAuNDggMS4yNDgtMC41NDQgMS4xMi0wLjgzMiAxLjQwOC0xLjEyIDEuNTM2bC0wLjIyNCAwLjA5Ni0wLjE2LTAuMTkycS0wLjI4OC0yLjgxNi0wLjI4OC0zLjM2IDAtMS42MzIgMC4zODQtMy42OHQxLjE4NC01LjE1MiAwLjkyOC0zLjYxNnEtMC41NzYtMS4xNTItMC41NzYtMy4wMDggMC0xLjUwNCAwLjkyOC0yLjc4NHQyLjM2OC0xLjMxMnExLjA4OCAwIDEuNjk2IDAuNzM2dDAuNjA4IDEuODI0cTAgMS4xODQtMC43NjggMy4zOTJ0LTAuOCAzLjM2cTAgMS4xMiAwLjggMS44NTZ0MS45NTIgMC43MzZxMC45OTIgMCAxLjgyNC0wLjQ0OHQxLjQwOC0xLjIxNiAwLjk5Mi0xLjY5NiAwLjY3Mi0xLjk1MiAwLjM1Mi0xLjk4NCAwLjEyOC0xLjc5MnEwLTMuMDcyLTEuOTUyLTQuOHQtNS4xMi0xLjcyOHEtMy41NTIgMC01Ljk1MiAyLjMwNHQtMi40IDUuODU2cTAgMC44IDAuMjI0IDEuNTM2dDAuNDggMS4xNTIgMC40OCAwLjgzMiAwLjIyNCAwLjU0NHEwIDAuNDgtMC4yNTYgMS4yOHQtMC42NzIgMC44cS0wLjAzMiAwLTAuMjg4LTAuMDMyLTAuOTI4LTAuMjg4LTEuNjMyLTAuOTkydC0xLjA4OC0xLjY5Ni0wLjU3Ni0xLjkyLTAuMTkyLTEuOTJ6IiAvPjwvc3ZnPg==) Pinterest85
+
+- [![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjggMzIiIGhlaWdodD0iMzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIiB3aWR0aD0iMzIiPjxwYXRoIGQ9Ik0xOC41NiAxNy40MDhsOC4yNTYgOC41NDRoLTI1LjI0OGw4LjI4OC04LjQ0OCA0LjMyIDQuMDY0ek0yLjAxNiA2LjA0OGgyNC4zMmwtMTIuMTYgMTEuNTg0ek0yMC4xMjggMTUuOTM2bDguMjI0LTcuNzQ0djE2LjI1NnpNMCAyNC40NDh2LTE2LjI1Nmw4LjI4OCA3Ljc3NnoiIC8+PC9zdmc+) Email](/cdn-cgi/l/email-protection#754a0600171f101601483614071114181a18504745261a0007111a00121d5047453707101411504745021c011d504745341814071001011a504745261a141e101150474527141c061c1b06535645464d4e171a110c481d010105065046345047335047331d101419011d130019190c071a1a0110111d1a18105b161a185047331614071114181a1858061a0007111a00121d581707101411504733 "Send over email")

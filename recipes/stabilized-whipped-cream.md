@@ -1,0 +1,186 @@
+---
+subject: "stabilized-whipped-cream"
+from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
+to: "Family <benemanuel.family@gmail.com>"
+date: "Sun, 4 Jun 2023 08:37:29 +0300"
+date_parsed: 2023-06-04T08:37:29+03:00
+labels: [dairy, cake, candy]
+---
+
+# stabilized-whipped-cream
+
+<https://stateofdinner.com/stabilized-whipped-cream/>  
+
+
+---
+
+- [Share](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fstateofdinner.com%2Fstabilized-whipped-cream%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dgrow-social-pro&t=Stabilized%20Whipped%20Cream "Share on Facebook")
+-  Pin
+
+![Pinterest Pin: Stabilized with cream of tartar whipped cream.](https://stateofdinner.com/wp-content/uploads/2020/11/whipped-cream-683x1024.jpg)
+
+Learn how to stabilize whipped cream with cream of tartar! One simple ingredient transforms fluffy, delicious whipped cream into something that will last for days.
+
+![whipped cream piled into a bowl piled high.](https://stateofdinner.com/wp-content/uploads/2021/02/stabilized_whipped_cream_featured-1.jpg)
+
+Whipped cream is the perfect finishing touch for so many desserts, from ice cream to pancakes. My family likes to joke that [pumpkin pie](https://stateofdinner.com/pumpkin-pie/) is really just a vehicle for the whipped cream.
+
+![A woman with medium-length dark brown hair and fair skin smiling with trees behind her.](https://stateofdinner.com/wp-content/uploads/2023/10/erin-gierhart-image-1024x1024.jpg)
+
+## Note from Erin
+
+Whipped cream is something I exclusively make from scratch, first because it is so easy. But also because the flavor tastes like sweetened cream, not chemical fillers.
+
+The downside is that homemade whipped cream is not very stable. Over time, it releases liquid, a process called weeping, which can leave desserts soggy.
+
+The good news is that this is easy to fix. **One simple ingredient** stabilizes the cream so it holds its shape, without affecting the flavor.
+
+This works for plain whipped cream and flavored varieties like [Cinnamon](https://stateofdinner.com/cinnamon-whipped-cream/) and [Caramel Cream](https://stateofdinner.com/caramel-whipped-cream/).
+
+## Key Ingredients
+
+*The [**recipe card**](#recipe) at the bottom of this post includes the complete list of ingredients, measurements, and instructions.*
+
+![Stabilized Whipped Cream ingredients: heavy cream, cream of tartar, vanilla, and sugar
+](https://stateofdinner.com/wp-content/uploads/2021/01/whipped-cream-ingredients-1-of-1-1.jpg)
+
+- **Heavy Cream** - You may have seen both heavy cream and whipping cream at the store. I've tested making whipped cream with both and found that the higher fat content in heavy cream makes it thicker and richer and holds its shape longer.
+- **Sugar** - It seems everyone has their favorite sweetener that they like to use for whipped cream. Powdered sugar does help with stabilization, but I prefer the taste of granulated sugar.
+- **Cream of Tartar** - I've tested all kinds of stabilizers for whipped cream, and you can read more about those results in this post on [how long whipped cream lasts](https://stateofdinner.com/how-long-does-whipped-cream-last/). Out of all of the options, cream of tartar is my go-to stabilizer for everyday whipped cream.
+
+### WANT TO SAVE THIS RECIPE?
+
+I’ll email it to you for later, and periodically send recipes and updates.
+
+## How to Stabilize Whipped Cream with Cream of Tartar
+
+- Start mixing at low speed so the cream doesn't splash everywhere.
+- Increase the speed to medium-high once it starts to thicken, then watch the texture closely. Soft peaks fold over, medium peaks hold briefly, and stiff peaks stand straight with a defined tip.
+- If you accidentally overbeat it and it starts to turn grainy, mix in 1-2 tablespoons of cold cream on low speed to smooth it out.
+
+![Whipped cream filling the whisk beater attachment with more whipped cream in the mixing bowl.](https://stateofdinner.com/wp-content/uploads/2021/02/whipped_cream_2.jpg)
+
+![Two peach-colored sparkle shapes on a light gray background.](https://stateofdinner.com/wp-content/uploads/2025/08/favicon-4.png)
+
+## Top Tip!
+
+If you want the fluffiest whipped cream, make sure your heavy cream is super cold. In addition to keeping your heavy cream in the refrigerator until you are ready to whip it, it helps to freeze your bowl and beaters for 20 minutes.
+
+![Big bowl of whipped cream in a large mixing bowl, with a spatula.](https://stateofdinner.com/wp-content/uploads/2021/02/whipped_cream_bowl.jpg)
+
+## Ways to Use Stabilized Whipped Cream
+
+- **Cake Topping:** Spoon it over [Southern Peach Cobbler Pound Cake](https://stateofdinner.com/peach-cobbler-pound-cake/) or your favorite cake flavor.
+- **Layered desserts:** Use it in desserts like [Banana Split Dessert](https://stateofdinner.com/banana-split-pie/), where the whipped cream needs to stay firm.
+- **Pies:** Recipes like [Mississippi Mud Pie](https://stateofdinner.com/mississippi-mud-pie-recipe/) benefit from whipped cream that keeps its shape, and it is also a great topping for [Old Fashioned Chocolate Pie.](https://stateofdinner.com/old-fashioned-chocolate-pie/)
+- **Cupcakes:** Pipe it onto for a soft but sturdy frosting that holds up on the counter (but use [whipped cream stabilized with gelatin](https://stateofdinner.com/stabilized-whipped-cream-frosting/) if it needs to hold up to heat).
+- **Ice cream desserts:** Dollop it onto ice cream sundaes with [hot fudge](https://stateofdinner.com/hot-fudge-sauce-recipe/).
+- **Dispenser use:** If you use a[whipped cream dispenser,](https://stateofdinner.com/whipped-cream-dispenser/) this stabilized version works beautifully for quick, consistent topping without separating.
+
+![Bowl of fluffy whipped cream with a small offset spatula on top.](https://stateofdinner.com/wp-content/uploads/2023/06/whipped-cream-frosting.jpg)
+
+## Recipe
+
+![Pillowy whipped cream in a bowl with a spoon.](https://stateofdinner.com/wp-content/uploads/2021/02/whipped_cream_featured-300x300.jpg)
+
+## Stabilized Whipped Cream
+
+Recipe by: [Erin Gierhart](https://stateofdinner.com/erin-gierhart/)
+
+Make fluffy whipped cream that does not weep. It just takes one simple addition to your recipe!
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjAiIHN0eWxlPSJkaXNwbGF5OmJsb2NrO3dpZHRoOjBweDtoZWlnaHQ6MHB4Ij48ZGVmcz48bGluZWFyZ3JhZGllbnQgaWQ9Indwcm0tcmVjaXBlLXVzZXItcmF0aW5nLTEtMzMiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjMzJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iMzMlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PC9saW5lYXJncmFkaWVudD48L2RlZnM+PGRlZnM+PGxpbmVhcmdyYWRpZW50IGlkPSJ3cHJtLXJlY2lwZS11c2VyLXJhdGluZy0xLTUwIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjwvbGluZWFyZ3JhZGllbnQ+PC9kZWZzPjxkZWZzPjxsaW5lYXJncmFkaWVudCBpZD0id3BybS1yZWNpcGUtdXNlci1yYXRpbmctMS02NiI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iNjYlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI2NiUiIHN0b3Atb3BhY2l0eT0iMCIgLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3Atb3BhY2l0eT0iMCIgLz48L2xpbmVhcmdyYWRpZW50PjwvZGVmcz48L3N2Zz4=)
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjE2cHgiIGhlaWdodD0iMTZweCIgdmlld2JveD0iMCAwIDI0IDI0Ij48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLCAwKSI+PHBvbHlnb24gc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgc3Ryb2tlPSIjNUE4MjJCIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS13aWR0aD0iMiIgcG9pbnRzPSIxMiwyLjYgMTUsOSAyMS40LDkgMTYuNywxMy45IDE4LjYsMjEuNCAxMiwxNy42IDUuNCwyMS40IDcuMywxMy45IDIuNiw5IDksOSAiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJzcXVhcmUiIC8+PC9nPjwvc3ZnPg==)![SVG Image](data:image/svg+xml;base64,PHN2ZyB5PSIwcHgiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE2cHgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeD0iMHB4IiBoZWlnaHQ9IjE2cHgiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLCAwKSI+PHBvbHlnb24gZmlsbD0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIyIiBwb2ludHM9IjEyLDIuNiAxNSw5IDIxLjQsOSAxNi43LDEzLjkgMTguNiwyMS40IDEyLDE3LjYgNS40LDIxLjQgNy4zLDEzLjkgMi42LDkgOSw5ICIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2U9IiM1QTgyMkIiIC8+PC9nPjwvc3ZnPg==)![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE2cHgiIHdpZHRoPSIxNnB4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdib3g9IjAgMCAyNCAyNCIgeD0iMHB4IiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeT0iMHB4Ij48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLCAwKSI+PHBvbHlnb24gc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0ic3F1YXJlIiBzdHJva2U9IiM1QTgyMkIiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lam9pbj0ibWl0ZXIiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgcG9pbnRzPSIxMiwyLjYgMTUsOSAyMS40LDkgMTYuNywxMy45IDE4LjYsMjEuNCAxMiwxNy42IDUuNCwyMS40IDcuMywxMy45IDIuNiw5IDksOSAiIC8+PC9nPjwvc3ZnPg==)![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB5PSIwcHgiIHdpZHRoPSIxNnB4IiBoZWlnaHQ9IjE2cHgiIHZpZXdib3g9IjAgMCAyNCAyNCIgeD0iMHB4Ij48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLCAwKSI+PHBvbHlnb24gc3Ryb2tlPSIjNUE4MjJCIiBwb2ludHM9IjEyLDIuNiAxNSw5IDIxLjQsOSAxNi43LDEzLjkgMTguNiwyMS40IDEyLDE3LjYgNS40LDIxLjQgNy4zLDEzLjkgMi42LDkgOSw5ICIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgZmlsbD0ibm9uZSIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2Utd2lkdGg9IjIiIC8+PC9nPjwvc3ZnPg==)![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTZweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Ym94PSIwIDAgMjQgMjQiIGhlaWdodD0iMTZweCIgeD0iMHB4IiB5PSIwcHgiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLCAwKSI+PHBvbHlnb24gcG9pbnRzPSIxMiwyLjYgMTUsOSAyMS40LDkgMTYuNywxMy45IDE4LjYsMjEuNCAxMiwxNy42IDUuNCwyMS40IDcuMywxMy45IDIuNiw5IDksOSAiIHN0cm9rZS1saW5lam9pbj0ibWl0ZXIiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLXdpZHRoPSIyIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0ic3F1YXJlIiBzdHJva2U9IiM1QTgyMkIiIC8+PC9nPjwvc3ZnPg==)
+
+5 from 63 votes
+
+[![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmlld2JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMTZweCIgdmVyc2lvbj0iMS4xIiB3aWR0aD0iMTZweCI+PGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZS13aWR0aD0iMSI+PGcgZmlsbD0iI2ZmZmZmZiI+PGc+PHBhdGggZD0iTTE3LjU0NTQsMC4wMDA1IEMxOC4yOTA0LDAuMDAwNSAxOC45MDA0LDAuNjEwNSAxOC45MDA0LDEuMzU2NSBMMTguOTAwNCwxLjM1NjUgTDE4LjkwMDQsNC45NDQ1IEwyMS45OTA0LDQuOTQ0NSBDMjMuMDk1NCw0Ljk0NDUgMjQuMDAwNCw1Ljg0ODUgMjQuMDAwNCw2Ljk1MzUgTDI0LjAwMDQsNi45NTM1IEwyNC4wMDA0LDE3LjI0MTUgQzI0LjAwMDQsMTguMzQ2NSAyMy4wOTU0LDE5LjI1MDUgMjEuOTkwNCwxOS4yNTA1IEwyMS45OTA0LDE5LjI1MDUgTDE5Ljg0MTQsMTkuMjUwNSBMMTkuODQxNCwyMi4yNzk1IEMxOS44NDE0LDIzLjE3MjUgMTkuMTEwNCwyMy45MDM1IDE4LjIxNzQsMjMuOTAzNSBMMTguMjE3NCwyMy45MDM1IEw1Ljc4MzQsMjMuOTAzNSBDNC44ODk0LDIzLjkwMzUgNC4xNTk0LDIzLjE3MjUgNC4xNTk0LDIyLjI3OTUgTDQuMTU5NCwyMi4yNzk1IEw0LjE1OTQsMTkuMjUwNSBMMi4wMTA0LDE5LjI1MDUgQzAuOTA0NCwxOS4yNTA1IDAuMDAwNCwxOC4zNDY1IDAuMDAwNCwxNy4yNDE1IEwwLjAwMDQsMTcuMjQxNSBMMC4wMDA0LDYuOTUzNSBDMC4wMDA0LDUuODQ4NSAwLjkwNDQsNC45NDQ1IDIuMDEwNCw0Ljk0NDUgTDIuMDEwNCw0Ljk0NDUgTDUuMDk4NCw0Ljk0NDUgTDUuMDk4NCwxLjM1NjUgQzUuMDk4NCwwLjYxMDUgNS43MDk0LDAuMDAwNSA2LjQ1NTQsMC4wMDA1IEw2LjQ1NTQsMC4wMDA1IFogTTE3Ljg0MTQsMTUuNTk3NSBMNi4xNTk0LDE1LjU5NzUgTDYuMTU5NCwyMS45MDM1IEwxNy44NDE0LDIxLjkwMzUgTDE3Ljg0MTQsMTUuNTk3NSBaIE0yMS45OTA0LDYuOTQ0NSBMMi4wMTA0LDYuOTQ0NSBMMi4wMDA0LDE3LjI0MTUgTDQuMTU5NCwxNy4yNDI1IEw0LjE1OTQsMTUuMjIxNSBDNC4xNTk0LDE0LjMyODUgNC44ODk0LDEzLjU5NzUgNS43ODM0LDEzLjU5NzUgTDUuNzgzNCwxMy41OTc1IEwxOC4yMTc0LDEzLjU5NzUgQzE5LjExMDQsMTMuNTk3NSAxOS44NDE0LDE0LjMyODUgMTkuODQxNCwxNS4yMjE1IEwxOS44NDE0LDE1LjIyMTUgTDE5Ljg0MTQsMTcuMjQ5NSBMMjEuOTkwNCwxNy4yNTA1IEwyMi4wMDA0LDYuOTUzNSBMMjEuOTkwNCw2Ljk0NDUgWiBNNi4xNjMyLDkuMTMxOCBDNi43OTAyLDkuMTMxOCA3LjI5OTIsOS42NDA4IDcuMjk5MiwxMC4yNjc4IEM3LjI5OTIsMTAuODk0OCA2Ljc5MDIsMTEuNDAyOCA2LjE2MzIsMTEuNDAyOCBMNi4xNjMyLDExLjQwMjggTDUuMDk5MiwxMS40MDI4IEM0LjQ3MjIsMTEuNDAyOCAzLjk2MzIsMTAuODk0OCAzLjk2MzIsMTAuMjY3OCBDMy45NjMyLDkuNjQwOCA0LjQ3MjIsOS4xMzE4IDUuMDk5Miw5LjEzMTggTDUuMDk5Miw5LjEzMTggWiBNMTYuNjMwNCwyLjI3MTUgTDcuMzcwNCwyLjI3MTUgTDcuMzcwNCw0LjY4NDUgTDE2LjYzMDQsNC42ODQ1IEwxNi42MzA0LDIuMjcxNSBaIiAvPjwvZz48L2c+PC9nPjwvc3ZnPg==) Print Recipe](https://stateofdinner.com/wprm_print/stabilized-whipped-cream) [![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTcgMjAiIHdpZHRoPSIxN3B4IiBoZWlnaHQ9IjIwcHgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZlcnNpb249IjEuMSI+PGcgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZT0ibm9uZSI+PGcgZmlsbD0iIzYxNjE2MSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTQuMDAwMDAwLCAtMi4wMDAwMDApIj48cGF0aCBkPSJNMTAuNzYzNjcyOCwxNS4yMjc2MjY2IEMxMC4yMDc3MzE3LDE3Ljk4MDI5OSA5LjUyOTU1NDA1LDIwLjYyMDEzNzcgNy41MjA4Nzg5MSwyMiBDNi45MDAyOTM0OSwxNy44MzgwODE1IDguNDMxNzc2MDYsMTQuNzEyODIyOCA5LjE0Mjg2MzUyLDExLjM5NDgwNjQgQzcuOTMxMDc2NDcsOS40NjQ4Nzk3OSA5LjI4ODYwNzA2LDUuNTgyNjk0ODggMTEuODQ0OTk1OSw2LjUzOTQzMDczIEMxNC45OTAyMzU2LDcuNzE1OTU3MjUgOS4xMjA1MzE4NSwxMy43MTE0MjM2IDEzLjA2MTQ4NDMsMTQuNDYxMjk3NiBDMTcuMTc1MjEzNCwxNS4yNDI5MDYxIDE4Ljg1NDc5MDIsNy43MTEyNTU4NSAxNi4zMDQyNzgyLDUuMjYxODI0MDEgQzEyLjYxODM3NjksMS43MjUxOTIzNSA1LjU3MzMyMjAyLDUuMTgwNzI0NzggNi40Mzk1NTU4MywxMC4yNDQxMzc2IEM2LjY1MTExOTA0LDExLjQ4Mjk1NzcgOC4wMDI3NzI4OSwxMS44NTc4OTQ4IDYuOTgwMjE3MzcsMTMuNTY2ODU1NCBDNC42MjEyODc1OCwxMy4wNzIwMzI1IDMuOTE2MDc2ODcsMTEuMzEyNTMxOCA0LjAwNzc1NDI3LDguOTY2NTMwOSBDNC4xNTM0OTc4MSw1LjEyNzgzMzk4IDcuNjU2MDQ0MjksMi40Mzk4MDU4NiAxMS4xNjkxNjg5LDIuMDY3MjE5NTQgQzE1LjYxMTk5NjQsMS41OTcwNzkwNyAxOS43ODIxNDIzLDMuNjEwNDU1NjIgMjAuMzU4MDY0NCw3LjU2MTk4NjI1IEMyMS4wMDU2ODI5LDEyLjAyMjQ0MzkgMTguMzUyOTE1MywxNi44NTMxMzcyIDEzLjYwMDk3MDUsMTYuNTA1MjMzMyBDMTIuMzEzOTYxLDE2LjQxMDAyOTggMTEuNzczMjk5NCwxNS44MDcwNzQ3IDEwLjc2MzY3MjgsMTUuMjI3NjI2NiIgLz48L2c+PC9nPjwvc3ZnPg==) Pin Recipe](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fstateofdinner.com%2Fstabilized-whipped-cream%2F&media=https%3A%2F%2Fstateofdinner.com%2Fwp-content%2Fuploads%2F2020%2F11%2Fwhipped-cream.jpg&description=Learn+how+to+stabilize+whipped+cream+with+cream+of+tartar%21+One+simple+ingredient+transforms+fluffy%2C+delicious+whipped+cream+into+something+that+will+last+for+days.&is_video=false)
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTZweCIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhlaWdodD0iMTZweCIgdmVyc2lvbj0iMS4xIiB2aWV3Ym94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgc3Ryb2tlPSJub25lIiBmaWxsPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PGcgZmlsbD0iIzllOWU5ZSI+PGc+PHBhdGggZD0iTTEyLDAgQzE4LjYyNywwIDI0LDQuMzczIDI0LDExIEMyNCwxOS40MDYgMTguNjQ2LDI0IDE4LjY0NiwyNCBMMTguNjQ2LDI0IEw1LjM1NCwyNCBDNS4zNTQsMjQgMCwxOS40MDYgMCwxMSBDMCw0LjM3MyA1LjM3MywwIDEyLDAgWiBNMTIsMiBDNi4yMDYsMiAyLDUuNzg1IDIsMTEgQzIsMTYuOTU2IDQuOTYyLDIwLjcxNiA2LjE2OCwyMiBMNi4xNjgsMjIgTDE3LjgzMiwyMiBDMTkuMDMyLDIwLjcyNCAyMiwxNi45NjIgMjIsMTEgQzIyLDUuNzg1IDE3Ljc5NCwyIDEyLDIgWiBNMTUuNDE3NSwxNy43OTgzIEMxNS45Njk3ODQ3LDE3Ljc5ODMgMTYuNDE3NSwxOC4yNDYwMTUzIDE2LjQxNzUsMTguNzk4MyBDMTYuNDE3NSwxOS4zMTExMzU4IDE2LjAzMTQ1OTgsMTkuNzMzODA3MiAxNS41MzQxMjExLDE5Ljc5MTU3MjMgTDE1LjQxNzUsMTkuNzk4MyBMOC41ODI1LDE5Ljc5ODMgQzguMDMwMjE1MjUsMTkuNzk4MyA3LjU4MjUsMTkuMzUwNTg0NyA3LjU4MjUsMTguNzk4MyBDNy41ODI1LDE4LjI4NTQ2NDIgNy45Njg1NDAxOSwxNy44NjI3OTI4IDguNDY1ODc4ODcsMTcuODA1MDI3NyBMOC41ODI1LDE3Ljc5ODMgTDE1LjQxNzUsMTcuNzk4MyBaIE0xMiw0LjI1NDQgQzE1LjE3Myw0LjI1NDQgMTcuNzQ2LDYuODI2NCAxNy43NDYsMTAuMDAwNCBDMTcuNzQ2LDEzLjE3MzQgMTUuMTczLDE1Ljc0NTQgMTIsMTUuNzQ1NCBDOC44MjcsMTUuNzQ1NCA2LjI1NCwxMy4xNzM0IDYuMjU0LDEwLjAwMDQgQzYuMjU0LDYuODI2NCA4LjgyNyw0LjI1NDQgMTIsNC4yNTQ0IFogTTEwLjk5OTk3NzMsNi4zODk5Mzc2MSBDOS40MTg2NDY0Niw2LjgyODUwNDg2IDguMjU0LDguMjgwNzM2MzMgOC4yNTQsMTAuMDAwNCBDOC4yNTQsMTIuMDY1NCA5LjkzNSwxMy43NDU0IDEyLDEzLjc0NTQgQzE0LjA2NSwxMy43NDU0IDE1Ljc0NiwxMi4wNjU0IDE1Ljc0NiwxMC4wMDA0IEMxNS43NDYsOC4yODExMDA1MSAxNC41ODE4NDY4LDYuODI5MTE5OTcgMTMuMDAxMDI3Myw2LjM5MDIxNjM4IEwxMyw5LjI5NjIgQzEzLDkuODQ4NDg0NzUgMTIuNTUyMjg0NywxMC4yOTYyIDEyLDEwLjI5NjIgQzExLjQ4NzE2NDIsMTAuMjk2MiAxMS4wNjQ0OTI4LDkuOTEwMTU5ODEgMTEuMDA2NzI3Nyw5LjQxMjgyMTEzIEwxMSw5LjI5NjIgWiIgLz48L2c+PC9nPjwvZz48L3N2Zz4=)
+
+Prep Time 10 minutes mins
+
+Total Time 10 minutes mins
+
+Cook Mode
+
+Prevent your screen from going dark
+
+### Ingredients 1x2x3x
+
+- [ ] ▢
+
+2 cups  (480 ml) heavy whipping cream
+- [ ] ▢
+
+⅓ cup  (67 g) granulated sugar
+- [ ] ▢
+
+1 teaspoon  (5 ml) [vanilla extract](https://www.amazon.com/gp/product/B00CQAVSLM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CQAVSLM&linkCode=as2&tag=stateofdinner-20&linkId=b3d2ae92de469dcd16db973760c11233)
+- [ ] ▢
+
+¼ teaspoon   (0.75 g) cream of tartar
+
+## Ingredients
+
+## Instructions
+
+- [ ] ▢
+
+  Pour heavy cream into a large mixing bowl. Using the whisk attachment of your stand or hand mixer, beat the whipped cream on medium-high speed until it begins to thicken.
+
+- [ ] ▢
+
+  Add sugar, vanilla extract, and cream of tartar. Increase to high speed, and continue to beat until soft peaks form.
+
+- [ ] ▢
+
+  Use immediately, or cover and store in the refrigerator for up to 3 days.
+
+### Notes
+
+Yield: About 4 cups of whipped cream
+
+Use cold cream and a chilled bowl for best results.
+
+If you would like colored whipped cream, add 2-3 drops of food coloring at the same time as you add your vanilla. The color of the whipped cream will be pal. Adding too much food coloring could thin the cream and make it runny.
+
+**Storage:** Whipped cream should be kept refrigerated in an airtight container, and will last for 2-3 days.
+
+If your cream deflates, simply return it to a large mixing bowl and beat with an electric mixer on high speed. In just a minute or two, it will return to its nice, fluffy state.
+
+**Freezing:** Whipped cream should be frozen in the shape you want to serve it, as it will not spread or pipe once frozen. Use a piping bag to create dollops of whipped cream that can be frozen and later placed on top of desserts. They will last in the freezer for up to 2 months.
+
+ 
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE2cHgiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE2cHgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZlcnNpb249IjEuMSI+PGcgZmlsbC1ydWxlPSJldmVub2RkIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSI+PGcgZmlsbD0iIzllOWU5ZSI+PHBhdGggZD0iTTE5LjU0NDEsMTIuMDU4NiBMMTcuODQxMSwxMi4zMTQ2IEwxNy44NDExLDE0LjAzNzYgTDE3Ljg0MTEsMTcuODYwNiBMNi4xNTkxLDE3Ljg2MDYgTDYuMTU5MSwxNC4wMzc2IEw2LjE1OTEsMTIuMzE0NiBMNC40NTYxLDEyLjA1ODYgQzMuMDMzMSwxMS44NDQ2IDIuMDAwMSwxMC42NTM2IDIuMDAwMSw5LjIyNDYgQzIuMDAwMSw3LjY2MjYgMy4yNDcxLDYuMzg3NiA0Ljc5NzEsNi4zNDA2IEM0Ljg2NTEsNi4zNDg2IDQuOTM1MSw2LjM1NTYgNS4wMDUxLDYuMzU3NiBMNi4zMjIxLDYuNDEzNiBMNi44OTMxLDUuMjI0NiBDNy44NDgxLDMuMjM1NiA5LjgwNTEsMS45OTk2IDEyLjAwMDEsMS45OTk2IEMxNC4xOTUxLDEuOTk5NiAxNi4xNTIxLDMuMjM1NiAxNy4xMDcxLDUuMjI0NiBMMTcuNjc4MSw2LjQxMzYgTDE4Ljk5NTEsNi4zNTc2IEMxOS4wNjQxLDYuMzU1NiAxOS4xMzIxLDYuMzQ4NiAxOS4yMDIxLDYuMzQwNiBDMjAuNzUzMSw2LjM4NjYgMjIuMDAwMSw3LjY2MjYgMjIuMDAwMSw5LjIyNDYgQzIyLjAwMDEsMTAuNjUzNiAyMC45NjcxLDExLjg0NDYgMTkuNTQ0MSwxMi4wNTg2IEwxOS41NDQxLDEyLjA1ODYgWiBNNi4xNTkxLDIyLjAwMDYgTDE3Ljg0MTEsMjIuMDAwNiBMMTcuODQxMSwxOS44NjA2IEw2LjE1OTEsMTkuODYwNiBMNi4xNTkxLDIyLjAwMDYgWiBNMTkuMTE0MSw0LjMzODYgQzE5LjA0NTEsNC4zMzg2IDE4Ljk4MDEsNC4zNTY2IDE4LjkxMDEsNC4zNTk2IEMxNy42NzQxLDEuNzgzNiAxNS4wNDkxLC0wLjAwMDQgMTIuMDAwMSwtMC4wMDA0IEM4Ljk1MTEsLTAuMDAwNCA2LjMyNjEsMS43ODM2IDUuMDkwMSw0LjM1OTYgQzUuMDIxMSw0LjM1NjYgNC45NTUxLDQuMzM4NiA0Ljg4NjEsNC4zMzg2IEMyLjE4ODEsNC4zMzg2IDAuMDAwMSw2LjUyNjYgMC4wMDAxLDkuMjI0NiBDMC4wMDAxLDExLjY3MzYgMS44MDgxLDEzLjY4MzYgNC4xNTkxLDE0LjAzNzYgTDQuMTU5MSwyMi4zNzU2IEM0LjE1OTEsMjMuMjY5NiA0Ljg5MDEsMjMuOTk5NiA1Ljc4MzEsMjMuOTk5NiBMMTguMjE3MSwyMy45OTk2IEMxOS4xMTAxLDIzLjk5OTYgMTkuODQxMSwyMy4yNjk2IDE5Ljg0MTEsMjIuMzc1NiBMMTkuODQxMSwxNC4wMzc2IEMyMi4xOTExLDEzLjY4MzYgMjQuMDAwMSwxMS42NzM2IDI0LjAwMDEsOS4yMjQ2IEMyNC4wMDAxLDYuNTI2NiAyMS44MTMxLDQuMzM4NiAxOS4xMTQxLDQuMzM4NiBMMTkuMTE0MSw0LjMzODYgWiIgaWQ9IkZpbGwtMSIgLz48L2c+PC9nPjwvc3ZnPg==)
+
+Course Dessert
+
+Cuisine International
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIxNnB4IiB2aWV3Ym94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjE2cHgiIHZlcnNpb249IjEuMSI+PGcgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGZpbGw9Im5vbmUiIHN0cm9rZT0ibm9uZSI+PGcgZmlsbD0iIzllOWU5ZSI+PHBhdGggZD0iTTE1LjkxOTksNC45NDQzIEwxOC4xMzk5LDIuNzI0MyBDMTguNTUwOSwyLjMxMzMgMTkuMDkwOSwyLjEwODMgMTkuNjI5OSwyLjEwODMgQzIwLjE2OTksMi4xMDgzIDIwLjcwOTksMi4zMTMzIDIxLjEyMDksMi43MjQzIEMyMS45NDI5LDMuNTQ3MyAyMS45NDE5LDQuODg0MyAyMS4xMjA5LDUuNzA3MyBMMTguOTAxOSw3LjkyNTMgQzE4LjA3OTksOC43NDgzIDE2Ljc0MTksOC43NDgzIDE1LjkxOTksNy45MjUzIEMxNS4wOTc5LDcuMTAzMyAxNS4wOTc5LDUuNzY2MyAxNS45MTk5LDQuOTQ0MyBNMjMuNTUyOSwyMi4xMzgzIEwxMy4zMzY5LDExLjkyMzMgTDE1LjMxMDksOS45NDkzIEMxNS45NTU5LDEwLjMzNTMgMTYuNjgwOSwxMC41NDEzIDE3LjQxMDksMTAuNTQxMyBDMTguNDYyOSwxMC41NDEzIDE5LjUxNTksMTAuMTQwMyAyMC4zMTU5LDkuMzQwMyBMMjIuNTM0OSw3LjEyMTMgQzI0LjEzNjksNS41MTgzIDI0LjEzNjksMi45MTIzIDIyLjUzNDksMS4zMTAzIEMyMS43NTk5LDAuNTM0MyAyMC43Mjc5LDAuMTA3MyAxOS42Mjk5LDAuMTA3MyBDMTguNTMyOSwwLjEwNzMgMTcuNTAxOSwwLjUzNDMgMTYuNzI1OSwxLjMxMDMgTDE0LjUwNTksMy41MzAzIEMxMy43Mjk5LDQuMzA2MyAxMy4zMDI5LDUuMzM4MyAxMy4zMDI5LDYuNDM0MyBDMTMuMzAyOSw3LjE4ODMgMTMuNTE3OSw3LjkwNTMgMTMuODk1OSw4LjUzNjMgTDExLjkyMjksMTAuNTA4MyBMOS45NDg5LDguNTM1MyBDMTAuODkwOSw2Ljk1OTMgMTAuNjk1OSw0Ljg4NjMgOS4zMzk5LDMuNTMwMyBMNi4xMDM5LDAuMjkzMyBDNS43MTI5LC0wLjA5NzcgNS4wNzk5LC0wLjA5NzcgNC42ODk5LDAuMjkzMyBDNC4yOTg5LDAuNjgzMyA0LjI5ODksMS4zMTYzIDQuNjg5OSwxLjcwNzMgTDcuOTI1OSw0Ljk0NDMgQzguNDkwOSw1LjUwOTMgOC42NTc5LDYuMzE1MyA4LjQ0NTksNy4wMzIzIEwzLjY1MzksMi4yNDAzIEMzLjI2MzksMS44NDkzIDIuNjMwOSwxLjg0OTMgMi4yMzk5LDIuMjQwMyBDMS44NDk5LDIuNjMxMyAxLjg0OTksMy4yNjMzIDIuMjM5OSwzLjY1NDMgTDcuMDMxOSw4LjQ0NjMgQzYuMzE0OSw4LjY1ODMgNS41MDg5LDguNDkxMyA0Ljk0MjksNy45MjUzIEwxLjcwNjksNC42ODkzIEMxLjMxNTksNC4yOTgzIDAuNjgzOSw0LjI5ODMgMC4yOTI5LDQuNjg5MyBDLTAuMDk4MSw1LjA4MDMgLTAuMDk4MSw1LjcxMzMgMC4yOTI5LDYuMTAzMyBMMy41Mjg5LDkuMzQwMyBDNC4zMzA5LDEwLjE0MDMgNS4zODI5LDEwLjU0MTMgNi40MzQ5LDEwLjU0MTMgQzcuMTY0OSwxMC41NDEzIDcuODg5OSwxMC4zMzUzIDguNTM0OSw5Ljk0OTMgTDEwLjUwODksMTEuOTIzMyBMMC4yOTI5LDIyLjEzODMgQy0wLjA5ODEsMjIuNTI5MyAtMC4wOTgxLDIzLjE2MjMgMC4yOTI5LDIzLjU1MjMgQzAuNDg3OSwyMy43NDgzIDAuNzQzOSwyMy44NDUzIDAuOTk5OSwyMy44NDUzIEMxLjI1NTksMjMuODQ1MyAxLjUxMTksMjMuNzQ4MyAxLjcwNjksMjMuNTUyMyBMMTEuOTIyOSwxMy4zMzczIEwyMi4xMzg5LDIzLjU1MjMgQzIyLjMzMzksMjMuNzQ4MyAyMi41ODk5LDIzLjg0NTMgMjIuODQ1OSwyMy44NDUzIEMyMy4xMDE5LDIzLjg0NTMgMjMuMzU2OSwyMy43NDgzIDIzLjU1MjksMjMuNTUyMyBDMjMuOTQyOSwyMy4xNjIzIDIzLjk0MjksMjIuNTI5MyAyMy41NTI5LDIyLjEzODMiIC8+PC9nPjwvZz48L3N2Zz4=)
+
+Servings 8
+
+Calories 239 kcal
+
+### Nutrition
+
+Calories: 239kcal | Carbohydrates: 10g | Protein: 1g | Fat: 22g | Saturated Fat: 14g | Cholesterol: 82mg | Sodium: 23mg | Potassium: 60mg | Sugar: 8g | Vitamin A: 875IU | Vitamin C: 1mg | Calcium: 39mg
+
+ *The nutritional facts provided are only estimates. The accuracy of the nutritional information for any recipe on this site is not guaranteed.*
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Ym94PSIwIDAgMjQgMjQiIGhlaWdodD0iMTZweCIgdmVyc2lvbj0iMS4xIiB3aWR0aD0iMTZweCI+PGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGwtcnVsZT0iZXZlbm9kZCIgaWQ9Ikljb25zIj48ZyBmaWxsPSIjOWU5ZTllIj48cGF0aCBkPSJNOS4wMDM5LDE2LjAwNzkgQzUuMTQxOSwxNi4wMDc5IDEuOTk5OSwxMi44NjU5IDEuOTk5OSw5LjAwMzkgQzEuOTk5OSw1LjE0MTkgNS4xNDE5LDEuOTk5OSA5LjAwMzksMS45OTk5IEMxMi44NjU5LDEuOTk5OSAxNi4wMDc5LDUuMTQxOSAxNi4wMDc5LDkuMDAzOSBDMTYuMDA3OSwxMi44NjU5IDEyLjg2NTksMTYuMDA3OSA5LjAwMzksMTYuMDA3OSBNMjMuNjIwOSwyMi4yMDY5IEwxNi4xNDM5LDE0LjcyOTkgQzE2LjEwNTksMTQuNjkxOSAxNi4wNTc5LDE0LjY3NTkgMTYuMDE1OSwxNC42NDQ5IEMxNy4yNTk5LDEzLjEwMDkgMTguMDA3OSwxMS4xNDA5IDE4LjAwNzksOS4wMDM5IEMxOC4wMDc5LDQuMDMwOSAxMy45NzY5LC0wLjAwMDEgOS4wMDM5LC0wLjAwMDEgQzQuMDMwOSwtMC4wMDAxIC0wLjAwMDEsNC4wMzA5IC0wLjAwMDEsOS4wMDM5IEMtMC4wMDAxLDEzLjk3NjkgNC4wMzA5LDE4LjAwNzkgOS4wMDM5LDE4LjAwNzkgQzExLjE0MDksMTguMDA3OSAxMy4xMDA5LDE3LjI1OTkgMTQuNjQ0OSwxNi4wMTY5IEMxNC42NzQ5LDE2LjA1NzkgMTQuNjkxOSwxNi4xMDU5IDE0LjcyOTksMTYuMTQzOSBMMjIuMjA2OSwyMy42MjA5IEMyMi40MDE5LDIzLjgxNjkgMjIuNjU3OSwyMy45MTM5IDIyLjkxMzksMjMuOTEzOSBDMjMuMTY5OSwyMy45MTM5IDIzLjQyNTksMjMuODE2OSAyMy42MjA5LDIzLjYyMDkgQzI0LjAxMTksMjMuMjMwOSAyNC4wMTE5LDIyLjU5NzkgMjMuNjIwOSwyMi4yMDY5IiAvPjwvZz48L2c+PC9zdmc+)
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdib3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0iI2ZmZmZmZiIgY2xhc3M9Im5jLWljb24td3JhcHBlciI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2U9IiNmZmZmZmYiIGRhdGEtY2FwPSJidXR0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGQ9Ik0xMS41LDAuNSBDOS45ODIsMC41LDguNjc4LDEuMzU1LDgsMi42MDFDNy4zMjIsMS4zNTUsNi4wMTgsMC41LDQuNSwwLjVjLTIuMjA5LDAtNCwxLjc5MS00LDRjMCw0LDcuNSwxMSw3LjUsMTFzNy41LTcsNy41LTExIEMxNS41LDIuMjkxLDEzLjcwOSwwLjUsMTEuNSwwLjV6IiAvPiA8L2c+PC9zdmc+) Tried this recipe?[Leave a review!](#comment) We love hearing your feedback!
+
+## More Whipped Cream Recipes
+
+- [Ruffles of whipped cream layered in a majon jar with lemon zest on top. Lemon Whipped Cream](https://stateofdinner.com/lemon-whipped-cream/)
+- [Dipped strawberry sitting in a bowl of whipped cream. Fluffy Marshmallow Whipped Cream](https://stateofdinner.com/marshmallow-whipped-cream/)
+- [Whipped cream in a clear mug, with crushed candy canes sprinkled on top and around. Homemade Peppermint Whipped Cream Recipe](https://stateofdinner.com/peppermint-whipped-cream/)
+- [Maple whipped cream piped in a glass dish. Homemade Maple Whipped Cream](https://stateofdinner.com/homemade-maple-whipped-cream/)
+
+See more [Whipped Cream →](https://stateofdinner.com/category/recipes/desserts/whipped-cream/)

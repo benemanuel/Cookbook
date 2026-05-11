@@ -1,3 +1,8 @@
+---
+labels: [dairy]
+labels: [dairy]
+---
+
 ## Arroz Rojo / Mexican Rice
 
 ## Ingredients

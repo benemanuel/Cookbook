@@ -5,9 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="noindex">
-    <title>Rezepte</title>
+    <title>Recipes</title>
 
-    <script src="libs/markdown-it.min.js"></script>
+   
+    <script src="https://cdn.jsdelivr.net/npm/markdown-it@14.1.0/dist/markdown-it.min.js"></script>
     <link rel="stylesheet" href="libs/modern-normalize.min.css">
     <link rel="stylesheet" href="libs/water.light.min.css">
 
@@ -87,6 +88,30 @@
             border-radius: 8px;
         }
 
+        #recipe-list h2 {
+            margin-top: 24px;
+            margin-bottom: 4px;
+            font-size: 1.1rem;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 4px;
+        }
+
+        #recipe-list ul {
+            margin-top: 4px;
+            column-count: 2;
+            column-gap: 24px;
+        }
+
+        @media (max-width: 600px) {
+            #recipe-list ul {
+                column-count: 1;
+            }
+        }
+
+        #recipe-list h1 {
+            margin-bottom: 8px;
+        }
+
         @media print, screen and (min-width: 600px) {
             #ingredients-container {
                 width: 320px;
@@ -135,15 +160,30 @@
         }
 
         async function parseMarkdown(markdown) {
-            const regexHeader = /(^|\n)(# (.+))([^#]+?)(## )/gm;
-            const headerExec = regexHeader.exec(markdown)
-            const title = headerExec[3];
-            const description = headerExec[4];
+            // Strip YAML frontmatter (--- ... ---), handle both LF and CRLF
+            const body = markdown.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, '').trimStart();
 
-            const regexSubheading = /\n(## (.|\n)+?(?=\n## |$))/g;
-            const ingredients = regexSubheading.exec(markdown)[1];
-            const instructions = regexSubheading.exec(markdown)[1];
-            const images = regexSubheading.exec(markdown)?.[1];
+            // Normalize line endings to LF for consistent regex matching
+            const normalized = body.replace(/\r\n/g, '\n');
+
+            // Extract title and description (everything before first ##)
+            const titleMatch = normalized.match(/^#\s+(.+)\n([\s\S]*?)(?=\n##|$)/);
+            const title = titleMatch ? titleMatch[1].trim() : "Untitled";
+            const description = titleMatch ? titleMatch[2].trim() : "";
+
+            // Find section by name, fall back to nth ## section
+            const getSection = (headingName, fallbackIndex) => {
+                const byName = new RegExp(`\\n##\\s+${headingName}\\s*\\n([\\s\\S]*?)(?=\\n##|$)`, 'i');
+                const named = normalized.match(byName);
+                if (named) return `## ${headingName}\n` + named[1];
+                // Fallback: grab the nth ## block
+                const allSections = [...normalized.matchAll(/\n(##\s+[\s\S]*?)(?=\n##|$)/g)];
+                return allSections[fallbackIndex] ? allSections[fallbackIndex][1] : "";
+            };
+
+            const ingredients = getSection("Ingredients", 0);
+            const instructions = getSection("Instructions", 1);
+            const images = getSection("Images", 2);
 
             return [title, description, ingredients, instructions, images];
         }
@@ -172,9 +212,8 @@
                 = md.render(ingredients);
             document.getElementById("instructions-container").innerHTML 
                 = md.render(instructions);
-            if (images !== undefined) {
-                document.getElementById("image-container").innerHTML 
-                = md.render(images);
+			if (images && images.trim() !== "") {
+               document.getElementById("image-container").innerHTML = md.render(images);
             }
 
             document.getElementById("recipe-container").style.display = "block";

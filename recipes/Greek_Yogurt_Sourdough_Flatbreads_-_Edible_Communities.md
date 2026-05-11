@@ -1,0 +1,131 @@
+---
+subject: "Greek Yogurt Sourdough Flatbreads - Edible Communities"
+from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
+to: "Family <benemanuel.family@gmail.com>"
+date: "Fri, 14 Feb 2020 12:06:25 +0200"
+date_parsed: 2020-02-14T12:06:25+02:00
+labels: [dairy, bread, cake]
+---
+
+# Greek Yogurt Sourdough Flatbreads - Edible Communities
+
+<https://www.ediblecommunities.com/recipes/skillet-greek-yogurt-sourdough-flatbreads/>
+
+---
+
+[Skip to content](#content)
+
+# Greek Yogurt Sourdough Flatbreads
+
+- [By Emilie Raffa](https://ediblecommunities.com/author/emilie-raffa/)
+- | January 31, 2018
+
+![Sourdough Flatbreads](https://ediblecommunities.com/wp-content/uploads/2019/03/Flatbreads.jpg)
+
+[![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBmaWxsPSIjZmZmZmZmIiBjbGFzcz0ibmMtaWNvbi13cmFwcGVyIj48cGF0aCBkPSJNOSwyaDZjMC42LDAsMS0wLjQsMS0xcy0wLjQtMS0xLTFIOUM4LjQsMCw4LDAuNCw4LDFTOC40LDIsOSwyeiIgZGF0YS1jb2xvcj0iY29sb3ItMiIgLz4gPHBhdGggZD0iTTE2LDExVjVjMC0wLjYtMC40LTEtMS0xSDlDOC40LDQsOCw0LjQsOCw1djZIMS45TDEyLDIzLjZMMjIuMSwxMUgxNnoiIGZpbGw9IiNmZmZmZmYiIC8+PC9nPjwvc3ZnPg==) Jump to Recipe](#recipe) [![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMTZweCIgaGVpZ2h0PSIxNnB4Ij48Zz48cGF0aCBkPSJNMTksNS4wOVYxYzAtMC41NTItMC40NDgtMS0xLTFINkM1LjQ0OCwwLDUsMC40NDgsNSwxdjQuMDlDMi4xNjcsNS41NjksMCw4LjAzMywwLDExdjdjMCwwLjU1MiwwLjQ0OCwxLDEsMWg0djRjMCwwLjU1MiwwLjQ0OCwxLDEsMWgxMmMwLjU1MiwwLDEtMC40NDgsMS0xdi00aDRjMC41NTIsMCwxLTAuNDQ4LDEtMXYtN0MyNCw4LjAzMywyMS44MzMsNS41NjksMTksNS4wOXogTTcsMmgxMHYzSDdWMnogTTE3LDIySDd2LTloMTBWMjJ6IE0xOCwxMGMtMC41NTIsMC0xLTAuNDQ4LTEtMWMwLTAuNTUyLDAuNDQ4LTEsMS0xczEsMC40NDgsMSwxQzE5LDkuNTUyLDE4LjU1MiwxMCwxOCwxMHoiIGZpbGw9IiNmZmZmZmYiIC8+PC9nPjwvc3ZnPg==) Print Recipe](https://ediblecommunities.com/wprm_print/greek-yogurt-sourdough-flatbreads)
+
+Leftover sourdough starter paired with tangy Greek yogurt creates the best homemade flatbreads. They are delightfully soft, and you won’t get over how easy they are to make. As the name suggests, flatbreads do not need to rise. But the dough does need to rest for about an hour, so it’s easier to roll. These flatbreads freeze beautifully. Wondering how you can be lucky enough to have “leftover sourdough starter”? See [how to make a sourdough starter](https://ediblecommunities.com/recipes/how-to-create-a-sourdough-starter/) to get… started.
+
+![Sourdough Flatbreads](https://ediblecommunities.com/wp-content/uploads/2019/03/Flatbreads.jpg)
+
+[![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGhlaWdodD0iMTZweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTZweCIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHk9IjBweCIgeD0iMHB4Ij48Zz48cGF0aCBkPSJNMTksNS4wOVYxYzAtMC41NTItMC40NDgtMS0xLTFINkM1LjQ0OCwwLDUsMC40NDgsNSwxdjQuMDlDMi4xNjcsNS41NjksMCw4LjAzMywwLDExdjdjMCwwLjU1MiwwLjQ0OCwxLDEsMWg0djRjMCwwLjU1MiwwLjQ0OCwxLDEsMWgxMmMwLjU1MiwwLDEtMC40NDgsMS0xdi00aDRjMC41NTIsMCwxLTAuNDQ4LDEtMXYtN0MyNCw4LjAzMywyMS44MzMsNS41NjksMTksNS4wOXogTTcsMmgxMHYzSDdWMnogTTE3LDIySDd2LTloMTBWMjJ6IE0xOCwxMGMtMC41NTIsMC0xLTAuNDQ4LTEtMWMwLTAuNTUyLDAuNDQ4LTEsMS0xczEsMC40NDgsMSwxQzE5LDkuNTUyLDE4LjU1MiwxMCwxOCwxMHoiIGZpbGw9IiMzMzMzMzMiIC8+PC9nPjwvc3ZnPg==) Print](https://ediblecommunities.com/wprm_print/greek-yogurt-sourdough-flatbreads) [![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBoZWlnaHQ9IjE2Ij48ZyBmaWxsPSIjMzMzMzMzIiBjbGFzcz0ibmMtaWNvbi13cmFwcGVyIj48cGF0aCBkPSJNMTIsMEM1LjQsMCwwLDUuNCwwLDEyYzAsNS4xLDMuMiw5LjQsNy42LDExLjJjLTAuMS0wLjktMC4yLTIuNCwwLTMuNGMwLjItMC45LDEuNC02LDEuNC02UzguNywxMyw4LjcsMTIgYzAtMS43LDEtMi45LDIuMi0yLjljMSwwLDEuNSwwLjgsMS41LDEuN2MwLDEtMC43LDIuNi0xLDRjLTAuMywxLjIsMC42LDIuMiwxLjgsMi4yYzIuMSwwLDMuOC0yLjIsMy44LTUuNWMwLTIuOS0yLjEtNC45LTUtNC45IGMtMy40LDAtNS40LDIuNi01LjQsNS4yYzAsMSwwLjQsMi4xLDAuOSwyLjdjMC4xLDAuMSwwLjEsMC4yLDAuMSwwLjNjLTAuMSwwLjQtMC4zLDEuMi0wLjMsMS40Yy0wLjEsMC4yLTAuMiwwLjMtMC40LDAuMiBjLTEuNS0wLjctMi40LTIuOS0yLjQtNC42YzAtMy44LDIuOC03LjMsNy45LTcuM2M0LjIsMCw3LjQsMyw3LjQsNi45YzAsNC4xLTIuNiw3LjUtNi4yLDcuNWMtMS4yLDAtMi40LTAuNi0yLjgtMS40IGMwLDAtMC42LDIuMy0wLjcsMi45Yy0wLjMsMS0xLDIuMy0xLjUsMy4xQzkuNiwyMy44LDEwLjgsMjQsMTIsMjRjNi42LDAsMTItNS40LDEyLTEyQzI0LDUuNCwxOC42LDAsMTIsMHoiIGZpbGw9IiMzMzMzMzMiIC8+PC9nPjwvc3ZnPg==) Pin](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fediblecommunities.com%2Frecipes%2Fskillet-greek-yogurt-sourdough-flatbreads%2F&media=https%3A%2F%2Fediblecommunities.com%2Fwp-content%2Fuploads%2F2019%2F03%2FFlatbreads.jpg&description=Greek+Yogurt+Sourdough+Flatbreads&is_video=false)![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgc3R5bGU9ImRpc3BsYXk6YmxvY2s7d2lkdGg6MHB4O2hlaWdodDowcHgiIHdpZHRoPSIwIj48ZGVmcz48bGluZWFyZ3JhZGllbnQgaWQ9Indwcm0tcmVjaXBlLXJhdGluZy0wLTMzIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSIzMyUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjMzJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjwvbGluZWFyZ3JhZGllbnQ+PC9kZWZzPjxkZWZzPjxsaW5lYXJncmFkaWVudCBpZD0id3BybS1yZWNpcGUtcmF0aW5nLTAtNTAiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PC9saW5lYXJncmFkaWVudD48L2RlZnM+PGRlZnM+PGxpbmVhcmdyYWRpZW50IGlkPSJ3cHJtLXJlY2lwZS1yYXRpbmctMC02NiI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iNjYlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI2NiUiIHN0b3Atb3BhY2l0eT0iMCIgLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3Atb3BhY2l0eT0iMCIgLz48L2xpbmVhcmdyYWRpZW50PjwvZGVmcz48L3N2Zz4=)
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTZweCIgaGVpZ2h0PSIxNnB4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBkPSJNMTEuOTksMS45NGMtLjM1LDAtLjY3LjE5LS44My41MWwtMi41Niw1LjJjLS4xMS4yNC0uMzQuNC0uNjEuNDNsLTUuNzUuODNjLS4zNS4wNS0uNjQuMy0uNzQuNjQtLjExLjM0LDAsLjcuMjIuOTRsNC4xNiw0LjA1Yy4xOS4xOS4yNy40NS4yMi43bC0uOTgsNS43MmMtLjA2LjM1LjEuNy4zNy45LjI5LjIxLjY2LjI0Ljk4LjA4bDUuMTQtMi43MWgwYy4yNC0uMTMuNTEtLjEzLjc1LDBsNS4xNCwyLjcxYy4zMi4xNi42OS4xMy45OC0uMDguMjktLjIxLjQzLS41Ni4zNy0uOWwtLjk4LTUuNzJoMGMtLjA1LS4yNi4wNS0uNTMuMjItLjdsNC4xNi00LjA1aDBjLjI2LS4yNC4zNC0uNjEuMjItLjk0cy0uNC0uNTgtLjc0LS42NGwtNS43NS0uODNjLS4yNi0uMDMtLjQ4LS4yMS0uNjEtLjQzbC0yLjU2LTUuMmMtLjE2LS4zMi0uNDgtLjUzLS44My0uNTEsMCwwLS4wMiwwLS4wMiwwWiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2U9IiMzNDM0MzQiIC8+PC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTZweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiIGhlaWdodD0iMTZweCIgdmVyc2lvbj0iMS4xIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBkPSJNMTEuOTksMS45NGMtLjM1LDAtLjY3LjE5LS44My41MWwtMi41Niw1LjJjLS4xMS4yNC0uMzQuNC0uNjEuNDNsLTUuNzUuODNjLS4zNS4wNS0uNjQuMy0uNzQuNjQtLjExLjM0LDAsLjcuMjIuOTRsNC4xNiw0LjA1Yy4xOS4xOS4yNy40NS4yMi43bC0uOTgsNS43MmMtLjA2LjM1LjEuNy4zNy45LjI5LjIxLjY2LjI0Ljk4LjA4bDUuMTQtMi43MWgwYy4yNC0uMTMuNTEtLjEzLjc1LDBsNS4xNCwyLjcxYy4zMi4xNi42OS4xMy45OC0uMDguMjktLjIxLjQzLS41Ni4zNy0uOWwtLjk4LTUuNzJoMGMtLjA1LS4yNi4wNS0uNTMuMjItLjdsNC4xNi00LjA1aDBjLjI2LS4yNC4zNC0uNjEuMjItLjk0cy0uNC0uNTgtLjc0LS42NGwtNS43NS0uODNjLS4yNi0uMDMtLjQ4LS4yMS0uNjEtLjQzbC0yLjU2LTUuMmMtLjE2LS4zMi0uNDgtLjUzLS44My0uNTEsMCwwLS4wMiwwLS4wMiwwWiIgc3Ryb2tlPSIjMzQzNDM0IiBzdHJva2Utd2lkdGg9IjIiIC8+PC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTZweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjQgMjQiIGhlaWdodD0iMTZweCIgdmVyc2lvbj0iMS4xIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBkPSJNMTEuOTksMS45NGMtLjM1LDAtLjY3LjE5LS44My41MWwtMi41Niw1LjJjLS4xMS4yNC0uMzQuNC0uNjEuNDNsLTUuNzUuODNjLS4zNS4wNS0uNjQuMy0uNzQuNjQtLjExLjM0LDAsLjcuMjIuOTRsNC4xNiw0LjA1Yy4xOS4xOS4yNy40NS4yMi43bC0uOTgsNS43MmMtLjA2LjM1LjEuNy4zNy45LjI5LjIxLjY2LjI0Ljk4LjA4bDUuMTQtMi43MWgwYy4yNC0uMTMuNTEtLjEzLjc1LDBsNS4xNCwyLjcxYy4zMi4xNi42OS4xMy45OC0uMDguMjktLjIxLjQzLS41Ni4zNy0uOWwtLjk4LTUuNzJoMGMtLjA1LS4yNi4wNS0uNTMuMjItLjdsNC4xNi00LjA1aDBjLjI2LS4yNC4zNC0uNjEuMjItLjk0cy0uNC0uNTgtLjc0LS42NGwtNS43NS0uODNjLS4yNi0uMDMtLjQ4LS4yMS0uNjEtLjQzbC0yLjU2LTUuMmMtLjE2LS4zMi0uNDgtLjUzLS44My0uNTEsMCwwLS4wMiwwLS4wMiwwWiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2U9IiMzNDM0MzQiIC8+PC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTZweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCAyNCAyNCIgaGVpZ2h0PSIxNnB4Ij48cGF0aCBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGZpbGw9Im5vbmUiIGQ9Ik0xMS45OSwxLjk0Yy0uMzUsMC0uNjcuMTktLjgzLjUxbC0yLjU2LDUuMmMtLjExLjI0LS4zNC40LS42MS40M2wtNS43NS44M2MtLjM1LjA1LS42NC4zLS43NC42NC0uMTEuMzQsMCwuNy4yMi45NGw0LjE2LDQuMDVjLjE5LjE5LjI3LjQ1LjIyLjdsLS45OCw1LjcyYy0uMDYuMzUuMS43LjM3LjkuMjkuMjEuNjYuMjQuOTguMDhsNS4xNC0yLjcxaDBjLjI0LS4xMy41MS0uMTMuNzUsMGw1LjE0LDIuNzFjLjMyLjE2LjY5LjEzLjk4LS4wOC4yOS0uMjEuNDMtLjU2LjM3LS45bC0uOTgtNS43MmgwYy0uMDUtLjI2LjA1LS41My4yMi0uN2w0LjE2LTQuMDVoMGMuMjYtLjI0LjM0LS42MS4yMi0uOTRzLS40LS41OC0uNzQtLjY0bC01Ljc1LS44M2MtLjI2LS4wMy0uNDgtLjIxLS42MS0uNDNsLTIuNTYtNS4yYy0uMTYtLjMyLS40OC0uNTMtLjgzLS41MSwwLDAtLjAyLDAtLjAyLDBaIiBzdHJva2U9IiMzNDM0MzQiIC8+PC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE2cHgiIGhlaWdodD0iMTZweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2U9IiMzNDM0MzQiIHN0cm9rZS13aWR0aD0iMiIgZD0iTTExLjk5LDEuOTRjLS4zNSwwLS42Ny4xOS0uODMuNTFsLTIuNTYsNS4yYy0uMTEuMjQtLjM0LjQtLjYxLjQzbC01Ljc1LjgzYy0uMzUuMDUtLjY0LjMtLjc0LjY0LS4xMS4zNCwwLC43LjIyLjk0bDQuMTYsNC4wNWMuMTkuMTkuMjcuNDUuMjIuN2wtLjk4LDUuNzJjLS4wNi4zNS4xLjcuMzcuOS4yOS4yMS42Ni4yNC45OC4wOGw1LjE0LTIuNzFoMGMuMjQtLjEzLjUxLS4xMy43NSwwbDUuMTQsMi43MWMuMzIuMTYuNjkuMTMuOTgtLjA4LjI5LS4yMS40My0uNTYuMzctLjlsLS45OC01LjcyaDBjLS4wNS0uMjYuMDUtLjUzLjIyLS43bDQuMTYtNC4wNWgwYy4yNi0uMjQuMzQtLjYxLjIyLS45NHMtLjQtLjU4LS43NC0uNjRsLTUuNzUtLjgzYy0uMjYtLjAzLS40OC0uMjEtLjYxLS40M2wtMi41Ni01LjJjLS4xNi0uMzItLjQ4LS41My0uODMtLjUxLDAsMC0uMDIsMC0uMDIsMFoiIC8+PC9zdmc+)
+
+4.21 from 39 votes
+
+## Greek Yogurt Sourdough Flatbreads
+
+Leftover sourdough starter paired with tangy Greek yogurt creates the best homemade flatbreads.
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE2cHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeD0iMHB4IiB5PSIwcHgiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTZweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48cGF0aCBkPSJNMjIuNzA3LDEyLjI5M2wtMTEtMTFDMTEuNTIsMS4xMDYsMTEuMjY1LDEsMTEsMUgyQzEuNDQ4LDEsMSwxLjQ0OCwxLDJ2OWMwLDAuMjY1LDAuMTA1LDAuNTIsMC4yOTMsMC43MDdsMTEsMTFDMTIuNDg4LDIyLjkwMywxMi43NDQsMjMsMTMsMjNzMC41MTItMC4wOTgsMC43MDctMC4yOTNsOS05QzIzLjA5OCwxMy4zMTcsMjMuMDk4LDEyLjY4NCwyMi43MDcsMTIuMjkzeiBNNyw5QzUuODk1LDksNSw4LjEwNSw1LDdjMC0xLjEwNSwwLjg5NS0yLDItMnMyLDAuODk1LDIsMkM5LDguMTA1LDguMTA1LDksNyw5eiBNMTMsMTcuNDE0TDguNTg2LDEzTDEwLDExLjU4NkwxNC40MTQsMTZMMTMsMTcuNDE0eiBNMTYsMTQuNDE0TDExLjU4NiwxMEwxMyw4LjU4NkwxNy40MTQsMTNMMTYsMTQuNDE0eiIgZmlsbD0iIzMzMzMzMyIgLz48L2c+PC9zdmc+) Course Bread
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB4PSIwcHgiIGhlaWdodD0iMTZweCIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB5PSIwcHgiIHdpZHRoPSIxNnB4Ij48Zz48cGF0aCBkPSJNMjIuNzA3LDEyLjI5M2wtMTEtMTFDMTEuNTIsMS4xMDYsMTEuMjY1LDEsMTEsMUgyQzEuNDQ4LDEsMSwxLjQ0OCwxLDJ2OWMwLDAuMjY1LDAuMTA1LDAuNTIsMC4yOTMsMC43MDdsMTEsMTFDMTIuNDg4LDIyLjkwMywxMi43NDQsMjMsMTMsMjNzMC41MTItMC4wOTgsMC43MDctMC4yOTNsOS05QzIzLjA5OCwxMy4zMTcsMjMuMDk4LDEyLjY4NCwyMi43MDcsMTIuMjkzeiBNNyw5QzUuODk1LDksNSw4LjEwNSw1LDdjMC0xLjEwNSwwLjg5NS0yLDItMnMyLDAuODk1LDIsMkM5LDguMTA1LDguMTA1LDksNyw5eiBNMTMsMTcuNDE0TDguNTg2LDEzTDEwLDExLjU4NkwxNC40MTQsMTZMMTMsMTcuNDE0eiBNMTYsMTQuNDE0TDExLjU4NiwxMEwxMyw4LjU4NkwxNy40MTQsMTNMMTYsMTQuNDE0eiIgZmlsbD0iIzMzMzMzMyIgLz48L2c+PC9zdmc+) Keyword Sourdough Flat Bread
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE2cHgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeD0iMHB4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTZweCIgeT0iMHB4Ij48Zz48cGF0aCBkPSJNMTAsMEM5LjQsMCw5LDAuNCw5LDF2NEg3VjFjMC0wLjYtMC40LTEtMS0xUzUsMC40LDUsMXY0SDNWMWMwLTAuNi0wLjQtMS0xLTFTMSwwLjQsMSwxdjhjMCwxLjcsMS4zLDMsMywzdjEwYzAsMS4xLDAuOSwyLDIsMnMyLTAuOSwyLTJWMTJjMS43LDAsMy0xLjMsMy0zVjFDMTEsMC40LDEwLjYsMCwxMCwweiIgZmlsbD0iIzMzMzMzMyIgLz48cGF0aCBkYXRhLWNvbG9yPSJjb2xvci0yIiBmaWxsPSIjMzMzMzMzIiBkPSJNMTksMGMtMy4zLDAtNiwyLjctNiw2djljMCwwLjYsMC40LDEsMSwxaDJ2NmMwLDEuMSwwLjksMiwyLDJzMi0wLjksMi0yVjFDMjAsMC40LDE5LjYsMCwxOSwweiIgLz48L2c+PC9zdmc+) Servings 8
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB5PSIwcHgiIHdpZHRoPSIxNnB4IiBoZWlnaHQ9IjE2cHgiIHg9IjBweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Zz48cmVjdCBkYXRhLWNvbG9yPSJjb2xvci0yIiBoZWlnaHQ9IjgiIHdpZHRoPSIzIiB4PSIyMSIgeT0iOCIgZmlsbD0iIzMzMzMzMyIgLz48cGF0aCBkPSJNMTgsNUgxQzAuNDQ4LDUsMCw1LjQ0NywwLDZ2MTJjMCwwLjU1MywwLjQ0OCwxLDEsMWgxN2MwLjU1MiwwLDEtMC40NDcsMS0xVjZDMTksNS40NDcsMTguNTUyLDUsMTgsNXogTTExLDEydjRsLTctNWw1LDFWOGw2LDVMMTEsMTJ6IiBmaWxsPSIjMzMzMzMzIiAvPjwvZz48L3N2Zz4=) Calories
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeD0iMHB4IiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIxNnB4IiB5PSIwcHgiIHdpZHRoPSIxNnB4Ij48Zz48cGF0aCBmaWxsPSIjMzMzMzMzIiBkPSJNMTMsMjFoLTJINXYyYzAsMC42LDAuNCwxLDEsMWgxMmMwLjYsMCwxLTAuNCwxLTF2LTJIMTN6IiBkYXRhLWNvbG9yPSJjb2xvci0yIiAvPjxwYXRoIGQ9Ik0xOCw0Yy0wLjEsMC0wLjIsMC0wLjMsMGMtMC44LTIuMy0zLTQtNS43LTRTNy4yLDEuNyw2LjMsNEM2LjIsNCw2LjEsNCw2LDRjLTMuMywwLTYsMi43LTYsNmMwLDMsMi4yLDUuNCw1LDUuOVYxOWg2di00aDJ2NGg2di0zLjFjMi44LTAuNSw1LTIuOSw1LTUuOUMyNCw2LjcsMjEuMyw0LDE4LDR6IiBmaWxsPSIjMzMzMzMzIiAvPjwvZz48L3N2Zz4=) Author Emilie Raffa
+
+## Ingredients
+
+- 2½ cups /300 g all-purpose flour
+- 1 tablespoon /12 g sugar
+- 1 teaspoon /5 g fine sea salt
+- ½ teaspoon baking powder
+- ½ cup /120 g leftover starter
+- ¼ cup /60 g Greek yogurt
+- ¼ cup /60 ml oil
+- 1 to 2 tablespoon /15 to 30 ml warm water
+- 2 tablespoon /28 g unsalted butter, melted
+
+## Instructions
+
+- Whisk the flour, sugar, salt, and baking powder together in a large bowl. Add the leftover starter, yogurt, oil, and 1 tablespoon (15 ml) of water. Mix with your hands until a rough dough forms. The dough should feel soft but not sticky. Add more water or flour as needed to get the right texture. Cover with a damp kitchen towel and let rest for 1 hour.
+
+- Remove the dough onto a lightly floured work surface. Flatten into a rectangle, and then divide into 8 equal pieces, about 80 grams (23/4 oz) each. Cover with a damp towel.
+
+- Working with one piece at a time, roll the dough into a thin circle about 8 inches (20 cm). The exact shape does not need to be perfect—you’re looking for something slightly smaller than the width of your skillet. Note: Thinly rolled dough will get you soft, bendable flatbreads; thicker rolled dough will create puffy flatbreads.
+
+- Melt the butter in a small saucepan or in the microwave. Warm a large cast-iron skillet over medium-low heat.
+
+- Place the dough into the warm, dry pan and cook for 2 to 3 minutes on one side. When the dough puffs up and has a few bubbles on the surface, brush lightly with some of the melted butter and flip it over. Cook for 1 to 2 minutes on the other side. When finished, brush with more butter and transfer to a cutting board. Wrap in a towel to keep warm. Roll out the next piece of dough and cook the rest of the flatbreads.
+
+- These sourdough flatbreads are best enjoyed warm. You can also reheat them in a low oven, about 275°F (140°C), in a foil package. For crispy flatbreads, reheat directly on the center oven rack.
+
+- Flatbreads will keep fresh stacked, wrapped, and stored at room temperature for 1 to 2 days. Reheat as indicated above for best texture. To freeze, cover the flatbreads in plastic wrap and foil for up to 3 months.
+
+- TIP: After you’ve made this recipe, try spicing up the dough with different seasonings. Chopped herbs including rosemary and sage are always nice or try a light dusting of garlic powder and sesame seeds. Sometimes I’ll fold in a handful of chopped scallions, which gives the dough a mild onion flavor.
+
+### Notes
+
+Excerpted with permission from [Artisan Sourdough Made Simple](https://www.amazon.com/Artisan-Sourdough-Made-Simple-Handcrafted/dp/1624144292) by Emilie Raffa, Page Street Publishing Co. 2017. Photo credit: Emilie Raffa
+
+---
+
+[Pin893](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fediblecommunities.com%2Frecipes%2Fskillet-greek-yogurt-sourdough-flatbreads%2F)
+
+[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fediblecommunities.com%2Frecipes%2Fskillet-greek-yogurt-sourdough-flatbreads%2F)
+
+[Email](<mailto:?subject=Greek%20Yogurt%20Sourdough%20Flatbreads&body=Leftover%20sourdough%20starter%20paired%20with%20tangy%20Greek%20yogurt%20creates%20the%20best%20homemade%20flatbreads.%20They%20are%20delightfully%20soft%2C%20and%20you%20won%E2%80%99t%20get%20over%20how%20easy%20they%20are%20to%20make.%20As%20the%20name%20suggests%2C%20flatbreads%20do%20not%20need%20to%20rise.%20But%20the%20dough%20does%20need%20to%20rest%20for%20about%20an%20hour%2C%20so%20it%E2%80%99s%20easier%20to%20roll.%20These%20flatbreads%20freeze%20beautifully.%20Wondering%20how%20you%20can%20be%20lucky%20enough%20to%20have%20%22leftover%20sourdough%20starter%22%3F%20See%20how%20to%20make%20a%20sourdough%20starter%20to%20get...%20started.%20Greek%20Yogurt%20Sourdough%20Flatbreads%20Leftover%20sourdough%20starter%20paired%20with%20tangy%20Greek%20yogurt%20creates%20the%20best%20homemade%20flatbreads.%202%C2%BD%20cups%20%2F300%0D%0A%0D%0ARead More Here: %20https%3A%2F%2Fediblecommunities.com%2Frecipes%2Fskillet-greek-yogurt-sourdough-flatbreads%2F>)
+
+893 Shares
+
+- [bread](https://ediblecommunities.com/tag/bread/) [diy](https://ediblecommunities.com/tag/diy/) [Greek yogurt](https://ediblecommunities.com/tag/greek-yogurt/) [homemade](https://ediblecommunities.com/tag/homemade/) [sourdough](https://ediblecommunities.com/tag/sourdough/)
+
+[![](https://ediblecommunities.com/wp-content/uploads/2025/12/cava-01-dec-2025-300x250-1.gif)](https://perfectedbytime-usa.eu/)
+
+[![](https://ediblecommunities.com/wp-content/uploads/2026/04/edible-unisg-LT-FoodTech-300x600px.jpg)](https://www.unisg.it/en/programs-admissions/three-year-undergraduate-degree-in-food-tech-for-ecological-transition/?utm_source=edible_communities&utm_medium=display&utm_campaign=LTFT-eng&utm_id=edible+display)
+
+[![](https://ediblecommunities.com/wp-content/uploads/2023/04/find-your-edible-sidebar-29-jan-2026.png)](https://ediblecommunities.com/edible-communities/find-your-edible/)
+
+[![](https://ediblecommunities.com/wp-content/uploads/2025/07/edible-logo-tm.png)](https://ediblecommunities.com)
+
+[#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9](#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9)
+
+**RECIPES**
+
+## [All Recipes](https://ediblecommunities.com/recipes)
+
+## [Home Cooking](https://ediblecommunities.com/home-cooking/)
+
+## [Seasonal Ingredients](https://ediblecommunities.com/seasonal-ingredients/)
+
+## [GARDEN](https://ediblecommunities.com/garden/)
+
+**DRINK**
+
+## [All Drinks](https://ediblecommunities.com/drink/)
+
+## [Wine](https://ediblecommunities.com/wine/)
+
+## [PODCASTS](https://ediblecommunities.com/podcasts)
+
+## [KIDS](https://ediblecommunities.com/kids/)
+
+## [FIND YOUR EDIBLE](https://ediblecommunities.com/edible-communities/find-your-edible/)
+
+## [ABOUT](https://ediblecommunities.com/about/founders-edible-communities/)
+
+[Instagram](https://www.instagram.com/edible.communities/) [Facebook](https://www.facebook.com/EdibleCommunities)

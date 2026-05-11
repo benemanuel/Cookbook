@@ -1,3 +1,8 @@
+---
+labels: [meat, dairy]
+labels: [meat, dairy]
+---
+
 # Smashed Burger
 
 ![](/images/smashed-burger.jpg)

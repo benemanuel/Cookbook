@@ -1,0 +1,90 @@
+---
+subject: "Cretan Beet and Yogurt Salad with Walnuts | Greek Food - Greek Cooking - Greek Recipes by Diane Kochilas"
+from: "benemanuel family <benemanuel.family@gmail.com>"
+to: "benemanuel.family@gmail.com"
+date: "Thu, 10 Oct 2019 17:52:48 +0300"
+date_parsed: 2019-10-10T17:52:48+03:00
+labels: [dairy]
+---
+
+# Cretan Beet and Yogurt Salad with Walnuts | Greek Food - Greek Cooking - Greek Recipes by Diane Kochilas
+
+<https://www.dianekochilas.com/recipe-of-the-day-beet-walnutyogurt-salad/>
+
+---
+
+[https://www.facebook.com/sharer/sharer.php?u=https://www.dianekochilas.com/recipe-of-the-day-beet-walnutyogurt-salad/](https://www.facebook.com/sharer/sharer.php?u=https://www.dianekochilas.com/recipe-of-the-day-beet-walnutyogurt-salad/) [https://twitter.com/intent/tweet?text=Beet, Walnut,Yogurt Salad&url=https://www.dianekochilas.com/recipe-of-the-day-beet-walnutyogurt-salad/](<https://twitter.com/intent/tweet?text=Beet, Walnut,Yogurt Salad&url=https://www.dianekochilas.com/recipe-of-the-day-beet-walnutyogurt-salad/>) [https://pinterest.com/pin/create/button/?url=https://www.dianekochilas.com/recipe-of-the-day-beet-walnutyogurt-salad/&media=&description=Beet, Walnut,Yogurt Salad](<https://pinterest.com/pin/create/button/?url=https://www.dianekochilas.com/recipe-of-the-day-beet-walnutyogurt-salad/&media=&description=Beet, Walnut,Yogurt Salad>)
+
+![](https://www.dianekochilas.com/wp-content/uploads/2013/10/CRETAN-BEET_YOGURT-SALAD-930x620.jpg)
+
+# Beet, Walnut & Yogurt Salad
+
+---
+
+One of the favorite trios of ingredients in the whole Greek kitchen.
+
+RATING
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBzdHlsZT0iZGlzcGxheTpibG9jazt3aWR0aDowcHg7aGVpZ2h0OjBweCIgaGVpZ2h0PSIwIj48ZGVmcz48bGluZWFyZ3JhZGllbnQgaWQ9Indwcm0tcmVjaXBlLXVzZXItcmF0aW5nLTAtMzMiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjMzJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iMzMlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PC9saW5lYXJncmFkaWVudD48L2RlZnM+PGRlZnM+PGxpbmVhcmdyYWRpZW50IGlkPSJ3cHJtLXJlY2lwZS11c2VyLXJhdGluZy0wLTUwIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjwvbGluZWFyZ3JhZGllbnQ+PC9kZWZzPjxkZWZzPjxsaW5lYXJncmFkaWVudCBpZD0id3BybS1yZWNpcGUtdXNlci1yYXRpbmctMC02NiI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iNjYlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI2NiUiIHN0b3Atb3BhY2l0eT0iMCIgLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3Atb3BhY2l0eT0iMCIgLz48L2xpbmVhcmdyYWRpZW50PjwvZGVmcz48L3N2Zz4=)
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGhlaWdodD0iMTZweCIgd2lkdGg9IjE2cHgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzM0MzQzNCIgZD0iTTExLjk5LDEuOTRjLS4zNSwwLS42Ny4xOS0uODMuNTFsLTIuNTYsNS4yYy0uMTEuMjQtLjM0LjQtLjYxLjQzbC01Ljc1LjgzYy0uMzUuMDUtLjY0LjMtLjc0LjY0LS4xMS4zNCwwLC43LjIyLjk0bDQuMTYsNC4wNWMuMTkuMTkuMjcuNDUuMjIuN2wtLjk4LDUuNzJjLS4wNi4zNS4xLjcuMzcuOS4yOS4yMS42Ni4yNC45OC4wOGw1LjE0LTIuNzFoMGMuMjQtLjEzLjUxLS4xMy43NSwwbDUuMTQsMi43MWMuMzIuMTYuNjkuMTMuOTgtLjA4LjI5LS4yMS40My0uNTYuMzctLjlsLS45OC01LjcyaDBjLS4wNS0uMjYuMDUtLjUzLjIyLS43bDQuMTYtNC4wNWgwYy4yNi0uMjQuMzQtLjYxLjIyLS45NHMtLjQtLjU4LS43NC0uNjRsLTUuNzUtLjgzYy0uMjYtLjAzLS40OC0uMjEtLjYxLS40M2wtMi41Ni01LjJjLS4xNi0uMzItLjQ4LS41My0uODMtLjUxLDAsMC0uMDIsMC0uMDIsMFoiIC8+PC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTZweCIgdmlld0JveD0iMCAwIDI0IDI0IiBoZWlnaHQ9IjE2cHgiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBzdHJva2U9IiMzNDM0MzQiIGQ9Ik0xMS45OSwxLjk0Yy0uMzUsMC0uNjcuMTktLjgzLjUxbC0yLjU2LDUuMmMtLjExLjI0LS4zNC40LS42MS40M2wtNS43NS44M2MtLjM1LjA1LS42NC4zLS43NC42NC0uMTEuMzQsMCwuNy4yMi45NGw0LjE2LDQuMDVjLjE5LjE5LjI3LjQ1LjIyLjdsLS45OCw1LjcyYy0uMDYuMzUuMS43LjM3LjkuMjkuMjEuNjYuMjQuOTguMDhsNS4xNC0yLjcxaDBjLjI0LS4xMy41MS0uMTMuNzUsMGw1LjE0LDIuNzFjLjMyLjE2LjY5LjEzLjk4LS4wOC4yOS0uMjEuNDMtLjU2LjM3LS45bC0uOTgtNS43MmgwYy0uMDUtLjI2LjA1LS41My4yMi0uN2w0LjE2LTQuMDVoMGMuMjYtLjI0LjM0LS42MS4yMi0uOTRzLS40LS41OC0uNzQtLjY0bC01Ljc1LS44M2MtLjI2LS4wMy0uNDgtLjIxLS42MS0uNDNsLTIuNTYtNS4yYy0uMTYtLjMyLS40OC0uNTMtLjgzLS41MSwwLDAtLjAyLDAtLjAyLDBaIiBmaWxsPSJub25lIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIC8+PC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE2cHgiIHdpZHRoPSIxNnB4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIj48cGF0aCBmaWxsPSJub25lIiBkPSJNMTEuOTksMS45NGMtLjM1LDAtLjY3LjE5LS44My41MWwtMi41Niw1LjJjLS4xMS4yNC0uMzQuNC0uNjEuNDNsLTUuNzUuODNjLS4zNS4wNS0uNjQuMy0uNzQuNjQtLjExLjM0LDAsLjcuMjIuOTRsNC4xNiw0LjA1Yy4xOS4xOS4yNy40NS4yMi43bC0uOTgsNS43MmMtLjA2LjM1LjEuNy4zNy45LjI5LjIxLjY2LjI0Ljk4LjA4bDUuMTQtMi43MWgwYy4yNC0uMTMuNTEtLjEzLjc1LDBsNS4xNCwyLjcxYy4zMi4xNi42OS4xMy45OC0uMDguMjktLjIxLjQzLS41Ni4zNy0uOWwtLjk4LTUuNzJoMGMtLjA1LS4yNi4wNS0uNTMuMjItLjdsNC4xNi00LjA1aDBjLjI2LS4yNC4zNC0uNjEuMjItLjk0cy0uNC0uNTgtLjc0LS42NGwtNS43NS0uODNjLS4yNi0uMDMtLjQ4LS4yMS0uNjEtLjQzbC0yLjU2LTUuMmMtLjE2LS4zMi0uNDgtLjUzLS44My0uNTEsMCwwLS4wMiwwLS4wMiwwWiIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2U9IiMzNDM0MzQiIC8+PC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTZweCIgaGVpZ2h0PSIxNnB4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIj48cGF0aCBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMS45OSwxLjk0Yy0uMzUsMC0uNjcuMTktLjgzLjUxbC0yLjU2LDUuMmMtLjExLjI0LS4zNC40LS42MS40M2wtNS43NS44M2MtLjM1LjA1LS42NC4zLS43NC42NC0uMTEuMzQsMCwuNy4yMi45NGw0LjE2LDQuMDVjLjE5LjE5LjI3LjQ1LjIyLjdsLS45OCw1LjcyYy0uMDYuMzUuMS43LjM3LjkuMjkuMjEuNjYuMjQuOTguMDhsNS4xNC0yLjcxaDBjLjI0LS4xMy41MS0uMTMuNzUsMGw1LjE0LDIuNzFjLjMyLjE2LjY5LjEzLjk4LS4wOC4yOS0uMjEuNDMtLjU2LjM3LS45bC0uOTgtNS43MmgwYy0uMDUtLjI2LjA1LS41My4yMi0uN2w0LjE2LTQuMDVoMGMuMjYtLjI0LjM0LS42MS4yMi0uOTRzLS40LS41OC0uNzQtLjY0bC01Ljc1LS44M2MtLjI2LS4wMy0uNDgtLjIxLS42MS0uNDNsLTIuNTYtNS4yYy0uMTYtLjMyLS40OC0uNTMtLjgzLS41MSwwLDAtLjAyLDAtLjAyLDBaIiBmaWxsPSJub25lIiBzdHJva2U9IiMzNDM0MzQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIC8+PC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTZweCIgaGVpZ2h0PSIxNnB4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTEuOTksMS45NGMtLjM1LDAtLjY3LjE5LS44My41MWwtMi41Niw1LjJjLS4xMS4yNC0uMzQuNC0uNjEuNDNsLTUuNzUuODNjLS4zNS4wNS0uNjQuMy0uNzQuNjQtLjExLjM0LDAsLjcuMjIuOTRsNC4xNiw0LjA1Yy4xOS4xOS4yNy40NS4yMi43bC0uOTgsNS43MmMtLjA2LjM1LjEuNy4zNy45LjI5LjIxLjY2LjI0Ljk4LjA4bDUuMTQtMi43MWgwYy4yNC0uMTMuNTEtLjEzLjc1LDBsNS4xNCwyLjcxYy4zMi4xNi42OS4xMy45OC0uMDguMjktLjIxLjQzLS41Ni4zNy0uOWwtLjk4LTUuNzJoMGMtLjA1LS4yNi4wNS0uNTMuMjItLjdsNC4xNi00LjA1aDBjLjI2LS4yNC4zNC0uNjEuMjItLjk0cy0uNC0uNTgtLjc0LS42NGwtNS43NS0uODNjLS4yNi0uMDMtLjQ4LS4yMS0uNjEtLjQzbC0yLjU2LTUuMmMtLjE2LS4zMi0uNDgtLjUzLS44My0uNTEsMCwwLS4wMiwwLS4wMiwwWiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2U9IiMzNDM0MzQiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIC8+PC9zdmc+)
+
+SERVES
+
+4
+
+PREP TIME
+
+15 min
+
+COOK TIME
+
+40 min
+
+RECIPES
+
+[- Gluten Free](https://www.dianekochilas.com/category/recipes/special-diets/gluten-free-special-diets/)[- Salads](https://www.dianekochilas.com/category/recipes/course/greek-salads/)[- Vegan](https://www.dianekochilas.com/category/recipes/special-diets/vegan-recipes/)[- Vegetables](https://www.dianekochilas.com/category/recipes/main-ingredient/greek-vegetables/)[- Yogurt](https://www.dianekochilas.com/category/recipes/main-ingredient/yogurt-recipes/)
+
+[Print Recipe](https://www.dianekochilas.com/wprm_print/beet-walnut-yogurt-salad)
+
+## Ingredients
+
+- 2 pounds 1 kilo beetroots, trimmed and scrubbed
+- 2-3 garlic small cloves crushed
+- 1 cup Greek strained yogurt
+- 1 cup walnuts
+- 1/2 cup [extra virgin Greek olive oil](https://shop.dianekochilas.com/collections/olive-oils-and-vinegars)
+- [Salt to taste](https://shop.dianekochilas.com/collections/herbs-and-seasonings/products/fleur-de-sel-sea-salt-5-29-oz)
+- 1 Tbsp. balsamic vinegar or Greek sweet vinegar glykadi
+
+## Instructions
+
+1. 1. Bring the beetroots to a boil over medium heat in a large pot of lightly salted water. Simmer for about 35-40 minutes, or until fork tender. Remove, drain, and rinse. Peel the beet roots and cut into 1-inch (2/5 cm) cubes.
+
+2. 2. While the beetroots are boiling, toss the walnuts in a nonstick skillet over medium heat until lightly toasted. Remove, set aside to cool slightly and chop or pulverize in a food processor until coarsely ground.
+
+3. 3. In a medium bowl, whisk together the olive oil, vinegar, yogurt, and garlic. Add a little salt to taste. Whisking all the while, dilute the dressing with about 2-3 tablespoons of water. Mix in the walnuts.
+
+4. 4. Pour the dressing over the beets, adjust seasoning with salt and serve. The salad may be served either at room temperature or chilled.
+
+##### **Love vegetables? Want to learn more great plant-based Mediterranean dishes? Enroll in my online class “[Baked Vegetable Classics!](https://go.dianekochilas.com/enroll-on-demand1610462963127)”**
+
+### SHOP
+
+### Greek Specialty Foods
+
+[![Image](https://www.dianekochilas.com/wp-content/uploads/2019/05/recipe-eshop-banner.jpg)](https://shop.dianekochilas.com)
+
+ 
+
+[Visit my online shop for a wide selection of Greek single-origin artisanal foods, from honeys to wild herbs, olives, olive oils, pistachios, heirloom grain products, fruit preserves and more.](https://shop.dianekochilas.com)
+
+ 
+
+[SHOP NOW](https://shop.dianekochilas.com)
+
+Share it if you like it!
+
+- [![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIHZlcnNpb249IjEuMSIgaGVpZ2h0PSIzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMTggMzIiPjxwYXRoIGQ9Ik0xNy4xMiAwLjIyNHY0LjcwNGgtMi43ODRxLTEuNTM2IDAtMi4wODAgMC42NHQtMC41NDQgMS45MnYzLjM5Mmg1LjI0OGwtMC43MDQgNS4yOGgtNC41NDR2MTMuNTY4aC01LjQ3MnYtMTMuNTY4aC00LjU0NHYtNS4yOGg0LjU0NHYtMy45MDRxMC0zLjMyOCAxLjg1Ni01LjE1MnQ0Ljk2LTEuODI0cTIuNjI0IDAgNC4wNjQgMC4yMjR6IiAvPjwvc3ZnPg==) Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.dianekochilas.com%2Frecipe-of-the-day-beet-walnutyogurt-salad%2F&t=Beet%2C%20Walnut%2CYogurt%20Salad "Share on Facebook")
+- [![SVG Image](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAyOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMzIiPjxwYXRoIGQ9Ik0yNS4yLDEuNWg0LjlsLTEwLjcsMTIuMywxMi42LDE2LjdoLTkuOWwtNy43LTEwLjEtOC44LDEwLjFILjZsMTEuNS0xMy4xTDAsMS41aDEwLjFsNyw5LjJMMjUuMiwxLjVaTTIzLjUsMjcuNWgyLjdMOC42LDQuM2gtMi45bDE3LjgsMjMuMloiIC8+PC9zdmc+) Twitter](https://x.com/intent/tweet?text=Beet%2C%20Walnut%2CYogurt%20Salad&url=https%3A%2F%2Fwww.dianekochilas.com%2Frecipe-of-the-day-beet-walnutyogurt-salad%2F "Share on X")
+-  ![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIHZpZXdCb3g9IjAgMCAyMyAzMiIgaGVpZ2h0PSIzMiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0wIDEwLjY1NnEwLTEuOTIgMC42NzItMy42MTZ0MS44NTYtMi45NzYgMi43Mi0yLjIwOCAzLjI5Ni0xLjQwOCAzLjYxNi0wLjQ0OHEyLjgxNiAwIDUuMjQ4IDEuMTg0dDMuOTM2IDMuNDU2IDEuNTA0IDUuMTJxMCAxLjcyOC0wLjMyIDMuMzZ0LTEuMDg4IDMuMTY4LTEuNzkyIDIuNjU2LTIuNTYgMS44NTYtMy4zOTIgMC42NzJxLTEuMjE2IDAtMi40LTAuNTc2dC0xLjcyOC0xLjU2OHEtMC4xNiAwLjcwNC0wLjQ4IDIuMDE2dC0wLjQ0OCAxLjY5Ni0wLjM1MiAxLjI4LTAuNDggMS4yNDgtMC41NDQgMS4xMi0wLjgzMiAxLjQwOC0xLjEyIDEuNTM2bC0wLjIyNCAwLjA5Ni0wLjE2LTAuMTkycS0wLjI4OC0yLjgxNi0wLjI4OC0zLjM2IDAtMS42MzIgMC4zODQtMy42OHQxLjE4NC01LjE1MiAwLjkyOC0zLjYxNnEtMC41NzYtMS4xNTItMC41NzYtMy4wMDggMC0xLjUwNCAwLjkyOC0yLjc4NHQyLjM2OC0xLjMxMnExLjA4OCAwIDEuNjk2IDAuNzM2dDAuNjA4IDEuODI0cTAgMS4xODQtMC43NjggMy4zOTJ0LTAuOCAzLjM2cTAgMS4xMiAwLjggMS44NTZ0MS45NTIgMC43MzZxMC45OTIgMCAxLjgyNC0wLjQ0OHQxLjQwOC0xLjIxNiAwLjk5Mi0xLjY5NiAwLjY3Mi0xLjk1MiAwLjM1Mi0xLjk4NCAwLjEyOC0xLjc5MnEwLTMuMDcyLTEuOTUyLTQuOHQtNS4xMi0xLjcyOHEtMy41NTIgMC01Ljk1MiAyLjMwNHQtMi40IDUuODU2cTAgMC44IDAuMjI0IDEuNTM2dDAuNDggMS4xNTIgMC40OCAwLjgzMiAwLjIyNCAwLjU0NHEwIDAuNDgtMC4yNTYgMS4yOHQtMC42NzIgMC44cS0wLjAzMiAwLTAuMjg4LTAuMDMyLTAuOTI4LTAuMjg4LTEuNjMyLTAuOTkydC0xLjA4OC0xLjY5Ni0wLjU3Ni0xLjkyLTAuMTkyLTEuOTJ6IiAvPjwvc3ZnPg==) Pinterest

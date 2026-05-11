@@ -1,3 +1,8 @@
+---
+labels: [cake]
+labels: [cake]
+---
+
 # Geröstete Kartoffeln
 
 ![](/images/roast-potatoes.jpg)

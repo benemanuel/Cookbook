@@ -1,3 +1,8 @@
+---
+labels: [meat, dairy]
+labels: [dairy]
+---
+
 # Enchiladas
 
 ## Ingredients

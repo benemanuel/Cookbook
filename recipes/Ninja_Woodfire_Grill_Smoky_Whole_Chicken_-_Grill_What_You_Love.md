@@ -1,0 +1,230 @@
+---
+subject: "Ninja Woodfire Grill Smoky Whole Chicken - Grill What You Love"
+from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
+to: "Family <benemanuel.family@gmail.com>"
+date: "Fri, 8 Nov 2024 16:28:21 +0200"
+date_parsed: 2024-11-08T16:28:21+02:00
+labels: [meat, fish, dairy]
+---
+
+# Ninja Woodfire Grill Smoky Whole Chicken - Grill What You Love
+
+<https://grillwhatyoulove.com/ninja-woodfire-grill-smoky-whole-chicken/>
+
+---
+
+[![Google logo](/wp-content/uploads/2026/01/google_logo.png) Add Preferred Source](https://google.com/preferences/source?q=grillwhatyoulove.com "Add this site as a preferred source on Google")
+
+I cooked thousands of whole chickens as a professional chef, and here’s what I learned: you don’t need to brine. Spatchcock the bird, sear it hot, finish it low, and you get crispy skin and juicy meat in 45 minutes. The Ninja Woodfire handles the smoke; my instructions will help you handle the rest of this Ninja Woodfire Whole Chicken.
+
+![Ninja Woodfire Grill Smoky Whole Chicken on a cutting board.](https://grillwhatyoulove.com/wp-content/uploads/2023/07/finished-chicken-6v-794x1024.jpg)
+
+*This post may contain affiliate link(s). As an Amazon Associate, I earn from qualifying purchases. See [Disclosure](https://grillwhatyoulove.com/disclosures/).*
+
+Elevate your cooking game and treat everyone to a delish smoke-infused meal! Just look at the color that Woodfire smoke gives the chicken – it’s mahogany, juicy, succulent, and oh-so good. There’s no real secret to this dish, just controlling the heat of your Ninja so that the chicken has time to cook through. And when you spatchcock the chicken – more on that below, it cooks more evenly.
+
+NEW RELEASE!
+
+![SMOKE eBook Cover](https://grillwhatyoulove.com/wp-content/uploads/2024/07/1720449652-e1747852243912.png)[![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAzMiIgaGVpZ2h0PSIzMiIgd2lkdGg9IjIzIj48cGF0aCBkPSJNMCAxMC42NTZxMC0xLjkyIDAuNjcyLTMuNjE2dDEuODU2LTIuOTc2IDIuNzItMi4yMDggMy4yOTYtMS40MDggMy42MTYtMC40NDhxMi44MTYgMCA1LjI0OCAxLjE4NHQzLjkzNiAzLjQ1NiAxLjUwNCA1LjEycTAgMS43MjgtMC4zMiAzLjM2dC0xLjA4OCAzLjE2OC0xLjc5MiAyLjY1Ni0yLjU2IDEuODU2LTMuMzkyIDAuNjcycS0xLjIxNiAwLTIuNC0wLjU3NnQtMS43MjgtMS41NjhxLTAuMTYgMC43MDQtMC40OCAyLjAxNnQtMC40NDggMS42OTYtMC4zNTIgMS4yOC0wLjQ4IDEuMjQ4LTAuNTQ0IDEuMTItMC44MzIgMS40MDgtMS4xMiAxLjUzNmwtMC4yMjQgMC4wOTYtMC4xNi0wLjE5MnEtMC4yODgtMi44MTYtMC4yODgtMy4zNiAwLTEuNjMyIDAuMzg0LTMuNjh0MS4xODQtNS4xNTIgMC45MjgtMy42MTZxLTAuNTc2LTEuMTUyLTAuNTc2LTMuMDA4IDAtMS41MDQgMC45MjgtMi43ODR0Mi4zNjgtMS4zMTJxMS4wODggMCAxLjY5NiAwLjczNnQwLjYwOCAxLjgyNHEwIDEuMTg0LTAuNzY4IDMuMzkydC0wLjggMy4zNnEwIDEuMTIgMC44IDEuODU2dDEuOTUyIDAuNzM2cTAuOTkyIDAgMS44MjQtMC40NDh0MS40MDgtMS4yMTYgMC45OTItMS42OTYgMC42NzItMS45NTIgMC4zNTItMS45ODQgMC4xMjgtMS43OTJxMC0zLjA3Mi0xLjk1Mi00Ljh0LTUuMTItMS43MjhxLTMuNTUyIDAtNS45NTIgMi4zMDR0LTIuNCA1Ljg1NnEwIDAuOCAwLjIyNCAxLjUzNnQwLjQ4IDEuMTUyIDAuNDggMC44MzIgMC4yMjQgMC41NDRxMCAwLjQ4LTAuMjU2IDEuMjh0LTAuNjcyIDAuOHEtMC4wMzIgMC0wLjI4OC0wLjAzMi0wLjkyOC0wLjI4OC0xLjYzMi0wLjk5MnQtMS4wODgtMS42OTYtMC41NzYtMS45Mi0wLjE5Mi0xLjkyeiIgLz48L3N2Zz4=)](https://pinterest.com/pin/create/bookmarklet/?media=https%3A%2F%2Fgrillwhatyoulove.com%2Fwp-content%2Fuploads%2F2024%2F07%2F1720449652-e1747852243912.png&url=https%3A%2F%2Fgrillwhatyoulove.com%2Fgrilled-french-onion-pork-burgers-on-a-ninja-woodfire-outdoor-grill%2F&is_video=false&description=SMOKE%20eBook%20Cover "Save")
+
+## SMOKE | +25 Ninja Woodfire Outdoor Grill Recipe eBook
+
+Master your Ninja Woodfire Outdoor Grill!  
+This collection of +25 recipes has something for everyone, including:
+
+- Smoked Pulled Pork
+- Whole Smoked Chicken
+- Smoked Lamb Chops
+- and more!
+
+Get your [digital ebook copy](https://grillwhatyoulove.com/digital-ebook-cookbooks/) now at an introductory price of **$7.99!!**
+
+[Get Your eBook Now! →](https://grillwhatyoulove.com/digital-ebook-cookbooks/)
+
+## Why My Method is Different
+
+Most Ninja Woodfire whole chicken recipes will tell you to brine the bird hours ahead of time, then set the Smoker function at 350°F and walk away for an hour. That gives you smoky chicken, but the skin comes out rubbery. Other recipes have you smoking for two or three hours at 225°F, which I save for ribs and brisket, not chicken.  
+
+My method uses the Grill setting with the woodfire button on, sears the skin first at high heat, then drops to low to finish. You get bite-through crispy skin and deep smoke flavor in 45 minutes, the two things you usually have to choose between with a whole bird.
+
+![A top-down shot of a Ninja Woodfire Grill Whole Smoky Chicken on a cutting board with knife and fork.](https://grillwhatyoulove.com/wp-content/uploads/2023/07/finished-whole-chicken-2h-1024x696.jpg)
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjMwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGFyaWEtaGlkZGVuPSJ0cnVlIiBzdHlsZT0iZGlzcGxheTppbmxpbmUtYmxvY2s7dmVydGljYWwtYWxpZ246bWlkZGxlIiBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iMzAiPjxwYXRoIGQ9Ik00NjIuMyA2Mi42QzQwNy41IDE1LjkgMzI2IDI0LjMgMjc1LjcgNzYuMkwyNTYgOTYuNWwtMTkuNy0yMC4zQzE4Ni4xIDI0LjMgMTA0LjUgMTUuOSA0OS43IDYyLjZjLTYyLjggNTMuNi02Ni4xIDE0OS44LTkuOSAyMDcuOWwxOTMuNSAxOTkuOGMxMi41IDEyLjkgMzIuOCAxMi45IDQ1LjMgMGwxOTMuNS0xOTkuOGM1Ni4zLTU4LjEgNTMtMTU0LjMtOS44LTIwNy45eiIgLz48L3N2Zz4=)
+
+## What You’ll Love About Ninja Woodfire Grill Smoky Whole Chicken
+
+---
+
+- 45 minutes start to finish, no brining, no marinating, no three hour smoke session
+- Crispy skin AND deep smoke flavor, not one or the other like most Ninja Woodfire chicken recipes
+- Two ingredients (a whole chicken and Montreal chicken seasoning), no spice cabinet raid
+- No basting, no flipping every five minutes, no spritzing, just a meat thermometer and you’re good
+- Spatchcocking is the trick every restaurant kitchen I worked in used to roast chicken fast and evenly, and it works just as well on the Ninja
+
+## Ingredients
+
+To make this delectable dish, you’ll need:
+
+- **Pellets** – Opt for your favorite blend of pellets, or Ninja’s mild blend.
+- **Whole chicken** – Opt for fresh, locally sourced chicken if possible. The taste is often superior to frozen varieties. Spatchcock the chicken so it cooks more evenly.
+- **Montreal Chicken Seasoning**: This flavorful blend of spices elevates the chicken. If you can’t find it, a mix of garlic powder, onion powder, dried thyme, dried sage, and black pepper can work as a substitute.
+
+![Labeled ingredients to make Ninja Woodfire Grill Whole Smoky Chicken.](https://grillwhatyoulove.com/wp-content/uploads/2023/07/labeled-ingredients-2-1024x742.jpg)
+
+## How to Spatchcock a Chicken
+
+Spatchcocking, or butterflying, a chicken ensures it cooks evenly on the grill. Here’s how to do it:
+
+1. **Place** the chicken breast side down with the tail facing towards you.
+2. **Cut** along one side of the backbone using kitchen or poultry shears, starting from the tail end.
+3. **Repeat** on the other side and remove the backbone.
+4. **Open** the chicken and press it flat. Voila! Your chicken is spatchcocked.
+
+![A spatchcocked chicken.](https://grillwhatyoulove.com/wp-content/uploads/2023/07/spatchcock-the-chicken-1024x765.jpg)
+
+## How to Make The Best Ninja Woodfire Grill Whole Chicken
+
+*Scroll down for the full recipe card with exact measurements and printable instructions.*
+
+Start by preheating your Ninja Woodfire outdoor grill to the Grill setting on high heat. Add pellets to the hopper and press the Woodfire button to add smoke. Set the cook time for 35 to 40 minutes so the grill is fully ready when the chicken goes on.
+
+Prepare the chicken by spatchcocking it, which helps it cook more evenly and faster. Sprinkle both sides generously with Montreal chicken seasoning, making sure to cover all surfaces for the best flavor.
+
+![A spatchcocked chicken.](https://grillwhatyoulove.com/wp-content/uploads/2026/05/spatchcock-the-chicken-edited.jpg)
+
+*Spatchcock the chicken.*
+
+![Seasoned chicken.](https://grillwhatyoulove.com/wp-content/uploads/2026/05/season-chicken-edited.jpg)
+
+*Season the chicken.*
+
+Place the chicken on the grill skin-side down and cook for 5 to 6 minutes to get a nice sear. This step helps render the fat and crisp up the skin.
+
+Flip the chicken over, then reduce the heat to low. Continue cooking the chicken cut-side down for 15 to 20 minutes, allowing it to cook through gently without burning the outside.
+
+![Seared whole chicken on a girll.](https://grillwhatyoulove.com/wp-content/uploads/2023/07/chicken-on-grill-1024x768.jpg)
+
+Flip the chicken back to skin-side down and continue cooking until the internal temperature reaches 160 F. Remove the chicken from the grill and let it rest for a few minutes so the juices can redistribute.
+
+Carve and serve!
+
+![Ninja Woodfire Grill Smoky Whole Chicken on the grill.](https://grillwhatyoulove.com/wp-content/uploads/2023/07/chicken-on-grill-2-1024x768.jpg)
+
+## Chef Jenn’s Tips
+
+- Pull the chicken at 155 or 160°F, not 165°F. The Ninja cooks hot and carryover cooking will take it to 165°F while it rests, which is the safe temp. Pulling at 165°F means it finishes at 170°F, and the breast goes dry every time.
+- Take the chicken out of the fridge 20 to 30 minutes before it goes on the grill. A cold bird on a hot grill cooks unevenly, the outside burns before the inside is done. Tempered meat is the single biggest cheat code for grilling, and almost no home cook does it.
+- Pat the skin bone dry with paper towels before seasoning. Wet skin steams instead of crisps, no matter how hot your grill is. If you have an extra hour, leave the seasoned chicken uncovered in the fridge to dry the skin even more.
+- Save the backbone. After you spatchcock, throw the backbone in a freezer bag with onion peels and carrot tops. When you have two or three backbones saved up, simmer them for chicken stock that beats anything in a box.
+
+## Make It A Meal
+
+A whole chicken needs sides that can hold their own. For a cookout vibe, [Grilled Elote Corn Ribs](https://grillwhatyoulove.com/grilled-elote-corn-ribs/) are my go-to, smoky char on smoky char and they hold up to the bigger flavors of the bird. When the chicken’s resting, I use that 15 minutes to throw [smoked corn on the cob](https://grillwhatyoulove.com/ninja-woodfire-outdoor-grill-smoked-corn-on-the-cob/) on the same grill, no extra pots, no extra cleanup. For something heartier, my [Ninja Woodfire Air Fryer Smashed Potatoes](https://grillwhatyoulove.com/ninja-woodfire-grill-air-fryer-smashed-potatoes/) come out crispy outside and creamy inside on the same machine. On a noodle night, I’ll boil pasta and toss it with this [cottage cheese pasta sauce](https://iheartvegetables.com/cottage-cheese-pasta-sauce/), which is high-protein, creamy, and cuts through the smoke better than any red sauce. For a lighter plate, I’ll grill [asparagus with garlic](https://grillwhatyoulove.com/ninja-grilled-asparagus-with-garlic/) alongside the chicken, the green is a fresh counterpoint and the garlic plays nice with the woodfire. And for a summer dinner party, my [Grilled Peach Salad with Tomatoes and Feta](https://grillwhatyoulove.com/grilled-peach-salad-with-tomatoes-feta/) brings sweet and salty that cuts through the rich bird better than anything else I make.
+
+## Storage
+
+Store any leftover chicken in an airtight container for 3-4 days. You can use the leftover chicken in pasta salads or hot pasta dishes, or cut it up for chicken salad or add it to a wrap or sandwich. Yum!
+
+**What pellets work best for whole chicken on the Ninja Woodfire Outdoor Grill?**
+
+Apple, cherry, or pecan pellets are the best match for whole chicken. They give you a clean, slightly sweet smoke that complements poultry without overpowering it. Hickory and mesquite are too aggressive for a whole bird and can leave the meat tasting bitter. Save those stronger woods for brisket and pork shoulder.
+
+**How do I get crispy skin on the Ninja Woodfire Outdoor Grill Chicken?**
+
+Three things get you crispy skin every time: pat the skin completely dry with paper towels before seasoning, sear the bird skin-side down at high heat for the first 5 to 6 minutes, and let the chicken rest skin-side up on a wire rack instead of a plate after it comes off the grill. Plates trap steam under the bird and soften the skin you just spent 45 minutes crisping up.
+
+**What size chicken should I buy?**
+
+A 3 to 4 pound whole chicken is the sweet spot for the Ninja Woodfire and it’ll serve about 6 people. Anything bigger than 4.5 pounds will hang over the edges of the grill plate even spatchcocked, which means uneven cooking and longer times. If your store only carries 5+ pound birds, ask the butcher to cut it in half along the breastbone and grill the two halves side by side; same method, same timing.
+
+---
+
+![Ninja Woodfire Grill Smoky Whole Chicken on a cutting board.](https://grillwhatyoulove.com/wp-content/uploads/2023/07/finished-chicken-6v-500x500.jpg)
+
+## Ninja Woodfire Grill Whole Smoky Chicken
+
+Chef Jenn
+
+Move over rotisserie chicken, there's a new bird in town! This Ninja Woodfire Grill Whole Smoky Chicken is easy to make and has flavor in every bite!
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMCIgaGVpZ2h0PSIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJkaXNwbGF5OmJsb2NrO3dpZHRoOjBweDtoZWlnaHQ6MHB4Ij48ZGVmcz48bGluZWFyZ3JhZGllbnQgaWQ9Indwcm0tcmVjaXBlLXVzZXItcmF0aW5nLTItMzMiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjMzJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iMzMlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PC9saW5lYXJncmFkaWVudD48L2RlZnM+PGRlZnM+PGxpbmVhcmdyYWRpZW50IGlkPSJ3cHJtLXJlY2lwZS11c2VyLXJhdGluZy0yLTUwIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjwvbGluZWFyZ3JhZGllbnQ+PC9kZWZzPjxkZWZzPjxsaW5lYXJncmFkaWVudCBpZD0id3BybS1yZWNpcGUtdXNlci1yYXRpbmctMi02NiI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iNjYlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI2NiUiIHN0b3Atb3BhY2l0eT0iMCIgLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3Atb3BhY2l0eT0iMCIgLz48L2xpbmVhcmdyYWRpZW50PjwvZGVmcz48L3N2Zz4=)
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIGhlaWdodD0iMTZweCIgeD0iMHB4IiB3aWR0aD0iMTZweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeT0iMHB4Ij48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLCAwKSI+PHBvbHlnb24gc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgZmlsbD0ibm9uZSIgcG9pbnRzPSIxMiwyLjYgMTUsOSAyMS40LDkgMTYuNywxMy45IDE4LjYsMjEuNCAxMiwxNy42IDUuNCwyMS40IDcuMywxMy45IDIuNiw5IDksOSAiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2U9IiM1QTgyMkIiIHN0cm9rZS1saW5lY2FwPSJzcXVhcmUiIC8+PC9nPjwvc3ZnPg==)![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHk9IjBweCIgd2lkdGg9IjE2cHgiIGhlaWdodD0iMTZweCIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4Ij48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLCAwKSI+PHBvbHlnb24gcG9pbnRzPSIxMiwyLjYgMTUsOSAyMS40LDkgMTYuNywxMy45IDE4LjYsMjEuNCAxMiwxNy42IDUuNCwyMS40IDcuMywxMy45IDIuNiw5IDksOSAiIHN0cm9rZT0iIzVBODIyQiIgc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2Utd2lkdGg9IjIiIGZpbGw9Im5vbmUiIC8+PC9nPjwvc3ZnPg==)![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE2cHgiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjE2cHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0Ij48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLCAwKSI+PHBvbHlnb24gc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2U9IiM1QTgyMkIiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0ibm9uZSIgcG9pbnRzPSIxMiwyLjYgMTUsOSAyMS40LDkgMTYuNywxMy45IDE4LjYsMjEuNCAxMiwxNy42IDUuNCwyMS40IDcuMywxMy45IDIuNiw5IDksOSAiIC8+PC9nPjwvc3ZnPg==)![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIxNnB4IiB4PSIwcHgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgaGVpZ2h0PSIxNnB4Ij48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLCAwKSI+PHBvbHlnb24gc3Ryb2tlLWxpbmVjYXA9InNxdWFyZSIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lam9pbj0ibWl0ZXIiIHBvaW50cz0iMTIsMi42IDE1LDkgMjEuNCw5IDE2LjcsMTMuOSAxOC42LDIxLjQgMTIsMTcuNiA1LjQsMjEuNCA3LjMsMTMuOSAyLjYsOSA5LDkgIiBzdHJva2U9IiM1QTgyMkIiIGZpbGw9Im5vbmUiIC8+PC9nPjwvc3ZnPg==)![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMTZweCIgeT0iMHB4IiB4PSIwcHgiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTZweCIgdmlld0JveD0iMCAwIDI0IDI0Ij48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLCAwKSI+PHBvbHlnb24gc3Ryb2tlPSIjNUE4MjJCIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lam9pbj0ibWl0ZXIiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJzcXVhcmUiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgcG9pbnRzPSIxMiwyLjYgMTUsOSAyMS40LDkgMTYuNywxMy45IDE4LjYsMjEuNCAxMiwxNy42IDUuNCwyMS40IDcuMywxMy45IDIuNiw5IDksOSAiIC8+PC9nPjwvc3ZnPg==)
+
+4.69 from 57 votes
+
+[![SVG Image](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIHdpZHRoPSIxNnB4IiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjE2cHgiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSI+PGcgZmlsbD0iI2ZmZmZmZiI+PGc+PHBhdGggZD0iTTE3LjU0NTQsMC4wMDA1IEMxOC4yOTA0LDAuMDAwNSAxOC45MDA0LDAuNjEwNSAxOC45MDA0LDEuMzU2NSBMMTguOTAwNCwxLjM1NjUgTDE4LjkwMDQsNC45NDQ1IEwyMS45OTA0LDQuOTQ0NSBDMjMuMDk1NCw0Ljk0NDUgMjQuMDAwNCw1Ljg0ODUgMjQuMDAwNCw2Ljk1MzUgTDI0LjAwMDQsNi45NTM1IEwyNC4wMDA0LDE3LjI0MTUgQzI0LjAwMDQsMTguMzQ2NSAyMy4wOTU0LDE5LjI1MDUgMjEuOTkwNCwxOS4yNTA1IEwyMS45OTA0LDE5LjI1MDUgTDE5Ljg0MTQsMTkuMjUwNSBMMTkuODQxNCwyMi4yNzk1IEMxOS44NDE0LDIzLjE3MjUgMTkuMTEwNCwyMy45MDM1IDE4LjIxNzQsMjMuOTAzNSBMMTguMjE3NCwyMy45MDM1IEw1Ljc4MzQsMjMuOTAzNSBDNC44ODk0LDIzLjkwMzUgNC4xNTk0LDIzLjE3MjUgNC4xNTk0LDIyLjI3OTUgTDQuMTU5NCwyMi4yNzk1IEw0LjE1OTQsMTkuMjUwNSBMMi4wMTA0LDE5LjI1MDUgQzAuOTA0NCwxOS4yNTA1IDAuMDAwNCwxOC4zNDY1IDAuMDAwNCwxNy4yNDE1IEwwLjAwMDQsMTcuMjQxNSBMMC4wMDA0LDYuOTUzNSBDMC4wMDA0LDUuODQ4NSAwLjkwNDQsNC45NDQ1IDIuMDEwNCw0Ljk0NDUgTDIuMDEwNCw0Ljk0NDUgTDUuMDk4NCw0Ljk0NDUgTDUuMDk4NCwxLjM1NjUgQzUuMDk4NCwwLjYxMDUgNS43MDk0LDAuMDAwNSA2LjQ1NTQsMC4wMDA1IEw2LjQ1NTQsMC4wMDA1IFogTTE3Ljg0MTQsMTUuNTk3NSBMNi4xNTk0LDE1LjU5NzUgTDYuMTU5NCwyMS45MDM1IEwxNy44NDE0LDIxLjkwMzUgTDE3Ljg0MTQsMTUuNTk3NSBaIE0yMS45OTA0LDYuOTQ0NSBMMi4wMTA0LDYuOTQ0NSBMMi4wMDA0LDE3LjI0MTUgTDQuMTU5NCwxNy4yNDI1IEw0LjE1OTQsMTUuMjIxNSBDNC4xNTk0LDE0LjMyODUgNC44ODk0LDEzLjU5NzUgNS43ODM0LDEzLjU5NzUgTDUuNzgzNCwxMy41OTc1IEwxOC4yMTc0LDEzLjU5NzUgQzE5LjExMDQsMTMuNTk3NSAxOS44NDE0LDE0LjMyODUgMTkuODQxNCwxNS4yMjE1IEwxOS44NDE0LDE1LjIyMTUgTDE5Ljg0MTQsMTcuMjQ5NSBMMjEuOTkwNCwxNy4yNTA1IEwyMi4wMDA0LDYuOTUzNSBMMjEuOTkwNCw2Ljk0NDUgWiBNNi4xNjMyLDkuMTMxOCBDNi43OTAyLDkuMTMxOCA3LjI5OTIsOS42NDA4IDcuMjk5MiwxMC4yNjc4IEM3LjI5OTIsMTAuODk0OCA2Ljc5MDIsMTEuNDAyOCA2LjE2MzIsMTEuNDAyOCBMNi4xNjMyLDExLjQwMjggTDUuMDk5MiwxMS40MDI4IEM0LjQ3MjIsMTEuNDAyOCAzLjk2MzIsMTAuODk0OCAzLjk2MzIsMTAuMjY3OCBDMy45NjMyLDkuNjQwOCA0LjQ3MjIsOS4xMzE4IDUuMDk5Miw5LjEzMTggTDUuMDk5Miw5LjEzMTggWiBNMTYuNjMwNCwyLjI3MTUgTDcuMzcwNCwyLjI3MTUgTDcuMzcwNCw0LjY4NDUgTDE2LjYzMDQsNC42ODQ1IEwxNi42MzA0LDIuMjcxNSBaIiAvPjwvZz48L2c+PC9nPjwvc3ZnPg==) Print Recipe](https://grillwhatyoulove.com/wprm_print/ninja-woodfire-grill-whole-smoky-chicken) [![Google logo](/wp-content/uploads/2026/01/google_logo.png) Add Preferred Source](https://google.com/preferences/source?q=grillwhatyoulove.com "Add this site as a preferred source on Google") [![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjIwcHgiIHdpZHRoPSIxN3B4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDE3IDIwIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+PGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZS13aWR0aD0iMSI+PGcgZmlsbD0iIzYxNjE2MSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTQuMDAwMDAwLCAtMi4wMDAwMDApIj48cGF0aCBkPSJNMTAuNzYzNjcyOCwxNS4yMjc2MjY2IEMxMC4yMDc3MzE3LDE3Ljk4MDI5OSA5LjUyOTU1NDA1LDIwLjYyMDEzNzcgNy41MjA4Nzg5MSwyMiBDNi45MDAyOTM0OSwxNy44MzgwODE1IDguNDMxNzc2MDYsMTQuNzEyODIyOCA5LjE0Mjg2MzUyLDExLjM5NDgwNjQgQzcuOTMxMDc2NDcsOS40NjQ4Nzk3OSA5LjI4ODYwNzA2LDUuNTgyNjk0ODggMTEuODQ0OTk1OSw2LjUzOTQzMDczIEMxNC45OTAyMzU2LDcuNzE1OTU3MjUgOS4xMjA1MzE4NSwxMy43MTE0MjM2IDEzLjA2MTQ4NDMsMTQuNDYxMjk3NiBDMTcuMTc1MjEzNCwxNS4yNDI5MDYxIDE4Ljg1NDc5MDIsNy43MTEyNTU4NSAxNi4zMDQyNzgyLDUuMjYxODI0MDEgQzEyLjYxODM3NjksMS43MjUxOTIzNSA1LjU3MzMyMjAyLDUuMTgwNzI0NzggNi40Mzk1NTU4MywxMC4yNDQxMzc2IEM2LjY1MTExOTA0LDExLjQ4Mjk1NzcgOC4wMDI3NzI4OSwxMS44NTc4OTQ4IDYuOTgwMjE3MzcsMTMuNTY2ODU1NCBDNC42MjEyODc1OCwxMy4wNzIwMzI1IDMuOTE2MDc2ODcsMTEuMzEyNTMxOCA0LjAwNzc1NDI3LDguOTY2NTMwOSBDNC4xNTM0OTc4MSw1LjEyNzgzMzk4IDcuNjU2MDQ0MjksMi40Mzk4MDU4NiAxMS4xNjkxNjg5LDIuMDY3MjE5NTQgQzE1LjYxMTk5NjQsMS41OTcwNzkwNyAxOS43ODIxNDIzLDMuNjEwNDU1NjIgMjAuMzU4MDY0NCw3LjU2MTk4NjI1IEMyMS4wMDU2ODI5LDEyLjAyMjQ0MzkgMTguMzUyOTE1MywxNi44NTMxMzcyIDEzLjYwMDk3MDUsMTYuNTA1MjMzMyBDMTIuMzEzOTYxLDE2LjQxMDAyOTggMTEuNzczMjk5NCwxNS44MDcwNzQ3IDEwLjc2MzY3MjgsMTUuMjI3NjI2NiIgLz48L2c+PC9nPjwvc3ZnPg==) Pin Recipe](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fgrillwhatyoulove.com%2Fninja-woodfire-grill-smoky-whole-chicken%2F&media=https%3A%2F%2Fgrillwhatyoulove.com%2Fwp-content%2Fuploads%2F2023%2F07%2Ffinished-chicken-6v.jpg&description=Ninja+Woodfire+Grill+Whole+Smoky+Chicken&is_video=false)
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhlaWdodD0iMTZweCIgd2lkdGg9IjE2cHgiIHZlcnNpb249IjEuMSI+PGcgZmlsbC1ydWxlPSJldmVub2RkIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZT0ibm9uZSIgZmlsbD0ibm9uZSI+PGcgZmlsbD0iIzllOWU5ZSI+PGc+PHBhdGggZD0iTTEyLDAgQzE4LjYyNywwIDI0LDQuMzczIDI0LDExIEMyNCwxOS40MDYgMTguNjQ2LDI0IDE4LjY0NiwyNCBMMTguNjQ2LDI0IEw1LjM1NCwyNCBDNS4zNTQsMjQgMCwxOS40MDYgMCwxMSBDMCw0LjM3MyA1LjM3MywwIDEyLDAgWiBNMTIsMiBDNi4yMDYsMiAyLDUuNzg1IDIsMTEgQzIsMTYuOTU2IDQuOTYyLDIwLjcxNiA2LjE2OCwyMiBMNi4xNjgsMjIgTDE3LjgzMiwyMiBDMTkuMDMyLDIwLjcyNCAyMiwxNi45NjIgMjIsMTEgQzIyLDUuNzg1IDE3Ljc5NCwyIDEyLDIgWiBNMTUuNDE3NSwxNy43OTgzIEMxNS45Njk3ODQ3LDE3Ljc5ODMgMTYuNDE3NSwxOC4yNDYwMTUzIDE2LjQxNzUsMTguNzk4MyBDMTYuNDE3NSwxOS4zMTExMzU4IDE2LjAzMTQ1OTgsMTkuNzMzODA3MiAxNS41MzQxMjExLDE5Ljc5MTU3MjMgTDE1LjQxNzUsMTkuNzk4MyBMOC41ODI1LDE5Ljc5ODMgQzguMDMwMjE1MjUsMTkuNzk4MyA3LjU4MjUsMTkuMzUwNTg0NyA3LjU4MjUsMTguNzk4MyBDNy41ODI1LDE4LjI4NTQ2NDIgNy45Njg1NDAxOSwxNy44NjI3OTI4IDguNDY1ODc4ODcsMTcuODA1MDI3NyBMOC41ODI1LDE3Ljc5ODMgTDE1LjQxNzUsMTcuNzk4MyBaIE0xMiw0LjI1NDQgQzE1LjE3Myw0LjI1NDQgMTcuNzQ2LDYuODI2NCAxNy43NDYsMTAuMDAwNCBDMTcuNzQ2LDEzLjE3MzQgMTUuMTczLDE1Ljc0NTQgMTIsMTUuNzQ1NCBDOC44MjcsMTUuNzQ1NCA2LjI1NCwxMy4xNzM0IDYuMjU0LDEwLjAwMDQgQzYuMjU0LDYuODI2NCA4LjgyNyw0LjI1NDQgMTIsNC4yNTQ0IFogTTEwLjk5OTk3NzMsNi4zODk5Mzc2MSBDOS40MTg2NDY0Niw2LjgyODUwNDg2IDguMjU0LDguMjgwNzM2MzMgOC4yNTQsMTAuMDAwNCBDOC4yNTQsMTIuMDY1NCA5LjkzNSwxMy43NDU0IDEyLDEzLjc0NTQgQzE0LjA2NSwxMy43NDU0IDE1Ljc0NiwxMi4wNjU0IDE1Ljc0NiwxMC4wMDA0IEMxNS43NDYsOC4yODExMDA1MSAxNC41ODE4NDY4LDYuODI5MTE5OTcgMTMuMDAxMDI3Myw2LjM5MDIxNjM4IEwxMyw5LjI5NjIgQzEzLDkuODQ4NDg0NzUgMTIuNTUyMjg0NywxMC4yOTYyIDEyLDEwLjI5NjIgQzExLjQ4NzE2NDIsMTAuMjk2MiAxMS4wNjQ0OTI4LDkuOTEwMTU5ODEgMTEuMDA2NzI3Nyw5LjQxMjgyMTEzIEwxMSw5LjI5NjIgWiIgLz48L2c+PC9nPjwvZz48L3N2Zz4=)
+
+Prep Time 10 minutes mins
+
+Cook Time 35 minutes mins
+
+Total Time 45 minutes mins
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE2cHgiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTZweCIgdmlld0JveD0iMCAwIDI0IDI0IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZT0ibm9uZSI+PGcgZmlsbD0iIzllOWU5ZSI+PHBhdGggZD0iTTE5LjU0NDEsMTIuMDU4NiBMMTcuODQxMSwxMi4zMTQ2IEwxNy44NDExLDE0LjAzNzYgTDE3Ljg0MTEsMTcuODYwNiBMNi4xNTkxLDE3Ljg2MDYgTDYuMTU5MSwxNC4wMzc2IEw2LjE1OTEsMTIuMzE0NiBMNC40NTYxLDEyLjA1ODYgQzMuMDMzMSwxMS44NDQ2IDIuMDAwMSwxMC42NTM2IDIuMDAwMSw5LjIyNDYgQzIuMDAwMSw3LjY2MjYgMy4yNDcxLDYuMzg3NiA0Ljc5NzEsNi4zNDA2IEM0Ljg2NTEsNi4zNDg2IDQuOTM1MSw2LjM1NTYgNS4wMDUxLDYuMzU3NiBMNi4zMjIxLDYuNDEzNiBMNi44OTMxLDUuMjI0NiBDNy44NDgxLDMuMjM1NiA5LjgwNTEsMS45OTk2IDEyLjAwMDEsMS45OTk2IEMxNC4xOTUxLDEuOTk5NiAxNi4xNTIxLDMuMjM1NiAxNy4xMDcxLDUuMjI0NiBMMTcuNjc4MSw2LjQxMzYgTDE4Ljk5NTEsNi4zNTc2IEMxOS4wNjQxLDYuMzU1NiAxOS4xMzIxLDYuMzQ4NiAxOS4yMDIxLDYuMzQwNiBDMjAuNzUzMSw2LjM4NjYgMjIuMDAwMSw3LjY2MjYgMjIuMDAwMSw5LjIyNDYgQzIyLjAwMDEsMTAuNjUzNiAyMC45NjcxLDExLjg0NDYgMTkuNTQ0MSwxMi4wNTg2IEwxOS41NDQxLDEyLjA1ODYgWiBNNi4xNTkxLDIyLjAwMDYgTDE3Ljg0MTEsMjIuMDAwNiBMMTcuODQxMSwxOS44NjA2IEw2LjE1OTEsMTkuODYwNiBMNi4xNTkxLDIyLjAwMDYgWiBNMTkuMTE0MSw0LjMzODYgQzE5LjA0NTEsNC4zMzg2IDE4Ljk4MDEsNC4zNTY2IDE4LjkxMDEsNC4zNTk2IEMxNy42NzQxLDEuNzgzNiAxNS4wNDkxLC0wLjAwMDQgMTIuMDAwMSwtMC4wMDA0IEM4Ljk1MTEsLTAuMDAwNCA2LjMyNjEsMS43ODM2IDUuMDkwMSw0LjM1OTYgQzUuMDIxMSw0LjM1NjYgNC45NTUxLDQuMzM4NiA0Ljg4NjEsNC4zMzg2IEMyLjE4ODEsNC4zMzg2IDAuMDAwMSw2LjUyNjYgMC4wMDAxLDkuMjI0NiBDMC4wMDAxLDExLjY3MzYgMS44MDgxLDEzLjY4MzYgNC4xNTkxLDE0LjAzNzYgTDQuMTU5MSwyMi4zNzU2IEM0LjE1OTEsMjMuMjY5NiA0Ljg5MDEsMjMuOTk5NiA1Ljc4MzEsMjMuOTk5NiBMMTguMjE3MSwyMy45OTk2IEMxOS4xMTAxLDIzLjk5OTYgMTkuODQxMSwyMy4yNjk2IDE5Ljg0MTEsMjIuMzc1NiBMMTkuODQxMSwxNC4wMzc2IEMyMi4xOTExLDEzLjY4MzYgMjQuMDAwMSwxMS42NzM2IDI0LjAwMDEsOS4yMjQ2IEMyNC4wMDAxLDYuNTI2NiAyMS44MTMxLDQuMzM4NiAxOS4xMTQxLDQuMzM4NiBMMTkuMTE0MSw0LjMzODYgWiIgaWQ9IkZpbGwtMSIgLz48L2c+PC9nPjwvc3ZnPg==)
+
+Course Main Course
+
+Cuisine American
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE2cHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgdmVyc2lvbj0iMS4xIiB3aWR0aD0iMTZweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+PGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PGcgZmlsbD0iIzllOWU5ZSI+PHBhdGggZD0iTTE1LjkxOTksNC45NDQzIEwxOC4xMzk5LDIuNzI0MyBDMTguNTUwOSwyLjMxMzMgMTkuMDkwOSwyLjEwODMgMTkuNjI5OSwyLjEwODMgQzIwLjE2OTksMi4xMDgzIDIwLjcwOTksMi4zMTMzIDIxLjEyMDksMi43MjQzIEMyMS45NDI5LDMuNTQ3MyAyMS45NDE5LDQuODg0MyAyMS4xMjA5LDUuNzA3MyBMMTguOTAxOSw3LjkyNTMgQzE4LjA3OTksOC43NDgzIDE2Ljc0MTksOC43NDgzIDE1LjkxOTksNy45MjUzIEMxNS4wOTc5LDcuMTAzMyAxNS4wOTc5LDUuNzY2MyAxNS45MTk5LDQuOTQ0MyBNMjMuNTUyOSwyMi4xMzgzIEwxMy4zMzY5LDExLjkyMzMgTDE1LjMxMDksOS45NDkzIEMxNS45NTU5LDEwLjMzNTMgMTYuNjgwOSwxMC41NDEzIDE3LjQxMDksMTAuNTQxMyBDMTguNDYyOSwxMC41NDEzIDE5LjUxNTksMTAuMTQwMyAyMC4zMTU5LDkuMzQwMyBMMjIuNTM0OSw3LjEyMTMgQzI0LjEzNjksNS41MTgzIDI0LjEzNjksMi45MTIzIDIyLjUzNDksMS4zMTAzIEMyMS43NTk5LDAuNTM0MyAyMC43Mjc5LDAuMTA3MyAxOS42Mjk5LDAuMTA3MyBDMTguNTMyOSwwLjEwNzMgMTcuNTAxOSwwLjUzNDMgMTYuNzI1OSwxLjMxMDMgTDE0LjUwNTksMy41MzAzIEMxMy43Mjk5LDQuMzA2MyAxMy4zMDI5LDUuMzM4MyAxMy4zMDI5LDYuNDM0MyBDMTMuMzAyOSw3LjE4ODMgMTMuNTE3OSw3LjkwNTMgMTMuODk1OSw4LjUzNjMgTDExLjkyMjksMTAuNTA4MyBMOS45NDg5LDguNTM1MyBDMTAuODkwOSw2Ljk1OTMgMTAuNjk1OSw0Ljg4NjMgOS4zMzk5LDMuNTMwMyBMNi4xMDM5LDAuMjkzMyBDNS43MTI5LC0wLjA5NzcgNS4wNzk5LC0wLjA5NzcgNC42ODk5LDAuMjkzMyBDNC4yOTg5LDAuNjgzMyA0LjI5ODksMS4zMTYzIDQuNjg5OSwxLjcwNzMgTDcuOTI1OSw0Ljk0NDMgQzguNDkwOSw1LjUwOTMgOC42NTc5LDYuMzE1MyA4LjQ0NTksNy4wMzIzIEwzLjY1MzksMi4yNDAzIEMzLjI2MzksMS44NDkzIDIuNjMwOSwxLjg0OTMgMi4yMzk5LDIuMjQwMyBDMS44NDk5LDIuNjMxMyAxLjg0OTksMy4yNjMzIDIuMjM5OSwzLjY1NDMgTDcuMDMxOSw4LjQ0NjMgQzYuMzE0OSw4LjY1ODMgNS41MDg5LDguNDkxMyA0Ljk0MjksNy45MjUzIEwxLjcwNjksNC42ODkzIEMxLjMxNTksNC4yOTgzIDAuNjgzOSw0LjI5ODMgMC4yOTI5LDQuNjg5MyBDLTAuMDk4MSw1LjA4MDMgLTAuMDk4MSw1LjcxMzMgMC4yOTI5LDYuMTAzMyBMMy41Mjg5LDkuMzQwMyBDNC4zMzA5LDEwLjE0MDMgNS4zODI5LDEwLjU0MTMgNi40MzQ5LDEwLjU0MTMgQzcuMTY0OSwxMC41NDEzIDcuODg5OSwxMC4zMzUzIDguNTM0OSw5Ljk0OTMgTDEwLjUwODksMTEuOTIzMyBMMC4yOTI5LDIyLjEzODMgQy0wLjA5ODEsMjIuNTI5MyAtMC4wOTgxLDIzLjE2MjMgMC4yOTI5LDIzLjU1MjMgQzAuNDg3OSwyMy43NDgzIDAuNzQzOSwyMy44NDUzIDAuOTk5OSwyMy44NDUzIEMxLjI1NTksMjMuODQ1MyAxLjUxMTksMjMuNzQ4MyAxLjcwNjksMjMuNTUyMyBMMTEuOTIyOSwxMy4zMzczIEwyMi4xMzg5LDIzLjU1MjMgQzIyLjMzMzksMjMuNzQ4MyAyMi41ODk5LDIzLjg0NTMgMjIuODQ1OSwyMy44NDUzIEMyMy4xMDE5LDIzLjg0NTMgMjMuMzU2OSwyMy43NDgzIDIzLjU1MjksMjMuNTUyMyBDMjMuOTQyOSwyMy4xNjIzIDIzLjk0MjksMjIuNTI5MyAyMy41NTI5LDIyLjEzODMiIC8+PC9nPjwvZz48L3N2Zz4=)
+
+Servings 6 servings
+
+Calories 277 kcal
+
+### Equipment
+
+- ninja woodfire grill pellets
+
+### Ingredients  1x2x3x
+
+- 1 whole chicken 3-4 pounds
+- 2 tablespoons Montreal Chicken Seasoning or your favorite chicken rub
+
+## Instructions
+
+- Preheat your Ninja woodfire outdoor grill to Grill setting and high heat, add pellets to the hopper and press the woodfire button to add smoke. Set it for 35-40 minutes.
+
+- Spatchcock the chicken, then sprinkle both sides with the Montreal chicken seasoning.
+
+- Grill the chicken skin-side down for 5-6 minutes to sear it, then flip it over.
+
+- Turn the heat down to low and continue to cook the chicken, cut side down, for 15-20 minutes.
+
+- Flip the chicken so it is skin-side down and cook until it reaches 160-F then pull the chicken off to rest.
+
+- Carve and serve!
+
+### Notes
+
+## Chef Jenn’s Tips
+
+- Don’t have Montreal seasoning? Substitute it with your favorite poultry seasoning blend.
+
+- Use a meat thermometer to ensure the chicken is cooked to the correct temperature. Insert the thermometer into the thickest part of the thigh, but also check the breast.
+
+- Resting the chicken before carving allows the juices to redistribute, resulting in a juicier bird.
+
+### Nutrition
+
+Serving: 1sixthCalories: 277kcalCarbohydrates: 1gProtein: 24gFat: 19gSaturated Fat: 6gPolyunsaturated Fat: 4gMonounsaturated Fat: 8gTrans Fat: 0.1gCholesterol: 95mgSodium: 89mgPotassium: 249mgFiber: 0.1gSugar: 0.04gVitamin A: 213IUVitamin C: 2mgCalcium: 27mgIron: 2mg
+
+A Note on Nutritional Information
+
+Nutritional information for this recipe is provided as a courtesy and is calculated based on available online ingredient information. It is only an approximate value. The accuracy of the nutritional information for any recipe on this site cannot be guaranteed.
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMTZweCIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMTZweCIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZlcnNpb249IjEuMSI+PGcgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBzdHJva2U9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgaWQ9Ikljb25zIj48ZyBmaWxsPSIjOWU5ZTllIj48cGF0aCBkPSJNOS4wMDM5LDE2LjAwNzkgQzUuMTQxOSwxNi4wMDc5IDEuOTk5OSwxMi44NjU5IDEuOTk5OSw5LjAwMzkgQzEuOTk5OSw1LjE0MTkgNS4xNDE5LDEuOTk5OSA5LjAwMzksMS45OTk5IEMxMi44NjU5LDEuOTk5OSAxNi4wMDc5LDUuMTQxOSAxNi4wMDc5LDkuMDAzOSBDMTYuMDA3OSwxMi44NjU5IDEyLjg2NTksMTYuMDA3OSA5LjAwMzksMTYuMDA3OSBNMjMuNjIwOSwyMi4yMDY5IEwxNi4xNDM5LDE0LjcyOTkgQzE2LjEwNTksMTQuNjkxOSAxNi4wNTc5LDE0LjY3NTkgMTYuMDE1OSwxNC42NDQ5IEMxNy4yNTk5LDEzLjEwMDkgMTguMDA3OSwxMS4xNDA5IDE4LjAwNzksOS4wMDM5IEMxOC4wMDc5LDQuMDMwOSAxMy45NzY5LC0wLjAwMDEgOS4wMDM5LC0wLjAwMDEgQzQuMDMwOSwtMC4wMDAxIC0wLjAwMDEsNC4wMzA5IC0wLjAwMDEsOS4wMDM5IEMtMC4wMDAxLDEzLjk3NjkgNC4wMzA5LDE4LjAwNzkgOS4wMDM5LDE4LjAwNzkgQzExLjE0MDksMTguMDA3OSAxMy4xMDA5LDE3LjI1OTkgMTQuNjQ0OSwxNi4wMTY5IEMxNC42NzQ5LDE2LjA1NzkgMTQuNjkxOSwxNi4xMDU5IDE0LjcyOTksMTYuMTQzOSBMMjIuMjA2OSwyMy42MjA5IEMyMi40MDE5LDIzLjgxNjkgMjIuNjU3OSwyMy45MTM5IDIyLjkxMzksMjMuOTEzOSBDMjMuMTY5OSwyMy45MTM5IDIzLjQyNTksMjMuODE2OSAyMy42MjA5LDIzLjYyMDkgQzI0LjAxMTksMjMuMjMwOSAyNC4wMTE5LDIyLjU5NzkgMjMuNjIwOSwyMi4yMDY5IiAvPjwvZz48L2c+PC9zdmc+)
+
+Keyword chicken, ninja woodfire grill, ninja woodfire grill whole chicken, spatchcock, whole chicken
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48ZyBzdHJva2U9IiNmZmZmZmYiIGZpbGw9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMSIgY2xhc3M9Im5jLWljb24td3JhcHBlciI+PHBhdGggc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBkYXRhLWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBmaWxsPSJub25lIiBkPSJNMTEuNSwwLjUgQzkuOTgyLDAuNSw4LjY3OCwxLjM1NSw4LDIuNjAxQzcuMzIyLDEuMzU1LDYuMDE4LDAuNSw0LjUsMC41Yy0yLjIwOSwwLTQsMS43OTEtNCw0YzAsNCw3LjUsMTEsNy41LDExczcuNS03LDcuNS0xMSBDMTUuNSwyLjI5MSwxMy43MDksMC41LDExLjUsMC41eiIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlPSIjZmZmZmZmIiAvPiA8L2c+PC9zdmc+) Tried this recipe?[Let us know](#comment) how it was!
+
+![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgdmVyc2lvbj0iMS4xIiBoZWlnaHQ9IjMyIiB2aWV3Qm94PSIwIDAgMjYgMzIiPjxwYXRoIGQ9Ik0yMC44IDIwLjhxMS45ODQgMCAzLjM5MiAxLjM3NnQxLjQwOCAzLjQyNHEwIDEuOTg0LTEuNDA4IDMuMzkydC0zLjM5MiAxLjQwOC0zLjM5Mi0xLjQwOC0xLjQwOC0zLjM5MnEwLTAuMTkyIDAuMDMyLTAuNDQ4dDAuMDMyLTAuMzg0bC04LjMyLTQuOTkycS0xLjM0NCAxLjAyNC0yLjk0NCAxLjAyNC0xLjk4NCAwLTMuMzkyLTEuNDA4dC0xLjQwOC0zLjM5MiAxLjQwOC0zLjM5MiAzLjM5Mi0xLjQwOHExLjcyOCAwIDIuOTQ0IDAuOTZsOC4zMi00Ljk5MnEwLTAuMTI4LTAuMDMyLTAuMzg0dC0wLjAzMi0wLjM4NHEwLTEuOTg0IDEuNDA4LTMuMzkydDMuMzkyLTEuNDA4IDMuMzkyIDEuMzc2IDEuNDA4IDMuNDI0cTAgMS45ODQtMS40MDggMy4zOTJ0LTMuMzkyIDEuNDA4cS0xLjY2NCAwLTIuODgtMS4wMjRsLTguMzg0IDQuOTkycTAuMDY0IDAuMjU2IDAuMDY0IDAuODMyIDAgMC41MTItMC4wNjQgMC43NjhsOC4zODQgNC45OTJxMS4xNTItMC45NiAyLjg4LTAuOTZ6IiAvPjwvc3ZnPg==) 1313 shares
+
+- [![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTggMzIiIHdpZHRoPSIzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiIGhlaWdodD0iMzIiPjxwYXRoIGQ9Ik0xNy4xMiAwLjIyNHY0LjcwNGgtMi43ODRxLTEuNTM2IDAtMi4wODAgMC42NHQtMC41NDQgMS45MnYzLjM5Mmg1LjI0OGwtMC43MDQgNS4yOGgtNC41NDR2MTMuNTY4aC01LjQ3MnYtMTMuNTY4aC00LjU0NHYtNS4yOGg0LjU0NHYtMy45MDRxMC0zLjMyOCAxLjg1Ni01LjE1MnQ0Ljk2LTEuODI0cTIuNjI0IDAgNC4wNjQgMC4yMjR6IiAvPjwvc3ZnPg==)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgrillwhatyoulove.com%2Fninja-woodfire-grill-smoky-whole-chicken%2F&t=Ninja%20Woodfire%20Whole%20Chicken%20in%2045%20Minutes%20%28No%20Brine%20Needed%29 "Share on Facebook")
+- [![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmVyc2lvbj0iMS4xIiBoZWlnaHQ9IjMyIiB2aWV3Qm94PSIwIDAgMzIgMzIiPjxwYXRoIGQ9Ik0wIDBoMTAuMjcydjMyaC0xMC4yNzJ2LTMyek0xMS4zMjggMTEuMzI4aDEwLjR2MTAuNGgtMTAuNHYtMTAuNHpNMTEuMzI4IDBoMjAuNjcydjEwLjI3MmgtMjAuNjcydi0xMC4yNzJ6IiAvPjwvc3ZnPg==)](https://share.flipboard.com/bookmarklet/popout?v=2&url=https%3A%2F%2Fgrillwhatyoulove.com%2Fninja-woodfire-grill-smoky-whole-chicken%2F&title=Ninja%20Woodfire%20Whole%20Chicken%20in%2045%20Minutes%20%28No%20Brine%20Needed%29 "Share on Flipboard")
+- [![SVG Image](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCAzMiAyOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjMyIiB3aWR0aD0iMzIiPjxwYXRoIGQ9Ik0yNS4yLDEuNWg0LjlsLTEwLjcsMTIuMywxMi42LDE2LjdoLTkuOWwtNy43LTEwLjEtOC44LDEwLjFILjZsMTEuNS0xMy4xTDAsMS41aDEwLjFsNyw5LjJMMjUuMiwxLjVaTTIzLjUsMjcuNWgyLjdMOC42LDQuM2gtMi45bDE3LjgsMjMuMloiIC8+PC9zdmc+)](https://x.com/intent/tweet?text=Ninja%20Woodfire%20Whole%20Chicken%20in%2045%20Minutes%20%28No%20Brine%20Needed%29&url=https%3A%2F%2Fgrillwhatyoulove.com%2Fninja-woodfire-grill-smoky-whole-chicken%2F "Share on X")
+-  ![SVG Image](data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMjMgMzIiPjxwYXRoIGQ9Ik0wIDEwLjY1NnEwLTEuOTIgMC42NzItMy42MTZ0MS44NTYtMi45NzYgMi43Mi0yLjIwOCAzLjI5Ni0xLjQwOCAzLjYxNi0wLjQ0OHEyLjgxNiAwIDUuMjQ4IDEuMTg0dDMuOTM2IDMuNDU2IDEuNTA0IDUuMTJxMCAxLjcyOC0wLjMyIDMuMzZ0LTEuMDg4IDMuMTY4LTEuNzkyIDIuNjU2LTIuNTYgMS44NTYtMy4zOTIgMC42NzJxLTEuMjE2IDAtMi40LTAuNTc2dC0xLjcyOC0xLjU2OHEtMC4xNiAwLjcwNC0wLjQ4IDIuMDE2dC0wLjQ0OCAxLjY5Ni0wLjM1MiAxLjI4LTAuNDggMS4yNDgtMC41NDQgMS4xMi0wLjgzMiAxLjQwOC0xLjEyIDEuNTM2bC0wLjIyNCAwLjA5Ni0wLjE2LTAuMTkycS0wLjI4OC0yLjgxNi0wLjI4OC0zLjM2IDAtMS42MzIgMC4zODQtMy42OHQxLjE4NC01LjE1MiAwLjkyOC0zLjYxNnEtMC41NzYtMS4xNTItMC41NzYtMy4wMDggMC0xLjUwNCAwLjkyOC0yLjc4NHQyLjM2OC0xLjMxMnExLjA4OCAwIDEuNjk2IDAuNzM2dDAuNjA4IDEuODI0cTAgMS4xODQtMC43NjggMy4zOTJ0LTAuOCAzLjM2cTAgMS4xMiAwLjggMS44NTZ0MS45NTIgMC43MzZxMC45OTIgMCAxLjgyNC0wLjQ0OHQxLjQwOC0xLjIxNiAwLjk5Mi0xLjY5NiAwLjY3Mi0xLjk1MiAwLjM1Mi0xLjk4NCAwLjEyOC0xLjc5MnEwLTMuMDcyLTEuOTUyLTQuOHQtNS4xMi0xLjcyOHEtMy41NTIgMC01Ljk1MiAyLjMwNHQtMi40IDUuODU2cTAgMC44IDAuMjI0IDEuNTM2dDAuNDggMS4xNTIgMC40OCAwLjgzMiAwLjIyNCAwLjU0NHEwIDAuNDgtMC4yNTYgMS4yOHQtMC42NzIgMC44cS0wLjAzMiAwLTAuMjg4LTAuMDMyLTAuOTI4LTAuMjg4LTEuNjMyLTAuOTkydC0xLjA4OC0xLjY5Ni0wLjU3Ni0xLjkyLTAuMTkyLTEuOTJ6IiAvPjwvc3ZnPg==) 1313

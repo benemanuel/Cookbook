@@ -1,3 +1,8 @@
+---
+labels: [meat, dairy, cake]
+labels: [meat, dairy]
+---
+
 # Nachos
 
 ![](/images/nachos.jpg)

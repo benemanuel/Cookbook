@@ -1,3 +1,8 @@
+---
+labels: [dairy, bread]
+labels: [dairy, bread]
+---
+
 # Pizza
 
 ![](/images/pizza.jpg)
