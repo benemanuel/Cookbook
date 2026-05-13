@@ -11,6 +11,10 @@ labels: [bread]
 
 ## Ingredients
 
+ starter  **83** gr flour \+ **83** ml water to starter jar (using **165** )  
+ **582** gr (80% whole wheat, bread flour, etc) flour 
+  **12** gr salt 
+  **385** ml water
 ## Instructions
 
 Using a oven with auto start.  

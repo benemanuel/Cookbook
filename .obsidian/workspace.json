@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "f6c56da6a013d9ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "5668b3bf14d5c3df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16728d47bfdf2cdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recipes/Flaky_Sourdough_Starter_Discard_Pie_Crust_(Sweet_or_Savory)_The_Perfect_Loaf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flaky_Sourdough_Starter_Discard_Pie_Crust_(Sweet_or_Savory)_The_Perfect_Loaf"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70fd57729ad784d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "541dc10183f96092",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16169a7471aca58e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d6958f9b9c51c760",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7216e5f22deedef9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "423e3320546c350e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7687933945872dfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41d5be90b69b14b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "recipes/Flaky_Sourdough_Starter_Discard_Pie_Crust_(Sweet_or_Savory)_The_Perfect_Loaf.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Flaky_Sourdough_Starter_Discard_Pie_Crust_(Sweet_or_Savory)_The_Perfect_Loaf"
+            }
+          },
+          {
+            "id": "ae1276d7a09e96ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "recipes/Flaky_Sourdough_Starter_Discard_Pie_Crust_(Sweet_or_Savory)_The_Perfect_Loaf.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Flaky_Sourdough_Starter_Discard_Pie_Crust_(Sweet_or_Savory)_The_Perfect_Loaf"
+            }
+          },
+          {
+            "id": "8060c00d9516b47b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1e809a2bf1cf9f21",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5d4dfe261af600e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "recipes/Flaky_Sourdough_Starter_Discard_Pie_Crust_(Sweet_or_Savory)_The_Perfect_Loaf.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Flaky_Sourdough_Starter_Discard_Pie_Crust_(Sweet_or_Savory)_The_Perfect_Loaf"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "16728d47bfdf2cdd",
+  "lastOpenFiles": [
+    "recipes/ethiopian_spiced_clarified_butter_niter_kibbeh.md",
+    "recipes/Flaky_dough.md",
+    "recipes/British_Fish_and_Chips_Recipe_-_The_Daring_Gourmet.md",
+    "recipes/British_Fish_and_Chips_Recipe_-_The_Daring_Gourmet_2.md",
+    "recipes/Brazilian_Cheese_Puffs_-_Pão_de_Queijo.md",
+    "recipes/apple_studel.md",
+    "recipes/Armenian_perok_cake.md",
+    "recipes/Aviary’s_Bloody_Mary.md",
+    "recipes/Air_Fryer_Baba_Ganoush_Eggplant.md",
+    "recipes/30_Best_Kombucha_Flavors_Of_All_Time_(DIY_with_Fizz).md",
+    "recipes/6_Sourdough_Bread_Rolls_daily.md",
+    "recipes/3_Ingredient_Sponge_Cake_-_Biskvit_-_Let_the_Baking_Begin!.md",
+    "recipes/3_Ingredient_Homemade_Fermented_Ginger_Beer.md",
+    "recipes/׃tuna_steak.md",
+    "recipes/_כבאנה_תימנית_עם_מחמצת_יבשה_(גרסה_מודרנית_לשבת).md",
+    "recipes/_עוגיות_מאכלב_מחלב‪Subject_קעאק_אל_עיד_השולחן.md",
+    "recipes/עוגיות_מאכלב_מחלב.md"
+  ]
+}

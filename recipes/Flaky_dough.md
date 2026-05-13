@@ -12,10 +12,13 @@ attachments:
 labels: [dairy]
 ---
 
-# Flaky dough
+# Flaky dough  300 gr dough
 
 ## Ingredients
-
+180 gr flour
+100 GR butter
+1/2 tsp salt 
+2\.5 tbsp ice water
 ## Instructions
 
-180 gr flour\+ 100 GR butter\+ 1/2 tsp salt \+ 2\.5 tbsp ice water\= 300 gr dough
+
