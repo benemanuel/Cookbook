@@ -2,8 +2,13 @@
 subject: "Sourdough Glass Bread (Pan de Cristal) \u2013 Breadtopia"
 from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
-date: "Thu, 19 Jan 2023 12:56:04 +0200"
-date_parsed: 2023-01-19T12:56:04+02:00
+date: "Thu, 16 Jan 2025 17:50:10 +0200"
+date_parsed: 2025-01-16T17:50:10+02:00
+attachments:
+  - filename: "glass.pdf"
+    type: "application/pdf"
+    size: 104386
+    local_path: "attachments\\2025-01-16_17-50-10_Sourdough_Glass_Bread_(Pan_de_Cristal)_\u2013_Breadtopia_1\\glass.pdf"
 labels: [bread]
 ---
 

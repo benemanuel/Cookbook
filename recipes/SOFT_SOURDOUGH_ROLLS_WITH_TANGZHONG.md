@@ -2,8 +2,8 @@
 subject: "SOFT SOURDOUGH ROLLS WITH TANGZHONG"
 from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "benemanuel family <benemanuel.family@gmail.com>"
-date: "Sat, 21 Mar 2026 19:16:20 +0200"
-date_parsed: 2026-03-21T19:16:20+02:00
+date: "Sun, 10 May 2026 14:51:13 +0300"
+date_parsed: 2026-05-10T14:51:13+03:00
 labels: [dairy, bread]
 ---
 
@@ -24,9 +24,10 @@ labels: [dairy, bread]
 
 ## 🌾 Flour (Total: 840 g)
 
-* 350 g whole wheat
-* 120 g כפרי
-* 370 g bread flour
+* 145 g whole wheat
+* 160 g כפרי
+* 500 g bread flour
+* 35 g ap flour
 
 
 ## 💧 Liquids
@@ -67,7 +68,7 @@ Cook until thick pudding. Cool completely.
 Use:
 
 * Remaining flour (**805 g**)
-* **355 g water** *(this is 530 − 175\)*
+* **355 g water** *(this is 530 − 175\) \[last attempt used 530\+175\]*
 * All tangzhong
 
 
