@@ -1,0 +1,7 @@
+name = "cookbook-ratings"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+[[kv_namespaces]]
+binding = "RATINGS"
+id = "90bc44961a48479ba5c23774bc31c345"

@@ -1,9 +1,9 @@
 ---
-subject: "raspberry cheese cake"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Sat, 15 Jun 2019 18:06:47 +0300"
-date_parsed: 2019-06-15T18:06:47+03:00
+subject: "Fwd: raspberry cheese cake"
+from: "benemanuel family <benemanuel.family@gmail.com>"
+to: "\"\u05d0\u05dc\u05d4 \u05d9\u05e4\u05d4 \u05d1\u05df \u05e2\u05de\u05e0\u05d5\u05d0\u05dc\" <eseltz90@gmail.com>"
+date: "Sat, 12 Oct 2019 16:20:22 +0300"
+date_parsed: 2019-10-12T16:20:22+03:00
 labels: [dairy, cake]
 ---
 
@@ -11,7 +11,8 @@ labels: [dairy, cake]
 
 ## Ingredients
 
-## Instructions
+ 
+
 
 Filling: (makes a lot) (you can use raspberries but it's tart)
 
@@ -22,6 +23,8 @@ Filling: (makes a lot) (you can use raspberries but it's tart)
 2 tsp. Vanilla
 
 3 heaping tbs. Jam (I use raspberry, better jams from local store)
+
+## Instructions
 
 Blend
 

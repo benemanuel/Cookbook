@@ -7,7 +7,6 @@
     <meta name="robots" content="noindex">
     <title>Recipes</title>
 
-   
     <script src="https://cdn.jsdelivr.net/npm/markdown-it@14.1.0/dist/markdown-it.min.js"></script>
     <link rel="stylesheet" href="libs/modern-normalize.min.css">
     <link rel="stylesheet" href="libs/water.light.min.css">
@@ -22,18 +21,11 @@
         }
 
         @media print {
-            #back-link {
-                display: none;
-            }
-
-            #image-container {
-                display: none;
-            }
+            #back-link { display: none; }
+            #image-container { display: none; }
         }
 
-        #back-link {
-            margin-right: 8px;
-        }
+        #back-link { margin-right: 8px; }
 
         #back-icon {
             height: 28px;
@@ -48,17 +40,11 @@
             align-items: baseline;
         }
 
-        #title {
-            margin: 0;
-        }
+        #title { margin: 0; }
 
-        #description1 img {
-            border-radius: 8px;
-        }
+        #description1 img { border-radius: 8px; }
 
-        #description2 {
-            display: none;
-        }
+        #description2 { display: none; }
 
         #description2 img {
             border-radius: 8px;
@@ -72,21 +58,14 @@
             border-radius: 8px;
         }
 
-        #ingredients-container h2::before {
-            content: "📋 ";
-        }
+        #ingredients-container h2::before { content: "📋 "; }
+        #instructions-container h2::before { content: "🔪 "; }
+        #image-container h2::before { content: "📷 "; }
 
-        #instructions-container h2::before {
-            content: "🔪 ";
-        }
+        #image-container p img { border-radius: 8px; }
 
-        #image-container h2::before {
-            content: "📷 ";
-        }
-        
-        #image-container p img {
-            border-radius: 8px;
-        }
+        /* ── Recipe list ── */
+        #recipe-list h1 { margin-bottom: 8px; }
 
         #recipe-list h2 {
             margin-top: 24px;
@@ -96,20 +75,92 @@
             padding-bottom: 4px;
         }
 
-        #recipe-list ul {
+        #recipe-list-content ul {
             margin-top: 4px;
             column-count: 2;
             column-gap: 24px;
         }
 
         @media (max-width: 600px) {
-            #recipe-list ul {
-                column-count: 1;
-            }
+            #recipe-list-content ul { column-count: 1; }
         }
 
-        #recipe-list h1 {
-            margin-bottom: 8px;
+        /* ── Search & filter controls ── */
+        #list-controls {
+            margin: 16px 0 8px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        #search-input {
+            width: 100%;
+            padding: 8px 12px;
+            font-size: 1rem;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            box-sizing: border-box;
+        }
+
+        #label-chips {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+
+        .chip {
+            padding: 4px 12px;
+            border-radius: 999px;
+            border: 1px solid #aaa;
+            background: #f5f5f5;
+            cursor: pointer;
+            font-size: 0.85rem;
+            user-select: none;
+            transition: background 0.15s, color 0.15s;
+        }
+
+        .chip.active {
+            background: #333;
+            color: #fff;
+            border-color: #333;
+        }
+
+        #results-count {
+            font-size: 0.85rem;
+            color: #666;
+        }
+
+        .recipe-stars {
+            font-size: 0.75rem;
+            color: #f5a623;
+            margin-left: 4px;
+        }
+
+        /* ── Star rating on recipe page ── */
+        #rating-section {
+            margin-top: 12px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .star-btn {
+            background: none;
+            border: none;
+            font-size: 1.6rem;
+            cursor: pointer;
+            padding: 0 1px;
+            color: #ccc;
+            transition: color 0.1s;
+            line-height: 1;
+        }
+
+        .star-btn.filled { color: #f5a623; }
+
+        #rating-label {
+            font-size: 0.85rem;
+            color: #666;
         }
 
         @media print, screen and (min-width: 600px) {
@@ -119,17 +170,11 @@
                 float: right;
                 padding: 0px 24px 16px;
                 margin: 4px 0 16px 16px;
-
                 border-radius: 8px;
             }
 
-            #description1 {
-                display: none;
-            }
-
-            #description2 {
-                display: block;
-            }
+            #description1 { display: none; }
+            #description2 { display: block; }
 
             #image-container p {
                 display: grid;
@@ -140,90 +185,239 @@
     </style>
 
     <script>
+        const WORKER_URL = "https://cookbook-ratings.benemanuel.workers.dev";
         const md = window.markdownit();
 
+        // ── Helpers ────────────────────────────────────────────────
+
         async function loadRecipe() {
-            const urlParams = new URLSearchParams(window.location.search);
-            const recipeFile = urlParams.get('recipe');
-
-            if (!recipeFile) {
-                return;
-            }
-
+            const recipeFile = new URLSearchParams(window.location.search).get('recipe');
+            if (!recipeFile) return null;
             const result = await fetch(`/recipes/${recipeFile}.md`);
-            return result.text();
+            return result.ok ? result.text() : null;
         }
 
-        async function loadRecipeList() {
-            const result = await fetch(`/recipes.md`);
-            return result.text();
+        async function loadIndex() {
+            const result = await fetch('/search-index.json');
+            return result.ok ? result.json() : [];
+        }
+
+        async function loadRatings() {
+            try {
+                const r = await fetch(`${WORKER_URL}/ratings`);
+                return r.ok ? r.json() : {};
+            } catch { return {}; }
         }
 
         async function parseMarkdown(markdown) {
-            // Strip YAML frontmatter (--- ... ---), handle both LF and CRLF
             const body = markdown.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, '').trimStart();
-
-            // Normalize line endings to LF for consistent regex matching
             const normalized = body.replace(/\r\n/g, '\n');
 
-            // Extract title and description (everything before first ##)
             const titleMatch = normalized.match(/^#\s+(.+)\n([\s\S]*?)(?=\n##|$)/);
             const title = titleMatch ? titleMatch[1].trim() : "Untitled";
             const description = titleMatch ? titleMatch[2].trim() : "";
 
-            // Find section by name, fall back to nth ## section
             const getSection = (headingName, fallbackIndex) => {
                 const byName = new RegExp(`\\n##\\s+${headingName}\\s*\\n([\\s\\S]*?)(?=\\n##|$)`, 'i');
                 const named = normalized.match(byName);
                 if (named) return `## ${headingName}\n` + named[1];
-                // Fallback: grab the nth ## block
                 const allSections = [...normalized.matchAll(/\n(##\s+[\s\S]*?)(?=\n##|$)/g)];
                 return allSections[fallbackIndex] ? allSections[fallbackIndex][1] : "";
             };
 
-            const ingredients = getSection("Ingredients", 0);
-            const instructions = getSection("Instructions", 1);
-            const images = getSection("Images", 2);
-
-            return [title, description, ingredients, instructions, images];
+            return [title, description, getSection("Ingredients", 0), getSection("Instructions", 1), getSection("Images", 2)];
         }
 
-        async function init() {
-            const recipe = await loadRecipe();
+        // ── List page ───────────────────────────────────────────────
 
-            if (!recipe) {
-                const recipeList = await loadRecipeList();
-                 document.getElementById("recipe-list").innerHTML
-                    = md.render(recipeList);
-                document.getElementById("recipe-list").style.display = "block";
+        function makeStarsSpan(avg, count) {
+            if (!count) return null;
+            const full = Math.round(avg);
+            const span = document.createElement('span');
+            span.className = 'recipe-stars';
+            span.title = `${avg} (${count} rating${count !== 1 ? 's' : ''})`;
+            span.textContent = '★'.repeat(full) + '☆'.repeat(5 - full);
+            return span;
+        }
+
+        const LABEL_EMOJI = { bread: '🍞', cake: '🎂', candy: '🍬', dairy: '🧀', fish: '🐟', meat: '🥩' };
+
+        function renderList(index, ratings, activeLabels, query) {
+            const q = query.trim().toLowerCase();
+
+            const filtered = index.filter(r => {
+                if (activeLabels.size > 0 && ![...activeLabels].every(l => r.labels.includes(l))) return false;
+                if (q && !r.title.toLowerCase().includes(q) && !r.text.includes(q)) return false;
+                return true;
+            });
+
+            // Group by first label
+            const groups = {};
+            for (const r of filtered) {
+                const key = r.labels[0] || 'other';
+                if (!groups[key]) groups[key] = [];
+                groups[key].push(r);
+            }
+
+            const container = document.getElementById('recipe-list-content');
+            container.textContent = '';  // clear safely
+
+            if (filtered.length === 0) {
+                const p = document.createElement('p');
+                p.textContent = 'No recipes found.';
+                container.appendChild(p);
+            } else {
+                for (const [label, recipes] of Object.entries(groups).sort()) {
+                    const h2 = document.createElement('h2');
+                    h2.textContent = `${LABEL_EMOJI[label] || '🍽️'} ${label.charAt(0).toUpperCase() + label.slice(1)}`;
+                    container.appendChild(h2);
+
+                    const ul = document.createElement('ul');
+                    for (const r of recipes.sort((a, b) => a.title.localeCompare(b.title))) {
+                        const li = document.createElement('li');
+                        const a = document.createElement('a');
+                        a.href = `/?recipe=${encodeURIComponent(r.file)}`;
+                        a.textContent = r.title;
+                        li.appendChild(a);
+
+                        const rating = ratings[r.file];
+                        if (rating) {
+                            const stars = makeStarsSpan(rating.avg, rating.count);
+                            if (stars) li.appendChild(stars);
+                        }
+                        ul.appendChild(li);
+                    }
+                    container.appendChild(ul);
+                }
+            }
+
+            document.getElementById('results-count').textContent =
+                `${filtered.length} recipe${filtered.length !== 1 ? 's' : ''}`;
+        }
+
+        async function initList() {
+            document.getElementById('recipe-list').style.display = 'block';
+
+            const [index, ratings] = await Promise.all([loadIndex(), loadRatings()]);
+
+            const allLabels = [...new Set(index.flatMap(r => r.labels))].sort();
+            const chipsEl = document.getElementById('label-chips');
+            const activeLabels = new Set();
+
+            for (const label of allLabels) {
+                const chip = document.createElement('button');
+                chip.className = 'chip';
+                chip.textContent = label;
+                chip.addEventListener('click', () => {
+                    if (activeLabels.has(label)) {
+                        activeLabels.delete(label);
+                        chip.classList.remove('active');
+                    } else {
+                        activeLabels.add(label);
+                        chip.classList.add('active');
+                    }
+                    renderList(index, ratings, activeLabels, document.getElementById('search-input').value);
+                });
+                chipsEl.appendChild(chip);
+            }
+
+            document.getElementById('search-input').addEventListener('input', e => {
+                renderList(index, ratings, activeLabels, e.target.value);
+            });
+
+            renderList(index, ratings, activeLabels, '');
+        }
+
+        // ── Recipe page ─────────────────────────────────────────────
+
+        function renderStars(avg, count) {
+            const filled = avg ? Math.round(avg) : 0;
+            document.querySelectorAll('.star-btn').forEach((s, i) => {
+                s.classList.toggle('filled', i < filled);
+            });
+            document.getElementById('rating-label').textContent =
+                count ? `${avg} avg (${count} rating${count !== 1 ? 's' : ''})` : 'No ratings yet';
+        }
+
+        async function submitRating(recipeFile, score) {
+            let apiKey = sessionStorage.getItem('cookbook-api-key');
+            if (!apiKey) {
+                apiKey = prompt('Enter API key to submit a rating:');
+                if (!apiKey) return;
+                sessionStorage.setItem('cookbook-api-key', apiKey);
+            }
+
+            const res = await fetch(`${WORKER_URL}/ratings/${encodeURIComponent(recipeFile)}`, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json', 'X-Api-Key': apiKey },
+                body: JSON.stringify({ rating: score }),
+            });
+
+            if (res.status === 401) {
+                sessionStorage.removeItem('cookbook-api-key');
+                alert('Invalid API key.');
                 return;
             }
 
-            const [title, description, ingredients, instructions, images] = await parseMarkdown(recipe);
-            
-            document.title = title;
-
-            document.getElementById("title").innerHTML = title;
-            document.getElementById("description1").innerHTML
-                = md.render(description);
-            document.getElementById("description2").innerHTML
-                = md.render(description);
-            document.getElementById("ingredients-container").innerHTML 
-                = md.render(ingredients);
-            document.getElementById("instructions-container").innerHTML 
-                = md.render(instructions);
-			if (images && images.trim() !== "") {
-               document.getElementById("image-container").innerHTML = md.render(images);
+            if (res.ok) {
+                const data = await res.json();
+                renderStars(data.avg, data.count);
             }
+        }
+
+        async function initRecipe(recipeFile, recipe) {
+            const [title, description, ingredients, instructions, images] = await parseMarkdown(recipe);
+
+            document.title = title;
+            document.getElementById("title").textContent = title;
+            document.getElementById("description1").innerHTML = md.render(description);
+            document.getElementById("description2").innerHTML = md.render(description);
+            document.getElementById("ingredients-container").innerHTML = md.render(ingredients);
+            document.getElementById("instructions-container").innerHTML = md.render(instructions);
+            if (images && images.trim()) {
+                document.getElementById("image-container").innerHTML = md.render(images);
+            }
+
+            const starBtns = document.querySelectorAll('.star-btn');
+
+            starBtns.forEach((btn, i) => {
+                btn.addEventListener('click', () => submitRating(recipeFile, i + 1));
+                btn.addEventListener('mouseenter', () => {
+                    starBtns.forEach((s, j) => s.classList.toggle('filled', j <= i));
+                });
+            });
+
+            document.getElementById('rating-section').addEventListener('mouseleave', async () => {
+                const ratings = await loadRatings();
+                const r = ratings[recipeFile];
+                renderStars(r ? r.avg : 0, r ? r.count : 0);
+            });
+
+            const ratings = await loadRatings();
+            const r = ratings[recipeFile];
+            renderStars(r ? r.avg : 0, r ? r.count : 0);
 
             document.getElementById("recipe-container").style.display = "block";
         }
 
-        init().catch(error => console.log(error));
+        // ── Entry point ─────────────────────────────────────────────
+
+        async function init() {
+            const recipeFile = new URLSearchParams(window.location.search).get('recipe');
+            if (!recipeFile) {
+                initList();
+            } else {
+                const recipe = await loadRecipe();
+                if (recipe) initRecipe(recipeFile, recipe);
+            }
+        }
+
+        init().catch(console.error);
     </script>
 </head>
 
 <body>
+    <!-- Recipe detail view -->
     <div id="recipe-container" class="container">
         <div id="title-wrapper">
             <a id="back-link" href="/">
@@ -233,13 +427,31 @@
             </a>
             <h1 id="title"></h1>
         </div>
+        <div id="rating-section">
+            <button class="star-btn" aria-label="1 star">★</button>
+            <button class="star-btn" aria-label="2 stars">★</button>
+            <button class="star-btn" aria-label="3 stars">★</button>
+            <button class="star-btn" aria-label="4 stars">★</button>
+            <button class="star-btn" aria-label="5 stars">★</button>
+            <span id="rating-label"></span>
+        </div>
         <div id="description1"></div>
         <div id="ingredients-container"></div>
         <div id="description2"></div>
         <div id="instructions-container"></div>
         <div id="image-container"></div>
     </div>
-    <div id="recipe-list" class="container"></div>
+
+    <!-- Recipe list view -->
+    <div id="recipe-list" class="container">
+        <h1>Recipes</h1>
+        <div id="list-controls">
+            <input id="search-input" type="search" placeholder="Search recipes…" autocomplete="off">
+            <div id="label-chips"></div>
+            <span id="results-count"></span>
+        </div>
+        <div id="recipe-list-content"></div>
+    </div>
 </body>
 
 </html>

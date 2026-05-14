@@ -1,17 +1,24 @@
 ---
-subject: "Polish cheese cake"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Mon, 9 Oct 2023 08:57:21 +0300"
-date_parsed: 2023-10-09T08:57:21+03:00
+subject: "Fwd: Polish cheese cake"
+from: "benemanuel family <benemanuel.family@gmail.com>"
+to: "Ella Ben Emanuel <eseltz90@gmail.com>"
+date: "Sat, 19 Apr 2025 19:20:39 +0300"
+date_parsed: 2025-04-19T19:20:39+03:00
 labels: [dairy, cake]
 ---
 
-# Polish cheese cake
+# Fwd: Polish cheese cake
 
 ## Ingredients
 
 ## Instructions
+
+\-\-\-\-\-\-\-\-\-\- Forwarded message \-\-\-\-\-\-\-\-\-  
+From: **Avraham Ben Emanuel** \<<avraham.benemanuel@gmail.com>\>  
+Date: Mon, Oct 9, 2023, 08:57  
+Subject: Polish cheese cake  
+To: Family \<<benemanuel.family@gmail.com>\>  
+
 
 Dough
 

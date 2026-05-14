@@ -4,7 +4,11 @@
       "Bash(start *)",
       "Bash(Sort-Object)",
       "Bash(python3 *)",
-      "Bash(grep -E \"_\\(re|fwd\\)\\(_[0-9]+\\)?\\\\.md$\")"
+      "Bash(grep -E \"_\\(re|fwd\\)\\(_[0-9]+\\)?\\\\.md$\")",
+      "Bash(New-Item *)",
+      "Skill(commit-commands:commit-push-pr)",
+      "Bash(git checkout *)",
+      "Bash(gh  *)"
     ]
   }
 }

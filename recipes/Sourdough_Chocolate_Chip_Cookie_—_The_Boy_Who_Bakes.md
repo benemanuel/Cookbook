@@ -1,19 +1,49 @@
 ---
 subject: "Sourdough Chocolate Chip Cookie \u2014 The Boy Who Bakes"
-from: "Avi Ben Emanuel <avi@jct.ac.il>"
-to: "benemanuel.family@gmail.com"
-date: "Fri, 6 Nov 2020 20:36:13 +0200"
-date_parsed: 2020-11-06T20:36:13+02:00
+from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
+to: "Family <benemanuel.family@gmail.com>"
+date: "Fri, 24 Apr 2026 16:21:27 +0300"
+date_parsed: 2026-04-24T16:21:27+03:00
 labels: [dairy, bread, cake]
 ---
 
 # Sourdough Chocolate Chip Cookie — The Boy Who Bakes
 
+<https://www.theboywhobakes.co.uk/recipes/2020/5/7/sourdough-chocolate-chip-cookie>   
+
+
+# Sourdough Chocolate Chip Cookie
+
+**Makes 25 cookies**
+
 ## Ingredients
+
+- 225g unsalted butter, diced
+- 380g plain flour
+- 1 tsp baking powder
+- 1 tsp baking soda
+- 1 tsp flaked sea salt
+- 220g caster sugar
+- 220g light brown sugar
+- 3 large egg yolks
+- 240g sourdough starter discard (100% hydration)
+- 1 tsp vanilla extract
+- 500g dark chocolate, roughly chopped
 
 ## Instructions
 
-<https://www.theboywhobakes.co.uk/recipes/2020/5/7/sourdough-chocolate-chip-cookie>
+**Brown the Butter:** Place butter in a saucepan over medium/high heat. Cook until melted, bubbles, then foams. Monitor closely. When milk solids brown and water evaporates, remove from heat and cool 30 minutes (≈185g remaining).
+
+**Dry ingredients:** Whisk flour, baking powder, baking soda, and salt.
+
+**Dough:** Whisk cooled brown butter with both sugars 2 min. Add yolks, whisk 2-3 min on medium/high. Add discard and vanilla, mix until smooth. Add flour mixture on low. Switch to paddle, add chocolate. Cover and refrigerate 4-24 hours.
+
+**Bake:** 180°C (160°C fan). Roll into 70g balls, 6 per tray. Sprinkle flaked sea salt. Bake 16-18 min. Cool on tray 10 min, then rack.
+
+## Notes
+- Halve recipe with 1 yolk
+- Dough balls freeze 1 month; bake from frozen +1-2 min
+- Keeps 4-5 days sealed
 
 ---
 
