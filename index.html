@@ -298,7 +298,9 @@
         async function initList() {
             document.getElementById('recipe-list').style.display = 'block';
 
-            const [index, ratings] = await Promise.all([loadIndex(), loadRatings()]);
+            // Load index first so the list renders immediately, ratings load in background
+            const index = await loadIndex();
+            let ratings = {};
 
             const allLabels = [...new Set(index.flatMap(r => r.labels))].sort();
             const chipsEl = document.getElementById('label-chips');
@@ -326,6 +328,12 @@
             });
 
             renderList(index, ratings, activeLabels, '');
+
+            // Update stars once ratings arrive (non-blocking)
+            loadRatings().then(r => {
+                ratings = r;
+                renderList(index, ratings, activeLabels, document.getElementById('search-input').value);
+            });
         }
 
         // ── Recipe page ─────────────────────────────────────────────
