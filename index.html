@@ -420,7 +420,7 @@
             }
         }
 
-        init().catch(console.error);
+        document.addEventListener('DOMContentLoaded', () => init().catch(console.error));
     </script>
 </head>
 
