@@ -8,7 +8,14 @@
       "Bash(New-Item *)",
       "Skill(commit-commands:commit-push-pr)",
       "Bash(git checkout *)",
-      "Bash(gh  *)"
+      "Bash(gh  *)",
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\avi\\\\GitHub\\\\Cookbook\" -Force)",
+      "Bash(Select-Object Name, FullName)",
+      "Skill(commit-commands:commit)",
+      "Bash(git push *)",
+      "mcp__plugin_chrome-devtools-mcp_chrome-devtools__navigate_page",
+      "mcp__plugin_chrome-devtools-mcp_chrome-devtools__take_screenshot",
+      "mcp__plugin_chrome-devtools-mcp_chrome-devtools__list_console_messages"
     ]
   }
 }
