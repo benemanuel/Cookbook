@@ -1,5 +1,5 @@
 ---
-subject: "Re: Swirled Garlic Herb Bread. - Half Baked Harvest"
+subject: "Swirled Garlic Herb Bread. - Half Baked Harvest"
 from: "Avi Benemanuel <avi@jct.ac.il>"
 to: "benemanuel family <benemanuel.family@gmail.com>"
 date: "Sat, 30 May 2020 14:07:53 +0000"

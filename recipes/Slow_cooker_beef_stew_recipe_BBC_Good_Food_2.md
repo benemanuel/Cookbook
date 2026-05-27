@@ -1,5 +1,5 @@
 ---
-subject: "Re: Slow cooker beef stew recipe | BBC Good Food"
+subject: "Slow cooker beef stew recipe | BBC Good Food"
 from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "Avi BenEmanuel <avi.wollman@gmail.com>"
 date: "Fri, 22 Nov 2019 09:25:02 +0200"

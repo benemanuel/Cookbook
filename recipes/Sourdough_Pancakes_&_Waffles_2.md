@@ -1,5 +1,5 @@
 ---
-subject: "Fwd: Sourdough Pancakes & Waffles"
+subject: "Sourdough Pancakes & Waffles"
 from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 date: "Fri, 20 Dec 2024 07:53:21 +0200"

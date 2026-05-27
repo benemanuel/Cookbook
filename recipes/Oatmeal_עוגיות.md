@@ -1,5 +1,5 @@
 ---
-subject: "Fwd: Oatmeal \u05e2\u05d5\u05d2\u05d9\u05d5\u05ea"
+subject: "Oatmeal \u05e2\u05d5\u05d2\u05d9\u05d5\u05ea"
 from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
 date: "Wed, 6 Dec 2023 16:21:37 +0200"

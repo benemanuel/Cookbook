@@ -1,5 +1,5 @@
 ---
-subject: "Fwd: Easy One-Bowl Yougrt Coffee Cake Recipe"
+subject: "Easy One-Bowl Yougrt Coffee Cake Recipe"
 from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "Ella Ben Emanuel <eseltz90@gmail.com>"
 date: "Sat, 19 Apr 2025 19:19:28 +0300"

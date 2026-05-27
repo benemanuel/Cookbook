@@ -1,5 +1,5 @@
 ---
-subject: "Re: Green Walnuts nocino liquor"
+subject: "Green Walnuts nocino liquor"
 from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "benemanuel family <benemanuel.family@gmail.com>"
 date: "Tue, 10 Jun 2025 18:50:53 +0300"

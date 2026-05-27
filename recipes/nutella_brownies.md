@@ -1,5 +1,5 @@
 ---
-subject: "Fwd: nutella brownies"
+subject: "nutella brownies"
 from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
 date: "Sat, 10 Aug 2019 14:23:40 +0300"

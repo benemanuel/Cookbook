@@ -1,5 +1,5 @@
 ---
-subject: "Fwd: Simple Whole Roasted Chicken Recipe - Allrecipes.com"
+subject: "Simple Whole Roasted Chicken Recipe - Allrecipes.com"
 from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 date: "Fri, 13 Dec 2019 07:38:14 +0200"

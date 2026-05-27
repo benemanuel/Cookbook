@@ -1,5 +1,5 @@
 ---
-subject: "Re: Meat berakos"
+subject: "Meat berakos"
 from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "benemanuel family <benemanuel.family@gmail.com>"
 date: "Thu, 6 Feb 2020 19:02:52 +0200"

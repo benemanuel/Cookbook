@@ -1,5 +1,5 @@
 ---
-subject: "Fwd: Crete slow baked vegtables"
+subject: "Crete slow baked vegtables"
 from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "benemanuel family <benemanuel.family@gmail.com>"
 date: "Fri, 20 Feb 2026 14:22:08 +0200"

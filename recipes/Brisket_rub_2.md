@@ -1,5 +1,5 @@
 ---
-subject: "Re: Brisket rub"
+subject: "Brisket rub"
 from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "benemanuel family <benemanuel.family@gmail.com>"
 date: "Thu, 22 May 2025 11:25:11 +0300"

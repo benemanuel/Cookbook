@@ -1,5 +1,5 @@
 ---
-subject: "Re: Flaky Sourdough Croissants - With Step by Step Instructions - Home Grown Happiness"
+subject: "Flaky Sourdough Croissants - With Step by Step Instructions - Home Grown Happiness"
 from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
 date: "Sun, 28 Feb 2021 11:41:59 +0200"

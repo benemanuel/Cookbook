@@ -1,5 +1,5 @@
 ---
-subject: "Fwd: Apple Crumble Recipe"
+subject: "Apple Crumble Recipe"
 from: "Avi BenEmanuel <avi.wollman@gmail.com>"
 to: "benemanuel.family@gmail.com"
 date: "Tue, 31 Jan 2017 18:03:28 +0200"
@@ -7,14 +7,8 @@ date_parsed: 2017-01-31T18:03:28+02:00
 labels: [dairy]
 ---
 
-# Fwd: Apple Crumble Recipe
+Apple Crumble Recipe
 
-\-\-\-\-\-\-\-\-\-\- Forwarded message \-\-\-\-\-\-\-\-\-\-  
-From: "Avi Wollman" \<\>  
-Date: Feb 8, 2005 12:14 PM  
-Subject: Apple Crumble Recipe  
-To: "a w" \<<wollman@actcom.net.il>\>  
-Cc:  
 
 Apple Crumble Recipe from GardenAction  
 

@@ -1,5 +1,5 @@
 ---
-subject: "FW: Vintage cocktail books - a timeline"
+subject: "Vintage cocktail books - a timeline"
 from: "Avi Benemanuel <avi@jct.ac.il>"
 to: "\"benemanuel.family@gmail.com\" <benemanuel.family@gmail.com>"
 date: "Sun, 1 Nov 2020 09:17:57 +0000"

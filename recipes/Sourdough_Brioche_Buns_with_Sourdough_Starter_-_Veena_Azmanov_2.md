@@ -1,5 +1,5 @@
 ---
-subject: "Re: Sourdough Brioche Buns with Sourdough Starter - Veena Azmanov"
+subject: "Sourdough Brioche Buns with Sourdough Starter - Veena Azmanov"
 from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
 date: "Mon, 19 Jun 2023 17:10:23 +0300"

@@ -1,5 +1,5 @@
 ---
-subject: "Fwd: raspberry cheese cake"
+subject: "raspberry cheese cake"
 from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "\"\u05d0\u05dc\u05d4 \u05d9\u05e4\u05d4 \u05d1\u05df \u05e2\u05de\u05e0\u05d5\u05d0\u05dc\" <eseltz90@gmail.com>"
 date: "Sat, 12 Oct 2019 16:20:22 +0300"

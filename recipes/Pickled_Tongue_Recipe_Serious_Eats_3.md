@@ -1,5 +1,5 @@
 ---
-subject: "Re: Pickled Tongue Recipe | Serious Eats"
+subject: "Pickled Tongue Recipe | Serious Eats"
 from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
 date: "Mon, 3 Jan 2022 08:25:14 +0200"

@@ -1,5 +1,5 @@
 ---
-subject: "Re: Cretan Beet and Yogurt Salad with Walnuts | Greek Food - Greek Cooking - Greek Recipes by Diane Kochilas"
+subject: "Cretan Beet and Yogurt Salad with Walnuts | Greek Food - Greek Cooking - Greek Recipes by Diane Kochilas"
 from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "benemanuel.family@gmail.com"
 date: "Sat, 2 Dec 2023 14:18:25 +0200"

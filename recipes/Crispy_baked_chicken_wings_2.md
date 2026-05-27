@@ -1,5 +1,5 @@
 ---
-subject: "Re: Crispy baked chicken wings"
+subject: "Crispy baked chicken wings"
 from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "\"benemanuel.family\" <benemanuel.family@gmail.com>"
 date: "Mon, 10 Jun 2024 15:56:49 +0300"

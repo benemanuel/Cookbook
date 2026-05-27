@@ -1,5 +1,5 @@
 ---
-subject: "Re: Slow-Roast Gochujang Chicken Recipe | Bon Appetit"
+subject: "Slow-Roast Gochujang Chicken Recipe | Bon Appetit"
 from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "benemanuel family <benemanuel.family@gmail.com>"
 date: "Sun, 4 Oct 2020 10:04:08 +0300"

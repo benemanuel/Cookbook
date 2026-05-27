@@ -1,5 +1,5 @@
 ---
-subject: "Re: Smoked Mulled Wine Recipe | Traeger Grills"
+subject: "Smoked Mulled Wine Recipe | Traeger Grills"
 from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "benemanuel family <benemanuel.family@gmail.com>"
 date: "Mon, 30 Sep 2024 16:14:18 +0300"

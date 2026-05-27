@@ -1,5 +1,5 @@
 ---
-subject: "Re: curd meat basturma \u05d1\u05e1\u05d8\u05e8\u05d5\u05de\u05d4"
+subject: "curd meat basturma \u05d1\u05e1\u05d8\u05e8\u05d5\u05de\u05d4"
 from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "benemanuel family <benemanuel.family@gmail.com>"
 date: "Mon, 13 Jan 2025 09:11:39 +0200"

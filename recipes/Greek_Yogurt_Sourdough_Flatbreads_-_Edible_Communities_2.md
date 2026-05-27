@@ -1,5 +1,5 @@
 ---
-subject: "Re: Greek Yogurt Sourdough Flatbreads - Edible Communities"
+subject: "Greek Yogurt Sourdough Flatbreads - Edible Communities"
 from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "benemanuel family <benemanuel.family@gmail.com>"
 date: "Fri, 14 Feb 2020 13:16:15 +0200"

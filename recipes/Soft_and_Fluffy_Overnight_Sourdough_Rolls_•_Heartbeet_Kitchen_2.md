@@ -1,5 +1,5 @@
 ---
-subject: "Re: Soft and Fluffy Overnight Sourdough Rolls \u2022 Heartbeet Kitchen"
+subject: "Soft and Fluffy Overnight Sourdough Rolls \u2022 Heartbeet Kitchen"
 from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
 date: "Thu, 8 Apr 2021 14:22:02 +0300"

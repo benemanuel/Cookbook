@@ -1,5 +1,5 @@
 ---
-subject: "Fwd: Polish cheese cake"
+subject: "Polish cheese cake"
 from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "Ella Ben Emanuel <eseltz90@gmail.com>"
 date: "Sat, 19 Apr 2025 19:20:39 +0300"

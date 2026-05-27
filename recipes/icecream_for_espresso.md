@@ -1,5 +1,5 @@
 ---
-subject: "Fwd: icecream for espresso"
+subject: "icecream for espresso"
 from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
 date: "Fri, 6 Sep 2019 06:46:06 +0300"

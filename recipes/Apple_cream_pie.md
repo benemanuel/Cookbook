@@ -1,18 +1,17 @@
 ---
-subject: "Apple cream pie"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Sun, 11 Jul 2021 13:44:48 +0300"
+subject: Apple cream pie
+from: Avraham Ben Emanuel <avraham.benemanuel@gmail.com>
+to: Family <benemanuel.family@gmail.com>
+date: Sun, 11 Jul 2021 13:44:48 +0300
 date_parsed: 2021-07-11T13:44:48+03:00
-labels: [dairy]
+labels:
+  - dairy
+  - cake
 ---
 
 # Apple cream pie
 
 ## Ingredients
-
-## Instructions
-
 \* 9\-inch unbaked pie crust
 
 
@@ -29,6 +28,9 @@ labels: [dairy]
 \* Pinch salt
 
 \* 1 c cream
+
+## Instructions
+
 
 
 Sprinkle lemon juice over apples. Place apples, rounded side up, in pastry\-lined pie pan.

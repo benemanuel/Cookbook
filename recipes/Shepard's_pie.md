@@ -1,5 +1,5 @@
 ---
-subject: "Fwd: Shepard's pie"
+subject: "Shepard's pie"
 from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "\"\u05e8\u05e2\u05e0\u05e0\u05d4\" <rannahw@gmail.com>"
 date: "Thu, 22 Aug 2024 17:17:40 +0300"

@@ -1,5 +1,5 @@
 ---
-subject: "Fwd: The Best Sourdough Cinnamon Rolls"
+subject: "The Best Sourdough Cinnamon Rolls"
 from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
 date: "Sat, 15 Apr 2023 14:19:14 +0300"

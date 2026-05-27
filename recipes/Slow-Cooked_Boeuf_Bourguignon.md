@@ -1,5 +1,5 @@
 ---
-subject: "Fwd: Slow-Cooked Boeuf Bourguignon"
+subject: "Slow-Cooked Boeuf Bourguignon"
 from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "benemanuel.family@gmail.com"
 date: "Fri, 1 Sep 2017 00:06:53 -0700"

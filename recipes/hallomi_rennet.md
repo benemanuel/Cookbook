@@ -1,5 +1,5 @@
 ---
-subject: "Fwd: hallomi rennet"
+subject: "hallomi rennet"
 from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
 date: "Sat, 29 May 2021 16:56:55 +0300"

@@ -1,5 +1,5 @@
 ---
-subject: "Re: Sourdough Glass Bread (Pan de Cristal) – Breadtopia"
+subject: "Sourdough Glass Bread (Pan de Cristal) – Breadtopia"
 from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 date: "Thu, 16 Jan 2025 16:25:22 +0200"

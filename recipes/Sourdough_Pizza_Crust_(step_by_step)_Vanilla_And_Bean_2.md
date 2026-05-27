@@ -1,5 +1,5 @@
 ---
-subject: "Re: Sourdough Pizza Crust (step by step) | Vanilla And Bean"
+subject: "Sourdough Pizza Crust (step by step) | Vanilla And Bean"
 from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
 date: "Fri, 5 Feb 2021 13:01:40 +0200"

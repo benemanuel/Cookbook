@@ -1,5 +1,5 @@
 ---
-subject: "Re: Roasted Eggplant with Meat Sauce"
+subject: "Roasted Eggplant with Meat Sauce"
 from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "benemanuel.family@gmail.com"
 date: "Fri, 23 Aug 2019 16:28:36 +0300"

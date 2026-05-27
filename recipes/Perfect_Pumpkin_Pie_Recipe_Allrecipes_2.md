@@ -1,5 +1,5 @@
 ---
-subject: "Re: Perfect Pumpkin Pie Recipe | Allrecipes"
+subject: "Perfect Pumpkin Pie Recipe | Allrecipes"
 from: "\"benemanuel.family\" <benemanuel.family@gmail.com>"
 to: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 date: "Thu, 12 Oct 2023 08:30:20 +0300"

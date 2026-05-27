@@ -1,5 +1,5 @@
 ---
-subject: "Fwd: Chai masala tea"
+subject: "Chai masala tea"
 from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "benemanuel family <benemanuel.family@gmail.com>"
 date: "Sun, 29 Mar 2026 21:26:15 +0300"

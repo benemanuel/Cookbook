@@ -1,5 +1,5 @@
 ---
-subject: "Re: New York Style Sourdough Bagels | BAKED"
+subject: "New York Style Sourdough Bagels | BAKED"
 from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 date: "Wed, 3 Apr 2024 09:06:19 +0300"

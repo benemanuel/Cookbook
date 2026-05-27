@@ -1,5 +1,5 @@
 ---
-subject: "Re: sprouted bean salad"
+subject: "sprouted bean salad"
 from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
 date: "Wed, 8 Mar 2023 11:12:22 +0200"
