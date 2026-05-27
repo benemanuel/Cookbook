@@ -19,7 +19,7 @@ labels: [meat, fish, dairy]
 - [Tweet](https://x.com/intent/tweet?text=Tender%20Salt%20Crusted%20Chicken&url=https%3A%2F%2Frootedinnature.blog%2Fhow-to-bake-a-whole-chicken-in-a-salt-crust%2F "Share on X")
 -  Pin
 
-[![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMTZweCIgdmVyc2lvbj0iMS4xIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgd2lkdGg9IjE2cHgiIHZpZXdib3g9IjAgMCA0NDQuODE5IDQ0NC44MTkiIGNsYXNzPSJtdi1jcmVhdGUtanRyLWNhcmV0Ij48cGF0aCBkPSJNNDM0LjI1MiwxMTQuMjAzbC0yMS40MDktMjEuNDE2Yy03LjQxOS03LjA0LTE2LjA4NC0xMC41NjEtMjUuOTc1LTEwLjU2MWMtMTAuMDk1LDAtMTguNjU3LDMuNTIxLTI1LjcsMTAuNTYxIEwyMjIuNDEsMjMxLjU0OUw4My42NTMsOTIuNzkxYy03LjA0Mi03LjA0LTE1LjYwNi0xMC41NjEtMjUuNjk3LTEwLjU2MWMtOS44OTYsMC0xOC41NTksMy41MjEtMjUuOTc5LDEwLjU2MWwtMjEuMTI4LDIxLjQxNiBDMy42MTUsMTIxLjQzNiwwLDEzMC4wOTksMCwxNDAuMTg4YzAsMTAuMjc3LDMuNjE5LDE4Ljg0MiwxMC44NDgsMjUuNjkzbDE4NS44NjQsMTg1Ljg2NWM2Ljg1NSw3LjIzLDE1LjQxNiwxMC44NDgsMjUuNjk3LDEwLjg0OCBjMTAuMDg4LDAsMTguNzUtMy42MTcsMjUuOTc3LTEwLjg0OGwxODUuODY1LTE4NS44NjVjNy4wNDMtNy4wNDQsMTAuNTY3LTE1LjYwOCwxMC41NjctMjUuNjkzIEM0NDQuODE5LDEzMC4yODcsNDQxLjI5NSwxMjEuNjI5LDQzNC4yNTIsMTE0LjIwM3oiIC8+PC9zdmc+) Jump to Recipe](#mv-creation-69-jtr)
+[ Jump to Recipe](#mv-creation-69-jtr)
 
 *Salt crusted chicken is a technique of encasing a chicken in a salt crust before baking. The salt crust seals in flavor and juices so the chicken is perfectly tender and juicy when it's done. It's easy to do and a great activity for kids to help with in the kitchen!*
 
@@ -101,7 +101,7 @@ Yeah, so, like I said - not super pretty, and chicken boob skin stuck to the sal
 
 But, this salt crusted chicken is some of the most tender and juicy chicken you've ever had. For the salt that gets stuck in the cracks, just use a pastry brush to brush that away, or cut the chicken up into pieces and peel the skin off.
 
-[![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTZweCIgaGVpZ2h0PSIxNnB4IiB2aWV3Ym94PSIwIDAgNDQ0LjgxOSA0NDQuODE5IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJtdi1jcmVhdGUtanRyLWNhcmV0Ij48cGF0aCBkPSJNNDM0LjI1MiwxMTQuMjAzbC0yMS40MDktMjEuNDE2Yy03LjQxOS03LjA0LTE2LjA4NC0xMC41NjEtMjUuOTc1LTEwLjU2MWMtMTAuMDk1LDAtMTguNjU3LDMuNTIxLTI1LjcsMTAuNTYxIEwyMjIuNDEsMjMxLjU0OUw4My42NTMsOTIuNzkxYy03LjA0Mi03LjA0LTE1LjYwNi0xMC41NjEtMjUuNjk3LTEwLjU2MWMtOS44OTYsMC0xOC41NTksMy41MjEtMjUuOTc5LDEwLjU2MWwtMjEuMTI4LDIxLjQxNiBDMy42MTUsMTIxLjQzNiwwLDEzMC4wOTksMCwxNDAuMTg4YzAsMTAuMjc3LDMuNjE5LDE4Ljg0MiwxMC44NDgsMjUuNjkzbDE4NS44NjQsMTg1Ljg2NWM2Ljg1NSw3LjIzLDE1LjQxNiwxMC44NDgsMjUuNjk3LDEwLjg0OCBjMTAuMDg4LDAsMTguNzUtMy42MTcsMjUuOTc3LTEwLjg0OGwxODUuODY1LTE4NS44NjVjNy4wNDMtNy4wNDQsMTAuNTY3LTE1LjYwOCwxMC41NjctMjUuNjkzIEM0NDQuODE5LDEzMC4yODcsNDQxLjI5NSwxMjEuNjI5LDQzNC4yNTIsMTE0LjIwM3oiIC8+PC9zdmc+) Continue to Content](#mv-creation-69)
+[ Continue to Content](#mv-creation-69)
 
 ### Recipe
 

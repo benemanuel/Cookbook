@@ -17,9 +17,9 @@ labels: [dairy, bread, cake]
 
 ---
 
-- [Recipes](https://www.seriouseats.com/all-recipes-5117985)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb25fcmlnaHQiPgo8dXNlIGhyZWY9IiNpY29uLWNoZXZyb25fcmlnaHQiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1jaGV2cm9uX3JpZ2h0IiAvPgo8L3N2Zz4=)
-- [Recipes By Course](https://www.seriouseats.com/recipes-by-course-5117906)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb25fcmlnaHQiPgo8dXNlIGhyZWY9IiNpY29uLWNoZXZyb25fcmlnaHQiIHhsaW5rOmhyZWY9IiNpY29uLWNoZXZyb25fcmlnaHQiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
-- [Breakfast & Brunch](https://www.seriouseats.com/breakfast-brunch-recipes-5117905)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb25fcmlnaHQiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1jaGV2cm9uX3JpZ2h0IiB4bGluazpocmVmPSIjaWNvbi1jaGV2cm9uX3JpZ2h0IiAvPgo8L3N2Zz4=)
+- [Recipes](https://www.seriouseats.com/all-recipes-5117985)
+- [Recipes By Course](https://www.seriouseats.com/recipes-by-course-5117906)
+- [Breakfast & Brunch](https://www.seriouseats.com/breakfast-brunch-recipes-5117905)
 - [Waffles](https://www.seriouseats.com/waffle-recipes-5117886)
 
 ### Sourdough Waffles
@@ -34,12 +34,12 @@ By
 
 [Donna Currie](https://www.seriouseats.com/donna-currie-5118651)
 
-- [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhY2Vib29rIHNvY2lhbC1uYXZfX2ljb24iPgo8dXNlIGhyZWY9IiNpY29uLWZhY2Vib29rIiB4bGluazpocmVmPSIjaWNvbi1mYWNlYm9vayIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](https://www.facebook.com/cookistry)
-- [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWluc3RhZ3JhbSBzb2NpYWwtbmF2X19pY29uIj4KPHVzZSBocmVmPSIjaWNvbi1pbnN0YWdyYW0iIHhsaW5rOmhyZWY9IiNpY29uLWluc3RhZ3JhbSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](https://www.instagram.com/cookistry/)
-- [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXR3aXR0ZXIgc29jaWFsLW5hdl9faWNvbiI+Cjx1c2UgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiNpY29uLXR3aXR0ZXIiIHhsaW5rOmhyZWY9IiNpY29uLXR3aXR0ZXIiIC8+Cjwvc3ZnPg==)](https://twitter.com/dbcurrie)
-- [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXBpbnRlcmVzdCBzb2NpYWwtbmF2X19pY29uIj4KPHVzZSBocmVmPSIjaWNvbi1waW50ZXJlc3QiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1waW50ZXJlc3QiIC8+Cjwvc3ZnPg==)](https://www.pinterest.com/dbcurrie/_saved/)
-- [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWxpbmtlZGluIHNvY2lhbC1uYXZfX2ljb24iPgo8dXNlIGhyZWY9IiNpY29uLWxpbmtlZGluIiB4bGluazpocmVmPSIjaWNvbi1saW5rZWRpbiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](https://www.linkedin.com/in/dbcurrie/)
-- [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXdlYnNpdGUgc29jaWFsLW5hdl9faWNvbiI+Cjx1c2UgaHJlZj0iI2ljb24td2Vic2l0ZSIgeGxpbms6aHJlZj0iI2ljb24td2Vic2l0ZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](https://www.cookistry.com/)
+- [](https://www.facebook.com/cookistry)
+- [](https://www.instagram.com/cookistry/)
+- [](https://twitter.com/dbcurrie)
+- [](https://www.pinterest.com/dbcurrie/_saved/)
+- [](https://www.linkedin.com/in/dbcurrie/)
+- [](https://www.cookistry.com/)
 
 A longtime cook and baker, Donna Currie has written equipment reviews and bread recipes for Serious Eats.
 
@@ -47,27 +47,27 @@ Learn about Serious Eats' [Editorial Process](/about-us-5120006#toc-editorial-gu
 
 Updated October 31, 2023
 
-[![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#)
+[](#) [](#) [](#) [](#) [](#)
 
 (18)
 
- Save![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhdm9yaXRlIj4KPHVzZSB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeGxpbms6aHJlZj0iI2ljb24tZmF2b3JpdGUiIGhyZWY9IiNpY29uLWZhdm9yaXRlIiAvPgo8L3N2Zz4=)
+ Save
 
  [WRITE A REVIEW](#)
 
-Close![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBjbG9zZS1pY29uIj4KPHVzZSB4bGluazpocmVmPSIjY2xvc2UtaWNvbiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiNjbG9zZS1pY29uIiAvPgo8L3N2Zz4=)
+Close
 
 ![Two sourdough waffles on a plate with maple syrup. ](https://www.seriouseats.com/thmb/ohbw04CMQwdEZSxtnTEopAB-28Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2011__01__20200615-sourdough-waffle-reshoot-ariel-kanter-6cbb87e1862740ea85a152fa1e01f9e7.jpg)
 
 *Serious Eats / Ariel Kanter*
 
- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhdm9yaXRlIj4KPHVzZSB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeGxpbms6aHJlZj0iI2ljb24tZmF2b3JpdGUiIGhyZWY9IiNpY29uLWZhdm9yaXRlIiAvPgo8L3N2Zz4=)
+ 
 
-- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXBpbnRlcmVzdC0tc29jaWFsLXNoYXJlIj4KPHVzZSB4bGluazpocmVmPSIjaWNvbi1waW50ZXJlc3QtLXNvY2lhbC1zaGFyZSIgaHJlZj0iI2ljb24tcGludGVyZXN0LS1zb2NpYWwtc2hhcmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
-- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhY2Vib29rLS1zb2NpYWwtc2hhcmUiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1mYWNlYm9vay0tc29jaWFsLXNoYXJlIiB4bGluazpocmVmPSIjaWNvbi1mYWNlYm9vay0tc29jaWFsLXNoYXJlIiAvPgo8L3N2Zz4=)
-- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWVudmVsb3BlIj4KPHVzZSBocmVmPSIjaWNvbi1lbnZlbG9wZSIgeGxpbms6aHJlZj0iI2ljb24tZW52ZWxvcGUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+- 
+- 
+- 
 
-Jump to recipe![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWFycm93LWRvd24gbW50bC1idXR0b25fX2ljb24iPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1hcnJvdy1kb3duIiB4bGluazpocmVmPSIjaWNvbi1hcnJvdy1kb3duIiAvPgo8L3N2Zz4=)
+Jump to recipe
 
 ### Why It Works
 
@@ -97,7 +97,7 @@ Total 30 mins
 Serves 4
 to 6 servings
 
- Save![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhdm9yaXRlIj4KPHVzZSB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaHJlZj0iI2ljb24tZmF2b3JpdGUiIHhsaW5rOmhyZWY9IiNpY29uLWZhdm9yaXRlIiAvPgo8L3N2Zz4=)
+ Save
 
  Keep Screen Awake
 
@@ -144,9 +144,9 @@ You can use unfed/discarded starter that has been kept at room temperature or st
 - [Sourdough Rye Crackers With Coriander and Fennel](https://www.seriouseats.com/sourdough-rye-crackers-with-coriander-and-fennel)
 - [How to Ferment Sourdough Properly](https://www.seriouseats.com/how-to-ferment-sourdough)
 
-- [Waffles](https://www.seriouseats.com/waffle-recipes-5117886)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWFycm93LS1kb3VibGUgdGFnLW5hdl9faWNvbiI+Cjx1c2UgeGxpbms6aHJlZj0iI2ljb24tYXJyb3ctLWRvdWJsZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiNpY29uLWFycm93LS1kb3VibGUiIC8+Cjwvc3ZnPg==)
-- [Vegetarian Breakfast & Brunch](https://www.seriouseats.com/vegetarian-breakfast-brunch-recipes-5117755)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWFycm93LS1kb3VibGUgdGFnLW5hdl9faWNvbiI+Cjx1c2UgeGxpbms6aHJlZj0iI2ljb24tYXJyb3ctLWRvdWJsZSIgaHJlZj0iI2ljb24tYXJyb3ctLWRvdWJsZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)
-- [Sourdough Breads](https://www.seriouseats.com/sourdough-bread-recipes-5117388)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWFycm93LS1kb3VibGUgdGFnLW5hdl9faWNvbiI+Cjx1c2UgeGxpbms6aHJlZj0iI2ljb24tYXJyb3ctLWRvdWJsZSIgaHJlZj0iI2ljb24tYXJyb3ctLWRvdWJsZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)
+- [Waffles](https://www.seriouseats.com/waffle-recipes-5117886)
+- [Vegetarian Breakfast & Brunch](https://www.seriouseats.com/vegetarian-breakfast-brunch-recipes-5117755)
+- [Sourdough Breads](https://www.seriouseats.com/sourdough-bread-recipes-5117388)
 
 | Nutrition Facts (per serving) | |
 | ----------------------------- | -------- |
@@ -155,7 +155,7 @@ You can use unfed/discarded starter that has been kept at room temperature or st
 | 57g                           | Carbs    |
 | 8g                            | Protein  |
 
- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibnV0cml0aW9uLW1vZGFsLWxhYmVsLS1pY29uIj4KPHVzZSB4bGluazpocmVmPSIjaWNvbi1wYXBlciIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==) Show Full Nutrition Label
+  Show Full Nutrition Label
 
 ×
 

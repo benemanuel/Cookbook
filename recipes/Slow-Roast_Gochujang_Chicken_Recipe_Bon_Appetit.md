@@ -13,9 +13,9 @@ labels: [meat, dairy]
 
 ---
 
-![Arrow](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYgMTYiIGZvY3VzYWJsZT0iZmFsc2UiIHdpZHRoPSIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjE2IiBzdHlsZT0idHJhbnNmb3JtOnJvdGF0ZSg5MGRlZykiIGNsYXNzPSJpY29uIGljb24tYXJyb3ciPjx0aXRsZT5BcnJvdzwvdGl0bGU+PGcgY2xpcC1wYXRoPSJ1cmwoI2EpIj48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTE0LjcwNyA4IDguMzU0IDEuNjQ2bC0uNzA4LjcwOEwxMi43OTMgNy41SDF2MWgxMS43OTNsLTUuMTQ3IDUuMTQ2LjcwOC43MDhMMTQuNzA3IDhaIiAvPjwvZz48ZGVmcz48Y2xpcHBhdGggaWQ9ImEiPjxwYXRoIGQ9Ik0wIDBoMTZ2MTZIMHoiIC8+PC9jbGlwcGF0aD48L2RlZnM+PC9zdmc+)Jump To Recipe
+Jump To Recipe
 
-![Print](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE2IiBmaWxsPSJub25lIiB3aWR0aD0iMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDE2IDE2IiBjbGFzcz0iaWNvbiBpY29uLXByaW50Ij48dGl0bGU+UHJpbnQ8L3RpdGxlPjxwYXRoIGZpbGw9IiMwMDAiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTQuNSAyLjVIMTEuNVY1LjVIMTQuNVYxMS41SDExLjVWMTMuNUg0LjVWMTEuNUgxLjVWNS41SDQuNVYyLjVaTTQuNSAxMC41VjguNUgxMS41VjEwLjVIMTMuNVY2LjVIMTEuNUg0LjVIMi41VjEwLjVINC41Wk0xMC41IDMuNVY1LjVINS41VjMuNUgxMC41Wk01LjUgMTIuNVY5LjVIMTAuNVYxMi41SDUuNVoiIGZpbGwtcnVsZT0iZXZlbm9kZCIgLz48L3N2Zz4=)
+
 
 This isn’t the crisp-skinned, high-heat roast chicken you’re probably familiar with. Instead, it’s a melt-in-your-mouth tender, schmaltzy, slow-roast version that’s more similar to rotisserie chicken—except (bonus!) it gets slathered in the funky-spicy-sweet gochujang. And while the meat might be the star of the show, don't discount those buttery-soft, nearly-confited potatoes, which cook gently in the chicken fat. Makes you wonder why you haven't *always* been roasting long-cooking vegetables—carrots, cauliflower, turnips (?!), winter squash, fennel—under the bird for a built-in side, huh?
 
@@ -184,13 +184,13 @@ Ask AI
     Whisk **5 Tbsp. gochujang** and **¼ cup extra-virgin olive oil** in a medium bowl until combined. Finely grate **3 garlic cloves** (from one of the heads of garlic) into gochujang oil. Peel **1 ½" piece fresh ginger** ([a spoon can get the job done](https://www.bonappetit.com/story/how-to-peel-ginger-with-a-spoon)), then grate into gochujang oil; whisk to combine.
 
   - Play/Pause Button
-    ![Pause](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZvY3VzYWJsZT0iZmFsc2UiIHdpZHRoPSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBoZWlnaHQ9IjMyIiBjbGFzcz0iQnV0dG9uSWNvbi1pVmp1Tk8gZ25YdlhOIGJ1dHRvbi1pY29uIGljb24gaWNvbi1wYXVzZSI+PHRpdGxlPlBhdXNlPC90aXRsZT48ZyBmaWxsLXJ1bGU9Im5vbnplcm8iPjxwYXRoIGQ9Ik0xMSAxMGgzdjEyaC0zek0xOCAxMGgzdjEyaC0zeiIgZmlsbD0iIzAwMCIgLz48L2c+PC9zdmc+)
+    
 
   - Play/Pause Button
-    ![Pause](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMzIiIHdpZHRoPSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmb2N1c2FibGU9ImZhbHNlIiBjbGFzcz0iQnV0dG9uSWNvbi1pVmp1Tk8gZ25YdlhOIGJ1dHRvbi1pY29uIGljb24gaWNvbi1wYXVzZSI+PHRpdGxlPlBhdXNlPC90aXRsZT48ZyBmaWxsLXJ1bGU9Im5vbnplcm8iPjxwYXRoIGQ9Ik0xMSAxMGgzdjEyaC0zek0xOCAxMGgzdjEyaC0zeiIgZmlsbD0iIzAwMCIgLz48L2c+PC9zdmc+)
+    
 
   - Play/Pause Button
-    ![Pause](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjMyIiBmb2N1c2FibGU9ImZhbHNlIiB2aWV3Qm94PSIwIDAgMzIgMzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjMyIiBjbGFzcz0iQnV0dG9uSWNvbi1pVmp1Tk8gZ25YdlhOIGJ1dHRvbi1pY29uIGljb24gaWNvbi1wYXVzZSI+PHRpdGxlPlBhdXNlPC90aXRsZT48ZyBmaWxsLXJ1bGU9Im5vbnplcm8iPjxwYXRoIGQ9Ik0xMSAxMGgzdjEyaC0zek0xOCAxMGgzdjEyaC0zeiIgZmlsbD0iIzAwMCIgLz48L2c+PC9zdmc+)
+    
 
 #### Step 3
     Cut what’s left of the head of garlic in half crosswise. Repeat with second head of garlic. Stuff 2 garlic halves inside cavity of chicken. Tie legs together with kitchen twine.
@@ -214,16 +214,16 @@ Ask AI
     Finish the potatoes: Thinly slice **5 scallions** on a long diagonal. Cut **2 limes** in half. Cut 1 half into wedges and set aside. Stir **2 tsp. honey** and juice of remaining lime half into potatoes. Taste potatoes and season with more **salt** if needed. Scatter sliced scallions over potatoes.
 
   - Play/Pause Button
-    ![Pause](data:image/svg+xml;base64,PHN2ZyBmb2N1c2FibGU9ImZhbHNlIiB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDMyIDMyIiBjbGFzcz0iQnV0dG9uSWNvbi1pVmp1Tk8gZ25YdlhOIGJ1dHRvbi1pY29uIGljb24gaWNvbi1wYXVzZSI+PHRpdGxlPlBhdXNlPC90aXRsZT48ZyBmaWxsLXJ1bGU9Im5vbnplcm8iPjxwYXRoIGQ9Ik0xMSAxMGgzdjEyaC0zek0xOCAxMGgzdjEyaC0zeiIgZmlsbD0iIzAwMCIgLz48L2c+PC9zdmc+)
+    
 
   - Play/Pause Button
-    ![Pause](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjMyIiB2aWV3Qm94PSIwIDAgMzIgMzIiIHdpZHRoPSIzMiIgZm9jdXNhYmxlPSJmYWxzZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBjbGFzcz0iQnV0dG9uSWNvbi1pVmp1Tk8gZ25YdlhOIGJ1dHRvbi1pY29uIGljb24gaWNvbi1wYXVzZSI+PHRpdGxlPlBhdXNlPC90aXRsZT48ZyBmaWxsLXJ1bGU9Im5vbnplcm8iPjxwYXRoIGQ9Ik0xMSAxMGgzdjEyaC0zek0xOCAxMGgzdjEyaC0zeiIgZmlsbD0iIzAwMCIgLz48L2c+PC9zdmc+)
+    
 
   - Play/Pause Button
-    ![Pause](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzIgMzIiIGZvY3VzYWJsZT0iZmFsc2UiIGhlaWdodD0iMzIiIHdpZHRoPSIzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBjbGFzcz0iQnV0dG9uSWNvbi1pVmp1Tk8gZ25YdlhOIGJ1dHRvbi1pY29uIGljb24gaWNvbi1wYXVzZSI+PHRpdGxlPlBhdXNlPC90aXRsZT48ZyBmaWxsLXJ1bGU9Im5vbnplcm8iPjxwYXRoIGQ9Ik0xMSAxMGgzdjEyaC0zek0xOCAxMGgzdjEyaC0zeiIgZmlsbD0iIzAwMCIgLz48L2c+PC9zdmc+)
+    
 
   - Play/Pause Button
-    ![Pause](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZvY3VzYWJsZT0iZmFsc2UiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgd2lkdGg9IjMyIiBjbGFzcz0iQnV0dG9uSWNvbi1pVmp1Tk8gZ25YdlhOIGJ1dHRvbi1pY29uIGljb24gaWNvbi1wYXVzZSI+PHRpdGxlPlBhdXNlPC90aXRsZT48ZyBmaWxsLXJ1bGU9Im5vbnplcm8iPjxwYXRoIGQ9Ik0xMSAxMGgzdjEyaC0zek0xOCAxMGgzdjEyaC0zeiIgZmlsbD0iIzAwMCIgLz48L2c+PC9zdmc+)
+    
 
 #### Step 10
     Carve chicken, then arrange pieces over potatoes and scallions. Serve right out of skillet with remaining lime wedges alongside for squeezing, and squeeze out the sweet, slow-roasted garlic cloves as you wish.
@@ -237,6 +237,6 @@ Explore Bon Appétit[Korean](/cuisine/korean)[East Asian](/cuisine/east-asian)[A
 
 ### Recipe notes
 
-[Back to top![Triangle](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmb2N1c2FibGU9ImZhbHNlIiBjbGFzcz0iaWNvbiBpY29uLXRyaWFuZ2xlIFJldmlld0xpc3RDYXJhdC1qQnhrU2UgZ05IRVdZIj48dGl0bGU+VHJpYW5nbGU8L3RpdGxlPjxwYXRoIGQ9Ik0zMCA5SDJsMTQgMTRMMzAgOVoiIGZpbGw9IiMwMDAiIC8+PC9zdmc+)](#main-content)
+[Back to top](#main-content)
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBzdHlsZT0id2lkdGg6MTAwcHg7aGVpZ2h0OjEwMHB4O21hcmdpbjoyMHB4O2Rpc3BsYXk6aW5saW5lLWJsb2NrIiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAwIDAiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB4PSIwcHgiIHk9IjBweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiIGlkPSJMOSIgY2xhc3M9IkNpcmNsZVdyYXBwZXItaVhyRk95IGlyVlBsTiBpY29uIGljb24tbG9hZGVyIj48cGF0aCBkPSJNNzMsNTBjMC0xMi43LTEwLjMtMjMtMjMtMjNTMjcsMzcuMywyNyw1MCBNMzAuOSw1MGMwLTEwLjUsOC41LTE5LjEsMTkuMS0xOS4xUzY5LjEsMzkuNSw2OS4xLDUwIiBmaWxsPSIjMDAwIiAvPjwvc3ZnPg==)
+

@@ -13,14 +13,14 @@ labels: [meat, dairy, cake]
 
 ---
 
-- [Recipes](https://www.allrecipes.com/recipes/)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb24iPgo8dXNlIGhyZWY9IiNpY29uLWNoZXZyb24iIHhsaW5rOmhyZWY9IiNpY29uLWNoZXZyb24iIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
-- [Main Dishes](https://www.allrecipes.com/recipes/80/main-dish/)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb24iPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLWNoZXZyb24iIGhyZWY9IiNpY29uLWNoZXZyb24iIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
-- [Stuffed](https://www.allrecipes.com/recipes/17246/main-dish/stuffed-main-dishes/)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb24iPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLWNoZXZyb24iIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1jaGV2cm9uIiAvPgo8L3N2Zz4=)
+- [Recipes](https://www.allrecipes.com/recipes/)
+- [Main Dishes](https://www.allrecipes.com/recipes/80/main-dish/)
+- [Stuffed](https://www.allrecipes.com/recipes/17246/main-dish/stuffed-main-dishes/)
 - [Stuffed Cabbage](https://www.allrecipes.com/recipes/16539/main-dish/stuffed-main-dishes/stuffed-cabbage/)
 
 ### Easy Cabbage Rolls
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXItaGFsZiI+Cjx1c2UgaHJlZj0iI2ljb24tc3Rhci1oYWxmIiB4bGluazpocmVmPSIjaWNvbi1zdGFyLWhhbGYiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+
 
 4.3
 
@@ -36,28 +36,28 @@ Submitted by BJ
 
 Updated on October 29, 2025
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiByZXZpZXdlci1pY29uIG1udGwtYXR0cmlidXRpb25fX2l0ZW0taWNvbiI+Cjx1c2UgaHJlZj0iI3Jldmlld2VyLWljb24iIHhsaW5rOmhyZWY9IiNyZXZpZXdlci1pY29uIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+) Tested by
+ Tested by
 
  [Allrecipes Test Kitchen](https://www.allrecipes.com/allrecipes-test-kitchen-7553892)
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiByZXZpZXdlci1pY29uIG1udGwtYXR0cmlidXRpb25fX2l0ZW0taWNvbiI+Cjx1c2UgaHJlZj0iI3Jldmlld2VyLWljb24iIHhsaW5rOmhyZWY9IiNyZXZpZXdlci1pY29uIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+) Tested by [Allrecipes Test Kitchen](https://www.allrecipes.com/allrecipes-test-kitchen-7553892)
+ Tested by [Allrecipes Test Kitchen](https://www.allrecipes.com/allrecipes-test-kitchen-7553892)
 
 The Allrecipes Test Kitchen staff are a team of culinary pros who make and vet recipes using only equipment you'd find in a home kitchen. Staff credentials vary but include training at the Culinary Institute of America; kitchen stints in fine dining restaurants; and countless hours in the test kitchen itself.
 
 [Meet the Allrecipes Test Kitchen](/about-allrecipes-test-kitchen-7550983)
 
- Save![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhdm9yaXRlIj4KPHVzZSBocmVmPSIjaWNvbi1mYXZvcml0ZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhsaW5rOmhyZWY9IiNpY29uLWZhdm9yaXRlIiAvPgo8L3N2Zz4=)
+ Save
 
-Rate![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXJlY2lwZS1zb2NpYWwtc2hhcmUtc3Rhci1lbXB0eSI+Cjx1c2UgaHJlZj0iI2ljb24tcmVjaXBlLXNvY2lhbC1zaGFyZS1zdGFyLWVtcHR5IiB4bGluazpocmVmPSIjaWNvbi1yZWNpcGUtc29jaWFsLXNoYXJlLXN0YXItZW1wdHkiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+Rate
 
-Share![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXNoYXJlIj4KPHVzZSBocmVmPSIjaWNvbi1zaGFyZSIgeGxpbms6aHJlZj0iI2ljb24tc2hhcmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+Share
 
-- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhY2Vib29rIj4KPHVzZSBocmVmPSIjaWNvbi1mYWNlYm9vayIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhsaW5rOmhyZWY9IiNpY29uLWZhY2Vib29rIiAvPgo8L3N2Zz4=)
-- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXR3aXR0ZXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXR3aXR0ZXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi10d2l0dGVyIiAvPgo8L3N2Zz4=)
-- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXBpbnRlcmVzdCI+Cjx1c2UgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiNpY29uLXBpbnRlcmVzdCIgeGxpbms6aHJlZj0iI2ljb24tcGludGVyZXN0IiAvPgo8L3N2Zz4=)
-- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWVtYWlsIj4KPHVzZSBocmVmPSIjaWNvbi1lbWFpbCIgeGxpbms6aHJlZj0iI2ljb24tZW1haWwiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+- 
+- 
+- 
+- 
 
-Add Photo![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWFkZC1waG90byBtbnRsLWJ1dHRvbl9faWNvbiI+Cjx1c2UgeGxpbms6aHJlZj0iI2ljb24tYWRkLXBob3RvIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaHJlZj0iI2ljb24tYWRkLXBob3RvIiAvPgo8L3N2Zz4=)
+Add Photo
 
 [114](#) [114](#) [114](#) [114](#)
 
@@ -89,15 +89,15 @@ Jump to Nutrition Facts
 
 ## Ingredients
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZWNrIj4KPHVzZSB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaHJlZj0iI2ljb24tY2hlY2siIHhsaW5rOmhyZWY9IiNpY29uLWNoZWNrIiAvPgo8L3N2Zz4=) 1/2x
+ 1/2x
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZWNrIj4KPHVzZSBocmVmPSIjaWNvbi1jaGVjayIgeGxpbms6aHJlZj0iI2ljb24tY2hlY2siIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=) 1x
+ 1x
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZWNrIj4KPHVzZSBocmVmPSIjaWNvbi1jaGVjayIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhsaW5rOmhyZWY9IiNpY29uLWNoZWNrIiAvPgo8L3N2Zz4=) 2x
+ 2x
 
- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWVycm9yIG1udGwtbWVzc2FnZS1iYW5uZXJfX3ByZWZpeC1pY29uIG1udGwtbWVzc2FnZS1iYW5uZXJfX2ljb24iPgo8dXNlIGhyZWY9IiNpY29uLWVycm9yIiB4bGluazpocmVmPSIjaWNvbi1lcnJvciIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==) Oops! Something went wrong. Our team is working on it.
+  Oops! Something went wrong. Our team is working on it.
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWhlbHAiPgo8dXNlIGhyZWY9IiNpY29uLWhlbHAiIHhsaW5rOmhyZWY9IiNpY29uLWhlbHAiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+
 
 This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 6 servings
 
@@ -157,15 +157,15 @@ This recipe was developed at its original yield. Ingredient amounts are automati
 
 *Dotdash Meredith Food Studios*
 
- Save![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhdm9yaXRlIj4KPHVzZSB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaHJlZj0iI2ljb24tZmF2b3JpdGUiIHhsaW5rOmhyZWY9IiNpY29uLWZhdm9yaXRlIiAvPgo8L3N2Zz4=)
+ Save
 
-Rate![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBtbS1yZWNpcGVzLXJhdGUtYnV0dG9uLXN0YXItZW1wdHkgbW50bC1idXR0b25fX2ljb24iPgo8dXNlIGhyZWY9IiNtbS1yZWNpcGVzLXJhdGUtYnV0dG9uLXN0YXItZW1wdHkiIHhsaW5rOmhyZWY9IiNtbS1yZWNpcGVzLXJhdGUtYnV0dG9uLXN0YXItZW1wdHkiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+Rate
 
 3,508 home cooks made it!
 
 I Made It
 
- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWVycm9yIG1udGwtbWVzc2FnZS1iYW5uZXJfX3ByZWZpeC1pY29uIG1udGwtbWVzc2FnZS1iYW5uZXJfX2ljb24iPgo8dXNlIGhyZWY9IiNpY29uLWVycm9yIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeGxpbms6aHJlZj0iI2ljb24tZXJyb3IiIC8+Cjwvc3ZnPg==) Something went wrong. Please reload and try again.
+  Something went wrong. Please reload and try again.
 
 ### Nutrition Facts (per serving)
 
@@ -205,9 +205,9 @@ I Made It
 
 (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWFycm93X2xlZnQiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLWFycm93X2xlZnQiIGhyZWY9IiNpY29uLWFycm93X2xlZnQiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
 
-Add Your Photo![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWFkZC1waG90byBtbnRsLWJ1dHRvbl9faWNvbiBwaG90by1kaWFsb2dfX2FkZC1waG90by1pY29uIj4KPHVzZSBocmVmPSIjaWNvbi1hZGQtcGhvdG8iIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1hZGQtcGhvdG8iIC8+Cjwvc3ZnPg==)
+
+Add Your Photo
 
 ## Photos of Easy Cabbage Rolls
 
@@ -223,11 +223,11 @@ Photo by Dotdash Meredith Food Studios
 
 Photo by Laura Guerrero
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)
+
 
 04/27/2025
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiB1Z2MtaWNvbi1jaGVjay1jaXJjbGUgdWdjLXJldmlld19fY2hpcC0taWNvbiI+Cjx1c2UgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiN1Z2MtaWNvbi1jaGVjay1jaXJjbGUiIHhsaW5rOmhyZWY9IiN1Z2MtaWNvbi1jaGVjay1jaXJjbGUiIC8+Cjwvc3ZnPg==) A keeper!
+ A keeper!
 
 The recipe was easy to follow and fun to put together with my husband Neil. Thank you for sharing.
 
@@ -237,7 +237,7 @@ The recipe was easy to follow and fun to put together with my husband Neil. Than
 
 Photo by Lpierce
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+
 
 01/24/2024
 
@@ -249,7 +249,7 @@ Everything tasted great lol some was rolled good others wasn’t still was good.
 
 Photo by Moira Engel
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+
 
 12/28/2023
 
@@ -261,7 +261,7 @@ These were so easy and tasty! I did add a can of tomato soup for extra sauce but
 
 Photo by Mike
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)
+
 
 10/31/2023
 
@@ -273,7 +273,7 @@ My friends loved it too
 
 Photo by BeaPa
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+
 
 11/12/2022
 
@@ -285,7 +285,7 @@ I hate it when someone starts their rating with ' I changed some ingredients....
 
 Photo by Troy Morgan
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)
+
 
 04/20/2021
 
@@ -320,4 +320,4 @@ Photo by Lady Nightshade
 3. [3](#)
 4. [4](#)
 5. [5](#)
-6. [Next![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb24gcGFnaW5hdGlvbl9fbmV4dC1pY29uIj4KPHVzZSB4bGluazpocmVmPSIjaWNvbi1jaGV2cm9uIiBocmVmPSIjaWNvbi1jaGV2cm9uIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)](#)
+6. [Next](#)

@@ -17,8 +17,8 @@ labels: []
 
 ---
 
-- [Recipes by Occasion](https://www.thespruceeats.com/food-by-occasion-season-4162319)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb25fcmlnaHQiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1jaGV2cm9uX3JpZ2h0IiB4bGluazpocmVmPSIjaWNvbi1jaGV2cm9uX3JpZ2h0IiAvPgo8L3N2Zz4=)
-- [Cocktail Party Recipes](https://www.thespruceeats.com/cocktail-party-4162291)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb25fcmlnaHQiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1jaGV2cm9uX3JpZ2h0IiB4bGluazpocmVmPSIjaWNvbi1jaGV2cm9uX3JpZ2h0IiAvPgo8L3N2Zz4=)
+- [Recipes by Occasion](https://www.thespruceeats.com/food-by-occasion-season-4162319)
+- [Cocktail Party Recipes](https://www.thespruceeats.com/cocktail-party-4162291)
 - [Cocktail Party Drinks](https://www.thespruceeats.com/cocktail-party-drinks-4162289)
 
 ### Cranberry Ginger Shandy
@@ -31,10 +31,10 @@ By
 
 [Colleen Graham](https://www.thespruceeats.com/colleen-graham-758955)
 
-- [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhY2Vib29rIHNvY2lhbC1uYXZfX2ljb24iPgo8dXNlIGhyZWY9IiNpY29uLWZhY2Vib29rIiB4bGluazpocmVmPSIjaWNvbi1mYWNlYm9vayIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](https://www.facebook.com/ColleensDrinkStudio)
-- [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXR3aXR0ZXIgc29jaWFsLW5hdl9faWNvbiI+Cjx1c2UgeGxpbms6aHJlZj0iI2ljb24tdHdpdHRlciIgaHJlZj0iI2ljb24tdHdpdHRlciIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](https://twitter.com/cocktailsguide)
-- [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXBpbnRlcmVzdCBzb2NpYWwtbmF2X19pY29uIj4KPHVzZSB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaHJlZj0iI2ljb24tcGludGVyZXN0IiB4bGluazpocmVmPSIjaWNvbi1waW50ZXJlc3QiIC8+Cjwvc3ZnPg==)](https://www.pinterest.com/cocktailsguide/)
-- [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXdlYnNpdGUgc29jaWFsLW5hdl9faWNvbiI+Cjx1c2UgeGxpbms6aHJlZj0iI2ljb24td2Vic2l0ZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiNpY29uLXdlYnNpdGUiIC8+Cjwvc3ZnPg==)](http://www.scdrinkstudio.com/)
+- [](https://www.facebook.com/ColleensDrinkStudio)
+- [](https://twitter.com/cocktailsguide)
+- [](https://www.pinterest.com/cocktailsguide/)
+- [](http://www.scdrinkstudio.com/)
 
 Writer and cocktail book author Colleen Graham is a seasoned mixologist who loves sharing her knowledge of spirits and passion for preparing drinks.
 
@@ -42,15 +42,15 @@ Learn about The Spruce Eats' [Editorial Process](/about-us-4776236#toc-editorial
 
 Updated on 04/23/21
 
-[![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#)
+[](#) [](#) [](#) [](#) [](#)
 
 (8)
 
- Save![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhdm9yaXRlIj4KPHVzZSB4bGluazpocmVmPSIjaWNvbi1mYXZvcml0ZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiNpY29uLWZhdm9yaXRlIiAvPgo8L3N2Zz4=)
+ Save
 
  [Write a Review](#)
 
-Close![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBjbG9zZS1pY29uIj4KPHVzZSB4bGluazpocmVmPSIjY2xvc2UtaWNvbiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiNjbG9zZS1pY29uIiAvPgo8L3N2Zz4=)
+Close
 
 ![Cranberry Ginger Shandy With Ginger Sugar Rim](https://www.thespruceeats.com/thmb/fWr48FSMCWQdqiqWIwqvLLe0Zgc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/CranberryGingerShandy-007-5c90fe99c9e77c0001ff0b73.jpg)
 
@@ -66,17 +66,17 @@ Servings: 4 servings
 
 Yield: 6 1/2 cups
 
-[![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#)
+[](#) [](#) [](#) [](#) [](#)
 
 8 ratings
 
- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBjb21tZW50cy1pY29uIj4KPHVzZSB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaHJlZj0iI2NvbW1lbnRzLWljb24iIHhsaW5rOmhyZWY9IiNjb21tZW50cy1pY29uIiAvPgo8L3N2Zz4=)
+ 
 
  Write a Review
 
 [Add a comment](#)
 
- SaveRecipe![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhdm9yaXRlIj4KPHVzZSB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeGxpbms6aHJlZj0iI2ljb24tZmF2b3JpdGUiIGhyZWY9IiNpY29uLWZhdm9yaXRlIiAvPgo8L3N2Zz4=)
+ SaveRecipe
 
 The popular [shandy](https://www.thespruceeats.com/easy-shandy-recipe-758997) takes on a dark, fruity twist in the cranberry-ginger shandy. It's a simple recipe that turns the summer drink into the perfect beverage for autumn and winter parties, and it's incredibly easy to make. The [pitcher drink](https://www.thespruceeats.com/3-easy-big-batch-cocktails-4134426) will create four 12-ounce servings, but you can always pour shorter drinks or mix a larger batch for more guests.
 
@@ -151,11 +151,11 @@ Love a Spruce Eats recipe? [With MyRecipes, your personal home for recipes](http
 
 This is one of the lightest mixed drinks you can make because you're essentially cutting the beer's strength in half. The lemon juice is a factor, too, so [the alcohol content](https://www.thespruceeats.com/determining-cocktail-alcohol-proof-760307) ends up as a very mild 2.3 percent ABV. There's very little worry about your guests becoming drunk off this one!
 
-- [Cocktail Party Drinks](https://www.thespruceeats.com/cocktail-party-drinks-4162289)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWFycm93LS1kb3VibGUgdGFnLW5hdl9faWNvbiI+Cjx1c2UgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiNpY29uLWFycm93LS1kb3VibGUiIHhsaW5rOmhyZWY9IiNpY29uLWFycm93LS1kb3VibGUiIC8+Cjwvc3ZnPg==)
-- [Beer](https://www.thespruceeats.com/beer-4162694)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWFycm93LS1kb3VibGUgdGFnLW5hdl9faWNvbiI+Cjx1c2UgeGxpbms6aHJlZj0iI2ljb24tYXJyb3ctLWRvdWJsZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiNpY29uLWFycm93LS1kb3VibGUiIC8+Cjwvc3ZnPg==)
-- [Drinks & Cocktails](https://www.thespruceeats.com/super-bowl-drinks-cocktails-4162284)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWFycm93LS1kb3VibGUgdGFnLW5hdl9faWNvbiI+Cjx1c2UgaHJlZj0iI2ljb24tYXJyb3ctLWRvdWJsZSIgeGxpbms6aHJlZj0iI2ljb24tYXJyb3ctLWRvdWJsZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)
-- [Alcoholic Punch Recipes](https://www.thespruceeats.com/alcoholic-punch-recipes-4162696)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWFycm93LS1kb3VibGUgdGFnLW5hdl9faWNvbiI+Cjx1c2UgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhsaW5rOmhyZWY9IiNpY29uLWFycm93LS1kb3VibGUiIGhyZWY9IiNpY29uLWFycm93LS1kb3VibGUiIC8+Cjwvc3ZnPg==)
-- [Cocktail Basics](https://www.thespruceeats.com/cocktail-basics-4162706)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWFycm93LS1kb3VibGUgdGFnLW5hdl9faWNvbiI+Cjx1c2UgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhsaW5rOmhyZWY9IiNpY29uLWFycm93LS1kb3VibGUiIGhyZWY9IiNpY29uLWFycm93LS1kb3VibGUiIC8+Cjwvc3ZnPg==)
+- [Cocktail Party Drinks](https://www.thespruceeats.com/cocktail-party-drinks-4162289)
+- [Beer](https://www.thespruceeats.com/beer-4162694)
+- [Drinks & Cocktails](https://www.thespruceeats.com/super-bowl-drinks-cocktails-4162284)
+- [Alcoholic Punch Recipes](https://www.thespruceeats.com/alcoholic-punch-recipes-4162696)
+- [Cocktail Basics](https://www.thespruceeats.com/cocktail-basics-4162706)
 
 | Nutrition Facts (per serving) | |
 | ----------------------------- | -------- |
@@ -164,7 +164,7 @@ This is one of the lightest mixed drinks you can make because you're essentially
 | 46g                           | Carbs    |
 | 3g                            | Protein  |
 
- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibnV0cml0aW9uLW1vZGFsLWxhYmVsLS1pY29uIj4KPHVzZSB4bGluazpocmVmPSIjaWNvbi1wYXBlciIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==) Show Full Nutrition Label
+  Show Full Nutrition Label
 
 ×
 
@@ -199,6 +199,6 @@ Recipe Tags:
 
 Rate This Recipe
 
-[![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#)
+[](#) [](#) [](#) [](#) [](#)
 
 I don't like this at all. It's not the worst. Sure, this will do. I'm a fan—would recommend. Amazing! I love it! Thanks for your rating!

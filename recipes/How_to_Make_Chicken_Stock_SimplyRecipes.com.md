@@ -17,9 +17,9 @@ labels: [meat, dairy]
 
 ---
 
-- [Dinners](https://www.simplyrecipes.com/dinner-recipes-5091433)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb25fcmlnaHQiPgo8dXNlIGhyZWY9IiNpY29uLWNoZXZyb25fcmlnaHQiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1jaGV2cm9uX3JpZ2h0IiAvPgo8L3N2Zz4=)
-- [Dinners By Types](https://www.simplyrecipes.com/dinner-recipes-by-type-5091419)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb25fcmlnaHQiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLWNoZXZyb25fcmlnaHQiIGhyZWY9IiNpY29uLWNoZXZyb25fcmlnaHQiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
-- [Soups](https://www.simplyrecipes.com/soup-recipes-5091377)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb25fcmlnaHQiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLWNoZXZyb25fcmlnaHQiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1jaGV2cm9uX3JpZ2h0IiAvPgo8L3N2Zz4=)
+- [Dinners](https://www.simplyrecipes.com/dinner-recipes-5091433)
+- [Dinners By Types](https://www.simplyrecipes.com/dinner-recipes-by-type-5091419)
+- [Soups](https://www.simplyrecipes.com/soup-recipes-5091377)
 - [Stocks](https://www.simplyrecipes.com/stock-recipes-5091365)
 
 ### How to Make Chicken Stock
@@ -34,7 +34,7 @@ By
 
 [Elise Bauer](https://www.simplyrecipes.com/elise-bauer-5091824)
 
-- [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWluc3RhZ3JhbSBzb2NpYWwtbmF2X19pY29uIj4KPHVzZSB4bGluazpocmVmPSIjaWNvbi1pbnN0YWdyYW0iIGhyZWY9IiNpY29uLWluc3RhZ3JhbSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](https://www.instagram.com/elisebauer/)
+- [](https://www.instagram.com/elisebauer/)
 
 Elise founded Simply Recipes in 2003 and led the site until 2019. She has an MA in Food Research from Stanford University.
 
@@ -42,21 +42,21 @@ Learn about Simply Recipes' [Editorial Process](/about-us-5096129#toc-editorial-
 
 Updated November 01, 2025
 
-[![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#)
+[](#) [](#) [](#) [](#) [](#)
 
 17 Ratings
 
- Save![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhdm9yaXRlIj4KPHVzZSB4bGluazpocmVmPSIjaWNvbi1mYXZvcml0ZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiNpY29uLWZhdm9yaXRlIiAvPgo8L3N2Zz4=)
+ Save
 
  [](#)
 
 ![Elise Bauer](<>)
 
- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhdm9yaXRlIj4KPHVzZSB4bGluazpocmVmPSIjaWNvbi1mYXZvcml0ZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiNpY29uLWZhdm9yaXRlIiAvPgo8L3N2Zz4=)
+ 
 
-- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXBpbnRlcmVzdC0tc29jaWFsLXNoYXJlIj4KPHVzZSB4bGluazpocmVmPSIjaWNvbi1waW50ZXJlc3QtLXNvY2lhbC1zaGFyZSIgaHJlZj0iI2ljb24tcGludGVyZXN0LS1zb2NpYWwtc2hhcmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
-- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhY2Vib29rLS1zb2NpYWwtc2hhcmUiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1mYWNlYm9vay0tc29jaWFsLXNoYXJlIiB4bGluazpocmVmPSIjaWNvbi1mYWNlYm9vay0tc29jaWFsLXNoYXJlIiAvPgo8L3N2Zz4=)
-- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWVudmVsb3BlIj4KPHVzZSBocmVmPSIjaWNvbi1lbnZlbG9wZSIgeGxpbms6aHJlZj0iI2ljb24tZW52ZWxvcGUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+- 
+- 
+- 
 
 In This Recipe
 
@@ -68,7 +68,7 @@ Expand
 
 - [Slow Cooker and Pressure Cooker Stock](#toc-more-ways-to-make-chicken-stock-at-home)
 
-Jump to recipe![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWFycm93LWRvd24gbW50bC1idXR0b25fX2ljb24iPgo8dXNlIGhyZWY9IiNpY29uLWFycm93LWRvd24iIHhsaW5rOmhyZWY9IiNpY29uLWFycm93LWRvd24iIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+Jump to recipe
 
 ### Why Make This
 
@@ -130,7 +130,7 @@ Stock should last a week or so in the fridge, and at least several months in the
 
 From the Editors Of Simply Recipes
 
- Save![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhdm9yaXRlIj4KPHVzZSBocmVmPSIjaWNvbi1mYXZvcml0ZSIgeGxpbms6aHJlZj0iI2ljb24tZmF2b3JpdGUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+ Save
 
 ### How to Make Chicken Stock
 
@@ -374,8 +374,8 @@ Just lift up the layer of fat and remove the stock when you want to use it. Ever
 
 Simply Recipes / Elise Bauer*
 
-- [Stocks](https://www.simplyrecipes.com/stock-recipes-5091365)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWFycm93LS1kb3VibGUgdGFnLW5hdl9faWNvbiI+Cjx1c2UgaHJlZj0iI2ljb24tYXJyb3ctLWRvdWJsZSIgeGxpbms6aHJlZj0iI2ljb24tYXJyb3ctLWRvdWJsZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)
-- [Chicken](https://www.simplyrecipes.com/chicken-recipes-5091145)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWFycm93LS1kb3VibGUgdGFnLW5hdl9faWNvbiI+Cjx1c2UgaHJlZj0iI2ljb24tYXJyb3ctLWRvdWJsZSIgeGxpbms6aHJlZj0iI2ljb24tYXJyb3ctLWRvdWJsZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)
+- [Stocks](https://www.simplyrecipes.com/stock-recipes-5091365)
+- [Chicken](https://www.simplyrecipes.com/chicken-recipes-5091145)
 
 | Nutrition Facts (per serving) | |
 | ----------------------------- | -------- |
@@ -384,7 +384,7 @@ Simply Recipes / Elise Bauer*
 | 2g                            | Carbs    |
 | 12g                           | Protein  |
 
- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibnV0cml0aW9uLW1vZGFsLWxhYmVsLS1pY29uIj4KPHVzZSB4bGluazpocmVmPSIjaWNvbi1wYXBlciIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==) Show Full Nutrition Label
+  Show Full Nutrition Label
 
 ×
 

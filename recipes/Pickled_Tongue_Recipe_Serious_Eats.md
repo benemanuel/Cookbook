@@ -17,8 +17,8 @@ labels: [meat]
 
 ---
 
-- [Recipes](https://www.seriouseats.com/all-recipes-5117985)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb25fcmlnaHQiPgo8dXNlIGhyZWY9IiNpY29uLWNoZXZyb25fcmlnaHQiIHhsaW5rOmhyZWY9IiNpY29uLWNoZXZyb25fcmlnaHQiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
-- [Recipes By Ingredients](https://www.seriouseats.com/recipes-by-ingredient-recipes-5117749)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb25fcmlnaHQiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1jaGV2cm9uX3JpZ2h0IiB4bGluazpocmVmPSIjaWNvbi1jaGV2cm9uX3JpZ2h0IiAvPgo8L3N2Zz4=)
+- [Recipes](https://www.seriouseats.com/all-recipes-5117985)
+- [Recipes By Ingredients](https://www.seriouseats.com/recipes-by-ingredient-recipes-5117749)
 - [Beef](https://www.seriouseats.com/beef-recipes-5117732)
 
 ### Pickled Tongue Recipe
@@ -31,7 +31,7 @@ By
 
 [Chichi Wang](https://www.seriouseats.com/chichi-wang-5118603)
 
-- [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWluc3RhZ3JhbSBzb2NpYWwtbmF2X19pY29uIj4KPHVzZSBocmVmPSIjaWNvbi1pbnN0YWdyYW0iIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1pbnN0YWdyYW0iIC8+Cjwvc3ZnPg==)](https://www.instagram.com/chichichichi1981/)
+- [](https://www.instagram.com/chichichichi1981/)
 
 Chichi Wang wrote a variety of columns for Serious Eats including The Butcher's Cuts, in addition to other stories. Born in Shanghai and raised in New Mexico, Chichi took her degree in philosophy but decided that writing about food would be more fun than writing about Plato.
 
@@ -39,23 +39,23 @@ Learn about Serious Eats' [Editorial Process](/about-us-5120006#toc-editorial-gu
 
 Updated April 14, 2025
 
-[![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taW5hY3RpdmUiPgo8dXNlIHhsaW5rOmhyZWY9IiNhZ2dyZWdhdGUtc3Rhci1yYXRpbmdfX2ljb24tLWluYWN0aXZlIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz4KPC9zdmc+)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0tYWN0aXZlIj4KPHVzZSB4bGluazpocmVmPSIjYWdncmVnYXRlLXN0YXItcmF0aW5nX19pY29uLS1hY3RpdmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ic3Rhci1pY29uIHN0YXItaWNvbi0taGFsZiI+Cjx1c2UgeGxpbms6aHJlZj0iI2FnZ3JlZ2F0ZS1zdGFyLXJhdGluZ19faWNvbi0taGFsZiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)](#)
+[](#) [](#) [](#) [](#) [](#)
 
- Save![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhdm9yaXRlIj4KPHVzZSBocmVmPSIjaWNvbi1mYXZvcml0ZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhsaW5rOmhyZWY9IiNpY29uLWZhdm9yaXRlIiAvPgo8L3N2Zz4=)
+ Save
 
  [WRITE A REVIEW](#)
 
-Close![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBjbG9zZS1pY29uIj4KPHVzZSB4bGluazpocmVmPSIjY2xvc2UtaWNvbiIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiNjbG9zZS1pY29uIiAvPgo8L3N2Zz4=)
+Close
 
 ![20110808-tongue-sandwich.jpg](https://www.seriouseats.com/thmb/KeXxWfYqpQqYR1--InTz0DKyUsU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2011__08__20110808-tongue-sandwich-61229308147e441b9b7538e2860e209c.jpg)
 
- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhdm9yaXRlIj4KPHVzZSBocmVmPSIjaWNvbi1mYXZvcml0ZSIgeGxpbms6aHJlZj0iI2ljb24tZmF2b3JpdGUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+ 
 
-- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXBpbnRlcmVzdC0tc29jaWFsLXNoYXJlIj4KPHVzZSB4bGluazpocmVmPSIjaWNvbi1waW50ZXJlc3QtLXNvY2lhbC1zaGFyZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiNpY29uLXBpbnRlcmVzdC0tc29jaWFsLXNoYXJlIiAvPgo8L3N2Zz4=)
-- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhY2Vib29rLS1zb2NpYWwtc2hhcmUiPgo8dXNlIGhyZWY9IiNpY29uLWZhY2Vib29rLS1zb2NpYWwtc2hhcmUiIHhsaW5rOmhyZWY9IiNpY29uLWZhY2Vib29rLS1zb2NpYWwtc2hhcmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
-- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWVudmVsb3BlIj4KPHVzZSB4bGluazpocmVmPSIjaWNvbi1lbnZlbG9wZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiNpY29uLWVudmVsb3BlIiAvPgo8L3N2Zz4=)
+- 
+- 
+- 
 
-Jump to recipe![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWFycm93LWRvd24gbW50bC1idXR0b25fX2ljb24iPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1hcnJvdy1kb3duIiBocmVmPSIjaWNvbi1hcnJvdy1kb3duIiAvPgo8L3N2Zz4=)
+Jump to recipe
 
 Adapted from [The River Cottage Meat Book](https://www.amazon.com/River-Cottage-Meat-Book/dp/1580088430) by Hugh Fearnley-Whittingstall
 
@@ -77,7 +77,7 @@ Total 111 hrs 10 mins
 
 Serves 6 servings
 
- Save![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhdm9yaXRlIj4KPHVzZSB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaHJlZj0iI2ljb24tZmF2b3JpdGUiIHhsaW5rOmhyZWY9IiNpY29uLWZhdm9yaXRlIiAvPgo8L3N2Zz4=)
+ Save
 
  Keep Screen Awake
 
@@ -125,8 +125,8 @@ For Simmering:
 
 - [The Nasty Bits: Pickled Tongue Sandwiches](https://www.seriouseats.com/cemita-lengua-tongue-cemita-recipe)
 
-- [Beef](https://www.seriouseats.com/beef-recipes-5117732)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWFycm93LS1kb3VibGUgdGFnLW5hdl9faWNvbiI+Cjx1c2UgaHJlZj0iI2ljb24tYXJyb3ctLWRvdWJsZSIgeGxpbms6aHJlZj0iI2ljb24tYXJyb3ctLWRvdWJsZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==)
-- [Pickling](https://www.seriouseats.com/pickling-recipes-5117359)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWFycm93LS1kb3VibGUgdGFnLW5hdl9faWNvbiI+Cjx1c2UgeGxpbms6aHJlZj0iI2ljb24tYXJyb3ctLWRvdWJsZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiNpY29uLWFycm93LS1kb3VibGUiIC8+Cjwvc3ZnPg==)
+- [Beef](https://www.seriouseats.com/beef-recipes-5117732)
+- [Pickling](https://www.seriouseats.com/pickling-recipes-5117359)
 
 | Nutrition Facts (per serving) | |
 | ----------------------------- | -------- |
@@ -135,7 +135,7 @@ For Simmering:
 | 2g                            | Carbs    |
 | 11g                           | Protein  |
 
- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0ibnV0cml0aW9uLW1vZGFsLWxhYmVsLS1pY29uIj4KPHVzZSB4bGluazpocmVmPSIjaWNvbi1wYXBlciIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==) Show Full Nutrition Label
+  Show Full Nutrition Label
 
 ×
 

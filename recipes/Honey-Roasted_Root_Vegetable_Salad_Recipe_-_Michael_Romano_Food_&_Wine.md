@@ -13,13 +13,13 @@ labels: [cake]
 
 ---
 
-- [Food](https://www.foodandwine.com/food-7499700)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb24iPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLWNoZXZyb24iIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1jaGV2cm9uIiAvPgo8L3N2Zz4=)
-- [Recipes](https://www.foodandwine.com/recipes)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb24iPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLWNoZXZyb24iIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1jaGV2cm9uIiAvPgo8L3N2Zz4=)
+- [Food](https://www.foodandwine.com/food-7499700)
+- [Recipes](https://www.foodandwine.com/recipes)
 - [Salads](https://www.foodandwine.com/salads)
 
 ## Honey-Roasted Root Vegetable Salad
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)
+
 
 5.0
 
@@ -41,18 +41,18 @@ James Beard Award winner Michael Romano is the former executive chef of the lege
 
 Updated on October 31, 2023
 
- Save![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhdm9yaXRlIj4KPHVzZSB4bGluazpocmVmPSIjaWNvbi1mYXZvcml0ZSIgaHJlZj0iI2ljb24tZmF2b3JpdGUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+ Save
 
-Rate![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXJlY2lwZS1zb2NpYWwtc2hhcmUtc3Rhci1lbXB0eSI+Cjx1c2UgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhsaW5rOmhyZWY9IiNpY29uLXJlY2lwZS1zb2NpYWwtc2hhcmUtc3Rhci1lbXB0eSIgaHJlZj0iI2ljb24tcmVjaXBlLXNvY2lhbC1zaGFyZS1zdGFyLWVtcHR5IiAvPgo8L3N2Zz4=)
+Rate
 
-Share![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXNoYXJlIj4KPHVzZSBocmVmPSIjaWNvbi1zaGFyZSIgeGxpbms6aHJlZj0iI2ljb24tc2hhcmUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+Share
 
-- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhY2Vib29rIj4KPHVzZSB4bGluazpocmVmPSIjaWNvbi1mYWNlYm9vayIgaHJlZj0iI2ljb24tZmFjZWJvb2siIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
-- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXR3aXR0ZXIiPgo8dXNlIGhyZWY9IiNpY29uLXR3aXR0ZXIiIHhsaW5rOmhyZWY9IiNpY29uLXR3aXR0ZXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
-- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXBpbnRlcmVzdCI+Cjx1c2UgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhsaW5rOmhyZWY9IiNpY29uLXBpbnRlcmVzdCIgaHJlZj0iI2ljb24tcGludGVyZXN0IiAvPgo8L3N2Zz4=)
-- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWVtYWlsIj4KPHVzZSB4bGluazpocmVmPSIjaWNvbi1lbWFpbCIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiNpY29uLWVtYWlsIiAvPgo8L3N2Zz4=)
+- 
+- 
+- 
+- 
 
-Close![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBjbG9zZS1pY29uIj4KPHVzZSBocmVmPSIjY2xvc2UtaWNvbiIgeGxpbms6aHJlZj0iI2Nsb3NlLWljb24iIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+Close
 
 ![Honey-Roasted Root Vegetable Salad](https://www.foodandwine.com/thmb/qweB7ezsuH1dgmz2Fj0KZapjL1w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/200211-r-xl-honey-roasted-root-vegetable-salad-2000-93a524a5b52a464ab932c16ca95da2c8.jpg)
 
@@ -70,7 +70,7 @@ Yield:
 
 4 servings
 
-Jump to recipe![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWFycm93LWRvd24gbW50bC1idXR0b25fX2ljb24iPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1hcnJvdy1kb3duIiB4bGluazpocmVmPSIjaWNvbi1hcnJvdy1kb3duIiAvPgo8L3N2Zz4=)
+Jump to recipe
 
 This fall harvest salad makes the most of seasonal root vegetables. Beets, carrots, parsnips, turnips, and onions mingle together to create the dish. They’re roasted until tender, brushed with honey and fresh sage, and then roasted some more until the glaze becomes sticky-sweet. Arranged on a bed of lightly dressed arugula and topped with herbed goat cheese, roasted root vegetable salad makes an elegant main course or side.
 
@@ -96,13 +96,13 @@ The herbed goat cheese and the vinaigrette can be refrigerated overnight. Bring 
 
 ### Ingredients
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZWNrIj4KPHVzZSBocmVmPSIjaWNvbi1jaGVjayIgeGxpbms6aHJlZj0iI2ljb24tY2hlY2siIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=) 1/2x
+ 1/2x
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZWNrIj4KPHVzZSB4bGluazpocmVmPSIjaWNvbi1jaGVjayIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiNpY29uLWNoZWNrIiAvPgo8L3N2Zz4=) 1x
+ 1x
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZWNrIj4KPHVzZSB4bGluazpocmVmPSIjaWNvbi1jaGVjayIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiNpY29uLWNoZWNrIiAvPgo8L3N2Zz4=) 2x
+ 2x
 
- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWVycm9yIG1udGwtbWVzc2FnZS1iYW5uZXJfX3ByZWZpeC1pY29uIG1udGwtbWVzc2FnZS1iYW5uZXJfX2ljb24iPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1lcnJvciIgaHJlZj0iI2ljb24tZXJyb3IiIC8+Cjwvc3ZnPg==) Oops! Something went wrong. Our team is working on it.
+  Oops! Something went wrong. Our team is working on it.
 
 Roasted vegetables
 
@@ -162,8 +162,8 @@ Salad
 
 Originally appeared: November 2002
 
- Save![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhdm9yaXRlIj4KPHVzZSBocmVmPSIjaWNvbi1mYXZvcml0ZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhsaW5rOmhyZWY9IiNpY29uLWZhdm9yaXRlIiAvPgo8L3N2Zz4=)
+ Save
 
-Rate![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBtbS1yZWNpcGVzLXJhdGUtYnV0dG9uLXN0YXItZW1wdHkgbW50bC1idXR0b25fX2ljb24iPgo8dXNlIGhyZWY9IiNtbS1yZWNpcGVzLXJhdGUtYnV0dG9uLXN0YXItZW1wdHkiIHhsaW5rOmhyZWY9IiNtbS1yZWNpcGVzLXJhdGUtYnV0dG9uLXN0YXItZW1wdHkiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+Rate
 
 Loading shell for RecipesUgcThreaded1 Vue component in Globe.

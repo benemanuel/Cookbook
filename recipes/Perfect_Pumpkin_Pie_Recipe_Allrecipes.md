@@ -18,14 +18,14 @@ labels: [dairy, cake]
 
 ---
 
-- [Recipes](https://www.allrecipes.com/recipes/)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb24iPgo8dXNlIGhyZWY9IiNpY29uLWNoZXZyb24iIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1jaGV2cm9uIiAvPgo8L3N2Zz4=)
-- [Desserts](https://www.allrecipes.com/recipes/79/desserts/)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb24iPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1jaGV2cm9uIiB4bGluazpocmVmPSIjaWNvbi1jaGV2cm9uIiAvPgo8L3N2Zz4=)
-- [Pies](https://www.allrecipes.com/recipes/367/desserts/pies/)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb24iPgo8dXNlIGhyZWY9IiNpY29uLWNoZXZyb24iIHhsaW5rOmhyZWY9IiNpY29uLWNoZXZyb24iIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+- [Recipes](https://www.allrecipes.com/recipes/)
+- [Desserts](https://www.allrecipes.com/recipes/79/desserts/)
+- [Pies](https://www.allrecipes.com/recipes/367/desserts/pies/)
 - [Pumpkin Pie Recipes](https://www.allrecipes.com/recipes/819/desserts/pies/pumpkin-pie/)
 
 ## Perfect Pumpkin Pie
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXItaGFsZiI+Cjx1c2UgaHJlZj0iI2ljb24tc3Rhci1oYWxmIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeGxpbms6aHJlZj0iI2ljb24tc3Rhci1oYWxmIiAvPgo8L3N2Zz4=)
+
 
 4.7
 
@@ -41,28 +41,28 @@ Submitted by Eagle brand
 
 Updated on February 18, 2026
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiByZXZpZXdlci1pY29uIG1udGwtYXR0cmlidXRpb25fX2l0ZW0taWNvbiI+Cjx1c2UgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiNyZXZpZXdlci1pY29uIiB4bGluazpocmVmPSIjcmV2aWV3ZXItaWNvbiIgLz4KPC9zdmc+) Tested by
+ Tested by
 
  [Allrecipes Test Kitchen](https://www.allrecipes.com/allrecipes-test-kitchen-7553892)
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiByZXZpZXdlci1pY29uIG1udGwtYXR0cmlidXRpb25fX2l0ZW0taWNvbiI+Cjx1c2UgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiNyZXZpZXdlci1pY29uIiB4bGluazpocmVmPSIjcmV2aWV3ZXItaWNvbiIgLz4KPC9zdmc+) Tested by [Allrecipes Test Kitchen](https://www.allrecipes.com/allrecipes-test-kitchen-7553892)
+ Tested by [Allrecipes Test Kitchen](https://www.allrecipes.com/allrecipes-test-kitchen-7553892)
 
 The Allrecipes Test Kitchen staff are a team of culinary pros who make and vet recipes using only equipment you'd find in a home kitchen. Staff credentials vary but include training at the Culinary Institute of America; kitchen stints in fine dining restaurants; and countless hours in the test kitchen itself.
 
 [Meet the Allrecipes Test Kitchen](/about-allrecipes-test-kitchen-7550983)
 
- Save![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhdm9yaXRlIj4KPHVzZSB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaHJlZj0iI2ljb24tZmF2b3JpdGUiIHhsaW5rOmhyZWY9IiNpY29uLWZhdm9yaXRlIiAvPgo8L3N2Zz4=)
+ Save
 
-Rate![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXJlY2lwZS1zb2NpYWwtc2hhcmUtc3Rhci1lbXB0eSI+Cjx1c2UgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhsaW5rOmhyZWY9IiNpY29uLXJlY2lwZS1zb2NpYWwtc2hhcmUtc3Rhci1lbXB0eSIgaHJlZj0iI2ljb24tcmVjaXBlLXNvY2lhbC1zaGFyZS1zdGFyLWVtcHR5IiAvPgo8L3N2Zz4=)
+Rate
 
-Share![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXNoYXJlIj4KPHVzZSB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaHJlZj0iI2ljb24tc2hhcmUiIHhsaW5rOmhyZWY9IiNpY29uLXNoYXJlIiAvPgo8L3N2Zz4=)
+Share
 
-- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhY2Vib29rIj4KPHVzZSB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeGxpbms6aHJlZj0iI2ljb24tZmFjZWJvb2siIGhyZWY9IiNpY29uLWZhY2Vib29rIiAvPgo8L3N2Zz4=)
-- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXR3aXR0ZXIiPgo8dXNlIGhyZWY9IiNpY29uLXR3aXR0ZXIiIHhsaW5rOmhyZWY9IiNpY29uLXR3aXR0ZXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
-- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXBpbnRlcmVzdCI+Cjx1c2UgaHJlZj0iI2ljb24tcGludGVyZXN0IiB4bGluazpocmVmPSIjaWNvbi1waW50ZXJlc3QiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
-- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWVtYWlsIj4KPHVzZSBocmVmPSIjaWNvbi1lbWFpbCIgeGxpbms6aHJlZj0iI2ljb24tZW1haWwiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+- 
+- 
+- 
+- 
 
-Add Photo![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWFkZC1waG90byBtbnRsLWJ1dHRvbl9faWNvbiI+Cjx1c2UgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiNpY29uLWFkZC1waG90byIgeGxpbms6aHJlZj0iI2ljb24tYWRkLXBob3RvIiAvPgo8L3N2Zz4=)
+Add Photo
 
 [819 A slice of perfect pumpkin pie, topped with whipped cream, with a pie dish in the background](#) [819](#) [819](#) [819](#)
 
@@ -88,7 +88,7 @@ Yield:
 
 Jump to Nutrition Facts
 
-Jump to recipe![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWFycm93LWRvd24gbW50bC1idXR0b25fX2ljb24iPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLWFycm93LWRvd24iIGhyZWY9IiNpY29uLWFycm93LWRvd24iIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+Jump to recipe
 
 We have over 130 recipes for homemade pumpkin pie here at Allrecipes, but this recipe takes the cake (or pie) with over 2,600 five-star ratings. And it's proof that a good recipe doesn't necessarily need to be a complicated one — you get a great result with canned pumpkin puree and store-bought pie crust. Of course, you can customize it to suit your preferences by using fresh pumpkin or a [homemade pie crust](https://www.allrecipes.com/recipes/818/desserts/pies/pie-crusts/) for that from-scratch taste. Plus, it can be made ahead of time and refrigerated (or frozen) until you're ready to serve! Your search for the perfect pumpkin pie ends here.
 
@@ -148,15 +148,15 @@ Editorial contributions by [**Melanie Fincher**](https://www.allrecipes.com/auth
 
 ### Ingredients
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZWNrIj4KPHVzZSB4bGluazpocmVmPSIjaWNvbi1jaGVjayIgaHJlZj0iI2ljb24tY2hlY2siIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=) 1/2x
+ 1/2x
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZWNrIj4KPHVzZSBocmVmPSIjaWNvbi1jaGVjayIgeGxpbms6aHJlZj0iI2ljb24tY2hlY2siIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=) 1x
+ 1x
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZWNrIj4KPHVzZSBocmVmPSIjaWNvbi1jaGVjayIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhsaW5rOmhyZWY9IiNpY29uLWNoZWNrIiAvPgo8L3N2Zz4=) 2x
+ 2x
 
- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWVycm9yIG1udGwtbWVzc2FnZS1iYW5uZXJfX3ByZWZpeC1pY29uIG1udGwtbWVzc2FnZS1iYW5uZXJfX2ljb24iPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLWVycm9yIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaHJlZj0iI2ljb24tZXJyb3IiIC8+Cjwvc3ZnPg==) Oops! Something went wrong. Our team is working on it.
+  Oops! Something went wrong. Our team is working on it.
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWhlbHAiPgo8dXNlIGhyZWY9IiNpY29uLWhlbHAiIHhsaW5rOmhyZWY9IiNpY29uLWhlbHAiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+
 
 This recipe was developed at its original yield. Ingredient amounts are automatically adjusted, but cooking times and steps remain unchanged. Note that not all recipes scale perfectly. Original recipe (1X) yields 8 servings
 
@@ -208,15 +208,15 @@ This recipe was developed at its original yield. Ingredient amounts are automati
 
 *Allrecipes/Qi Ai*
 
- Save![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhdm9yaXRlIj4KPHVzZSBocmVmPSIjaWNvbi1mYXZvcml0ZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhsaW5rOmhyZWY9IiNpY29uLWZhdm9yaXRlIiAvPgo8L3N2Zz4=)
+ Save
 
-Rate![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBtbS1yZWNpcGVzLXJhdGUtYnV0dG9uLXN0YXItZW1wdHkgbW50bC1idXR0b25fX2ljb24iPgo8dXNlIGhyZWY9IiNtbS1yZWNpcGVzLXJhdGUtYnV0dG9uLXN0YXItZW1wdHkiIHhsaW5rOmhyZWY9IiNtbS1yZWNpcGVzLXJhdGUtYnV0dG9uLXN0YXItZW1wdHkiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+Rate
 
 7,780 home cooks made it!
 
 I Made It
 
- ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWVycm9yIG1udGwtbWVzc2FnZS1iYW5uZXJfX3ByZWZpeC1pY29uIG1udGwtbWVzc2FnZS1iYW5uZXJfX2ljb24iPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLWVycm9yIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaHJlZj0iI2ljb24tZXJyb3IiIC8+Cjwvc3ZnPg==) Something went wrong. Please reload and try again.
+  Something went wrong. Please reload and try again.
 
 ### Nutrition Facts (per serving)
 
@@ -255,9 +255,9 @@ I Made It
 
 (-) Information is not currently available for this nutrient. If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWFycm93X2xlZnQiPgo8dXNlIGhyZWY9IiNpY29uLWFycm93X2xlZnQiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1hcnJvd19sZWZ0IiAvPgo8L3N2Zz4=)
 
-Add Your Photo![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWFkZC1waG90byBtbnRsLWJ1dHRvbl9faWNvbiBwaG90by1kaWFsb2dfX2FkZC1waG90by1pY29uIj4KPHVzZSB4bGluazpocmVmPSIjaWNvbi1hZGQtcGhvdG8iIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1hZGQtcGhvdG8iIC8+Cjwvc3ZnPg==)
+
+Add Your Photo
 
 ## Photos of Perfect Pumpkin Pie
 
@@ -275,7 +275,7 @@ Allrecipes/Qi Ai
 
 Photo by sydney
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXItZW1wdHkiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXItZW1wdHkiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXItZW1wdHkiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+
 
 09/28/2025
 
@@ -287,11 +287,11 @@ It inflated and I don’t know why tastes great however I made quite a bit too m
 
 Photo by SilkyKnife8703
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)
+
 
 08/18/2025
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiB1Z2MtaWNvbi1jaGVjay1jaXJjbGUgdWdjLXJldmlld19fY2hpcC0taWNvbiI+Cjx1c2UgaHJlZj0iI3VnYy1pY29uLWNoZWNrLWNpcmNsZSIgeGxpbms6aHJlZj0iI3VnYy1pY29uLWNoZWNrLWNpcmNsZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==) A keeper! ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiB1Z2MtaWNvbi1jaGVjay1jaXJjbGUgdWdjLXJldmlld19fY2hpcC0taWNvbiI+Cjx1c2UgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiN1Z2MtaWNvbi1jaGVjay1jaXJjbGUiIHhsaW5rOmhyZWY9IiN1Z2MtaWNvbi1jaGVjay1jaXJjbGUiIC8+Cjwvc3ZnPg==) Great flavors ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiB1Z2MtaWNvbi1jaGVjay1jaXJjbGUgdWdjLXJldmlld19fY2hpcC0taWNvbiI+Cjx1c2UgaHJlZj0iI3VnYy1pY29uLWNoZWNrLWNpcmNsZSIgeGxpbms6aHJlZj0iI3VnYy1pY29uLWNoZWNrLWNpcmNsZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==) Easy to follow ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiB1Z2MtaWNvbi1jaGVjay1jaXJjbGUgdWdjLXJldmlld19fY2hpcC0taWNvbiI+Cjx1c2UgaHJlZj0iI3VnYy1pY29uLWNoZWNrLWNpcmNsZSIgeGxpbms6aHJlZj0iI3VnYy1pY29uLWNoZWNrLWNpcmNsZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==) Family favorite ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiB1Z2MtaWNvbi1jaGVjay1jaXJjbGUgdWdjLXJldmlld19fY2hpcC0taWNvbiI+Cjx1c2UgeGxpbms6aHJlZj0iI3VnYy1pY29uLWNoZWNrLWNpcmNsZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiN1Z2MtaWNvbi1jaGVjay1jaXJjbGUiIC8+Cjwvc3ZnPg==) Crowd-pleaser
+ A keeper!  Great flavors  Easy to follow  Family favorite  Crowd-pleaser
 
 Great pie ,I just added a bit of vanilla and sugar to sweeten it up a bit more.
 
@@ -301,7 +301,7 @@ Great pie ,I just added a bit of vanilla and sugar to sweeten it up a bit more.
 
 Photo by The Redd Fox
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXItZW1wdHkiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyLWVtcHR5IiBocmVmPSIjaWNvbi1zdGFyLWVtcHR5IiAvPgo8L3N2Zz4=)
+
 
 04/30/2025
 
@@ -313,11 +313,11 @@ I made this for the first time as a test run before I make it for Thanksgiving. 
 
 Photo by The Kitchen Alchemist
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+
 
 12/11/2024
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiB1Z2MtaWNvbi1jaGVjay1jaXJjbGUgdWdjLXJldmlld19fY2hpcC0taWNvbiI+Cjx1c2UgeGxpbms6aHJlZj0iI3VnYy1pY29uLWNoZWNrLWNpcmNsZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiN1Z2MtaWNvbi1jaGVjay1jaXJjbGUiIC8+Cjwvc3ZnPg==) A keeper! ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiB1Z2MtaWNvbi1jaGVjay1jaXJjbGUgdWdjLXJldmlld19fY2hpcC0taWNvbiI+Cjx1c2UgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiN1Z2MtaWNvbi1jaGVjay1jaXJjbGUiIHhsaW5rOmhyZWY9IiN1Z2MtaWNvbi1jaGVjay1jaXJjbGUiIC8+Cjwvc3ZnPg==) Easy to follow
+ A keeper!  Easy to follow
 
 This is simple. One could easily teach this recipe to their kids at Thanksgiving and start a new tradition. I added 1 teaspoon(5mL) rum extract for an extra hint of flavor.
 
@@ -327,11 +327,11 @@ This is simple. One could easily teach this recipe to their kids at Thanksgiving
 
 Photo by Spuggetaboutit
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)
+
 
 11/25/2024
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiB1Z2MtaWNvbi1jaGVjay1jaXJjbGUgdWdjLXJldmlld19fY2hpcC0taWNvbiI+Cjx1c2UgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhsaW5rOmhyZWY9IiN1Z2MtaWNvbi1jaGVjay1jaXJjbGUiIGhyZWY9IiN1Z2MtaWNvbi1jaGVjay1jaXJjbGUiIC8+Cjwvc3ZnPg==) Easy to follow ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiB1Z2MtaWNvbi1jaGVjay1jaXJjbGUgdWdjLXJldmlld19fY2hpcC0taWNvbiI+Cjx1c2UgaHJlZj0iI3VnYy1pY29uLWNoZWNrLWNpcmNsZSIgeGxpbms6aHJlZj0iI3VnYy1pY29uLWNoZWNrLWNpcmNsZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==) Great flavors
+ Easy to follow  Great flavors
 
 07 of 819
 
@@ -339,11 +339,11 @@ Photo by Spuggetaboutit
 
 Photo by Hope Emmett
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+
 
 11/24/2024
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiB1Z2MtaWNvbi1jaGVjay1jaXJjbGUgdWdjLXJldmlld19fY2hpcC0taWNvbiI+Cjx1c2UgeGxpbms6aHJlZj0iI3VnYy1pY29uLWNoZWNrLWNpcmNsZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiN1Z2MtaWNvbi1jaGVjay1jaXJjbGUiIC8+Cjwvc3ZnPg==) A keeper!
+ A keeper!
 
 I added a little more spices to the mixer it turned out perfect just the perfect pumpkin pie
 
@@ -353,7 +353,7 @@ I added a little more spices to the mixer it turned out perfect just the perfect
 
 Photo by CopperBrew6628
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)
+
 
 11/11/2024
 
@@ -365,11 +365,11 @@ It looks nice.
 
 Photo by NimbleOil4000
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
+
 
 11/02/2024
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiB1Z2MtaWNvbi1jaGVjay1jaXJjbGUgdWdjLXJldmlld19fY2hpcC0taWNvbiI+Cjx1c2UgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiN1Z2MtaWNvbi1jaGVjay1jaXJjbGUiIHhsaW5rOmhyZWY9IiN1Z2MtaWNvbi1jaGVjay1jaXJjbGUiIC8+Cjwvc3ZnPg==) Easy to follow ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiB1Z2MtaWNvbi1jaGVjay1jaXJjbGUgdWdjLXJldmlld19fY2hpcC0taWNvbiI+Cjx1c2UgaHJlZj0iI3VnYy1pY29uLWNoZWNrLWNpcmNsZSIgeGxpbms6aHJlZj0iI3VnYy1pY29uLWNoZWNrLWNpcmNsZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==) Crowd-pleaser
+ Easy to follow  Crowd-pleaser
 
 I think it’s great as long as you use a sweet whipped cream on top cause the pie itself isn’t too sweet, but otherwise it’s a solid recipe.
 
@@ -379,11 +379,11 @@ I think it’s great as long as you use a sweet whipped cream on top cause the p
 
 Photo by Kathy
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)
+
 
 10/20/2024
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiB1Z2MtaWNvbi1jaGVjay1jaXJjbGUgdWdjLXJldmlld19fY2hpcC0taWNvbiI+Cjx1c2UgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiN1Z2MtaWNvbi1jaGVjay1jaXJjbGUiIHhsaW5rOmhyZWY9IiN1Z2MtaWNvbi1jaGVjay1jaXJjbGUiIC8+Cjwvc3ZnPg==) A keeper! ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiB1Z2MtaWNvbi1jaGVjay1jaXJjbGUgdWdjLXJldmlld19fY2hpcC0taWNvbiI+Cjx1c2UgaHJlZj0iI3VnYy1pY29uLWNoZWNrLWNpcmNsZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhsaW5rOmhyZWY9IiN1Z2MtaWNvbi1jaGVjay1jaXJjbGUiIC8+Cjwvc3ZnPg==) Worth the effort ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiB1Z2MtaWNvbi1jaGVjay1jaXJjbGUgdWdjLXJldmlld19fY2hpcC0taWNvbiI+Cjx1c2UgeGxpbms6aHJlZj0iI3VnYy1pY29uLWNoZWNrLWNpcmNsZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiN1Z2MtaWNvbi1jaGVjay1jaXJjbGUiIC8+Cjwvc3ZnPg==) Easy to follow ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiB1Z2MtaWNvbi1jaGVjay1jaXJjbGUgdWdjLXJldmlld19fY2hpcC0taWNvbiI+Cjx1c2UgeGxpbms6aHJlZj0iI3VnYy1pY29uLWNoZWNrLWNpcmNsZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhyZWY9IiN1Z2MtaWNvbi1jaGVjay1jaXJjbGUiIC8+Cjwvc3ZnPg==) Crowd-pleaser ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiB1Z2MtaWNvbi1jaGVjay1jaXJjbGUgdWdjLXJldmlld19fY2hpcC0taWNvbiI+Cjx1c2UgeGxpbms6aHJlZj0iI3VnYy1pY29uLWNoZWNrLWNpcmNsZSIgaHJlZj0iI3VnYy1pY29uLWNoZWNrLWNpcmNsZSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+Cjwvc3ZnPg==) Great flavors
+ A keeper!  Worth the effort  Easy to follow  Crowd-pleaser  Great flavors
 
 I followed this recipe from start to finish. I also blind baked the crust (store bought from Aldi), that was a total game changer. I used real pumpkin instead of canned.
 
@@ -392,4 +392,4 @@ I followed this recipe from start to finish. I also blind baked the crust (store
 3. [3](#)
 4. [4](#)
 5. [5](#)
-6. [Next![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb24gcGFnaW5hdGlvbl9fbmV4dC1pY29uIj4KPHVzZSBocmVmPSIjaWNvbi1jaGV2cm9uIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeGxpbms6aHJlZj0iI2ljb24tY2hldnJvbiIgLz4KPC9zdmc+)](#)
+6. [Next](#)

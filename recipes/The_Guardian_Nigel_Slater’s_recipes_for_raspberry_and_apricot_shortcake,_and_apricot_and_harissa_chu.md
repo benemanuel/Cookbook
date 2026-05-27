@@ -18,13 +18,13 @@ labels: [meat, dairy, cake]
 ---
 
 ![Soft, sweet crumbs… raspberry and apricot shortcake.](https://i.guim.co.uk/img/media/f7a330621357800a6e216f4385f86b711c5bb0b2/0_1100_4698_2817/master/4698.jpg?width=465&amp;dpr=1&amp;s=none&amp;crop=none)
-![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNiIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDYgMTQiIGZpbGw9IndoaXRlIj48cGF0aCBkPSJNNC42IDEybC0uNCAxLjRjLS43LjItMS45LjYtMyAuNi0uNyAwLTEuMi0uMi0xLjItLjkgMC0uMiAwLS4zLjEtLjVsMi02LjdILjdsLjQtMS41IDQuMi0uNmguMkwzIDEyaDEuNnptLS4zLTkuMmMtLjkgMC0xLjQtLjUtMS40LTEuM0MyLjkuNSAzLjcgMCA0LjYgMCA1LjQgMCA2IC41IDYgMS4zYzAgMS0uOCAxLjUtMS43IDEuNXoiIC8+PC9zdmc+)
 
-*![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjEzIiB2aWV3Qm94PSIwIDAgMTggMTMiIHdpZHRoPSIxOCI+PHBhdGggZD0iTTE4IDMuNXY4bC0xLjUgMS41aC0xNWwtMS41LTEuNXYtOGwxLjUtMS41aDMuNWwyLTJoNGwyIDJoMy41bDEuNSAxLjV6bS05IDcuNWMxLjkgMCAzLjUtMS42IDMuNS0zLjVzLTEuNi0zLjUtMy41LTMuNS0zLjUgMS42LTMuNSAzLjUgMS42IDMuNSAzLjUgMy41eiIgLz48L3N2Zz4=)‘Soft, sweet crumbs…’ raspberry and apricot shortcake. Photograph: Jonathan Lovekin/The Observer*
 
-[![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGFyaWEtaGlkZGVuPSJ0cnVlIiB2aWV3Qm94PSItMyAtMyAzMCAzMCIgZm9jdXNhYmxlPSJmYWxzZSI+PHBhdGggZD0iTTIzIDguNzVWMS41bC0uNS0uNWgtNy4yNXYxLjI1bDQuNS42TDE0IDguNTc1IDE1LjQgMTBsNS43NS01LjcyNS42IDQuNDc1em0tMjIgNi41djcuMjVsLjQ3NS41aDcuMjV2LTEuMjVsLTQuNDc1LS42IDUuNzI1LTUuNzc1TDguNiAxNGwtNS43NzUgNS43MjUtLjU3NS00LjQ3NXoiIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiAvPjwvc3ZnPg==)View image in fullscreen](#img-1)
+*‘Soft, sweet crumbs…’ raspberry and apricot shortcake. Photograph: Jonathan Lovekin/The Observer*
 
-*![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTggMTMiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMyI+PHBhdGggZD0iTTE4IDMuNXY4bC0xLjUgMS41aC0xNWwtMS41LTEuNXYtOGwxLjUtMS41aDMuNWwyLTJoNGwyIDJoMy41bDEuNSAxLjV6bS05IDcuNWMxLjkgMCAzLjUtMS42IDMuNS0zLjVzLTEuNi0zLjUtMy41LTMuNS0zLjUgMS42LTMuNSAzLjUgMS42IDMuNSAzLjUgMy41eiIgLz48L3N2Zz4=)‘Soft, sweet crumbs…’ raspberry and apricot shortcake. Photograph: Jonathan Lovekin/The Observer*
+[View image in fullscreen](#img-1)
+
+*‘Soft, sweet crumbs…’ raspberry and apricot shortcake. Photograph: Jonathan Lovekin/The Observer*
 
 ### Nigel Slater’s recipes for raspberry and apricot shortcake, and apricot and harissa chutney
 
@@ -74,9 +74,9 @@ Run a palette knife around the edge of the cake to free it from its tin, then ea
 
 ### Apricot and harissa chutney
 
-![‘The best chutney of all chutneys…’ apricot and harissa chutney.](https://i.guim.co.uk/img/media/5c22a8872be3dd3752e121b2fc661964b86d590d/0_62_3981_4973/master/3981.jpg?width=445&amp;dpr=1&amp;s=none&amp;crop=none)[![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZvY3VzYWJsZT0iZmFsc2UiIHZpZXdCb3g9Ii0zIC0zIDMwIDMwIiBhcmlhLWhpZGRlbj0idHJ1ZSI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yMyA4Ljc1VjEuNWwtLjUtLjVoLTcuMjV2MS4yNWw0LjUuNkwxNCA4LjU3NSAxNS40IDEwbDUuNzUtNS43MjUuNiA0LjQ3NXptLTIyIDYuNXY3LjI1bC40NzUuNWg3LjI1di0xLjI1bC00LjQ3NS0uNiA1LjcyNS01Ljc3NUw4LjYgMTRsLTUuNzc1IDUuNzI1LS41NzUtNC40NzV6IiAvPjwvc3ZnPg==)View image in fullscreen](#img-2)
+![‘The best chutney of all chutneys…’ apricot and harissa chutney.](https://i.guim.co.uk/img/media/5c22a8872be3dd3752e121b2fc661964b86d590d/0_62_3981_4973/master/3981.jpg?width=445&amp;dpr=1&amp;s=none&amp;crop=none)[View image in fullscreen](#img-2)
 
-*![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTggMTMiIGhlaWdodD0iMTMiIHdpZHRoPSIxOCI+PHBhdGggZD0iTTE4IDMuNXY4bC0xLjUgMS41aC0xNWwtMS41LTEuNXYtOGwxLjUtMS41aDMuNWwyLTJoNGwyIDJoMy41bDEuNSAxLjV6bS05IDcuNWMxLjkgMCAzLjUtMS42IDMuNS0zLjVzLTEuNi0zLjUtMy41LTMuNS0zLjUgMS42LTMuNSAzLjUgMS42IDMuNSAzLjUgMy41eiIgLz48L3N2Zz4=)‘The best chutney of all chutneys’: apricot and harissa chutney. Photograph: Jonathan Lovekin/The Observer*
+*‘The best chutney of all chutneys’: apricot and harissa chutney. Photograph: Jonathan Lovekin/The Observer*
 
 The sweet-sharp note of the apricots and the deep warmth of the harissa paste makes this the best chutney of all chutneys for me and the perfect accompaniment for cheese. A good addition to a picnic basket, too, especially if you are taking a pork pie or some cold sausages.
 
@@ -103,7 +103,7 @@ Stir in the harissa and honey and continue cooking for 10 minutes, then taste an
 
 - This is the archive of The Observer up until 21/04/2025. The Observer is now owned and operated by Tortoise Media.
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBzdHJva2Utd2lkdGg9IjEiIGFyaWEtaGlkZGVuPSJ0cnVlIiBmb2N1c2FibGU9ImZhbHNlIiB3aWR0aD0iMTAwJSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgaGVpZ2h0PSIxMyIgc3Ryb2tlPSJ2YXIoLS1zdHJhaWdodC1saW5lcykiIHZpZXdCb3g9IjAgMCAxMzAwIDEzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJkY3ItNjV4YjlxIj48bGluZSB4MT0iMCIgeDI9IjEzMDAiIHkxPSIwLjUiIHkyPSIwLjUiIC8+PGxpbmUgeTE9IjQuNSIgeDE9IjAiIHgyPSIxMzAwIiB5Mj0iNC41IiAvPjxsaW5lIHkyPSI4LjUiIHgxPSIwIiB4Mj0iMTMwMCIgeTE9IjguNSIgLz48bGluZSB4Mj0iMTMwMCIgeTE9IjEyLjUiIHgxPSIwIiB5Mj0iMTIuNSIgLz48L3N2Zz4=)
+
 
 Explore more on these topics
 

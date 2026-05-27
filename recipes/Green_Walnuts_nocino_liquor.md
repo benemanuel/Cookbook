@@ -98,17 +98,17 @@ View all comments
 
 3 years ago
 
-[*![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMzg5LjIgNDhoNzAuNkwzMDUuNiAyMjQuMiA0ODcgNDY0SDM0NUwyMzMuNyAzMTguNiAxMDYuNSA0NjRIMzUuOEwyMDAuNyAyNzUuNSAyNi44IDQ4SDE3Mi40TDI3Mi45IDE4MC45IDM4OS4yIDQ4ek0zNjQuNCA0MjEuOGgzOS4xTDE1MS4xIDg4aC00MkwzNjQuNCA0MjEuOHoiIC8+PC9zdmc+)*](<https://twitter.com/intent/tweet?text=Hi! So I accidentally left my green walnuts soaking for... &url=https%3A%2F%2Fmodernfarmer.com%2F2022%2F06%2Fslow-drinks-nocino-green-walnuts%2F%23comment-42523> "Share On X")
+[**](<https://twitter.com/intent/tweet?text=Hi! So I accidentally left my green walnuts soaking for... &url=https%3A%2F%2Fmodernfarmer.com%2F2022%2F06%2Fslow-drinks-nocino-green-walnuts%2F%23comment-42523> "Share On X")
 
 Hi! So I accidentally left my green walnuts soaking for a year (oops) I’m processing them now but wasn’t sure if it would be worth adding simple syrup and drinking or if they’ll be too bitter?
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwczovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0wIDBoMjR2MjRIMFYweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNMSAyMWg0VjlIMXYxMnptMjItMTFjMC0xLjEtLjktMi0yLTJoLTYuMzFsLjk1LTQuNTcuMDMtLjMyYzAtLjQxLS4xNy0uNzktLjQ0LTEuMDZMMTQuMTcgMSA3LjU5IDcuNTlDNy4yMiA3Ljk1IDcgOC40NSA3IDl2MTBjMCAxLjEuOSAyIDIgMmg5Yy44MyAwIDEuNTQtLjUgMS44NC0xLjIybDMuMDItNy4wNWMuMDktLjIzLjE0LS40Ny4xNC0uNzN2LTJ6IiAvPjwvc3ZnPg==)
+
 
 0
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwczovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTE1IDNINmMtLjgzIDAtMS41NC41LTEuODQgMS4yMmwtMy4wMiA3LjA1Yy0uMDkuMjMtLjE0LjQ3LS4xNC43M3YyYzAgMS4xLjkgMiAyIDJoNi4zMWwtLjk1IDQuNTctLjAzLjMyYzAgLjQxLjE3Ljc5LjQ0IDEuMDZMOS44MyAyM2w2LjU5LTYuNTljLjM2LS4zNi41OC0uODYuNTgtMS40MVY1YzAtMS4xLS45LTItMi0yem00IDB2MTJoNFYzaC00eiIgLz48L3N2Zz4=)
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwczovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMCA5VjVsLTcgNyA3IDd2LTQuMWM1IDAgOC41IDEuNiAxMSA1LjEtMS01LTQtMTAtMTEtMTF6IiAvPjxwYXRoIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PC9zdmc+) Reply
+
+ Reply
 
 View Replies (1)
 
@@ -118,17 +118,17 @@ Erik
 
 3 years ago
 
-[*![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMzg5LjIgNDhoNzAuNkwzMDUuNiAyMjQuMiA0ODcgNDY0SDM0NUwyMzMuNyAzMTguNiAxMDYuNSA0NjRIMzUuOEwyMDAuNyAyNzUuNSAyNi44IDQ4SDE3Mi40TDI3Mi45IDE4MC45IDM4OS4yIDQ4ek0zNjQuNCA0MjEuOGgzOS4xTDE1MS4xIDg4aC00MkwzNjQuNCA0MjEuOHoiIC8+PC9zdmc+)*](<https://twitter.com/intent/tweet?text=Should I worry about adding the water too quickly? I kn... &url=https%3A%2F%2Fmodernfarmer.com%2F2022%2F06%2Fslow-drinks-nocino-green-walnuts%2F%23comment-44982> "Share On X")
+[**](<https://twitter.com/intent/tweet?text=Should I worry about adding the water too quickly? I kn... &url=https%3A%2F%2Fmodernfarmer.com%2F2022%2F06%2Fslow-drinks-nocino-green-walnuts%2F%23comment-44982> "Share On X")
 
 Should I worry about adding the water too quickly? I know that whisky makers tend to proof down gradually over time to prevent saponification, but curious if that’s a problem here.
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwczovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0wIDBoMjR2MjRIMFYweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNMSAyMWg0VjlIMXYxMnptMjItMTFjMC0xLjEtLjktMi0yLTJoLTYuMzFsLjk1LTQuNTcuMDMtLjMyYzAtLjQxLS4xNy0uNzktLjQ0LTEuMDZMMTQuMTcgMSA3LjU5IDcuNTlDNy4yMiA3Ljk1IDcgOC40NSA3IDl2MTBjMCAxLjEuOSAyIDIgMmg5Yy44MyAwIDEuNTQtLjUgMS44NC0xLjIybDMuMDItNy4wNWMuMDktLjIzLjE0LS40Ny4xNC0uNzN2LTJ6IiAvPjwvc3ZnPg==)
+
 
 0
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwczovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTE1IDNINmMtLjgzIDAtMS41NC41LTEuODQgMS4yMmwtMy4wMiA3LjA1Yy0uMDkuMjMtLjE0LjQ3LS4xNC43M3YyYzAgMS4xLjkgMiAyIDJoNi4zMWwtLjk1IDQuNTctLjAzLjMyYzAgLjQxLjE3Ljc5LjQ0IDEuMDZMOS44MyAyM2w2LjU5LTYuNTljLjM2LS4zNi41OC0uODYuNTgtMS40MVY1YzAtMS4xLS45LTItMi0yem00IDB2MTJoNFYzaC00eiIgLz48L3N2Zz4=)
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwczovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMCA5VjVsLTcgNyA3IDd2LTQuMWM1IDAgOC41IDEuNiAxMSA1LjEtMS01LTQtMTAtMTEtMTF6IiAvPjxwYXRoIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PC9zdmc+) Reply
+
+ Reply
 
 ![Elisa Smith](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3C/svg%3E)
 
@@ -136,17 +136,17 @@ Elisa Smith
 
 1 year ago
 
-[*![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMzg5LjIgNDhoNzAuNkwzMDUuNiAyMjQuMiA0ODcgNDY0SDM0NUwyMzMuNyAzMTguNiAxMDYuNSA0NjRIMzUuOEwyMDAuNyAyNzUuNSAyNi44IDQ4SDE3Mi40TDI3Mi45IDE4MC45IDM4OS4yIDQ4ek0zNjQuNCA0MjEuOGgzOS4xTDE1MS4xIDg4aC00MkwzNjQuNCA0MjEuOHoiIC8+PC9zdmc+)*](<https://twitter.com/intent/tweet?text=My unripe black walnuts are 7/8” in diameter in the Sea... &url=https%3A%2F%2Fmodernfarmer.com%2F2022%2F06%2Fslow-drinks-nocino-green-walnuts%2F%23comment-74326> "Share On X")
+[**](<https://twitter.com/intent/tweet?text=My unripe black walnuts are 7/8” in diameter in the Sea... &url=https%3A%2F%2Fmodernfarmer.com%2F2022%2F06%2Fslow-drinks-nocino-green-walnuts%2F%23comment-74326> "Share On X")
 
 My unripe black walnuts are 7/8” in diameter in the Seattle area. Should I let them grow to a certain width before I pick them for nocino?
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwczovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0wIDBoMjR2MjRIMFYweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNMSAyMWg0VjlIMXYxMnptMjItMTFjMC0xLjEtLjktMi0yLTJoLTYuMzFsLjk1LTQuNTcuMDMtLjMyYzAtLjQxLS4xNy0uNzktLjQ0LTEuMDZMMTQuMTcgMSA3LjU5IDcuNTlDNy4yMiA3Ljk1IDcgOC40NSA3IDl2MTBjMCAxLjEuOSAyIDIgMmg5Yy44MyAwIDEuNTQtLjUgMS44NC0xLjIybDMuMDItNy4wNWMuMDktLjIzLjE0LS40Ny4xNC0uNzN2LTJ6IiAvPjwvc3ZnPg==)
+
 
 0
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwczovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTE1IDNINmMtLjgzIDAtMS41NC41LTEuODQgMS4yMmwtMy4wMiA3LjA1Yy0uMDkuMjMtLjE0LjQ3LS4xNC43M3YyYzAgMS4xLjkgMiAyIDJoNi4zMWwtLjk1IDQuNTctLjAzLjMyYzAgLjQxLjE3Ljc5LjQ0IDEuMDZMOS44MyAyM2w2LjU5LTYuNTljLjM2LS4zNi41OC0uODYuNTgtMS40MVY1YzAtMS4xLS45LTItMi0yem00IDB2MTJoNFYzaC00eiIgLz48L3N2Zz4=)
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwczovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMCA5VjVsLTcgNyA3IDd2LTQuMWM1IDAgOC41IDEuNiAxMSA1LjEtMS01LTQtMTAtMTEtMTF6IiAvPjxwYXRoIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PC9zdmc+) Reply
+
+ Reply
 
 ![Michelle pedroni](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3C/svg%3E)
 
@@ -154,17 +154,17 @@ Michelle pedroni
 
 1 year ago
 
-[*![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMzg5LjIgNDhoNzAuNkwzMDUuNiAyMjQuMiA0ODcgNDY0SDM0NUwyMzMuNyAzMTguNiAxMDYuNSA0NjRIMzUuOEwyMDAuNyAyNzUuNSAyNi44IDQ4SDE3Mi40TDI3Mi45IDE4MC45IDM4OS4yIDQ4ek0zNjQuNCA0MjEuOGgzOS4xTDE1MS4xIDg4aC00MkwzNjQuNCA0MjEuOHoiIC8+PC9zdmc+)*](<https://twitter.com/intent/tweet?text=I could not find the proof needed.  I hope 90 proof wor... &url=https%3A%2F%2Fmodernfarmer.com%2F2022%2F06%2Fslow-drinks-nocino-green-walnuts%2F%23comment-75352> "Share On X")
+[**](<https://twitter.com/intent/tweet?text=I could not find the proof needed.  I hope 90 proof wor... &url=https%3A%2F%2Fmodernfarmer.com%2F2022%2F06%2Fslow-drinks-nocino-green-walnuts%2F%23comment-75352> "Share On X")
 
 I could not find the proof needed. I hope 90 proof works. Any thoughts?
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwczovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0wIDBoMjR2MjRIMFYweiIgZmlsbD0ibm9uZSIgLz48cGF0aCBkPSJNMSAyMWg0VjlIMXYxMnptMjItMTFjMC0xLjEtLjktMi0yLTJoLTYuMzFsLjk1LTQuNTcuMDMtLjMyYzAtLjQxLS4xNy0uNzktLjQ0LTEuMDZMMTQuMTcgMSA3LjU5IDcuNTlDNy4yMiA3Ljk1IDcgOC40NSA3IDl2MTBjMCAxLjEuOSAyIDIgMmg5Yy44MyAwIDEuNTQtLjUgMS44NC0xLjIybDMuMDItNy4wNWMuMDktLjIzLjE0LS40Ny4xNC0uNzN2LTJ6IiAvPjwvc3ZnPg==)
+
 
 0
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwczovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PHBhdGggZD0iTTE1IDNINmMtLjgzIDAtMS41NC41LTEuODQgMS4yMmwtMy4wMiA3LjA1Yy0uMDkuMjMtLjE0LjQ3LS4xNC43M3YyYzAgMS4xLjkgMiAyIDJoNi4zMWwtLjk1IDQuNTctLjAzLjMyYzAgLjQxLjE3Ljc5LjQ0IDEuMDZMOS44MyAyM2w2LjU5LTYuNTljLjM2LS4zNi41OC0uODYuNTgtMS40MVY1YzAtMS4xLS45LTItMi0yem00IDB2MTJoNFYzaC00eiIgLz48L3N2Zz4=)
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwczovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMCA5VjVsLTcgNyA3IDd2LTQuMWM1IDAgOC41IDEuNiAxMSA1LjEtMS01LTQtMTAtMTEtMTF6IiAvPjxwYXRoIGQ9Ik0wIDBoMjR2MjRIMHoiIGZpbGw9Im5vbmUiIC8+PC9zdmc+) Reply
+
+ Reply
 
 Follow us
 

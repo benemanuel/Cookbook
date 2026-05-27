@@ -27,13 +27,13 @@ Tasty Team
 
 Updated on April 19, 2024
 
-![SVG Image](data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9InN2Zy0zIHhzLW1yMDUgeHMtbWIwNSB4cy1oaWRlIG1kLWlubGluZS1ibG9jayI+PHVzZSB4bGluazpocmVmPSIjdGh1bWJzLXVwIiB4bWxuczp4bGluaz0iaHR0cHM6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+PC9zdmc+)96% would make again
+96% would make again
 
-- [![SVG Image](data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImZhY2Vib29rIHhzLW1yMCI+PHVzZSB4bGluazpocmVmPSIjZmFjZWJvb2tNb25vY2hyb21lIiB4bWxuczp4bGluaz0iaHR0cHM6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+PC9zdmc+)Share via facebook](https://www.facebook.com/dialog/share?href=https%3A%2F%2Ftasty.co%2Frecipe%2Fthe-best-fudgy-brownies&app_id=1060852764021442)
-- [![SVG Image](data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9InBpbnRlcmVzdCB4cy1tcjAiPjx1c2UgeGxpbms6aHJlZj0iI3BpbnRlcmVzdE1vbm9jaHJvbWUiIHhtbG5zOnhsaW5rPSJodHRwczovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz48L3N2Zz4=)Share via pinterest](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Ftasty.co%2Frecipe%2Fthe-best-fudgy-brownies&description=The%20Best%20Fudgy%20Brownies&media=https%3A%2F%2Fimg.buzzfeed.com%2Fvideo-api-prod%2Fassets%2Ffafe8090b4f3434f80c33b6e4ce40e24%2FBFV21539_BestFudgyBrownies-ThumbB1080.jpg)
-- [![SVG Image](data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImVtYWlsIHhzLW1yMCI+PHVzZSB4bGluazpocmVmPSIjZW1haWxNb25vY2hyb21lIiB4bWxuczp4bGluaz0iaHR0cHM6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+PC9zdmc+)Share via email](<mailto:?subject=The Best Fudgy Brownies&body=https://tasty.co/recipe/the-best-fudgy-brownies>)
-- [![SVG Image](data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9InNtcyB4cy1tcjAiPjx1c2UgeGxpbms6aHJlZj0iI3Ntc01vbm9jaHJvbWUiIHhtbG5zOnhsaW5rPSJodHRwczovL3d3dy53My5vcmcvMTk5OS94bGluayIgLz48L3N2Zz4=)Share via sms](<sms:?&body=The Best Fudgy Brownies - https://tasty.co/recipe/the-best-fudgy-brownies>)
-- Print![SVG Image](data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9InByaW50IHhzLW1yMCI+PHVzZSB4bGluazpocmVmPSIjcHJpbnRNb25vY2hyb21lIiB4bWxuczp4bGluaz0iaHR0cHM6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+PC9zdmc+)
+- [Share via facebook](https://www.facebook.com/dialog/share?href=https%3A%2F%2Ftasty.co%2Frecipe%2Fthe-best-fudgy-brownies&app_id=1060852764021442)
+- [Share via pinterest](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Ftasty.co%2Frecipe%2Fthe-best-fudgy-brownies&description=The%20Best%20Fudgy%20Brownies&media=https%3A%2F%2Fimg.buzzfeed.com%2Fvideo-api-prod%2Fassets%2Ffafe8090b4f3434f80c33b6e4ce40e24%2FBFV21539_BestFudgyBrownies-ThumbB1080.jpg)
+- [Share via email](<mailto:?subject=The Best Fudgy Brownies&body=https://tasty.co/recipe/the-best-fudgy-brownies>)
+- [Share via sms](<sms:?&body=The Best Fudgy Brownies - https://tasty.co/recipe/the-best-fudgy-brownies>)
+- Print
 
 ##### Total Time
 
@@ -88,7 +88,7 @@ for 9 servings
 
 ### Nutrition Info
 
-View Info![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0icGx1cyBzdmctNSBleHRyYS1ib2xkIj48dXNlIHhsaW5rOmhyZWY9IiNwbHVzIiB4bWxuczp4bGluaz0iaHR0cHM6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIC8+PC9zdmc+)
+View Info
 
 - Calories 392
 - Fat 25g
