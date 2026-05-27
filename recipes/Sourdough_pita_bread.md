@@ -39,8 +39,8 @@ Mix everything and follow with 4 Time stretch and fold every 30 minutes
 
 Rest the dough for 2 hours then separate into 100 g. Use rolling pin to flat it out and rest for 30 minutes \- one hour then pan bake in medium low for 3 minutes until it pop up when take it out then cover with kitchen towels to prevent dry out and keep the bread nice and soft.
 
-![image.png](cid:ii_mobjdwh40)  
+  
 
-![image.png](cid:ii_mobje3zj1)
 
-![image.png](cid:ii_mobjeexu2)
+
+

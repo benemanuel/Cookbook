@@ -1,10 +1,11 @@
 ---
-subject: "30 Best Kombucha Flavors Of All Time (DIY with Fizz)"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Thu, 21 Oct 2021 20:00:45 +0300"
+subject: 30 Best Kombucha Flavors Of All Time (DIY with Fizz)
+from: Avraham Ben Emanuel <avraham.benemanuel@gmail.com>
+to: Family <benemanuel.family@gmail.com>
+date: Thu, 21 Oct 2021 20:00:45 +0300
 date_parsed: 2021-10-21T20:00:45+03:00
-labels: []
+labels:
+  - ferment
 ---
 
 # 30 Best Kombucha Flavors Of All Time (DIY with Fizz)

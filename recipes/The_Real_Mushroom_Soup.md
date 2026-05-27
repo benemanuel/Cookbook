@@ -94,4 +94,4 @@ You can serve this soup as you like, but there are a few things to remember when
  of this into the middle of the soup. When you go to eat it, stir it in and it gives a wonderful flavour. Other things you can consider are little slices of grilled crostini put into the bottom of the bowls before the soup is poured over. Or you could even
  quickly fry some nice\-looking mushrooms – like girolles, chanterelles or oysters – and sprinkle these on top of the soup. If I was going to use truffle oil, then I would use it on its own – a few drips on the top just before serving.
 
-![recipe-15976_Large400_ID-1513265.jpg (400×299)](cid:image001.jpg@01D59EEF.41E4E570)
+

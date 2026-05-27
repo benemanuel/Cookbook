@@ -1,24 +1,22 @@
 ---
-subject: "Ancient cookies"
-from: "benemanuel family <benemanuel.family@gmail.com>"
-to: "benemanuel family <benemanuel.family@gmail.com>"
-date: "Mon, 12 May 2025 20:09:38 +0300"
+subject: Ancient cookies
+from: benemanuel family <benemanuel.family@gmail.com>
+to: benemanuel family <benemanuel.family@gmail.com>
+date: Mon, 12 May 2025 20:09:38 +0300
 date_parsed: 2025-05-12T20:09:38+03:00
 attachments:
-  - filename: "1000061972.jpg"
-    type: "image/jpeg"
+  - filename: 1000061972.jpg
+    type: image/jpeg
     size: 204119
-    local_path: "attachments\\2025-05-12_20-09-38_Ancient_cookies_1\\1000061972.jpg"
-labels: [dairy]
+    local_path: attachments\2025-05-12_20-09-38_Ancient_cookies_1\1000061972.jpg
+labels:
+  - dairy
+  - cake
 ---
 
 # Ancient cookies
-
-## Ingredients
-
-## Instructions
-
 🍪 Khorasan Date \& Pistachio Cookies
+
 
 
 Prep Time: 15 minutes
@@ -30,11 +28,7 @@ Bake Time: 18 minutes
 Total Time: 35 minutes
 
 Yields: 12 cookies
-
-
-🧈 Ingredients
-
-
+## Ingredients
 Dough:
 
 200 g ghee (or unsalted butter), melted and slightly cooled
@@ -55,9 +49,8 @@ Filling:
 90 g unsalted pistachios, finely chopped (reserve 12 whole pistachios for topping)
 
 3 pinches ground cumin
+## Instructions
 
-
-🥣 Instructions
 
 
 1\. Prepare the Filling:
@@ -107,4 +100,4 @@ Texture: Khorasan flour gives these cookies a slightly nutty flavor and tender c
 Storage: Store the cookies in an airtight container at room temperature for up to 5 days.
 
 
-![](cid:ii_196c57930926e78641b1)
+
