@@ -83,15 +83,7 @@ Each mixing/folding stroke deflates the batter. The more you mix it, the more ai
 
 **Explanation:** Leaving the batter unbaked for too long will allow the batter to deflate. With no air to make the cake light and fluffy, the cake will be left dense and heavy.
 
-### You May Like
 
-[Nutella Custard Buttercream - Use this cream for all kinds of cakes, custards, meringues and other goodies to give them that delicious Nutella flavor without the butteriness of a regular buttercream | By Let the Baking Begin! Nutella Custard Buttercream](https://letthebakingbegin.com/nutella-custard-buttercream/)
-
-[Sour Cream Frosting - Fluffy and Creamy frosting with a tangy sour cream flavor will work with many combinations of cake, including yellow or chocolate sponge cake. Creamy Sour Cream Frosting](https://letthebakingbegin.com/creamy-sour-cream-frosting/)
-
-[Dulce de Leche Mousseline Cream - this pastry cream fluffed up with butter is used to frost cakes, sandwich meringues and adorn other desserts. Dulce de Leche gives the classic custard flavor a bit of a flavor boost. | By Let the Baking Begin! Dulce De Leche Mousseline Creme](https://letthebakingbegin.com/dulce-de-leche-mousseline-creme/)
-
-[Easy Dulce De Leche Buttercream Easy Dulce de Leche Buttercream (2 ingredients ONLY!)](https://letthebakingbegin.com/dulce-de-leche-buttercream/)
 
 ### **Solution #3:**
 

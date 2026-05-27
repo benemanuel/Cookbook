@@ -16,4 +16,19 @@ labels: []
 
 ## Ingredients
 
+- ¾ cup sugar
+- ½ cup water
+- 1 bunch fresh tarragon
+- 1 tsp aniseed or fennel seeds
+- 1 Tbsp lemon zest
+- ⅛ tsp baking soda
+- Pinch kosher salt
+- ¼ cup fresh lemon juice
+- Seltzer water, to serve
+
 ## Instructions
+
+1. Combine sugar and water in a small saucepan over medium heat. Stir until sugar dissolves. Add tarragon, aniseed/fennel seeds, and lemon zest. Simmer for 5 minutes.
+2. Remove from heat and let steep for 15–20 minutes. Strain out solids and let syrup cool completely.
+3. Stir baking soda, salt, and lemon juice into the cooled syrup.
+4. To serve, fill a glass with ice, add 2–3 Tbsp syrup, and top with seltzer water. Stir gently. Serves 5.

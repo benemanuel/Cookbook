@@ -11,25 +11,22 @@ labels: [bread]
 
 ## Ingredients
 
-## Instructions
-
 530 water
 
+720 flour total mix of
 
-720 flour
+	160 rustic
 
-160 rustic
+	160 all grain
 
-160 all grain
-
-400 bread
+	400 bread
 
 40 mixed grains (flax sesame pumpkin sunflower)
-
 
 220 100% levin
 
 16 salt
+## Instructions
 
 
 first part 30min autoanelys

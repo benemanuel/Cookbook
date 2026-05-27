@@ -14,8 +14,23 @@ labels: [cake]
 
 # White House Pecan Pie
 
-<https://ezinearticles.com/?White-House-Pecan-Pie&id=1786433>
-
 ## Ingredients
 
+- ½ cup (115g) unsalted butter, softened
+- 1 cup sugar
+- 1 cup dark corn syrup
+- ½ tsp salt
+- 1½ tsp vanilla extract
+- 3 large eggs
+- 2 cups chopped pecans
+- 1 unbaked 9-inch pastry shell
+
 ## Instructions
+
+1. Preheat oven to 375°F (190°C).
+2. In a large bowl, beat softened butter until creamy. Add sugar and beat until light and fluffy.
+3. Mix in dark corn syrup, salt, and vanilla extract.
+4. Add eggs one at a time, beating well after each addition.
+5. Fold in the chopped pecans.
+6. Pour the filling into the unbaked pastry shell.
+7. Bake for 40–50 minutes, until the center is set and the top is golden. A toothpick should come out mostly clean. Cool completely before slicing.

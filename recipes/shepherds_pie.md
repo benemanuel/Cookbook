@@ -16,11 +16,27 @@ labels: [cake, meat]
 
 ## Ingredients
 
+### Meat Layer
+- 1 kg ground/chopped meat
+- 2 eggs
+- 1 cup quick oats
+- ¾ cup water
+- Salt, pepper, garlic powder, to taste
+- Ketchup, to taste
+- ¾ cup cranberry sauce
+- ¾ cup tomato sauce
+
+### Potato Layer
+- 1 large sweet potato, peeled and cut into chunks
+- 3 large potatoes, peeled and cut into chunks
+- ⅔ cup fried onions
+- Salt and pepper, to taste
+
 ## Instructions
 
-![image007](images\2018-12-04_10-41-07_shepherds_pie_1\image001.jpg)**אבי
- בן עמנואל** מנהל מערכות ארגוניות  הוועד הלאומי 21 ת.ד. 16031, ירושלים 9116001
-
-טל. T. 02\-6751036 פקס. F. 02\-6751151 נייד. M. 052\-3809107 
-
-[www.jct.ac.il](http://www.jct.ac.il/)\|[![logo facebook](images\2018-12-04_10-41-07_shepherds_pie_1\image002.png)](https://www.facebook.com/jct.ac.il?ref=hl)
+1. Preheat oven to 350°F (175°C). Grease 4 small loaf pans.
+2. Combine ground meat, eggs, oats, water, and spices. Mix well and divide evenly among the pans, pressing in firmly.
+3. Mix cranberry sauce and tomato sauce together. Spread a layer over the meat in each pan.
+4. Boil sweet potato and potatoes separately until tender. Drain and mash each separately, then combine with fried onions, salt, and pepper.
+5. Spread the mashed potato mixture over the meat layer in each pan.
+6. Bake for 40 minutes until the meat is cooked through and the top is golden. Makes 4 small loaves.

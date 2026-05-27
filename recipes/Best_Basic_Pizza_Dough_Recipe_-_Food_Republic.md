@@ -7,7 +7,7 @@ date_parsed: 2020-06-09T18:06:00+03:00
 labels: [bread]
 ---
 
-# Best Basic Pizza Dough Recipe - Food Republic
+# Best Basic Pizza Dough Recipe - dry yeast
 
 <https://www.foodrepublic.com/recipes/best-basic-pizza-dough-recipe/>
 
@@ -25,19 +25,10 @@ Gentlemen, start your kneading.
 
 ## Best Basic Pizza Dough Recipe
 
-No Ratings
-
-[![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdib3g9IjAgMCAxOCAxNiIgZmlsbD0ibm9uZSIgaGVpZ2h0PSIxNiIgd2lkdGg9IjE4Ij4KPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzI2NzNfNzQ3NDEpIj4KPHBhdGggZD0iTTQuNzI0MDcgMEMzLjU4MDM2IDAgMi42NTA0OSAwLjg5Njg3NSAyLjY1MDQ5IDJWNUg0LjcyNDA3VjJIMTIuMDY5MUwxMy4wMTg0IDIuOTE1NjNWNUgxNS4wOTJWMi45MTU2M0MxNS4wOTIgMi4zODQzOCAxNC44NzQ5IDEuODc1IDE0LjQ4NjEgMS41TDEzLjUzNjggMC41ODQzNzVDMTMuMTQ4IDAuMjA5Mzc1IDEyLjYxOTkgMCAxMi4wNjkxIDBINC43MjQwN1pNMTMuMDE4NCAxMVYxMlYxNEg0LjcyNDA3VjEyVjExLjVWMTFIMTMuMDE4NFpNMTUuMDkyIDEySDE2LjEyODhDMTYuNzAyMyAxMiAxNy4xNjU2IDExLjU1MzEgMTcuMTY1NiAxMVY4QzE3LjE2NTYgNi44OTY4NyAxNi4yMzU3IDYgMTUuMDkyIDZIMi42NTA0OUMxLjUwNjc4IDYgMC41NzY5MDQgNi44OTY4NyAwLjU3NjkwNCA4VjExQzAuNTc2OTA0IDExLjU1MzEgMS4wNDAyMiAxMiAxLjYxMzcgMTJIMi42NTA0OVYxNEMyLjY1MDQ5IDE1LjEwMzEgMy41ODAzNiAxNiA0LjcyNDA3IDE2SDEzLjAxODRDMTQuMTYyMSAxNiAxNS4wOTIgMTUuMTAzMSAxNS4wOTIgMTRWMTJaTTE0LjU3MzYgOS4yNUMxNC4xNDI3IDkuMjUgMTMuNzk2IDguOTE1NjIgMTMuNzk2IDguNUMxMy43OTYgOC4wODQzOCAxNC4xNDI3IDcuNzUgMTQuNTczNiA3Ljc1QzE1LjAwNDUgNy43NSAxNS4zNTEyIDguMDg0MzggMTUuMzUxMiA4LjVDMTUuMzUxMiA4LjkxNTYyIDE1LjAwNDUgOS4yNSAxNC41NzM2IDkuMjVaIiBmaWxsPSIjRkY1OTMzIiAvPgo8L2c+CjxkZWZzPgo8Y2xpcHBhdGggaWQ9ImNsaXAwXzI2NzNfNzQ3NDEiPgo8cmVjdCBmaWxsPSJ3aGl0ZSIgd2lkdGg9IjE2LjU4ODciIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuNTc2OTA0KSIgaGVpZ2h0PSIxNiIgLz4KPC9jbGlwcGF0aD4KPC9kZWZzPgo8L3N2Zz4=) Print](?mode=print)
-
-servings
-
-1
 
 makes 2, 12- inch pies
 
 ![Best Basic Pizza Dough Recipe](https://www.foodrepublic.com/img/gallery/best-basic-pizza-dough-recipe/intro-import.jpg)
-
-[](https://www.pinterest.com/pin/create/button/?utm_source=PT-addon&utm_medium=Social-Distribution&utm_campaign=image-save)
 
 ### Ingredients
 
@@ -59,4 +50,4 @@ makes 2, 12- inch pies
 8. Grilled BLT Pizza Recipe
 9. Tarte Flambée Recipe
 
-Rate this recipe
+

@@ -16,4 +16,32 @@ labels: [dairy, cake]
 
 ## Ingredients
 
+### Cake
+- 1 cup sugar
+- ½ cup (115g) unsalted butter, softened
+- 1 large egg
+- 1 cup sour cream
+- 1 tsp vanilla extract
+- 3 cups all-purpose flour
+- 1 tsp baking soda
+- 1 tsp baking powder
+
+### Cream Cheese Filling
+- 2 packages (450g total) cream cheese, softened
+- ½ cup sugar
+- 1 large egg
+
+### Streusel Topping
+- ½ cup chopped pecans
+- ½ cup brown sugar
+- ⅓ cup all-purpose flour
+- ⅓ cup (75g) unsalted butter, cold and cubed
+
 ## Instructions
+
+1. Preheat oven to 350°F (175°C). Grease a 9x13 baking pan.
+2. Make the cake: beat butter and sugar until light. Add egg, sour cream, and vanilla; mix until combined. Stir in flour, baking soda, and baking powder until a soft dough forms.
+3. Make the filling: beat cream cheese and sugar until smooth. Mix in egg.
+4. Make the streusel: combine pecans, brown sugar, flour, and cold butter. Mix with fingertips until crumbly.
+5. Press two-thirds of the cake dough into the prepared pan. Spread cream cheese filling evenly over the dough. Drop spoonfuls of remaining dough over the filling (it will not cover completely). Sprinkle streusel over the top.
+6. Bake for 45 minutes until golden and set. Cool before slicing.

@@ -16,4 +16,14 @@ labels: []
 
 ## Ingredients
 
+- 30 garlic cloves, peeled
+- 1 tsp salt
+- 3 Tbsp fresh lemon juice
+- 2 cups canola oil (or other neutral oil)
+
 ## Instructions
+
+1. Place garlic cloves and salt in a food processor. Pulse until the garlic is finely minced, scraping down the sides as needed, until you have a smooth paste.
+2. With the processor running, very slowly drizzle in a thin stream of canola oil, alternating with small additions of lemon juice. Continue adding oil and lemon juice slowly over 8–10 minutes.
+3. The sauce will emulsify and turn white, thick, and creamy. If it looks oily or broken, slow down the oil additions.
+4. Taste and adjust salt and lemon juice as desired. Serve immediately or refrigerate in an airtight container for up to 3 weeks.

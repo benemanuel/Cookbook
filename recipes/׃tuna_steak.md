@@ -15,9 +15,19 @@ labels: [meat, fish]
 
 ## Ingredients
 
+2 tbsp orange juice
+2 tbsp soy sauce
+1 tbsp. olive oil
+1.5 tsp lemon juice
+1 tbsp chopped fresh parsley
+1/3 clove garlic
+1/4 tsp chopped fresh oregano
+1/4 ground black pepper
+2  115 gr tuna steaks
+
 ## Instructions
 
-![Screenshot_20210119-224352.jpg](cid:ii_kk5afzdp0)
+
 
 Short marinade of no more than 20 minutes
 
