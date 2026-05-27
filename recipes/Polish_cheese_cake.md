@@ -14,10 +14,10 @@ labels: [dairy, cake]
 ## Instructions
 
 \-\-\-\-\-\-\-\-\-\- Forwarded message \-\-\-\-\-\-\-\-\-  
-From: **Avraham Ben Emanuel** \<<avraham.benemanuel@gmail.com>\>  
+From: **Avraham Ben Emanuel** \<\>  
 Date: Mon, Oct 9, 2023, 08:57  
 Subject: Polish cheese cake  
-To: Family \<<benemanuel.family@gmail.com>\>  
+To: Family \<\>  
 
 
 Dough

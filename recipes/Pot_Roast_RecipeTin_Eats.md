@@ -107,7 +107,7 @@ Servings8
 
 Tap or hover to scale
 
-[Print](https://www.recipetineats.com/wprm_print/pot-roast)
+
 
 - [ 3231](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.recipetineats.com%2Fslow-cooker-beef-pot-roast%2F&t=Pot%20Roast "Share on Facebook")
 -   55873

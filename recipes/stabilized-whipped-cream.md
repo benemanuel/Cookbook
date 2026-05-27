@@ -14,7 +14,7 @@ labels: [dairy, cake, candy]
 
 ---
 
-- [Share](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fstateofdinner.com%2Fstabilized-whipped-cream%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dgrow-social-pro&t=Stabilized%20Whipped%20Cream "Share on Facebook")
+- 
 -  Pin
 
 ![Pinterest Pin: Stabilized with cream of tartar whipped cream.](https://stateofdinner.com/wp-content/uploads/2020/11/whipped-cream-683x1024.jpg)

@@ -15,8 +15,8 @@ labels: [meat, fish, dairy]
 
 222 shares
 
-- [Share](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frootedinnature.blog%2Fhow-to-bake-a-whole-chicken-in-a-salt-crust%2F&t=Tender%20Salt%20Crusted%20Chicken "Share on Facebook")
-- [Tweet](https://x.com/intent/tweet?text=Tender%20Salt%20Crusted%20Chicken&url=https%3A%2F%2Frootedinnature.blog%2Fhow-to-bake-a-whole-chicken-in-a-salt-crust%2F "Share on X")
+- 
+- 
 -  Pin
 
 [ Jump to Recipe](#mv-creation-69-jtr)

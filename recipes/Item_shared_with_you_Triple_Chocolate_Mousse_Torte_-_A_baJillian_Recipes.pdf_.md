@@ -19,7 +19,7 @@ labels: [cake]
 
 - Avraham Ben Emanuel shared an item
 
-| Header profile photo | Avraham Ben Emanuel (<avraham.benemanuel@gmail.com>) has shared the following item: |
+| Header profile photo | Avraham Ben Emanuel () has shared the following item: |
 | --- | --- |
 
 |
@@ -30,5 +30,5 @@ labels: [cake]
 
 If you don't want to receive files from this person, [block the sender](https://drive.google.com/drive/blockuser?blockerEmail=benemanuel.family@gmail.com&blockeeEmail=avraham.benemanuel@gmail.com&usp=sharing_eib) from Drive
 
-- | Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA You have received this email because <avraham.benemanuel@gmail.com> shared a file or folder located in Google Drive with you. | [Google](https://www.google.com/) |
+- | Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA You have received this email because  shared a file or folder located in Google Drive with you. | [Google](https://www.google.com/) |
 | --- | --- |

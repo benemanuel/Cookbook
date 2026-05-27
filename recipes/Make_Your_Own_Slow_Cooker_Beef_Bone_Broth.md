@@ -17,7 +17,7 @@ October 7, 2016
 
 ## How to Make Nutrient-Dense Slow Cooker Beef Bone Broth
 
-[Jump to Recipe](#recipe) //
+ //
 
  [300 *Comments »*](https://thehealthyfoodie.com/slow-cooker-beef-bone-broth/#comments)
 
@@ -262,7 +262,7 @@ Whether you’re sipping it for comfort, using it as a cooking base, or incorpor
 
 
 
-[Print Recipe](https://thehealthyfoodie.com/wprm_print/slow-cooker-beef-bone-broth) [Rate this Recipe](#respond)
+ [Rate this Recipe](#respond)
 
 
 

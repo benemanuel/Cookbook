@@ -18,7 +18,7 @@ labels: [dairy, bread]
 
 ---
 
-[Jump to Recipe](#tasty-recipes-20686-jump-target)·[Print Recipe](https://www.theperfectloaf.com/sourdough-pie-crust/print/20686/)
+·
 
 This sourdough discard pie crust offers a delightful twist on the traditional. The natural tang of the sourdough starter adds depth and complexity to its flavor, but it also contributes to its flakiness. This crust is the perfect base for sweet and savory **pies**, **galettes**, and **crostatas**. It’s also the perfect place to use that sourdough starter discard you might be saving in the refrigerator.
 
@@ -145,7 +145,7 @@ There are three ways to use this recipe:
 3. **Blind baked** (for pies or galettes with extra juicy fillings, like blueberry pie): Bake at 400°F (200°C) for 15 to 20 minutes until the edges start to lightly golden.
 
 ---
- [Print](https://www.theperfectloaf.com/sourdough-pie-crust/print/20686/)
+ 
 
 
 

@@ -15,7 +15,7 @@ labels: [fish, dairy, bread, cake, candy]
 
 [Home](https://www.theclevercarrot.com/) » [Sourdough Bread Recipes](https://www.theclevercarrot.com/category/sourdough-recipes/)
 
-[Jump to Recipe](#tasty-recipes-34946-jump-target)
+
 
 *My sourdough pizza crust features a crisp, golden base and an open, airy crumb made with active [sourdough starter](https://www.theclevercarrot.com/2019/03/beginner-sourdough-starter-recipe/). This easy pan-baked method includes par-baking tips, a 1-minute [“no-cook” pizza sauce](https://www.theclevercarrot.com/2022/11/quick-no-cook-pizza-sauce/), and a step-by-step video to guide you.*
 

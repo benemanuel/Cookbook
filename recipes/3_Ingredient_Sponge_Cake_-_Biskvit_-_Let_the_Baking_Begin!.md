@@ -1,10 +1,12 @@
 ---
-subject: "3 Ingredient Sponge Cake - Biskvit - Let the Baking Begin!"
-from: "\"Ella (Seltzer) Ben Emanuel\" <eseltz90@gmail.com>"
-to: "BENEMANUEL.FAMILY@gmail.com"
-date: "Sun, 20 Oct 2019 12:20:29 +0300"
+subject: 3 Ingredient Sponge Cake - Biskvit - Let the Baking Begin!
+from: '"Ella (Seltzer) Ben Emanuel" <eseltz90@gmail.com>'
+to: BENEMANUEL.FAMILY@gmail.com
+date: Sun, 20 Oct 2019 12:20:29 +0300
 date_parsed: 2019-10-20T12:20:29+03:00
-labels: [meat, fish, dairy, bread, cake, candy]
+labels:
+  - dairy
+  - cake
 ---
 
 # 3 Ingredient Sponge Cake - Biskvit - Let the Baking Begin!
@@ -33,8 +35,8 @@ July 14, 2017
   * [#Cake](https://letthebakingbegin.com/category/dessert/cake/)
   * [#Dessert](https://letthebakingbegin.com/category/dessert/)
 
-- [Jump to Recipe](#wprm-recipe-container-9618)
-- [Print Recipe](https://letthebakingbegin.com/wprm_print/3-ingredient-sponge-cake-biskvit)
+- 
+- 
 
 ***3 Ingredient Sponge Cake or Biskvit is an easy, foolproof recipe for a basic yellow sponge cake that is level, moist and perfect every time!*** ***This sponge cake has light and fluffy crumb and is amazing on its own with a sprinkling of sugar or some apples mixed in, but most often this recipe is used for layered cakes. This sponge cake recipe is filled with tips on how to make a sponge cake with just 3 cake ingredients!***
 
@@ -147,7 +149,7 @@ Also, check out this other version of **[Simple Yellow Sponge Cake](https://lett
 
 [Follow me on Pinterest](http://www.pinterest.com/Letthebakingbgn/)
 
-[Print](https://letthebakingbegin.com/wprm_print/3-ingredient-sponge-cake-biskvit)
+
 
 ### 3 Ingredient Sponge Cake - Biskvit
 

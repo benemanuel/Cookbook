@@ -14,10 +14,10 @@ labels: [meat, bread, cake]
 ## Instructions
 
 \-\-\-\-\-\-\-\-\-\- Forwarded message \-\-\-\-\-\-\-\-\-\-  
-From: "Avraham Ben Emanuel" \<<avraham.benemanuel@gmail.com>\>  
+From: "Avraham Ben Emanuel" \<\>  
 Date: Apr 9, 2016 5:05 PM  
 Subject: Slow\-Cooked Boeuf Bourguignon  
-To: "Avraham Ben Emanuel" \<<avraham.benemanuel@gmail.com>\>  
+To: "Avraham Ben Emanuel" \<\>  
 Cc:  
 
 ### Slow\-Cooked Beef Bourguignon

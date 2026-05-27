@@ -16,9 +16,9 @@ labels: [meat, dairy]
 
 ![Greek Meatballs recipe (Keftedes/ Keftethes)](https://www.mygreekdish.com/wp-content/uploads/2013/05/Greek-Meatballs-recipe-Keftedes-750x563.jpg)
 
-[Tweet](<https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.mygreekdish.com%2Frecipe%2Fkeftedes-greek-meatballs%2F&text=Greek Meatballs recipe (Keftedes/ Keftethes)> "Tweet this on Twitter") [Share](<https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.mygreekdish.com%2Frecipe%2Fkeftedes-greek-meatballs%2F&t=Greek Meatballs recipe (Keftedes/ Keftethes)> "Share this on Facebook") [Pin It](<https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.mygreekdish.com%2Frecipe%2Fkeftedes-greek-meatballs%2F&media=https://www.mygreekdish.com/wp-content/uploads/2013/05/Greek-Meatballs-recipe-Keftedes-scaled.jpg&description=Greek Meatballs recipe (Keftedes/ Keftethes)> "Pin it to Pinterest")
+> "Tweet this on Twitter") > "Share this on Facebook") > "Pin it to Pinterest")
 
-[Jump to Recipe](#tasty-recipes-250613-jump-target)
+
 
 Crispy, juicy and absolutely delicious! Give this traditional Keftedes / Keftethes (Greek Meatballs) recipe a try and add a Mediterranean twist to your plate! Just like normal meatballs but with a deliciously fresh Greek twist, this dish can be anything from a light meal to the main course but also a star of the mezze platter.
 
@@ -115,7 +115,7 @@ If you love my traditional meatballs recipe, these recipes below are made for yo
 3. [Traditional Greek Meatball Soup (Giouvarlakia/ Youvarlakia) in egg and lemon sauce](https://www.mygreekdish.com/recipe/creamy-meatball-soup-egg-lemon-sauce-youvarlakia-avgolemono/)
 4. [Greek Meatballs in Tomato Sauce (Keftedes Giouvetsi)](https://www.mygreekdish.com/recipe/keftedes-giouvetsi-with-chilopites-meatballs-with-greek-noodles/)
 5. [Juicy Stuffed Burgers with Feta Cheese](https://www.mygreekdish.com/recipe/juicy-stuffed-burgers-with-feta-cheese/)
- [Print](https://www.mygreekdish.com/recipe/keftedes-greek-meatballs/print/250613/)
+ 
 
 
 

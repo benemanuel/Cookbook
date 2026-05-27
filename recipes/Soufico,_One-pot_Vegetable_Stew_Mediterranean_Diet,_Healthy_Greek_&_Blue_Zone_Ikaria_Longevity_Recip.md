@@ -37,7 +37,7 @@ RECIPES
 
 [- Ikaria](https://www.dianekochilas.com/category/recipes/region/ikarialongevityrecipes/)[- Main Courses](https://www.dianekochilas.com/category/recipes/course/main-courses/)[- My Greek Table](https://www.dianekochilas.com/category/recipes/my-greek-table/)[- Season #1](https://www.dianekochilas.com/category/recipes/my-greek-table/season-1/)[- Vegetables](https://www.dianekochilas.com/category/recipes/main-ingredient/greek-vegetables/)
 
-[Print Recipe](https://www.dianekochilas.com/wprm_print/soufico-one-pot-vegetable-stew)
+
 
 ## Ingredients
 

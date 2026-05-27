@@ -179,7 +179,7 @@ Catherine Boeckmann is the Executive Digital Editor of Almanac.com, the website 
 
 [Add a Comment](/comment/reply/node/130072/comment_node_recipe)
 
-<span>Allyssa:)</span> Tue, 12/09/2025 - 09:55
+Allyssa:) Tue, 12/09/2025 - 09:55
 
 Reply
 
@@ -190,7 +190,7 @@ And yes, if you have enough brandy in it and sugar, it should store indefinitely
 
 ×
 
-<span>Jdj</span> Sat, 04/12/2025 - 00:02
+Jdj Sat, 04/12/2025 - 00:02
 
 Reply
 
@@ -200,7 +200,7 @@ This is adapted recipe is very different than the original. If you pay careful a
 
 ×
 
-<span>Suzette Nelson</span> Tue, 12/19/2023 - 21:13
+Suzette Nelson Tue, 12/19/2023 - 21:13
 
 Reply
 
@@ -212,7 +212,7 @@ I also noticed in Martha's original recipe she crushes the cherry pits and puts 
 
 ×
 
-<span>Boo</span> Fri, 01/12/2024 - 14:13
+Boo Fri, 01/12/2024 - 14:13
 
 Reply
 
@@ -224,7 +224,7 @@ Hi, I am sure Martha knew exactly what she was doing. I think she used the cherr
 
 ×
 
-<span>Tom S.</span> Mon, 11/20/2023 - 07:41
+Tom S. Mon, 11/20/2023 - 07:41
 
 Reply
 
@@ -236,7 +236,7 @@ In the simplified recipe, do you cover or seal the the quart jar?
 
  [![Profile picture for user The Editors](/sites/default/files/styles/thumbnail/public/pictures/picture-343787-1548684969.jpg?itok=sYwPCglb)](/author/editors)
 
-<a title="View user profile." href="/author/editors">The Editors</a> Tue, 11/21/2023 - 08:47
+The Editors Tue, 11/21/2023 - 08:47
 
 Reply
 
@@ -246,7 +246,7 @@ Hi, Tom. Yes, it should be covered.
 
 ×
 
-<span>Frances Gale</span> Sun, 09/17/2023 - 08:38
+Frances Gale Sun, 09/17/2023 - 08:38
 
 Reply
 
@@ -258,7 +258,7 @@ I don't understand how you could make this 3 months ahead of the holidays, meani
 
  [![Profile picture for user The Editors](/sites/default/files/styles/thumbnail/public/pictures/picture-343787-1548684969.jpg?itok=sYwPCglb)](/author/editors)
 
-<a title="View user profile." href="/author/editors">The Editors</a> Mon, 09/18/2023 - 13:57
+The Editors Mon, 09/18/2023 - 13:57
 
 Reply
 
@@ -268,7 +268,7 @@ Hi, Frances. You can make the cherry bounce six months in advance, but we would 
 
 ×
 
-<span>Hollie</span> Wed, 06/07/2023 - 07:28
+Hollie Wed, 06/07/2023 - 07:28
 
 Reply
 
@@ -280,7 +280,7 @@ Just checking—after we have cooked the 2cups, and added the spice, it “soaks
 
  [![Profile picture for user The Editors](/sites/default/files/styles/thumbnail/public/pictures/picture-343787-1548684969.jpg?itok=sYwPCglb)](/author/editors)
 
-<a title="View user profile." href="/author/editors">The Editors</a> Wed, 06/07/2023 - 11:35
+The Editors Wed, 06/07/2023 - 11:35
 
 Reply
 

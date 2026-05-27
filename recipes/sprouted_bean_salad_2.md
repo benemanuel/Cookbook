@@ -18,7 +18,7 @@ labels: []
 
 ## Instructions
 
-On Wed, Mar 8, 2023, 10:48 Avraham Ben Emanuel \<<avraham.benemanuel@gmail.com>\> wrote:  
+On Wed, Mar 8, 2023, 10:48 Avraham Ben Emanuel \<\> wrote:  
 > ## sprouted bean salad
 > ## Sprouted Bean SaladThis Sprouted Bean Salad is a hearty and delicious dish. This salad is perfect served as a side dish, but is hearty enough it could stand alone as a meal. * Author: [Jo\-Anna Rooney](https://aprettylifeinthesuburbs.com/about-me-page/)  * Prep Time: 15 minutes  * Cook Time: 15 minutes  * Total Time: 30 minutes  * Yield: 6 servings 1x  * Category: Salad
 > ### ingredients

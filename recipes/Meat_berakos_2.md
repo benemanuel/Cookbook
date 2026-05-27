@@ -18,5 +18,5 @@ labels: [meat]
 
 ## Instructions
 
-On Thu, Feb 6, 2020, 7:00 PM Avraham Ben Emanuel \<<avraham.benemanuel@gmail.com>\> wrote:  
+On Thu, Feb 6, 2020, 7:00 PM Avraham Ben Emanuel \<\> wrote:  
 > <http://crunchit.co.il/%D7%91%D7%95%D7%A8%D7%A7%D7%A1-%D7%91%D7%A9%D7%A8-%D7%95%D7%A8%D7%95%D7%98%D7%91-%D7%A4%D7%98%D7%A8%D7%99%D7%95%D7%AA/>

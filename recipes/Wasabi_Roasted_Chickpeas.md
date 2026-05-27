@@ -21,7 +21,7 @@ Today I wanted to celebrate my love of spicy food with some homemade, wasabi roa
 
  Total TimeTotal: 1 hour hr 5 minutes mins
 
-[Jump to Recipe →](#recipe) [Click to Pin It 📌](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.glueandglitter.com%2Fwasabi-roasted-chickpeas-2%2F&media=https%3A%2F%2Fwww.glueandglitter.com%2Fwp-content%2Fuploads%2F2015%2F09%2Fwasabi-chickpeas.jpg&description=Spicy%2C+salty%2C+and+slightly+sweet+wasabi+roasted+chickpeas+are+a+great%26nbsp%3Bsnack+or+salad+topper%21&is_video=false)
+ [Click to Pin It 📌](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.glueandglitter.com%2Fwasabi-roasted-chickpeas-2%2F&media=https%3A%2F%2Fwww.glueandglitter.com%2Fwp-content%2Fuploads%2F2015%2F09%2Fwasabi-chickpeas.jpg&description=Spicy%2C+salty%2C+and+slightly+sweet+wasabi+roasted+chickpeas+are+a+great%26nbsp%3Bsnack+or+salad+topper%21&is_video=false)
 
 ![wasabi chickpeas on a serving dish on a wooden table](https://www.glueandglitter.com/wp-content/uploads/2015/09/wasabi-chickpeas-600x600.jpg)
 

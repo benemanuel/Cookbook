@@ -19,10 +19,10 @@ labels: [dairy]
 ## Instructions
 
 \-\-\-\-\-\-\-\-\-\- Forwarded message \-\-\-\-\-\-\-\-\-  
-From: **benemanuel family** \<<benemanuel.family@gmail.com>\>  
+From: **benemanuel family** \<\>  
 Date: Sat, Oct 3, 2020, 21:09  
 Subject: Shepard's pie  
-To: benemanuel family \<<benemanuel.family@gmail.com>\>  
+To: benemanuel family \<\>  
 
 
 Rani loved it

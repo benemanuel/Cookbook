@@ -20,7 +20,7 @@ half crumbs
 
 ![](https://secure.gravatar.com/avatar/10524848b45fe7909c8148d8bf9e7a0e3726d514b29b95c8428148b2f01d4798?s=36&amp;d=blank&amp;r=g) *by* [Chungah](https://damndelicious.net/about-me/ "Visit Chungah’s website") — *updated* Feb 17, 2026
 
-[Jump to Recipe](#recipe) [Pin Recipe](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fdamndelicious.net%2F2014%2F03%2F24%2Fcoffee-cake-muffins%2F&media=https%3A%2F%2Fdamndelicious.net%2Fwp-content%2Fuploads%2F2014%2F03%2FIMG_0394edit.jpg&description=Coffee+Cake+Muffins&is_video=false) [SVG Image SVG ImageSVG ImageSVG ImageSVG ImageSVG Image4.70 stars (71 ratings)](#commentform)
+ [Pin Recipe](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fdamndelicious.net%2F2014%2F03%2F24%2Fcoffee-cake-muffins%2F&media=https%3A%2F%2Fdamndelicious.net%2Fwp-content%2Fuploads%2F2014%2F03%2FIMG_0394edit.jpg&description=Coffee+Cake+Muffins&is_video=false) [SVG Image SVG ImageSVG ImageSVG ImageSVG ImageSVG Image4.70 stars (71 ratings)](#commentform)
 
 *This post may contain affiliate links. Please see our [privacy policy](https://damndelicious.net/privacy-policy/) for details.*
 
@@ -78,7 +78,7 @@ The classic coffee cake is transformed into a convenient muffin, loaded with a m
 
 4.7 stars (71 ratings)
 
-[Print Recipe](https://damndelicious.net/wprm_print/coffee-cake-muffins) [Pin Recipe](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fdamndelicious.net%2F2014%2F03%2F24%2Fcoffee-cake-muffins%2F&media=https%3A%2F%2Fdamndelicious.net%2Fwp-content%2Fuploads%2F2014%2F03%2FIMG_0394edit.jpg&description=Coffee+Cake+Muffins&is_video=false) [Leave a Review](#commentform)
+ [Pin Recipe](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fdamndelicious.net%2F2014%2F03%2F24%2Fcoffee-cake-muffins%2F&media=https%3A%2F%2Fdamndelicious.net%2Fwp-content%2Fuploads%2F2014%2F03%2FIMG_0394edit.jpg&description=Coffee+Cake+Muffins&is_video=false) [Leave a Review](#commentform)
 
 ### Video
 
@@ -135,7 +135,7 @@ The classic coffee cake is transformed into a convenient muffin, loaded with a m
 
 Tag [@damn_delicious](https://www.instagram.com/damn_delicious) on Instagram and hashtag it [#damndelicious](https://www.instagram.com/explore/tags/damndelicious)!
 
-[Pin Recipe](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fdamndelicious.net%2F2014%2F03%2F24%2Fcoffee-cake-muffins%2F&media=https%3A%2F%2Fdamndelicious.net%2Fwp-content%2Fuploads%2F2014%2F03%2FIMG_0394edit.jpg&description=Coffee+Cake+Muffins&is_video=false) [Share on Facebook](https://www.facebook.com/share.php?u=https%3A%2F%2Fdamndelicious.net%2F2014%2F03%2F24%2Fcoffee-cake-muffins%2F) [Share by Email](mailto:?subject=Check%20out%20this%20recipe%21&body=I%20found%20this%20recipe%20you%20might%20like%3A%0A%0ACoffee%20Cake%20Muffins%0Ahttps%3A%2F%2Fdamndelicious.net%2F2014%2F03%2F24%2Fcoffee-cake-muffins%2F)
+[Pin Recipe](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fdamndelicious.net%2F2014%2F03%2F24%2Fcoffee-cake-muffins%2F&media=https%3A%2F%2Fdamndelicious.net%2Fwp-content%2Fuploads%2F2014%2F03%2FIMG_0394edit.jpg&description=Coffee+Cake+Muffins&is_video=false)  
 
 *Disclosure: This post is sponsored by [I](http://www.imperialsugar.com/)*[*mperial Sugar*](http://www.imperialsugar.com/)*. All opinions expressed are my own.*
 

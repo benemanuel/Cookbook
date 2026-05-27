@@ -19,7 +19,7 @@ labels: [dairy, bread, cake]
 
  By [Alexandra Stafford](https://alexandracooks.com/alexandra-stafford/ "Visit Alexandra Stafford’s website") — Last Updated: 01/22/2026
 
-[Jump To Recipe](#tasty-recipes-59147)
+
 
 [ 4.9 from 582 reviews](#respond)
 
@@ -121,13 +121,13 @@ Just-baked sourdough focaccia:
 
 
 
- [Print](https://alexandracooks.com/2019/03/22/simple-sourdough-focaccia-a-beginners-guide/print/59147/)
+ 
 
 
 
 [ Print Recipe](https://alexandracooks.com/2019/03/22/simple-sourdough-focaccia-a-beginners-guide/print/59147/)
 
-[ Save Recipe  Recipe Saved](javascript:void(0))
+)
 
 ### Description
 

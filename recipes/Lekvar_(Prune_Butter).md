@@ -15,7 +15,7 @@ Lekvar or prune butter is one of the classic fillings for making hamantaschen co
 
 4\.28 from 11 votes
 
-[Print Recipe](https://omgyummy.com/wprm_print/21645)[Pin Recipe](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fomgyummy.com%2Flekvar-prune-butter%2F&media=https%3A%2F%2Fomgyummy.com%2Fwp-content%2Fuploads%2F2022%2F03%2FDSC_2883-prune-filling-lekvar-angle-spoon-1200X1600-web.jpg&description=How+to+Make+Lekvar+%28Prune+Butter%29&is_video=false)
+[Pin Recipe](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fomgyummy.com%2Flekvar-prune-butter%2F&media=https%3A%2F%2Fomgyummy.com%2Fwp-content%2Fuploads%2F2022%2F03%2FDSC_2883-prune-filling-lekvar-angle-spoon-1200X1600-web.jpg&description=How+to+Make+Lekvar+%28Prune+Butter%29&is_video=false)
 
 PREP TIME5 mins
 

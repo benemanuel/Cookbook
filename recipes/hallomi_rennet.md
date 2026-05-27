@@ -14,10 +14,10 @@ labels: [dairy]
 ## Instructions
 
 \-\-\-\-\-\-\-\-\-\- Forwarded message \-\-\-\-\-\-\-\-\-  
-From: **Avi BenEmanuel** \<<avi.wollman@gmail.com>\>  
+From: **Avi BenEmanuel** \<\>  
 Date: Sun, 1 Jan 2017, 17:21  
 Subject: hallomi rennet  
-To: Avraham Ben Emanuel \<<avraham.benemanuel@gmail.com>\>  
+To: Avraham Ben Emanuel \<\>  
 
 
 <http://wholesome-cook.com/2012/07/18/homemade-haloumi-cheese-in-an-hour/>  

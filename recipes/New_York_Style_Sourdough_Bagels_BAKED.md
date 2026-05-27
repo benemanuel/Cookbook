@@ -13,7 +13,7 @@ labels: [dairy, bread, cake]
 
 ---
 
-[Jump to Recipe](#recipe) [Jump to Video](#recipe-video) [Print Recipe](/wprm_print/6082)
+ [Jump to Video](#recipe-video) 
 
 ![Overhead closeup of a New York style bagel.](/wp-content/uploads/2020/01/New-York-Style-Bagels-685x1024.jpg)
 
@@ -106,7 +106,7 @@ Resting Time 1 day d
 
 Total Time 1 day d 1 hour hr
 
-[Print Recipe](/wprm_print/6082) [Pin Recipe](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.baked-theblog.com%2Fnew-york-style-sourdough-bagels-with-roasted-garlic-labneh%2F&media=https%3A%2F%2Fwww.baked-theblog.com%2Fwp-content%2Fuploads%2F2020%2F01%2FNew-York-Style-Bagels.jpg&description=New+York+Style+Sourdough+Bagels&is_video=false) [Comments](#commentform)
+ [Pin Recipe](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.baked-theblog.com%2Fnew-york-style-sourdough-bagels-with-roasted-garlic-labneh%2F&media=https%3A%2F%2Fwww.baked-theblog.com%2Fwp-content%2Fuploads%2F2020%2F01%2FNew-York-Style-Bagels.jpg&description=New+York+Style+Sourdough+Bagels&is_video=false) [Comments](#commentform)
 
 ### Description
 

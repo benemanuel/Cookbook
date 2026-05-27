@@ -88,7 +88,7 @@ You'll find a timeline bibliography of the most important vintage cocktail books
 
  Share
 
-[Subscribe](/your-account/subscribe)
+
 
 [Difford’s Guide to Cocktails Book 17th Edition image Difford’s Guide to Cocktails Book 17th Edition We've sold out of this edition, and the good news is that the NEW Eighteenth Edition is now available to pre-order - published 12th December 2024](/books/304/diffords-guide-to-cocktails-book-17th-edition)
 

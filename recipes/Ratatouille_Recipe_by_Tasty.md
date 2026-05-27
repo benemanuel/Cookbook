@@ -34,10 +34,10 @@ Updated on April 29, 2024
 
 95% would make again
 
-- [Share via facebook](https://www.facebook.com/dialog/share?href=https%3A%2F%2Ftasty.co%2Frecipe%2Fratatouille&app_id=1060852764021442)
-- [Share via pinterest](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Ftasty.co%2Frecipe%2Fratatouille&description=Ratatouille&media=https%3A%2F%2Fimg.buzzfeed.com%2Fvideo-api-prod%2Fassets%2Feb44570519264864814264f7f0a5e47a%2FBFV13909_BakedRatatouille-ThumbTextless1080.jpg)
-- [Share via email](mailto:?subject=Ratatouille&body=https://tasty.co/recipe/ratatouille)
-- [Share via sms](<sms:?&body=Ratatouille - https://tasty.co/recipe/ratatouille>)
+- 
+- 
+- 
+- 
 - Print
 
 ##### Total Time

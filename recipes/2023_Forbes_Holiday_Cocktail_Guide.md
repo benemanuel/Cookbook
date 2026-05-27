@@ -1,10 +1,11 @@
 ---
-subject: "2023 Forbes Holiday Cocktail Guide"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Thu, 31 Oct 2024 17:06:03 +0200"
+subject: 2023 Forbes Holiday Cocktail Guide
+from: Avraham Ben Emanuel <avraham.benemanuel@gmail.com>
+to: Family <benemanuel.family@gmail.com>
+date: Thu, 31 Oct 2024 17:06:03 +0200
 date_parsed: 2024-10-31T17:06:03+02:00
-labels: [dairy, candy]
+labels:
+  - alcohol
 ---
 
 # 2023 Forbes Holiday Cocktail Guide

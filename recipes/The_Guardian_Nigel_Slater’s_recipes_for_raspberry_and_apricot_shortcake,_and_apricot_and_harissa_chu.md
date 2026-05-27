@@ -113,6 +113,6 @@ Explore more on these topics
 - [Food](/food/food)
 - [recipes](/tone/recipes)
 
-[Share SVG Image](<mailto:?subject=Nigel Slater’s recipes for raspberry and apricot shortcake, and apricot and harissa chutney&body=https://www.theguardian.com/food/2023/jul/16/nigel-slater-recipes-raspberry-and-apricot-shortcake-apricot-and-harissa-chutney?CMP=share_btn_url>)
+
 
 [Reuse this content](https://syndication.theguardian.com/?url=https%3A%2F%2Fwww.theguardian.com%2Ffood%2F2023%2Fjul%2F16%2Fnigel-slater-recipes-raspberry-and-apricot-shortcake-apricot-and-harissa-chutney&type=article&internalpagecode=food/2023/jul/16/nigel-slater-recipes-raspberry-and-apricot-shortcake-apricot-and-harissa-chutney "Reuse this content")

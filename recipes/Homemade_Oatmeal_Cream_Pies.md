@@ -13,7 +13,7 @@ labels: [dairy, cake]
 
 ---
 
-[Jump to Recipe](#wprm-recipe-container-30475)[Rate Recipe](#respond)
+[Rate Recipe](#respond)
 
 This post may contain affiliate links. Please read our [privacy policy](https://www.mybakingaddiction.com/privacy-policy/).
 
@@ -225,7 +225,7 @@ Servings: 9 large sandwich cookies
 
 
 
-[Save](#)[Saved](#) [Pin](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.mybakingaddiction.com%2Fhomemade-oatmeal-cream-pies%2F&media=https%3A%2F%2Fwww.mybakingaddiction.com%2Fwp-content%2Fuploads%2F2019%2F01%2F1.jpg&description=Soft+and+chewy+oatmeal+cookies+are+sandwiched+together+with+delicious+vanilla+buttercream+to+create+the+perfect+dessert.+Forget+Little+Debbie%3B+fresh%2C+homemade+oatmeal+cream+pies+are+where+it%E2%80%99s+at.&is_video=false) [Print](https://www.mybakingaddiction.com/wprm_print/homemade-oatmeal-cream-pies)
+[Save](#)[Saved](#) [Pin](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.mybakingaddiction.com%2Fhomemade-oatmeal-cream-pies%2F&media=https%3A%2F%2Fwww.mybakingaddiction.com%2Fwp-content%2Fuploads%2F2019%2F01%2F1.jpg&description=Soft+and+chewy+oatmeal+cookies+are+sandwiched+together+with+delicious+vanilla+buttercream+to+create+the+perfect+dessert.+Forget+Little+Debbie%3B+fresh%2C+homemade+oatmeal+cream+pies+are+where+it%E2%80%99s+at.&is_video=false) 
 
 *Soft and chewy oatmeal cookies are sandwiched together with delicious vanilla buttercream to create the perfect dessert. Forget Little Debbie; fresh, homemade oatmeal cream pies are where it’s at.*
 

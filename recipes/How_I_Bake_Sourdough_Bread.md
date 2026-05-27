@@ -14,7 +14,7 @@ labels: [bread]
 ## Instructions
 
 \-\-\-\-\-\-\-\-\-\- Forwarded message \-\-\-\-\-\-\-\-\-  
-From: **Avraham Ben Emanuel** \<<avraham.benemanuel@gmail.com>\>  
+From: **Avraham Ben Emanuel** \<\>  
 Date: Fri, 4 Feb 2022, 12:01  
 Subject: How I Bake Sourdough Bread  
 ‪To: שלו יזי \<<shalev.yazi@gmail.com>\>‬  

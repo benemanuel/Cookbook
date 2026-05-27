@@ -194,7 +194,7 @@ Store in an air-tight container. Best if used within 3-4 days. Freeze for longer
 
 
 
-[Save](https://app.grow.me)[Saved](https://app.grow.me) [Pin](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.farmhouseonboone.com%2Fsourdough-buns%2F&media=https%3A%2F%2Fwww.farmhouseonboone.com%2Fwp-content%2Fuploads%2F2022%2F03%2Fsourdough-burger-buns-5-scaled.jpg&description=Sourdough+Buns&is_video=false) [Print](https://www.farmhouseonboone.com/wprm_print/sourdough-buns)
+[Save](https://app.grow.me)[Saved](https://app.grow.me) [Pin](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.farmhouseonboone.com%2Fsourdough-buns%2F&media=https%3A%2F%2Fwww.farmhouseonboone.com%2Fwp-content%2Fuploads%2F2022%2F03%2Fsourdough-burger-buns-5-scaled.jpg&description=Sourdough+Buns&is_video=false) 
 
 ### Sourdough Buns
 
@@ -306,6 +306,6 @@ Sharing is caring!
 
 11670 shares
 
-- [Share](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.farmhouseonboone.com%2Fsourdough-buns%2F&t=Sourdough%20Hamburger%20Buns "Share on Facebook")
-- [Tweet](https://x.com/intent/tweet?text=Sourdough%20Hamburger%20Buns&url=https%3A%2F%2Fwww.farmhouseonboone.com%2Fsourdough-buns%2F "Share on X")
+- 
+- 
 -  Pin

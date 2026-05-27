@@ -10,7 +10,7 @@ labels: [dairy]
 # Fwd: Apple Crumble Recipe
 
 \-\-\-\-\-\-\-\-\-\- Forwarded message \-\-\-\-\-\-\-\-\-\-  
-From: "Avi Wollman" \<<avi.wollman@gmail.com>\>  
+From: "Avi Wollman" \<\>  
 Date: Feb 8, 2005 12:14 PM  
 Subject: Apple Crumble Recipe  
 To: "a w" \<<wollman@actcom.net.il>\>  

@@ -19,7 +19,7 @@ labels: [meat, fish, dairy, bread, cake, candy]
 
 ### [i am a food blog](/)
 
-[Subscribe](#)
+
 
 [https://instagram.com/iamafoodblog](https://instagram.com/iamafoodblog) [https://pinterest.com/iamafoodblog](https://pinterest.com/iamafoodblog) [https://facebook.com/iamafoodblog](https://facebook.com/iamafoodblog) [https://www.bloglovin.com/blog/3494862](https://www.bloglovin.com/blog/3494862)
 
@@ -39,7 +39,7 @@ labels: [meat, fish, dairy, bread, cake, candy]
 [Recipes](/category/recipes) → [baking](/category/baking) →
  How to Make Japanese Soufflé Creme Brûlée Pancakes
 
-[Jump to recipe](javascript:void(0))
+)
 
 [baking](https://iamafoodblog.com/category/recipes/baking/)/[breakfast](https://iamafoodblog.com/category/recipes/sunday-brunch/breakfast/)/[brunch](https://iamafoodblog.com/category/recipes/sunday-brunch/)/[how to](https://iamafoodblog.com/category/recipes/cooking/how-to/)/[japanese food](https://iamafoodblog.com/category/recipes/cuisines/japanese-food/)/[recipes](https://iamafoodblog.com/category/recipes/)/[sweets](https://iamafoodblog.com/category/recipes/baking/sweets/)
 
@@ -118,7 +118,7 @@ Hope you get to give this a try and don’t forget to check out the [basic souff
 >
 > Once the pancakes are golden and cooked through, gently remove and pile onto a plate. Spoon the creme sauce on top and sprinkle generously with sugar. Use a cooking torch to brûlée and enjoy immediately.
 
-[](javascript:void(0)) [](/cdn-cgi/l/email-protection#) [](http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fiamafoodblog.com%2Ffeed%2F) [](javascript:void(0)) [](https://iamafoodblog.com/feed/)
+) [](/cdn-cgi/l/email-protection#) [](http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fiamafoodblog.com%2Ffeed%2F) ) [](https://iamafoodblog.com/feed/)
 
 ### 14 Comments
 

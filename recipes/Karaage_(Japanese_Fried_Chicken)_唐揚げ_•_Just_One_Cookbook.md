@@ -18,7 +18,7 @@ labels: [meat, cake]
   414 Reviews
 
 - [375 comments](https://www.justonecookbook.com/karaage/#comments)
-- [Jump to Recipe](#recipe)
+- 
 - [Jump to Video](#recipe-video)
 
 [![Namiko Hirasawa Chen](https://cdn.justonecookbook.com/spai/q_glossy+ret_img+to_auto/www.justonecookbook.com/wp-content/uploads/2025/07/namiko-small.jpg)](https://www.justonecookbook.com/about/namiko-hirasawa-chen/)
@@ -66,7 +66,7 @@ If you’re craving more fried chicken, try my [Fried Chicken Wings](https://www
 
 *Find the **printable recipe** with measurements below.*
 
-[Jump to Recipe](#wprm-recipe-container-59256)
+
 
 ### Substitutions
 
@@ -186,7 +186,7 @@ by [Namiko Hirasawa Chen](https://www.justonecookbook.com/about/namiko-hirasawa-
 
 *Karaage* (Japanese Fried Chicken) is easily one of the greatest types of fried chicken in the world. It’s exceptionally flavorful, juicy, ultra-crispy, and absolutely worth hanging out at the stove for! Learn the simple techniques and fry up some glorious chicken at home today.
 
-[Save](https://www.justonecookbook.com/joc-plus/recipe-collections/)[Saved](https://www.justonecookbook.com/joc-plus/recipe-collections/) [Pin](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.justonecookbook.com%2Fkaraage%2F&media=https%3A%2F%2Fwww.justonecookbook.com%2Fwp-content%2Fuploads%2F2025%2F04%2FKaraage-Japanese-Fried-Chicken-9515-I-1.jpg&description=Karaage+%28Japanese+Fried+Chicken%29&is_video=false) [Print](https://www.justonecookbook.com/wprm_print/karaage-japanese-fried-chicken) [Review](#comments)
+[Save](https://www.justonecookbook.com/joc-plus/recipe-collections/)[Saved](https://www.justonecookbook.com/joc-plus/recipe-collections/) [Pin](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.justonecookbook.com%2Fkaraage%2F&media=https%3A%2F%2Fwww.justonecookbook.com%2Fwp-content%2Fuploads%2F2025%2F04%2FKaraage-Japanese-Fried-Chicken-9515-I-1.jpg&description=Karaage+%28Japanese+Fried+Chicken%29&is_video=false)  [Review](#comments)
 
 Prep: 15 minutes mins
 

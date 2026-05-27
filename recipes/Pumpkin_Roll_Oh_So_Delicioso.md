@@ -121,7 +121,7 @@ The cake should be finished at the time the recipe calls for. If your oven bakes
 
 ### Make this recipe? Have questions?
 
-Please let me know if you make this classic pumpkin roll recipe!! I love to hear from those who make my recipes. If you want to keep up with our newest recipes, make sure you follow is on [Facebook](http://facebook.com/ohsodelicioso) and [Instagram,](http://instagram.com/ohsodelicioso)and make sure to [subscribe to our newsletter.](https://us3.list-manage.com/subscribe?u=2bb42a811d82ffde0a1e5b41e&id=be1dcf21bc)
+Please let me know if you make this classic pumpkin roll recipe!! I love to hear from those who make my recipes. If you want to keep up with our newest recipes, make sure you follow is on [Facebook](http://facebook.com/ohsodelicioso) and [Instagram,](http://instagram.com/ohsodelicioso)and make sure to 
 
 
 

@@ -18,5 +18,5 @@ labels: [bread]
 
 ## Instructions
 
-On Fri, 5 Feb 2021, 12:57 Avraham Ben Emanuel, \<<avraham.benemanuel@gmail.com>\> wrote:  
+On Fri, 5 Feb 2021, 12:57 Avraham Ben Emanuel, \<\> wrote:  
 > <https://vanillaandbean.com/sourdough-pizza-crust/>

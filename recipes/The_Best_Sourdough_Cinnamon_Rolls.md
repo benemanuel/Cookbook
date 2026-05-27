@@ -19,7 +19,7 @@ labels: [bread]
 ## Instructions
 
 \-\-\-\-\-\-\-\-\-\- Forwarded message \-\-\-\-\-\-\-\-\-  
-From: **Avraham Ben Emanuel** \<<avraham.benemanuel@gmail.com>\>  
+From: **Avraham Ben Emanuel** \<\>  
 Date: Sat, Apr 15, 2023, 11:41  
 Subject: The Best Sourdough Cinnamon Rolls  
-To: Avraham Ben Emanuel \<<avraham.benemanuel@gmail.com>\>
+To: Avraham Ben Emanuel \<\>

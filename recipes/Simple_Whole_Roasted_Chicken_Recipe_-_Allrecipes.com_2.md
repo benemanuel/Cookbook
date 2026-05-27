@@ -10,10 +10,10 @@ labels: [meat]
 # Fwd: Simple Whole Roasted Chicken Recipe - Allrecipes.com
 
 \-\-\-\-\-\-\-\-\-\- Forwarded message \-\-\-\-\-\-\-\-\-  
-From: **benemanuel family** \<<benemanuel.family@gmail.com>\>  
+From: **benemanuel family** \<\>  
 Date: Sun, Oct 27, 2019, 7:33 PM  
 Subject: Re: Simple Whole Roasted Chicken Recipe \- Allrecipes.com  
-To: \<<benemanuel.family@gmail.com>\>  
+To: \<\>  
 
 
 ### Simple Whole Roasted Chicken
@@ -91,5 +91,5 @@ Yield:
   Roast 15 minutes in the preheated oven. Reduce heat to 450 degrees F (230 degrees C), and continue roasting 15 minutes. Baste chicken with pan drippings, reduce heat to 425 degrees F (220 degrees C), and continue roasting 30 minutes, to an internal temperature of 180 degrees F (85 degrees C). Let stand 20 minutes before serving.
 
 
-On Sat, Nov 25, 2017, 4:03 PM Avraham Ben Emanuel \<<avraham.benemanuel@gmail.com>\> wrote:  
+On Sat, Nov 25, 2017, 4:03 PM Avraham Ben Emanuel \<\> wrote:  
 > <[link]

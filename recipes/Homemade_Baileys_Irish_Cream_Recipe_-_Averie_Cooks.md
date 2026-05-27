@@ -29,7 +29,7 @@ labels: [meat, dairy, cake]
 
 Updated: Oct 14, 2024
 
-[JUMP to RECIPE ▼](#wprm-recipe-container-66427)
+
 
 [This post may contain affiliate links.](https://www.averiecooks.com/privacy-policy/)
 

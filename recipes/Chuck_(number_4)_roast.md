@@ -199,7 +199,7 @@ Recipe Author: [Isabel Laessig](https://sundaysuppermovement.com/isabel-laessig/
 
 My Beef Chuck Roast is braised slowly to create a wonderfully tender and flavorful beef dinner your family will devour!
 
-[ Print Recipe](https://sundaysuppermovement.com/wprm_print/beef-chuck-roast-recipe) [ Pin Recipe](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fsundaysuppermovement.com%2Fbeef-chuck-roast-recipe%2F&media=https%3A%2F%2Fsundaysuppermovement.com%2Fwp-content%2Fuploads%2F2024%2F06%2Fbeef-chuck-roast-pin.jpg&description=Beef+Chuck+Roast+Recipe&is_video=false) [Share on Facebook](https://www.facebook.com/share.php?u=https%3A%2F%2Fsundaysuppermovement.com%2Fbeef-chuck-roast-recipe%2F)
+[ Print Recipe](https://sundaysuppermovement.com/wprm_print/beef-chuck-roast-recipe) [ Pin Recipe](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fsundaysuppermovement.com%2Fbeef-chuck-roast-recipe%2F&media=https%3A%2F%2Fsundaysuppermovement.com%2Fwp-content%2Fuploads%2F2024%2F06%2Fbeef-chuck-roast-pin.jpg&description=Beef+Chuck+Roast+Recipe&is_video=false) 
 
 Prep Time 15 minutes mins
 
@@ -303,11 +303,11 @@ salt and pepper to taste
 
 Serving: 1servingCalories: 316kcalCarbohydrates: 10gProtein: 24gFat: 17gSaturated Fat: 8gCholesterol: 85mgSodium: 245mgPotassium: 821mgFiber: 2gSugar: 2gVitamin A: 5265IUVitamin C: 8mgCalcium: 57mgIron: 4.2mg
 
-[Share](http://www.facebook.com/share.php?u=https%3A%2F%2Fsundaysuppermovement.com%2Fbeef-chuck-roast-recipe%2F)
+
 
 [Pin](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fsundaysuppermovement.com%2Fbeef-chuck-roast-recipe%2F&media=https%3A%2F%2Fsundaysuppermovement.com%2Fwp-content%2Fuploads%2F2024%2F06%2Fbeef-chuck-roast-pin.jpg&description=This%20Beef%20Chuck%20Roast%20Recipe%20is%20the%20easiest%20and%20most%20deliciously%20moist%20pot%20roast%20you%20will%20ever%20eat%21%20Deeply%20flavorful%20and%20fork-tender%2C%20this%20is%20our%20best%20chuck%20roast%20recipe%20with%20so%20much%20to%20offer.%20%23SundaySupper%20%23beefchuckroast%20%23beefroast%20%23chuckroast%20%23chuckroastrecipes%20%23easyrecipes%20%23dinners%20via%20%40thesundaysupper)
 
-[Share](<http://reddit.com/submit?url=https%3A%2F%2Fsundaysuppermovement.com%2Fbeef-chuck-roast-recipe%2F&title=Beef Chuck Roast Recipe>)
+
 
 « [Fresh Peach Mango Salsa Recipe](https://sundaysuppermovement.com/peach-mango-salsa/)
 

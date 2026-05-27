@@ -21,7 +21,7 @@ Whole dates are best for this homemade larabars recipe, but if prechopped dates 
 *  Makes 6 bars
 
 
-[PRINT RECIPE](http://leitesculinaria.com/88638/recipes-homemade-larabars.html/print)[METRIC CONVERSION](https://17374-presscdn-0-15-pagely.netdna-ssl.com/wp-content/themes/leitesv3/lib/conversions.html)[image: https://17374\-presscdn\-0\-15\-pagely.netdna\-ssl.com/wp\-content/uploads/2014/01/power\-hungry\-cookbook.jpg Buy the Power Hungry cookbook](http://www.amazon.com/exec/obidos/ASIN/189110554X/leitesculinari "")
+[METRIC CONVERSION](https://17374-presscdn-0-15-pagely.netdna-ssl.com/wp-content/themes/leitesv3/lib/conversions.html)[image: https://17374\-presscdn\-0\-15\-pagely.netdna\-ssl.com/wp\-content/uploads/2014/01/power\-hungry\-cookbook.jpg Buy the Power Hungry cookbook](http://www.amazon.com/exec/obidos/ASIN/189110554X/leitesculinari "")
 
 Want it? Click it.
 

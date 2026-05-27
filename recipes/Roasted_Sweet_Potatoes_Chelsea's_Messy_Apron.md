@@ -104,7 +104,7 @@ Tap stars to rate!
 
 ![](https://www.chelseasmessyapron.com/wp-content/uploads/2019/02/Roasted-Sweet-Potatoes-1-300x300.jpg)
 
-[Save](#)[Saved](#) [Pin](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.chelseasmessyapron.com%2Froasted-sweet-potatoes%2F&media=https%3A%2F%2Fwww.chelseasmessyapron.com%2Fwp-content%2Fuploads%2F2019%2F02%2FRoasted-Sweet-Potatoes-1.jpg&description=Roasted+Sweet+Potatoes&is_video=false) [Print](https://www.chelseasmessyapron.com/wprm_print/roasted-sweet-potatoes)
+[Save](#)[Saved](#) [Pin](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.chelseasmessyapron.com%2Froasted-sweet-potatoes%2F&media=https%3A%2F%2Fwww.chelseasmessyapron.com%2Fwp-content%2Fuploads%2F2019%2F02%2FRoasted-Sweet-Potatoes-1.jpg&description=Roasted+Sweet+Potatoes&is_video=false) 
 
 ### Roasted Sweet Potatoes
 

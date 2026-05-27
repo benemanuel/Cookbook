@@ -11,7 +11,7 @@ labels: [dairy, bread]
 
 ### How to make Vegan Bechamel Sauce
 
-[★★★★★5 from 1 reviews](https://www.foodbymaria.com/2020/01/20/how-to-make-vegan-bechamel-sauce/#respond)
+
 
 * Author: Maria Koutsogiannis
 * ![](https://www.foodbymaria.com/wp-content/plugins/tasty-recipes/templates/designs/fresh/images/icon-clock-gray.png) Prep Time: 5 minutes

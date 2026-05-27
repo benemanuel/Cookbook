@@ -22,7 +22,7 @@ labels: [dairy, cake]
 
 ## Milk Bar Crack Pie
 
-[Jump to Recipe](#recipe)
+
 
  *by* [Haley](/about/) // November 8, 2016 *(updated September 25, 2024)*
 

@@ -129,7 +129,7 @@ Servings 6 servings
 
 This Hungarian goulash recipe features tender beef and veggies in a tomato-based broth seasoned with paprika.
 
-[Save](https://www.spendwithpennies.com/saved-recipes/)[Saved](https://www.spendwithpennies.com/saved-recipes/) [Rate](#commentform) [Print](https://www.spendwithpennies.com/wprm_print/hungarian-goulash)
+[Save](https://www.spendwithpennies.com/saved-recipes/)[Saved](https://www.spendwithpennies.com/saved-recipes/) [Rate](#commentform) 
 
 
 

@@ -129,7 +129,7 @@ Olive Oil
 
 
 
-Sorry, you need to accept cookies from Spotify to view this
+
  content.
 
 [Open privacy settings](#)

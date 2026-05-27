@@ -33,7 +33,7 @@ Product Information
 
 ![](/-/media/project/oneweb/oneweb/icons/print-herdez.png?h=36&amp;iar=0&amp;w=37&amp;rev=-1&amp;hash=8F22E1434B5056AAED4EFC7C7423DE57)
 
-![share-organge](/-/media/project/oneweb/oneweb/icons/share-organge.png?h=36&amp;iar=0&amp;w=37&amp;rev=5677456936aa45ac98c45ee0a007060f&amp;hash=64AEA271A3897B6AB2D32D51535320AD)
+!
 
 ![wishlist-orange](/-/media/project/oneweb/oneweb/icons/wishlist-orange.png?rev=7e9bf3a3ffe14ea8bbd729de88751f5c&amp;vd=20250123T180331Z&amp;extension=webp&amp;hash=BE465E298941A1E176E578EF5E63C117)
 

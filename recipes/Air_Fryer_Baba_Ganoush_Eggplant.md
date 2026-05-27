@@ -1,10 +1,12 @@
 ---
-subject: "Air Fryer Baba Ganoush Eggplant"
-from: "benemanuel family <benemanuel.family@gmail.com>"
-to: "benemanuel family <benemanuel.family@gmail.com>"
-date: "Mon, 26 Aug 2024 14:02:06 +0300"
+subject: Air Fryer Baba Ganoush Eggplant
+from: benemanuel family <benemanuel.family@gmail.com>
+to: benemanuel family <benemanuel.family@gmail.com>
+date: Mon, 26 Aug 2024 14:02:06 +0300
 date_parsed: 2024-08-26T14:02:06+03:00
-labels: [dairy]
+labels:
+  - dairy
+  - vegetable
 ---
 
 # Air Fryer Baba Ganoush Eggplant

@@ -29,10 +29,10 @@ Updated on April 19, 2024
 
 96% would make again
 
-- [Share via facebook](https://www.facebook.com/dialog/share?href=https%3A%2F%2Ftasty.co%2Frecipe%2Fthe-best-fudgy-brownies&app_id=1060852764021442)
-- [Share via pinterest](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Ftasty.co%2Frecipe%2Fthe-best-fudgy-brownies&description=The%20Best%20Fudgy%20Brownies&media=https%3A%2F%2Fimg.buzzfeed.com%2Fvideo-api-prod%2Fassets%2Ffafe8090b4f3434f80c33b6e4ce40e24%2FBFV21539_BestFudgyBrownies-ThumbB1080.jpg)
-- [Share via email](<mailto:?subject=The Best Fudgy Brownies&body=https://tasty.co/recipe/the-best-fudgy-brownies>)
-- [Share via sms](<sms:?&body=The Best Fudgy Brownies - https://tasty.co/recipe/the-best-fudgy-brownies>)
+- 
+- 
+- 
+- 
 - Print
 
 ##### Total Time

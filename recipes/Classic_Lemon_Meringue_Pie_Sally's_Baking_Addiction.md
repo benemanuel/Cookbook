@@ -64,7 +64,7 @@ Meringue can be tricky, but you’re a baker and you can absolutely handle this.
 
 **Craving something smaller?** Here is my [lemon bars](https://sallysbakingaddiction.com/lemon-bars-recipe/) recipe. Or, if you’re a lemon dessert lover, check out our top favorites in the [The Lemon Dessert Collection](https://sallysbakingaddiction.com/lemon-desserts/).
 
- [Print](https://sallysbakingaddiction.com/lemon-meringue-pie/print/66954/)
+ 
 
 
 

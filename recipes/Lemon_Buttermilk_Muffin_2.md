@@ -13,7 +13,7 @@ labels: [dairy, cake]
 
 ## Instructions
 
-On Tue, Jul 8, 2025, 18:54 benemanuel family \<<benemanuel.family@gmail.com>\> wrote:  
+On Tue, Jul 8, 2025, 18:54 benemanuel family \<\> wrote:  
 > 🍋 Lemon Buttermilk Muffins (with Greek Yogurt \& Honey)
 >
 >

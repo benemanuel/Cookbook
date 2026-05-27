@@ -15,7 +15,7 @@ Easy\-to\-make Korean\-inspired Gochujang sauce that’s vegan, gluten\-free, na
 
 AuthorMinimalist Baker
 
-[PRINT](https://minimalistbaker.com/wprm_print/recipe/34162)
+
 
 ![Using a spoon to smooth the top of a bowl of Korean-Inspired homemade Gochujang sauce](https://minimalistbaker.com/wp-content/uploads/2018/02/Gochujang-SQUARE-200x200.jpg)
 

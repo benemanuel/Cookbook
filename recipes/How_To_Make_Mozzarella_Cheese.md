@@ -14,10 +14,10 @@ labels: [dairy]
 ## Instructions
 
 \-\-\-\-\-\-\-\-\-\- Forwarded message \-\-\-\-\-\-\-\-\-  
-From: Avi Benemanuel \<<avi@jct.ac.il>\>  
+From: Avi Benemanuel \<\>  
 Date: Sat, Dec 23, 2017 at 8:10 PM  
 Subject: How To Make Mozzarella Cheese  
-To: Avraham Ben Emanuel \<<avraham.benemanuel@gmail.com>\>  
+To: Avraham Ben Emanuel \<\>  
 
 
 <https://youtu.be/Est1M9WyDu8>

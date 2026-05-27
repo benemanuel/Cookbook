@@ -20,7 +20,7 @@ Rate this recipe!
 
 4\.96 from 231 votes
 
-[](https://littlespoonfarm.com/soft-sourdough-pretzels-recipe/comment-page-18/#)[SAVE](https://littlespoonfarm.com/soft-sourdough-pretzels-recipe/comment-page-18/#)[](https://littlespoonfarm.com/wprm_print/soft-sourdough-pretzels-recipe)[Print](https://littlespoonfarm.com/wprm_print/soft-sourdough-pretzels-recipe)[](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Flittlespoonfarm.com%2Fsoft-sourdough-pretzels-recipe%2F&media=https%3A%2F%2Flittlespoonfarm.com%2Fwp-content%2Fuploads%2F2024%2F04%2FSourdough-Pretzels-Recipe-1.jpeg&description=Soft+Sourdough+Pretzels+Recipe&is_video=false)
+[](https://littlespoonfarm.com/soft-sourdough-pretzels-recipe/comment-page-18/#)[SAVE](https://littlespoonfarm.com/soft-sourdough-pretzels-recipe/comment-page-18/#)[](https://littlespoonfarm.com/wprm_print/soft-sourdough-pretzels-recipe)[](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Flittlespoonfarm.com%2Fsoft-sourdough-pretzels-recipe%2F&media=https%3A%2F%2Flittlespoonfarm.com%2Fwp-content%2Fuploads%2F2024%2F04%2FSourdough-Pretzels-Recipe-1.jpeg&description=Soft+Sourdough+Pretzels+Recipe&is_video=false)
 
 [Pin Recipe](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Flittlespoonfarm.com%2Fsoft-sourdough-pretzels-recipe%2F&media=https%3A%2F%2Flittlespoonfarm.com%2Fwp-content%2Fuploads%2F2024%2F04%2FSourdough-Pretzels-Recipe-1.jpeg&description=Soft+Sourdough+Pretzels+Recipe&is_video=false)
 

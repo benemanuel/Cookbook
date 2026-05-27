@@ -45,7 +45,7 @@ RECIPES
 
 [- Gluten Free](https://www.dianekochilas.com/category/recipes/special-diets/gluten-free-special-diets/)[- Salads](https://www.dianekochilas.com/category/recipes/course/greek-salads/)[- Vegan](https://www.dianekochilas.com/category/recipes/special-diets/vegan-recipes/)[- Vegetables](https://www.dianekochilas.com/category/recipes/main-ingredient/greek-vegetables/)[- Yogurt](https://www.dianekochilas.com/category/recipes/main-ingredient/yogurt-recipes/)
 
-[Print Recipe](https://www.dianekochilas.com/wprm_print/beet-walnut-yogurt-salad)
+
 
 ## Ingredients
 

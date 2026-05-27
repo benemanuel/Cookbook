@@ -17,7 +17,7 @@ labels: [meat, fish, dairy, bread]
 
 [Pin](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.melissassouthernstylekitchen.com%2Fbeer-battered-onion-rings%2F&description=Crispy%20Beer%20Battered%20Onion%20Rings%20are%20a%20crowd-pleasing%20appetizer%20and%20an%20easy%20side%20dish%20for%20burgers%2C%20sandwiches%2C%20steaks%2C%20and%20more.%20%23onionrings%20%23deepfriedonionrings%20%23beerbatteredonionrings%20%23beer%20%23beerbatter%20%23onions%20%23appetizers%20%23partyfood%20%23footballfood%20%23sidedish%20%23southernfood%20%23southernrecipes%20via%20%40melissasssk)
 
-[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.melissassouthernstylekitchen.com%2Fbeer-battered-onion-rings%2F)
+
 
 [Email](mailto:?Subject=Beer%20Battered%20Onion%20Rings&Body=I%20saw%20this%20and%20thought%20of%20you%21%20https%3A%2F%2Fwww.melissassouthernstylekitchen.com%2Fbeer-battered-onion-rings%2F)
 
@@ -206,7 +206,7 @@ Serving: 1serving | Calories: 540kcal | Carbohydrates: 42g | Protein: 7g | Fat: 
 
 [Pin](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.melissassouthernstylekitchen.com%2Fbeer-battered-onion-rings%2F&description=Crispy%20Beer%20Battered%20Onion%20Rings%20are%20a%20crowd-pleasing%20appetizer%20and%20an%20easy%20side%20dish%20for%20burgers%2C%20sandwiches%2C%20steaks%2C%20and%20more.%20%23onionrings%20%23deepfriedonionrings%20%23beerbatteredonionrings%20%23beer%20%23beerbatter%20%23onions%20%23appetizers%20%23partyfood%20%23footballfood%20%23sidedish%20%23southernfood%20%23southernrecipes%20via%20%40melissasssk)
 
-[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.melissassouthernstylekitchen.com%2Fbeer-battered-onion-rings%2F)
+
 
 [Email](mailto:?Subject=Beer%20Battered%20Onion%20Rings&Body=I%20saw%20this%20and%20thought%20of%20you%21%20https%3A%2F%2Fwww.melissassouthernstylekitchen.com%2Fbeer-battered-onion-rings%2F)
 

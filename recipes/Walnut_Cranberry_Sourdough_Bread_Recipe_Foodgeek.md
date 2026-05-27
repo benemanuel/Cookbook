@@ -19,7 +19,7 @@ Cranberry walnut bread is a staple in the American kitchen. It’s a delicious c
 
 If you are just here for the recipe, you can press the button underneath to be automagically transported to the recipe:
 
-[Jump to Recipe](#wprm-recipe-container-41075) [Jump to Video](#wprm-recipe-video-container-41075)
+ [Jump to Video](#wprm-recipe-video-container-41075)
 
 ![cross cut of this walnut cranberry sourdough bread with bourbon soaked cranberries and toasted walnuts in the crumb](https://foodgeek.dk/wp-content/uploads/2021/08/F31A7872-820x547.jpg)
 
@@ -113,9 +113,9 @@ This is my recipe for walnut cranberry sourdough bread. If you like the recipe p
 
 If you make it and post it on Instagram, please tag me as [@foodgeek.dk](https://instagram.com/foodgeek.dk) so I can see it. That would make me very happy.
 
-- [ Share on Twitter](javascript:void(0) "Share on Twitter")
-- [ Share on Facebook](javascript:void(0) "Share on Facebook")
-- [ Share on Pinterest](javascript:void(0) "Share on Pinterest")
+-  "Share on Twitter")
+-  "Share on Facebook")
+-  "Share on Pinterest")
 - [ Share via Email](/cdn-cgi/l/email-protection# "Share via Email")
 
 Cook Mode

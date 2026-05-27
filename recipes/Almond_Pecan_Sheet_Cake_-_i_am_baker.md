@@ -102,7 +102,7 @@ Total Time 35 minutes mins
 
 If you love sheet cakes you are going to LOVE this one!
 
-[Save](#)[Saved!](#) [Print](https://iambaker.net/wprm_print/almond-pecan-sheet-cake) [Rate](#comment) [Comment](#comment)
+[Save](#)[Saved!](#)  [Rate](#comment) [Comment](#comment)
 
 ### Ingredients
 

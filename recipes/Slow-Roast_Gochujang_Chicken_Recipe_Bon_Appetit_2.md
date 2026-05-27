@@ -13,7 +13,7 @@ labels: [meat]
 
 AuthorMinimalist Baker
 
-[PRINT](https://minimalistbaker.com/wprm_print/recipe/34162)
+
 
 ![Using a spoon to smooth the top of a bowl of Korean-Inspired homemade Gochujang sauce](https://ci5.googleusercontent.com/proxy/Y7r3M-Zd70bIP6NLbUEfhRi7WPkNWUvaBaN2LWDwg5QbE7BKU53036w7VMy6pK7hISWmLcjxiQ_qgPn8fe2JHlO5evkobo1GxsSyWEs7X0J-bQuUXjWDrZGlS-McoOoVo33BPqvz=s0-d-e1-ft#https://minimalistbaker.com/wp-content/uploads/2018/02/Gochujang-SQUARE-200x200.jpg)
 

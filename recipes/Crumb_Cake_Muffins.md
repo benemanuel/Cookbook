@@ -13,7 +13,7 @@ labels: [dairy, cake]
 
 ---
 
-[Jump to Recipe](#wprm-recipe-container-34760)[Pin Recipe](<https://pinterest.com/pin/create/button/?url=https://thefirstyearblog.com/coffee-cake-muffins/&media=https://thefirstyearblog.com/wp-content/uploads/2023/05/Coffee-Cake-Muffins-June-2023-Pin-1.png&description=Want to make absolutely perfect coffee cake muffins that rival any professional bakery? I spent 6 months testing and perfecting muffin recipes so I could teach you the exact, easy to follow steps to coffee cake muffin perfection! > "Share on Pinterest")
+[Pin Recipe](<https://pinterest.com/pin/create/button/?url=https://thefirstyearblog.com/coffee-cake-muffins/&media=https://thefirstyearblog.com/wp-content/uploads/2023/05/Coffee-Cake-Muffins-June-2023-Pin-1.png&description=Want to make absolutely perfect coffee cake muffins that rival any professional bakery? I spent 6 months testing and perfecting muffin recipes so I could teach you the exact, easy to follow steps to coffee cake muffin perfection! > "Share on Pinterest")
 
 This post may contain affiliate links. Please read our [disclosure policy](https://thefirstyearblog.com/privacy-policy/).
 
@@ -207,7 +207,7 @@ Total Time: 55 minutes minutes
 
 Servings: 11 muffins
 
-[Pin](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fthefirstyearblog.com%2Fcoffee-cake-muffins%2F&media=https%3A%2F%2Fthefirstyearblog.com%2Fwp-content%2Fuploads%2F2023%2F05%2FCoffee-Cake-Muffins-June-2023-Pin-5.png&description=Want+to+make+absolutely+perfect+coffee+cake+muffins+that+rival+any+professional+bakery%3F+I+spent+6+months+testing+and+perfecting+muffin+recipes+so+I+could+teach+you+the+exact%2C+easy+to+follow+steps+to+coffee+cake+muffin+perfection%21&is_video=false) [Rate](#commentform) [Print](https://thefirstyearblog.com/wprm_print/cinnamon-crumble-muffins)
+[Pin](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fthefirstyearblog.com%2Fcoffee-cake-muffins%2F&media=https%3A%2F%2Fthefirstyearblog.com%2Fwp-content%2Fuploads%2F2023%2F05%2FCoffee-Cake-Muffins-June-2023-Pin-5.png&description=Want+to+make+absolutely+perfect+coffee+cake+muffins+that+rival+any+professional+bakery%3F+I+spent+6+months+testing+and+perfecting+muffin+recipes+so+I+could+teach+you+the+exact%2C+easy+to+follow+steps+to+coffee+cake+muffin+perfection%21&is_video=false) [Rate](#commentform) 
 
 Want to make absolutely perfect coffee cake muffins that rival any professional bakery? I spent 6 months testing and perfecting muffin recipes so I could teach you the exact, easy to follow steps to coffee cake muffin perfection!
 

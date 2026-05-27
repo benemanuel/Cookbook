@@ -18,4 +18,4 @@ labels: [meat]
 
 ## Instructions
 
-On Fri, Nov 1, 2019, 12:10 PM Avraham Ben Emanuel \<<avraham.benemanuel@gmail.com>\> wrote:
+On Fri, Nov 1, 2019, 12:10 PM Avraham Ben Emanuel \<\> wrote:

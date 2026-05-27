@@ -81,7 +81,7 @@ Frankly I’m surprised at how well this turned out, it was a bit of a long-shot
 - [Facebook](https://summerfruitcup.wordpress.com/2011/07/01/quinine-free-tonic-recipe/?share=facebook)
 - [Email](mailto:?subject=%5BShared%20Post%5D%20Quinine-free%20Tonic%20Water%20Recipe&body=https%3A%2F%2Fsummerfruitcup.wordpress.com%2F2011%2F07%2F01%2Fquinine-free-tonic-recipe%2F&share=email)
 - [Reddit](https://summerfruitcup.wordpress.com/2011/07/01/quinine-free-tonic-recipe/?share=reddit)
-- [Print](https://summerfruitcup.wordpress.com/2011/07/01/quinine-free-tonic-recipe/#print?share=print)
+- 
 -
 
 Like Loading...

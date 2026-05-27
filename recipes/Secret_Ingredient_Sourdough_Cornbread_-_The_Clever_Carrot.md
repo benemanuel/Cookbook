@@ -15,7 +15,7 @@ labels: [dairy, bread, cake]
 
 [Home](https://www.theclevercarrot.com/) » [Sourdough Discard Recipes](https://www.theclevercarrot.com/category/sourdough-discard-recipes/)
 
-[Jump to Recipe](#tasty-recipes-27204-jump-target)
+
 
 **A perfectly moist, slightly sweet, fluffy* [sourdough discard](https://www.theclevercarrot.com/2020/10/sourdough-discard-101-recipes-faqs-answered-pancakes/)cornbread recipe with a hint of vanilla and coconut oil for depth of flavor. Make it a day ahead- it pairs well with soups and stews.*
 

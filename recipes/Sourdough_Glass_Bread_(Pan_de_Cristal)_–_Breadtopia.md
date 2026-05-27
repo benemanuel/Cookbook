@@ -20,7 +20,7 @@ labels: [bread]
 
 Glass bread, known as *pan de cristal* in Spanish and *pa de vidre* in Catalan, was developed in Barcelona, Spain around 2010 by the baker [Jordi Nomen](https://www.youtube.com/watch?v=kTzgIVNPfh4) of Concept Pa Bakery. This bread is a variation on the narrow, crusty bread that this region has long favored for its traditional tomato bread (more on that below). The distinction of glass bread is that the dough is quite wet and there is virtually no bready interior. The crumb should be mostly transparent (glass) webs of gluten.
 
-[[Jump to recipe](#recipe-title)]
+[]
 
 [![Picture of sliced artisan bread sandwich.](https://breadtopia.com/wp-content/uploads/2022/04/20220414_145402-Copy.jpg)](https://breadtopia.com/wp-content/uploads/2022/04/20220414_145402-Copy.jpg)
 
@@ -64,7 +64,7 @@ Here’s a video showing how to make it with one of my test batches of glass bre
 
 ### Sourdough Glass Bread (Pan de Cristal)
 
-[![Print this recipe](https://breadtopia.com/wp-content/plugins/zip-recipes//images/print.png)](javascript:void(0); "Print this recipe")
+; "Print this recipe")
 
 ![sliced sourdough bread on wooden board](https://breadtopia.com/wp-content/uploads/2022/04/20220412_131112-Copy-800x600.jpg)
 

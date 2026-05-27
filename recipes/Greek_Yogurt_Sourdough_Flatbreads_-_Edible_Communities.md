@@ -86,7 +86,7 @@ Excerpted with permission from [Artisan Sourdough Made Simple](https://www.amazo
 
 [Pin893](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fediblecommunities.com%2Frecipes%2Fskillet-greek-yogurt-sourdough-flatbreads%2F)
 
-[Share](https://www.facebook.com/share.php?u=https%3A%2F%2Fediblecommunities.com%2Frecipes%2Fskillet-greek-yogurt-sourdough-flatbreads%2F)
+
 
 [Email](<mailto:?subject=Greek%20Yogurt%20Sourdough%20Flatbreads&body=Leftover%20sourdough%20starter%20paired%20with%20tangy%20Greek%20yogurt%20creates%20the%20best%20homemade%20flatbreads.%20They%20are%20delightfully%20soft%2C%20and%20you%20won%E2%80%99t%20get%20over%20how%20easy%20they%20are%20to%20make.%20As%20the%20name%20suggests%2C%20flatbreads%20do%20not%20need%20to%20rise.%20But%20the%20dough%20does%20need%20to%20rest%20for%20about%20an%20hour%2C%20so%20it%E2%80%99s%20easier%20to%20roll.%20These%20flatbreads%20freeze%20beautifully.%20Wondering%20how%20you%20can%20be%20lucky%20enough%20to%20have%20%22leftover%20sourdough%20starter%22%3F%20See%20how%20to%20make%20a%20sourdough%20starter%20to%20get...%20started.%20Greek%20Yogurt%20Sourdough%20Flatbreads%20Leftover%20sourdough%20starter%20paired%20with%20tangy%20Greek%20yogurt%20creates%20the%20best%20homemade%20flatbreads.%202%C2%BD%20cups%20%2F300%0D%0A%0D%0ARead More Here: %20https%3A%2F%2Fediblecommunities.com%2Frecipes%2Fskillet-greek-yogurt-sourdough-flatbreads%2F>)
 

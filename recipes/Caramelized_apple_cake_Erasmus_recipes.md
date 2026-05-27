@@ -105,7 +105,7 @@ Until next time, cheers to you all!
 
 ---
 
-[♥ Like (*1*)](#login_popup) [Tweet it →](https://twitter.com/share?original_referer=https%3A%2F%2Ferasmusu.com%2Fen%2Ferasmus-blog%2Ferasmus-recipes%2Fcaramelized-apple-cake-778185&text=Caramelized+apple+cake%2C+N%2FA+%23erasmus+%23N%2FA&url=https%3A%2F%2Ferasmusu.com%2Fen%2Ferasmus-blog%2Ferasmus-recipes%2Fcaramelized-apple-cake-778185&via=erasmusu) [Share on Facebook →](https://www.facebook.com/sharer.php?u=https%3A%2F%2Ferasmusu.com%2Fen%2Ferasmus-blog%2Ferasmus-recipes%2Fcaramelized-apple-cake-778185&t=Caramelized+apple+cake&src=sp)
+[♥ Like (*1*)](#login_popup)  
 
 ---
 
@@ -167,7 +167,7 @@ Don’t have an account? **[Sign up](https://erasmusu.com/en/register)**.
 - [Instagram](https://www.instagram.com/erasmusu/) New!
 - [Erasmusu blog](https://erasmusu.com/en/erasmus-blog/erasmusu-blog)
 - [Terms of use](https://erasmusu.com/en/legal)
-- [Privacy and Cookie Policy](https://erasmusu.com/en/legal#section-13)
+
 
 ##### Languages available
 

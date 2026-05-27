@@ -26,7 +26,7 @@ May 23, 2019 *(updated* Aug 7, 2024*)* *by* [Jennifer McHenry](https://bakeorbre
 
 [71 Comments](https://bakeorbreak.com/2019/05/jacques-torres-chocolate-chip-cookies/#comments)
 
-[Jump to Recipe](#recipe)
+
 
 
 
@@ -154,7 +154,7 @@ Total Time: 3 days days 50 minutes minutes
 
 Jacques Torres Chocolate Chip Cookies may be a bit fussy to make, but they’re just so, so good!
 
-[Print Recipe](https://bakeorbreak.com/wprm_print/jacques-torres-chocolate-chip-cookies) [Pin Recipe](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fbakeorbreak.com%2F2019%2F05%2Fjacques-torres-chocolate-chip-cookies%2F&media=https%3A%2F%2Fbakeorbreak.com%2Fwp-content%2Fuploads%2F2019%2F05%2Fjacques_torres_chocolate_chip_cookies53801k.jpg&description=Jacques+Torres+Chocolate+Chip+Cookies&is_video=false) [Leave a Review](#commentform)
+ [Pin Recipe](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fbakeorbreak.com%2F2019%2F05%2Fjacques-torres-chocolate-chip-cookies%2F&media=https%3A%2F%2Fbakeorbreak.com%2Fwp-content%2Fuploads%2F2019%2F05%2Fjacques_torres_chocolate_chip_cookies53801k.jpg&description=Jacques+Torres+Chocolate+Chip+Cookies&is_video=false) [Leave a Review](#commentform)
 
 ### Ingredients
 

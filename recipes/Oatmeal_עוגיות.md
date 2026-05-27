@@ -14,10 +14,10 @@ labels: [dairy, cake]
 ## Instructions
 
 \-\-\-\-\-\-\-\-\-\- Forwarded message \-\-\-\-\-\-\-\-\-  
-From: **Avraham Ben Emanuel** \<<avraham.benemanuel@gmail.com>\>  
+From: **Avraham Ben Emanuel** \<\>  
 Date: Tue, Mar 14, 2017, 20:59  
 ‪Subject: Oatmeal עוגיות‬  
-To: Avi Ben Emanuel \<<avi.wollman@gmail.com>\>  
+To: Avi Ben Emanuel \<\>  
 
 
 המצרכים  \* 1 כוס קמח  \* 3 / 4 כפית אבקת אפייה  \* 1 / 2 כפית סודה לשתיה  \* 200 ג"ר חמאה  \* 1 כוס סוכר  \* 1 / 4 כוס סוכר חום בהיר  \* 1 ביצה גדולה  \* 1 כפית תמצית וניל  \* 2 1 / 2 כוסות שיבולת שועל ( לא מיידית)  

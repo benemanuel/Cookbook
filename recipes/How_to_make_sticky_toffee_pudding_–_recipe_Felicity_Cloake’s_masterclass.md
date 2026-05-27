@@ -130,6 +130,6 @@ Explore more on these topics
 - [Dessert](/food/dessert)
 - [features](/tone/features)
 
-[Share SVG Image](<mailto:?subject=How to make sticky toffee pudding – recipe | Felicity Cloake’s masterclass&body=https://www.theguardian.com/food/2019/feb/27/sticky-toffee-pudding-recipe-felicity-cloake-masterclass?CMP=share_btn_url>)
+
 
 [Reuse this content](https://syndication.theguardian.com/?url=https%3A%2F%2Fwww.theguardian.com%2Ffood%2F2019%2Ffeb%2F27%2Fsticky-toffee-pudding-recipe-felicity-cloake-masterclass&type=article&internalpagecode=food/2019/feb/27/sticky-toffee-pudding-recipe-felicity-cloake-masterclass "Reuse this content")

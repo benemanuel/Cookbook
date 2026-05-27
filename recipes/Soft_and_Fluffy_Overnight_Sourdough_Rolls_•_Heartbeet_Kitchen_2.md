@@ -18,5 +18,5 @@ labels: [bread]
 
 ## Instructions
 
-On Fri, 29 Jan 2021, 11:30 Avraham Ben Emanuel, \<<avraham.benemanuel@gmail.com>\> wrote:  
+On Fri, 29 Jan 2021, 11:30 Avraham Ben Emanuel, \<\> wrote:  
 > <https://heartbeetkitchen.com/soft-sourdough-rolls/>

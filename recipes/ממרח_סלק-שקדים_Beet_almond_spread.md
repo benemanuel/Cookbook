@@ -13,7 +13,7 @@ labels: []
 
 ## Instructions
 
-On Fri, Oct 13, 2023 at 11:50 AM benemanuel.family \<<benemanuel.family@gmail.com>\> wrote:  
+On Fri, Oct 13, 2023 at 11:50 AM benemanuel.family \<\> wrote:  
 > ממרח סלק\-שקדים – רכיבים:
 >
 >

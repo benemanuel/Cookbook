@@ -15,9 +15,9 @@ labels: [dairy, cake, candy]
 
 ![](https://www.mygreekdish.com/wp-content/uploads/2013/05/Galaktoboureko-Greek-Custard-Pie-with-Syrup1-750x480.jpg)
 
-[Tweet](<https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.mygreekdish.com%2Frecipe%2Fgalaktoboureko%2F&text=Traditional Greek Galaktoboureko recipe (Greek Custard Pie with Syrup)> "Tweet this on Twitter") [Share](<https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.mygreekdish.com%2Frecipe%2Fgalaktoboureko%2F&t=Traditional Greek Galaktoboureko recipe (Greek Custard Pie with Syrup)> "Share this on Facebook") [Pin It](<https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.mygreekdish.com%2Frecipe%2Fgalaktoboureko%2F&media=https://www.mygreekdish.com/wp-content/uploads/2013/05/Galaktoboureko-Greek-Custard-Pie-with-Syrup1.jpeg&description=Traditional Greek Galaktoboureko recipe (Greek Custard Pie with Syrup)> "Pin it to Pinterest")
+> "Tweet this on Twitter") > "Share this on Facebook") > "Pin it to Pinterest")
 
-[Jump to Recipe](#tasty-recipes-250079-jump-target)
+
 
 Golden crispy perfection! Have a bite of this amazing Galaktoboureko and let its delicious syrup flow in your mouth! Galaktoboureko is a traditional Greek dessert made with layers of **golden brown crispy phyllo**, sprinkled with melted **butter,** filled with the **most creamy custard** and bathed in **scented syrup**.. Simply amazing!
 
@@ -85,7 +85,7 @@ If you love a traditional syrupy greek desert, the below recipes are made for yo
 - [Samali – Semolina cake with mastic syrup](https://www.mygreekdish.com/recipe/samali-recipe-extra-syrupy-greek-semolina-cake/)
 - [Greek Honey cake (Melopita Sifnos)](https://www.mygreekdish.com/recipe/greek-honey-cake-melopita-sifnos/)
 
- [Print](https://www.mygreekdish.com/recipe/galaktoboureko/print/250079/)
+ 
 
 
 

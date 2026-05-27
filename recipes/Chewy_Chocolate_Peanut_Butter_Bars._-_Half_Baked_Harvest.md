@@ -137,7 +137,7 @@ Calories Per Serving: 259 kcal
 
 Nutritional information is only an estimate. The accuracy of the nutritional information for any recipe on this site is not guaranteed.
 
-[Save](https://www.halfbakedharvest.com/register/)[Print](https://halfbakedharvest.jupiter.shop/print?source=https://www.halfbakedharvest.com/chewy-chocolate-peanut-butter-bars/)[Email](mailto:?subject=Your%20friend%20has%20shared%20an%20article%20with%20you.&body=Chewy%20Chocolate%20Peanut%20Butter%20Bars.%0D%0Ahttps%3A%2F%2Fwww.halfbakedharvest.com%2Fchewy-chocolate-peanut-butter-bars%2F%0D%0A)
+[Save](https://www.halfbakedharvest.com/register/)[Email](mailto:?subject=Your%20friend%20has%20shared%20an%20article%20with%20you.&body=Chewy%20Chocolate%20Peanut%20Butter%20Bars.%0D%0Ahttps%3A%2F%2Fwww.halfbakedharvest.com%2Fchewy-chocolate-peanut-butter-bars%2F%0D%0A)
 
 ### Watch the How-To Reel
 

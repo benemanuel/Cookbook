@@ -142,6 +142,6 @@ Divide the rested dough into 4 parts. Roll out the dough on a floured piece of p
 
 <https://joepastry.com/2009/the_tradish_knish/>
 
-[![Print Friendly, PDF &amp; Email](https://cdn.printfriendly.com/buttons/printfriendly-button-lg.png)](# "Printer Friendly, PDF &amp; Email")
+[!](# "Printer Friendly, PDF &amp; Email")
 
 https://kosherfromjerusalem.com/wp-content/uploads/2020/12/IMG_1628-min.jpg 633 469 Debbie https://kosherfromjerusalem.com/wp-content/uploads/2018/03/Kosher-1-1-300x148.pngDebbie2020-12-14 17:26:172024-10-01 10:21:16Old Fashioned Potato Knishes

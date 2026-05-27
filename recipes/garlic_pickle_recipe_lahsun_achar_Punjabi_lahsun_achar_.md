@@ -242,9 +242,9 @@ Click here to view [Calories for Garlic Pickle ( Achaar Recipe )](/calories-for-
 
 The Nutrient info is complete
 
-- [![Share on WhatsApp](/static/frontend/img/icons/whatsapp.png)](<https://api.whatsapp.com/send?text=Garlic Pickle Recipe (Lahsun Achar)%20https://www.tarladalal.com//garlic-pickle--achaar-recipe--3435r>)
-- [![Share on Facebook](/static/frontend/img/icons/facebook.png)](https://www.facebook.com/sharer/sharer.php?u=https://www.tarladalal.com//garlic-pickle--achaar-recipe--3435r)
-- [![Share via Email](/static/frontend/img/icons/mail.png)](<mailto:?subject=Garlic Pickle Recipe (Lahsun Achar)&body=Check out this post: https://www.tarladalal.com//garlic-pickle--achaar-recipe--3435r>)
+- [!](<https://api.whatsapp.com/send?text=Garlic Pickle Recipe (Lahsun Achar)%20https://www.tarladalal.com//garlic-pickle--achaar-recipe--3435r>)
+- [!](https://www.facebook.com/sharer/sharer.php?u=https://www.tarladalal.com//garlic-pickle--achaar-recipe--3435r)
+- [!](<mailto:?subject=Garlic Pickle Recipe (Lahsun Achar)&body=Check out this post: https://www.tarladalal.com//garlic-pickle--achaar-recipe--3435r>)
 
 ![user](/static/frontend/img/user/com-user.png)
 

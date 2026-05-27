@@ -37,9 +37,9 @@ Save a recipe for later.
 
 [](https://cookpad.com/hu/receptek/1924486# "Close")
 
-[Share](https://cookpad.com/hu/receptek/1924486#)
 
-[Printing](https://cookpad.com/hu/recipes/1924486/print)
+
+
 
 [](https://cookpad.com/hu/receptek/1924486# "Show me all...")
 

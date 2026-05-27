@@ -18,7 +18,7 @@ labels: [meat]
 
 ## Instructions
 
-On Fri, Aug 23, 2019, 12:46 PM Avraham Ben Emanuel \<<avraham.benemanuel@gmail.com>\> wrote:  
+On Fri, Aug 23, 2019, 12:46 PM Avraham Ben Emanuel \<\> wrote:  
 > Link: <[link]
 >
 >

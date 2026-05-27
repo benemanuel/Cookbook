@@ -45,8 +45,8 @@ Table Of Contents
 4. [shop cardamom sourdough bread](#shop-cardamom-sourdough-bread)
 5. [more Sourdough recipes](#more-sourdough-recipes)
 6. [Homestead living – harvest edition free ebook](#homestead-living-harvest-edition-free-ebook)
-7. [Pin it – Cardamom Sourdough Bread recipe](#pin-it-cardamom-sourdough-bread-recipe)
-8. [Print the cardamom sourdough bread recipe](#print-the-cardamom-sourdough-bread-recipe)
+7. 
+8. 
 9. [Cardamom Sourdough Bread with Soaked Amaretto Raisins](#cardamom-sourdough-bread-with-soaked-amaretto-raisins)
 10. [about me](#about-me)
 

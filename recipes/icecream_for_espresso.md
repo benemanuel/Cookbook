@@ -19,7 +19,7 @@ labels: [dairy]
 ## Instructions
 
 \-\-\-\-\-\-\-\-\-\- Forwarded message \-\-\-\-\-\-\-\-\-  
-From: **Avraham Ben Emanuel** \<<avraham.benemanuel@gmail.com>\>  
+From: **Avraham Ben Emanuel** \<\>  
 Date: Thu, 5 Sep 2019, 12:41  
 Subject: icecream for espresso  
-To: Avraham Ben Emanuel \<<avraham.benemanuel@gmail.com>\>
+To: Avraham Ben Emanuel \<\>

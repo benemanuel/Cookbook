@@ -19,7 +19,7 @@ by [Elyse the Gluten-Free Foodee](https://glutenfreefoodee.com/author/elyse/) Ma
 
 March 10, 2025
 
- [JUMP TO RECIPE/TIPS](#penci-recipe-card) [PRINT RECIPE/TIPS](#)
+  
 
 
 
@@ -127,7 +127,7 @@ Enjoy!
 
 ### The Best Gluten-Free Battered Cauliflower Recipe
 
-[Print Recipe/Tips](#)
+
 
 Nutrition facts: 200 calories 20 grams fat
 

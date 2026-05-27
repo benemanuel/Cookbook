@@ -14,10 +14,10 @@ labels: [dairy, cake]
 ## Instructions
 
 \-\-\-\-\-\-\-\-\-\- Forwarded message \-\-\-\-\-\-\-\-\-  
-From: **Avraham Ben Emanuel** \<<avraham.benemanuel@gmail.com>\>  
+From: **Avraham Ben Emanuel** \<\>  
 Date: Fri, 9 Aug 2019, 18:18  
 Subject: nutella brownies  
-To: Avraham Ben Emanuel \<<avraham.benemanuel@gmail.com>\>  
+To: Avraham Ben Emanuel \<\>  
 
 
 Here it is!

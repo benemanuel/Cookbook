@@ -205,7 +205,7 @@ You can also make a classic sourdough brioche à tête by shaping the dough into
 
 These sourdough brioche buns are airy, soft, and slightly sweet. Buns are a great addition to any sandwich. Made with a [sourdough starter,](https://veenaazmanov.com/recipe-for-sourdough-starter/) I let the slow-rising dough rest overnight in the refrigerator, making it an easy and delicious way to start the day.
 
-[Print Recipe](https://veenaazmanov.com/wprm_print/sourdough-brioche-buns) [Pin Recipe](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fveenaazmanov.com%2Fsourdough-brioche-buns%2F&media=https%3A%2F%2Fveenaazmanov.com%2Fwp-content%2Fuploads%2F2022%2F05%2FSourdough-Brioche-Buns15.jpg&description=These+sourdough+brioche+buns+are+airy%2C+soft+and+just+a+little+sweet.+Buns+are+a+great+addition+to+any+sandwich.+Made+with+a+sourdough+starter+I+let+the+slow-rising+dough+rest+overnight+in+the+refrigerator%2C+making+it+an+easy+and+delicious+way+to+start+the+day.&is_video=false) [Add to Collection](https://veenaazmanov.com/recipe-collection/)[Go to Collections](https://veenaazmanov.com/recipe-collection/)
+ [Pin Recipe](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fveenaazmanov.com%2Fsourdough-brioche-buns%2F&media=https%3A%2F%2Fveenaazmanov.com%2Fwp-content%2Fuploads%2F2022%2F05%2FSourdough-Brioche-Buns15.jpg&description=These+sourdough+brioche+buns+are+airy%2C+soft+and+just+a+little+sweet.+Buns+are+a+great+addition+to+any+sandwich.+Made+with+a+sourdough+starter+I+let+the+slow-rising+dough+rest+overnight+in+the+refrigerator%2C+making+it+an+easy+and+delicious+way+to+start+the+day.&is_video=false) [Add to Collection](https://veenaazmanov.com/recipe-collection/)[Go to Collections](https://veenaazmanov.com/recipe-collection/)
 
 Prep Time 6 hours hrs
 
@@ -301,7 +301,7 @@ No posts
 
 Did you LIKE this recipe? **[Save it](https://www.pinterest.com/Veenaazmanov/)**for later on [**Pinterest**](https://www.pinterest.com/Veenaazmanov/).  
 Follow on [YouTube](https://www.youtube.com/@Veena_Azmanov), **[Facebook](https://www.facebook.com/veenaazmanovkitchen), [Twitter](https://twitter.com/VeenaAzmanov),** **[Instagram](https://www.instagram.com/veenaazmanov_kitchen/)** or [**TikTok**](https://www.tiktok.com/@veenaazmanov_kitchen)  
-[Subscribe](https://veena-azmanov.kit.com/15c1243a5a) to receive new recipes right to your inbox.
+ to receive new recipes right to your inbox.
 
 
 

@@ -19,7 +19,7 @@ labels: [cake]
 ## Instructions
 
 \-\-\-\-\-\-\-\-\-\- Forwarded message \-\-\-\-\-\-\-\-\-  
-From: **Avraham Ben Emanuel** \<<avraham.benemanuel@gmail.com>\>  
+From: **Avraham Ben Emanuel** \<\>  
 Date: Sat, Dec 21, 2019, 15:46  
 Subject: Easy One\-Bowl Yougrt Coffee Cake Recipe  
-To: Family \<<benemanuel.family@gmail.com>\>
+To: Family \<\>

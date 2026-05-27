@@ -459,7 +459,7 @@ Tag @aberlehome on Instagram!
 
 *I’m so grateful for your comments, reviews, and questions! Your star ratings help others discover my recipes, and your feedback helps me make improvements. Thank you for your support!*
 
-[Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Faberlehome.com%2Fhomemade-sourdough-croissants%2F)[54.2kPinterest](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Faberlehome.com%2Fhomemade-sourdough-croissants%2F&media=https://aberlehome.com/wp-content/uploads/2021/07/sourdough-croissants-003.jpg&description=Homemade%20Sourdough%20Croissants)[Share](#)
+[Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Faberlehome.com%2Fhomemade-sourdough-croissants%2F)[54.2kPinterest](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Faberlehome.com%2Fhomemade-sourdough-croissants%2F&media=https://aberlehome.com/wp-content/uploads/2021/07/sourdough-croissants-003.jpg&description=Homemade%20Sourdough%20Croissants)
 
 54.2k
 

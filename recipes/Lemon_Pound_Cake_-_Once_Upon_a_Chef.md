@@ -100,7 +100,7 @@ The recipe yields two ultra-moist loaves that stay fresh for days on the counter
 
   [Rum Cake](https://www.onceuponachef.com/recipes/rum-cake.html)
 
-[Print](https://www.onceuponachef.com/wprm_print/lemon-pound-cake)
+
 
 ### Lemon Pound Cake
 
@@ -292,7 +292,7 @@ I’ve been making this recipe for two years now and I still get asked for it. I
 
 [Load More](https://www.onceuponachef.com/recipes/lemon-buttermilk-pound-cake.html/comment-page-128#comments)
 
-- [Share](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.onceuponachef.com%2Frecipes%2Flemon-buttermilk-pound-cake.html "Share")
+- 
 - [Pin](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.onceuponachef.com%2Frecipes%2Flemon-buttermilk-pound-cake.html&media=https%3A%2F%2Fwww.onceuponachef.com%2Fimages%2F2019%2F04%2Flemon-pound-cake-pin.jpg&description=Lemon%20Pound%20Cake "Pin")
 - [Email](mailto:?subject=Lemon%20Pound%20Cake&body=Check%20out%20this%20recipe%20from%20Once%20Upon%20a%20Chef%3A%20https%3A%2F%2Fwww.onceuponachef.com%2Frecipes%2Flemon-buttermilk-pound-cake.html "Email")
-- [Tweet](https://twitter.com/intent/tweet?via=onceuponachef&text=Lemon%20Pound%20Cake&url=https%3A%2F%2Fwww.onceuponachef.com%2Frecipes%2Flemon-buttermilk-pound-cake.html "Tweet")
+- 

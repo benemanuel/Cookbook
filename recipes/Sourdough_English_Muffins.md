@@ -21,7 +21,7 @@ December 22, 2024 | By [Amy Duska](https://littlespoonfarm.com/amy-duska/) If yo
 
 ---
 
-[Jump to Recipe](#recipe)
+
 
  115.8K shares
 
