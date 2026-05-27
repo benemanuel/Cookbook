@@ -20,7 +20,7 @@ labels: [fish, dairy, cake, candy]
 - [Cities](https://erasmusu.com/en/erasmus-destinations)
 - [Discover](https://discover.erasmusu.com/)
 
-- [![](/assets/Icons/account.svg) Log in](https://erasmusu.com/en/login/do#login_popup)
+- [ Log in](https://erasmusu.com/en/login/do#login_popup)
 
 - [Home](/)
 - [Blogs](https://erasmusu.com/en/erasmus-blog)
@@ -134,7 +134,7 @@ If you are experiencing living abroad, you're an avid traveller or want to promo
 - [TYPICAL SPANISH FOOD: TRADITIONAL POTATO OMELETTE (JUICY!)](https://erasmusu.com/en/erasmus-blog/erasmus-recipes/typical-spanish-food-traditional-potato-omelette-juicy-1206033)
 - [Moroccan Mint Tea Recipe](https://erasmusu.com/en/erasmus-blog/erasmus-recipes/moroccan-mint-tea-recipe-1174650)
 
-![Facebook Login](/assets/i/facebook.svg) Login with Facebook
+ Login with Facebook
 
 ![](https://d1bvpoagx8hqbg.cloudfront.net/css/i/loading.gif)
 

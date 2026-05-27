@@ -57,13 +57,13 @@ If you love bold, punchy flavors, this **garlic pickle recipe** is going to be y
 
 #### Table of Content
 
-| [About Garlic Pickle ( Achaar Recipe ) ![Down arrow](/static/frontend/img/icons/down-arrow.svg)](#aboutrecipe) |
+| [About Garlic Pickle ( Achaar Recipe ) ](#aboutrecipe) |
 | -------------------------------------------------------------------------------------------------------------- |
-| [Ingredients ![Down arrow](/static/frontend/img/icons/down-arrow.svg)](#ingredients)                           |
-| [Methods ![Down arrow](/static/frontend/img/icons/down-arrow.svg)](#methods)                                   |
-| [For masala of garlic pickle ![Down arrow](/static/frontend/img/icons/down-arrow.svg)](#section-6212)          |
-| [How to make garlic pickle ![Down arrow](/static/frontend/img/icons/down-arrow.svg)](#section-6213)            |
-| [Nutrient values ![Down arrow](/static/frontend/img/icons/down-arrow.svg)](#nutrients)                         |
+| [Ingredients ](#ingredients)                           |
+| [Methods ](#methods)                                   |
+| [For masala of garlic pickle ](#section-6212)          |
+| [How to make garlic pickle ](#section-6213)            |
+| [Nutrient values ](#nutrients)                         |
 
 Pickles and achar are essential part of [Indian meals](https://www.tarladalal.com/recipes-for-indian-veg-recipes-2). They have strength to enhance your simplest meals and make them flavorful. Here we have got you a very simple and delicious **garlic pickle recipe**.  
 

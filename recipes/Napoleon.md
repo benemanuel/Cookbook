@@ -138,8 +138,8 @@ COMMENTERS:
 Some time ago, I did with the package "PONAL CREAM" from those who advertise but I could feel the chemistry alone I do not recommend !!!!
 
   + like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)LikeHahaLoveWowSadAngry![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)1
+  LikeHahaLoveWowSadAngry
+  1
 
   +  
   + Reply
@@ -152,8 +152,8 @@ Some time ago, I did with the package "PONAL CREAM" from those who advertise but
   I do it and I was not disappointed it is really delicious and creamy at the same time :) !! Thank you for the recipe will stay in my recipes for a long time!
 
   + like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)LikeHahaLoveWowSadAngry![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)2
+  LikeHahaLoveWowSadAngry
+  2
 
   +  
   + Reply
@@ -166,7 +166,7 @@ Some time ago, I did with the package "PONAL CREAM" from those who advertise but
   Unfortunately, but the taste of the cream is terrible, you can feel a terrible flour.
 
   + like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)LikeHahaLoveWowSadAngry![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)
+  LikeHahaLoveWowSadAngry
 
   +  
   + Reply
@@ -180,7 +180,7 @@ Some time ago, I did with the package "PONAL CREAM" from those who advertise but
 And can pudding cream be combined with whipped cream to make it lighter?
 
   + like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)LikeHahaLoveWowSadAngry![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)
+  LikeHahaLoveWowSadAngry
 
   +  
   + Reply
@@ -193,7 +193,7 @@ And can pudding cream be combined with whipped cream to make it lighter?
   Maybe you better give whipped cream for pudding cream, as an additional layer and for this second top of the cake. I would do that![](https://www.domowe-wypieki.pl/media/jcm/emoji/2969a.gif)
 
   - like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)LikeHahaLoveWowSadAngry![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)
+  LikeHahaLoveWowSadAngry
 
   -  
   - Reply
@@ -208,8 +208,8 @@ The cream consists of two creams \- cream and the second layer is whipped cream 
 [Read more](https://www.domowe-wypieki.pl/przepisy/ciasta/300-kremowka-napoleonka#)
 
   + like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)LikeHahaLoveWowSadAngry![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)2
+  LikeHahaLoveWowSadAngry
+  2
 
   +  
   + Reply
@@ -222,7 +222,7 @@ The cream consists of two creams \- cream and the second layer is whipped cream 
   Hello :) can you provide the dimensions of the sheet?
 
   + like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)LikeHahaLoveWowSadAngry![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)
+  LikeHahaLoveWowSadAngry
 
   +  
   + Reply
@@ -235,7 +235,7 @@ The cream consists of two creams \- cream and the second layer is whipped cream 
   Hello;) can you provide the dimensions of the sheet?
 
   + like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)LikeHahaLoveWowSadAngry![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)
+  LikeHahaLoveWowSadAngry
 
   +  
   + Reply
@@ -248,7 +248,7 @@ The cream consists of two creams \- cream and the second layer is whipped cream 
   Please use this large oven tray. Dimensions may vary slightly. I measured the internal dimension of the sheet, which is about as much as the rolled out dough had. For me it is 32x 40cm.
 
   - like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)LikeHahaLoveWowSadAngry![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)
+  LikeHahaLoveWowSadAngry
 
   -  
   - Reply
@@ -261,8 +261,8 @@ The cream consists of two creams \- cream and the second layer is whipped cream 
   A really great recipe. All household members were delighted.
 
   + like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)LikeHahaLoveWowSadAngry![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)1
+  LikeHahaLoveWowSadAngry
+  1
 
   +  
   + Reply
@@ -275,8 +275,8 @@ The cream consists of two creams \- cream and the second layer is whipped cream 
   delicious, delighted friends I recommend :\-)
 
   + like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)LikeHahaLoveWowSadAngry![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)1
+  LikeHahaLoveWowSadAngry
+  1
 
   +  
   + Reply
@@ -289,8 +289,8 @@ The cream consists of two creams \- cream and the second layer is whipped cream 
   cool. I was looking for this. my pride
 
   + like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)LikeHahaLoveWowSadAngry![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)3
+  LikeHahaLoveWowSadAngry
+  3
 
   +  
   + Reply
@@ -303,7 +303,7 @@ The cream consists of two creams \- cream and the second layer is whipped cream 
   Hello. I got lost with point 1: what about the cake that is in the fridge (300 g butter and 100 g flour)? Because the instructions show that only with the second cake I have to work ...
 
   + like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)LikeHahaLoveWowSadAngry![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)
+  LikeHahaLoveWowSadAngry
 
   +  
   + Reply
@@ -316,8 +316,8 @@ The cream consists of two creams \- cream and the second layer is whipped cream 
   At the second point, you put this butter from the fridge in the middle of the cake ![](https://www.domowe-wypieki.pl/media/jcm/emoji/2969a.gif)
 
   - like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)LikeHahaLoveWowSadAngry![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)1
+  LikeHahaLoveWowSadAngry
+  1
 
   -  
   - Reply
@@ -330,8 +330,8 @@ The cream consists of two creams \- cream and the second layer is whipped cream 
   I grew up at the grandparents' confectionery and for me Napoleon is a puff pastry with custard cream, which is made like this: to hot vanilla pudding, hard\-beaten proteins are added and mixed. This mass is applied to the bottom of the cake and covered with raw dough and baked.
 
   + like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)LikeHahaLoveWowSadAngry![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)4
+  LikeHahaLoveWowSadAngry
+  4
 
   +  
   + Reply
@@ -344,8 +344,8 @@ The cream consists of two creams \- cream and the second layer is whipped cream 
   How long are you baking?
 
   - like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)LikeHahaLoveWowSadAngry![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)2
+  LikeHahaLoveWowSadAngry
+  2
 
   -  
   - Reply
@@ -358,8 +358,8 @@ The cream consists of two creams \- cream and the second layer is whipped cream 
   Exactly this must be the right recipe because in the cake shop fresh napoleons are still warm and here we are talking about putting in the fridge to blunt the mass
 
   - like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)LikeHahaLoveWowSadAngry![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)1
+  LikeHahaLoveWowSadAngry
+  1
 
   -  
   - Reply
@@ -374,8 +374,8 @@ Could you tell me how much protein to add to 1 liter pudding?
 Best regards, Confectioner![](https://www.domowe-wypieki.pl/media/jcm/emoji/fd0bc.gif)
 
   - like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)LikeHahaLoveWowSadAngry![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)2
+  LikeHahaLoveWowSadAngry
+  2
 
   -  
   - Reply
@@ -390,7 +390,7 @@ I wanted to ask how long it takes to make THE CAKE (KNEADING, FOLDING AND COOLIN
 Thank you in advance and I ask for a quick reply due to the fact that I would like to start and do not know how much time I should devote to this puff pastry.
 
   + like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)LikeHahaLoveWowSadAngry![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)
+  LikeHahaLoveWowSadAngry
 
   +  
   + Reply
@@ -403,7 +403,7 @@ Thank you in advance and I ask for a quick reply due to the fact that I would li
   ok. 1,5 godziny.
 
   - Like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)Like![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)Haha![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)Love![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)Wow![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)Sad![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)Angry
+  LikeHahaLoveWowSadAngry
 
   -  
   - Odpowiedź
@@ -416,8 +416,8 @@ Thank you in advance and I ask for a quick reply due to the fact that I would li
   Właśnie zrobiłam, ciasto wyszło pyszne, tylko martwiło mnie to że masa była za gęsta niż powinna według francuskiego przepisu :/ Ale poradziłam sobie dolewając tylko mleka :P Przepis świetny!
 
   + Like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)Like![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)Haha![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)Love![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)Wow![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)Sad![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)Angry
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)1
+  LikeHahaLoveWowSadAngry
+  1
 
   +  
   + Odpowiedź
@@ -430,8 +430,8 @@ Thank you in advance and I ask for a quick reply due to the fact that I would li
   Właśnie zrobiłam, wyszło super tylko w kremie wyszły mi trochę krupki, no ale zje się bo jest pyszny ![](https://www.domowe-wypieki.pl/media/jcm/emoji/c95ab.gif)
 
   + Like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)Like![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)Haha![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)Love![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)Wow![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)Sad![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)Angry
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)1
+  LikeHahaLoveWowSadAngry
+  1
 
   +  
   + Odpowiedź
@@ -444,7 +444,7 @@ Thank you in advance and I ask for a quick reply due to the fact that I would li
   Jeśli wyjdą grudki, można przetrzeć budyń przez sitko.
 
   - Like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)Like![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)Haha![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)Love![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)Wow![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)Sad![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)Angry
+  LikeHahaLoveWowSadAngry
 
   -  
   - Odpowiedź
@@ -457,8 +457,8 @@ Thank you in advance and I ask for a quick reply due to the fact that I would li
   Wyśmienite! Zrobiłam wczoraj, tylko ciasto kupiłam gotowe ale wszystko razem palce lizać!! Dodałam tylko więcej mąki ziemniaczanej i pszennej, żeby było gęstsze. POLECAM TEN PRZEPIS ![](https://www.domowe-wypieki.pl/media/jcm/emoji/c95ab.gif)
 
   + Like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)Like![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)Haha![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)Love![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)Wow![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)Sad![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)Angry
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)1
+  LikeHahaLoveWowSadAngry
+  1
 
   +  
   + Odpowiedź
@@ -471,8 +471,8 @@ Thank you in advance and I ask for a quick reply due to the fact that I would li
   Naprawdę świetnie, że wrzuciłaś tutaj ten przepis... właśnie takego szukałam, aha i dobrze, że są tu też zdjęcia, bo pomagają...:D
 
   + Like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)Like![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)Haha![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)Love![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)Wow![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)Sad![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)Angry
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)1
+  LikeHahaLoveWowSadAngry
+  1
 
   +  
   + Odpowiedź
@@ -485,7 +485,7 @@ Thank you in advance and I ask for a quick reply due to the fact that I would li
   Wogole nie zciela mi sie masa! Caly placek plywa! :/
 
   + Like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)Like![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)Haha![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)Love![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)Wow![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)Sad![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)Angry
+  LikeHahaLoveWowSadAngry
 
   +  
   + Odpowiedź
@@ -498,8 +498,8 @@ Thank you in advance and I ask for a quick reply due to the fact that I would li
   Przepis genialny!! Zrobilam , jestem zachwycona wyglada i smakuje bombowo i nic sie nie rozplywa...!!! Polecam ![](https://www.domowe-wypieki.pl/media/jcm/emoji/2969a.gif)
 
   + Like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)Like![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)Haha![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)Love![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)Wow![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)Sad![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)Angry
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)1
+  LikeHahaLoveWowSadAngry
+  1
 
   +  
   + Odpowiedź
@@ -512,7 +512,7 @@ Thank you in advance and I ask for a quick reply due to the fact that I would li
   Super opis! Zaraz się biorę za pieczenie :\-)
 
   + Like
-  ![](https://www.domowe-wypieki.pl/media/jcm/reaction/like.svg)Like![](https://www.domowe-wypieki.pl/media/jcm/reaction/haha.svg)Haha![](https://www.domowe-wypieki.pl/media/jcm/reaction/love.svg)Love![](https://www.domowe-wypieki.pl/media/jcm/reaction/wow.svg)Wow![](https://www.domowe-wypieki.pl/media/jcm/reaction/sad.svg)Sad![](https://www.domowe-wypieki.pl/media/jcm/reaction/angry.svg)Angry
+  LikeHahaLoveWowSadAngry
 
   +  
   + Odpowiedź
