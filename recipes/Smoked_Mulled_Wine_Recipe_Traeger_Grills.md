@@ -23,7 +23,7 @@ labels: []
 
 ---
 
-## Smoked Mulled Wine
+### Smoked Mulled Wine
 
 By Traeger Kitchen
 
@@ -82,7 +82,7 @@ Imperial
 
 Metric
 
-### Instructions
+## Instructions
 
 - Step 1
 

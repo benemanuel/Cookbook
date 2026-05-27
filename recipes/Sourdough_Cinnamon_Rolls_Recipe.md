@@ -36,7 +36,7 @@ Nutrition Label
 
 ![Closeup picture of glazed cinnamon rolls.](https://littlespoonfarm.com/wp-content/uploads/2020/01/sourdough-cinnamon-rolls-300x300.jpg)
 
-## Sourdough Cinnamon Rolls Recipe
+### Sourdough Cinnamon Rolls Recipe
 
 [Amy Duska](https://littlespoonfarm.com/amy-duska/)
 

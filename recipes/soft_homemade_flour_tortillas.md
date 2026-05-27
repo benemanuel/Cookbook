@@ -19,7 +19,7 @@ labels: [fish]
 
 ---
 
-## Simple Tortillas
+### Simple Tortillas
 
 Recipe by [Frank Tegethoff](/author/frank-tegethoff)
 

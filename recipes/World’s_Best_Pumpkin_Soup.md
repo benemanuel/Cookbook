@@ -19,7 +19,7 @@ labels: [meat, dairy]
 
 Oct 24, 2011
 
-## [Worldâs Best Pumpkin Soup](../../../2011/10/worlds-best-pumpkin-soup/)
+### [Worldâs Best Pumpkin Soup](../../../2011/10/worlds-best-pumpkin-soup/)
 
 Pumpkin soup has never been on my radar as a particularly delicious meal to cook and consequently consume with great relish. And if Iâm being really transparent, I had never actually cut open a pumpkin with the intention of cooking it before just a few months ago. Never. Not even once.
 

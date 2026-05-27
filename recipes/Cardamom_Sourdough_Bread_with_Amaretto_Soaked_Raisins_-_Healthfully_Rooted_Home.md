@@ -54,7 +54,7 @@ Related: [Pumpkin Spice Granola Bark Recipe](https://healthfullyrootedhome.com/p
 
 Related: [sourdough donut recipe](https://healthfullyrootedhome.com/sourdough-donuts/)
 
-## Cardamom Sourdough bread recipe
+### Cardamom Sourdough bread recipe
 
 ![This cardamom sourdough bread recipe is perfect for a cozy fall morning. ](https://healthfullyrootedhome.com/wp-content/uploads/2021/10/1-1.jpg)
 
@@ -83,7 +83,7 @@ For my cardamom sourdough bread recipe, I used einkorn flour since I didn’t lo
 - 1 cup raisins (soaked)
 - 1 cup amaretto (or filtered water)
 
-### Instructions
+## Instructions
 
 #### sourdough
 

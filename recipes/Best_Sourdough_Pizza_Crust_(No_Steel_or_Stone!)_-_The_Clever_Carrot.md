@@ -41,7 +41,7 @@ I’ve also included **3 key points** to elevate your game:
 
 ![Sourdough pizza, pan-baked, cooling on a wire rack](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%201200'%3E%3C/svg%3E)
 
-## How To Make Sourdough Pizza, Step-by-Step Recipe
+### How To Make Sourdough Pizza, Step-by-Step Recipe
 
 Below you’ll find clear step-by-step instructions. For a printable version with measurements, scroll to the end of this post.
 

@@ -15,7 +15,7 @@ labels: [cake]
 
 <https://www.atlasobscura.com/articles/how-to-make-pastila> 
 
-## **Pastila**
+### **Pastila**
 
 Makes 8 to 10 slices
 

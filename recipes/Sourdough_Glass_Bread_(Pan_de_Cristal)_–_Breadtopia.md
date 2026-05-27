@@ -62,7 +62,7 @@ Glass bread is ideal for *pan con tomate* because it’s so crusty and therefore
 
 Here’s a video showing how to make it with one of my test batches of glass bread (108% hydration).
 
-## Sourdough Glass Bread (Pan de Cristal)
+### Sourdough Glass Bread (Pan de Cristal)
 
 [![Print this recipe](https://breadtopia.com/wp-content/plugins/zip-recipes//images/print.png)](javascript:void(0); "Print this recipe")
 
@@ -97,7 +97,7 @@ Total Time
 - 3% olive oil
 - 2.4% salt
 
-### Instructions
+## Instructions
 
 #### Autolyse
 

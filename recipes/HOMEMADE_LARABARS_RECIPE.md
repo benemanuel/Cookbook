@@ -13,7 +13,7 @@ labels: [dairy, bread, cake]
 
 Whole dates are best for this homemade larabars recipe, but if prechopped dates are all that you can find in stores, go ahead and use them. You’ll need to soak prechopped dates separately from any other dried fruit you may use in this recipe because they only need 2 to 3 minutes of soaking. (If they’re left to soak for too long, they’ll begin to disintegrate.) And not to worry if your prechopped dates come coated with oat flour and/or sugar. The coating will rinse away with the soaking water.
 
-## HOMEMADE LARABARS RECIPE
+### HOMEMADE LARABARS RECIPE
 
 * Quick Glance
 * 15 M

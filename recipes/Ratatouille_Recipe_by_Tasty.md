@@ -20,7 +20,7 @@ labels: [dairy]
 
 [Cuisine](/tag/cuisine)[European](/tag/european)[French](/tag/french)[Kosher](/tag/kosher)[Halal](/tag/halal)[Dietary](/tag/dietary)[Meal](/tag/meal)[Seasonal](/tag/seasonal)[Appliance](/tag/appliance)[Cooking Style](/tag/cooking_style)[High-Fiber](/tag/high_fiber)[Low-Fat](/tag/low_fat)[Low-Sugar](/tag/low_sugar)[Low-Calorie](/tag/low_calorie)[Under 1 Hour](/tag/under_1_hour)[Special Occasion](/tag/special_occasion)[One-Pot or Pan](/tag/one_pot_or_pan)[Cast Iron Pan](/tag/cast_iron_pan)[Summer](/tag/summer)[Fall](/tag/fall)[Party](/tag/party)[Baking](/tag/baking)[Sides](/tag/sides)[Dinner](/tag/dinner)[Vegetarian](/tag/vegetarian)[Vegan](/tag/vegan)[Healthy](/tag/healthy)[Gluten-Free](/tag/gluten_free)[Dairy-Free](/tag/dairy_free)[Comfort Food](/tag/comfort_food)
 
-## Ratatouille
+### Ratatouille
 
 featured in [The Best Fall Squash Recipes](/compilation/the-best-fall-squash-recipes)
 
@@ -126,7 +126,7 @@ View Info![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0icGx1cyBzdmctNSBl
 
 Estimated values based on one serving size.
 
-### Instructions
+## Instructions
 
 1. Preheat the oven for 375˚F (190˚C).
 2. Using a sharp knife or a mandoline, slice the eggplant, tomatoes, squash, and zucchini into approximately ¹⁄₁₆-inch (1-mm)-thick rounds, then set aside.

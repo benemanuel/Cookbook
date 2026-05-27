@@ -27,7 +27,7 @@ If you’re a sourdough-bread baker, you know how painful it is to throw away a 
 
 If you don’t already have one, I can show you [how to make a sourdough starter](https://www.baking-sense.com/2020/02/04/how-to-make-sourdough-starter/) and [how to feed a sourdough starter](https://www.baking-sense.com/2020/02/04/how-to-feed-maintain-your-sourdough-starter/).
 
-## Why Sourdough Pie Crust is so good:
+### Why Sourdough Pie Crust is so good:
 
 - Sourdough discard does amazing things for the flavor and texture of a basic flaky pie dough.
 - Sourdough starter is acidic. Acidic ingredients tenderize gluten. Sourdough discard helps keep this pie crust tender.
@@ -122,7 +122,7 @@ Total Time: 1 hour hr 10 minutes mins
 - 4 oz unsalted butter (very cold and sliced into ¼" thin slices)
 - 8 oz sourdough discard (1 cup (100% hydration))
 
-### Instructions
+## Instructions
 
 - Combine 7 ½ oz all purpose flour, 3 ½ oz cake flour, 1 teaspoon salt and 1 tablespoon granulated sugar. Whisk together to mix the ingredients evenly.
 

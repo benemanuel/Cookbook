@@ -9,7 +9,7 @@ labels: [meat]
 
 # Fwd: Slow-Roast Gochujang Chicken Recipe | Bon Appetit
 
-## Easy Gochujang Sauce
+### Easy Gochujang Sauce
 
 AuthorMinimalist Baker
 

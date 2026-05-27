@@ -31,7 +31,7 @@ Nutrition Label
 
 5 from 47 votes
 
-## Cabbage Manchurian Recipe | Dry Patta Veg Gobi Manchurian | Dry Cabbage Veg Manchurian Recipe
+### Cabbage Manchurian Recipe | Dry Patta Veg Gobi Manchurian | Dry Cabbage Veg Manchurian Recipe
 
 Easy Cabbage Manchurian Recipe | Dry Patta Veg Gobi Manchurian | Dry Cabbage Veg Manchurian Recipe
 

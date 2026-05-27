@@ -50,7 +50,7 @@ labels: [dairy, bread]
 
 ---
 
-## Tips
+### Tips
 
 * For an especially good dough, the dough can be prepared the day before and rise in the refrigerator overnight.
 * In this case, the amount of yeast should be halved.

@@ -28,7 +28,7 @@ variations to try. Some of my favorites are chocolate, vanilla, coconut,
  pistachio, rose, and almond. I still remember that my mom decorated
 hers with rainbow sprinkles and a candle on the top; my version here
 
-## **Instant Cardamom Barfi (Burfi)**
+### **Instant Cardamom Barfi (Burfi)**
 
 ![barfi recipe burfi recipe](https://cdn.vegetariantimes.com/wp-content/uploads/2021/08/IMG_8418.jpg?width=730)Photo: Vrunda Satpanthi
 

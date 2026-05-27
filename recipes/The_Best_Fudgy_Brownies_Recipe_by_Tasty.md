@@ -15,7 +15,7 @@ labels: [dairy, cake]
 
 [Seasonal](/tag/seasonal)[Occasion](/tag/occasion)[Party](/tag/party)[Dairy](/tag/dairy)[Gluten](/tag/gluten)[Eggs](/tag/eggs)[Brownies](/tag/brownies)[Under 1 Hour](/tag/under_1_hour)[Under 45 Minutes](/tag/under_45_minutes)[Special Occasion](/tag/special_occasion)[Bakery Goods](/tag/bakery_goods)[Big Batch](/tag/big_batch)[Indulgent Sweets](/tag/indulgent_sweets)[Microwave](/tag/microwave)[Baking](/tag/baking)[Kid-Friendly](/tag/kid_friendly)[Desserts](/tag/desserts)[Comfort Food](/tag/comfort_food)[North American](/tag/north_american)
 
-## The Best Fudgy Brownies
+### The Best Fudgy Brownies
 
 featured in [All Brownie Everything](/compilation/all-brownie-everything)
 
@@ -99,7 +99,7 @@ View Info![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0icGx1cyBzdmctNSBl
 
 Estimated values based on one serving size.
 
-### Instructions
+## Instructions
 
 1. Preheat the oven to 350°F (180°C). Line an 8-inch (20 cm) square baking dish with parchment paper.
 2. Chop the chocolate into chunks. Melt half of the chocolate in the microwave in 20-second intervals, saving the other half for later.

@@ -13,7 +13,7 @@ labels: [dairy, bread]
 
 ## Instructions
 
-## Can be one thick or two thin
+### Can be one thick or two thin
 
 Servings: 6 people
 

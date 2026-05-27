@@ -13,7 +13,7 @@ labels: [dairy, cake]
 
 ## Instructions
 
-## **Black Bean Brownies – High Fiber \& Lower Sugar**
+### **Black Bean Brownies – High Fiber \& Lower Sugar**
 
 ### 🧾 **Ingredients:**
 

@@ -9,7 +9,7 @@ labels: [dairy, bread]
 
 # Sourdough Cardamom Rolls stiff starter
 
-## Sourdough Cardamom Rolls (Pasta Madre, Hybrid Rescue Version)
+### Sourdough Cardamom Rolls (Pasta Madre, Hybrid Rescue Version)
 
 **Yield:** \~12 rolls  
 **Total flour:** \~550g (including starter)  
@@ -49,7 +49,7 @@ labels: [dairy, bread]
 
 ---
 
-### Instructions
+## Instructions
 
 ### 1️⃣ Autolyse – 30 Minutes
 

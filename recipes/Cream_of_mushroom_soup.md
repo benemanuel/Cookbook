@@ -13,7 +13,7 @@ labels: [meat, dairy, candy]
 
 ---
 
-## Homemade Cream of Mushroom Soup
+### Homemade Cream of Mushroom Soup
 
 [SVG ImageSVG ImageSVG ImageSVG ImageSVG ImageSVG ImageSVG ImageSVG ImageSVG ImageSVG Image 253](#reviews)
 
@@ -79,7 +79,7 @@ Units: US
 
 Advertisement
 
-### Instructions
+## Instructions
 
 - Cut the mushrooms into slices.
 - Melt butter in large frying pan. Add in onions, garlic, and mushrooms. Cook until onions are soft.

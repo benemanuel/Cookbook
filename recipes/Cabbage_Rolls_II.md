@@ -18,7 +18,7 @@ labels: [meat, dairy, cake]
 - [Stuffed](https://www.allrecipes.com/recipes/17246/main-dish/stuffed-main-dishes/)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb24iPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLWNoZXZyb24iIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1jaGV2cm9uIiAvPgo8L3N2Zz4=)
 - [Stuffed Cabbage](https://www.allrecipes.com/recipes/16539/main-dish/stuffed-main-dishes/stuffed-cabbage/)
 
-## Easy Cabbage Rolls
+### Easy Cabbage Rolls
 
 ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXItaGFsZiI+Cjx1c2UgaHJlZj0iI2ljb24tc3Rhci1oYWxmIiB4bGluazpocmVmPSIjaWNvbi1zdGFyLWhhbGYiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
 

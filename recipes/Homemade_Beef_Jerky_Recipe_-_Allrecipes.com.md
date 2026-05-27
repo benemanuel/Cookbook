@@ -18,7 +18,7 @@ labels: [meat]
 - [Meat and Poultry](https://www.allrecipes.com/recipes/107/appetizers-and-snacks/meat-and-poultry/)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb24iPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1jaGV2cm9uIiB4bGluazpocmVmPSIjaWNvbi1jaGV2cm9uIiAvPgo8L3N2Zz4=)
 - [Jerky Recipes](https://www.allrecipes.com/recipes/17041/appetizers-and-snacks/meat-and-poultry/jerky/)
 
-## Homemade Beef Jerky
+### Homemade Beef Jerky
 
 ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXItaGFsZiI+Cjx1c2UgaHJlZj0iI2ljb24tc3Rhci1oYWxmIiB4bGluazpocmVmPSIjaWNvbi1zdGFyLWhhbGYiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
 

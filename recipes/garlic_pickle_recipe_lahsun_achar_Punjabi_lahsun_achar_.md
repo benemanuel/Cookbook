@@ -15,7 +15,7 @@ labels: []
 
 You are here: [Home](/) > [Indian Veg Recipes](/recipes-for-indian-veg-recipes-2) > [Punjabi](/recipes-for-punjabi-veg-punjabi-recipes-3) > [Punjabi Raita | Punjabi Chutney | Achar](/recipes-for-punjabi-raita-chtutney-achar-12) > [Best Quick Pickle (Indian Aachar) at Home](/recipes-for-quick-pickles-achar-338) > Garlic Pickle ( Achaar Recipe )
 
-## Garlic Pickle Recipe (Lahsun Achar)
+### Garlic Pickle Recipe (Lahsun Achar)
 
 ★ ★ ★ ★ ★
 
@@ -156,7 +156,7 @@ This **lahsun achar** is ready to serve after about a week and it stays well for
 - 1/4 tsp [crushed coriander (dhania) seeds](/glossary-coriander-seeds-dhania-ke-beej-dhania-seeds-akha-dhania-371i#ing_3354)
 - 1/4 tsp [asafoetida (hing)](/glossary-asafoetida-hing-113i)
 
-### Instructions
+## Instructions
 
 For garlic pickle
 

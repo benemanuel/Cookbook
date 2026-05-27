@@ -21,7 +21,7 @@ When the temperature drops, a pot of Hungarian Goulash is always on our menu. It
 
 This post may contain affiliate links. Please read our [disclosure policy](https://www.spendwithpennies.com/disclosure-and-privacy-policy/).
 
-## Holly’s Recipe Highlights
+### Holly’s Recipe Highlights
 
 - **Flavor**: Rich and hearty with sweet onions and tender chunks of beef in a delicious paprika broth.
 - **Technique:** Cooking the soup low and slow tenderizes the meat.
@@ -196,7 +196,7 @@ chopped fresh parsley and sour cream for serving, optional
 
 ### Ingredients
 
-### Instructions
+## Instructions
 
 - In a Dutch oven or large pot, melt the butter over medium-low heat. Add the onion and cook until translucent, about 5 minutes. Stir in caraway seeds and paprika.
 

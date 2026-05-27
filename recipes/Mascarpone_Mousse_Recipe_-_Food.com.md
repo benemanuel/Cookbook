@@ -13,7 +13,7 @@ labels: [dairy, cake]
 
 ---
 
-## Mascarpone Mousse
+### Mascarpone Mousse
 
 [SVG ImageSVG ImageSVG ImageSVG ImageSVG ImageSVG ImageSVG ImageSVG ImageSVG ImageSVG Image 2](#reviews)
 
@@ -65,7 +65,7 @@ Units: US
 
 Advertisement
 
-### Instructions
+## Instructions
 
 - In a small chilled metal bowl whisk heavy cream in a figure eight motion. Just as soft peaks are forming, add the granulated sugar gradually. Continue whipping the cream until stiff peaks form.
 - Cover the bowl and chill in an ice bath. Combine room temperature mascarpone and cream cheese with a rubber scraper. Add vanilla and powdered sugar. When cheese mixture reaches a smooth consistency, set aside, keeping the mixture at room temperature. Just before serving , lightly fold whipped cream into the cheese mixture.

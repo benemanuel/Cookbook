@@ -21,7 +21,7 @@ labels: [meat, fish, dairy, bread, cake]
 
 Hate pouring excess sourdough starter down the drain? Instead, use it in this biscuit recipe, where it takes the place of buttermilk, adding tang and just a bit of lift. Milk-based starter (yeah, that’s a thing) is our preference, but for a delicious and totally dairy-free biscuit, use water-based starter and vegan butter.
 
-## Recipe information
+### Recipe information
 
 - Total Time
 
@@ -49,7 +49,7 @@ Hate pouring excess sourdough starter down the drain? Instead, use it in this bi
 
 Flaky sea salt (optional)
 
-### Instructions
+## Instructions
 
 1. #### Step 1
     Preheat oven to 425°. Stir together baking powder, baking soda, kosher salt, sugar, and 1½ cups flour with a fork in a large bowl. Add ½ cup chilled butter and toss with your hands or fork just to coat. Using your fingers, smash butter into flat disks (if you miss a few, it will be fine). Using a pastry cutter or fork, work butter into dry ingredients until shaggy crumbles form (you should have some large pieces, some small pieces, some flat pieces, and some sandy flour).

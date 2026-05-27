@@ -9,7 +9,7 @@ labels: []
 
 # Himmas Kassa
 
-## Medieval Hummus Recipe
+### Medieval Hummus Recipe
 
 Himmas Kassa is one of the earliest known forms of hummus, preserved in a 14th\-century Egyptian cookbook. Unlike the smooth hummus we know today, this recipe has a rustic texture and a nutty depth thanks to walnuts, fragrant spices, and fresh herbs. It was served at banquets as part of the opening courses, showing off the host’s generosity and refinement. Today, recreating this dish connects us directly to the flavors of the medieval Islamic world, with every bite offering history, texture, and tradition.
 

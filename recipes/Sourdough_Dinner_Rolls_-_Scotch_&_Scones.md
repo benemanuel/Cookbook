@@ -30,7 +30,7 @@ Easy to make and flavored with a slight sourdough tang, these **soft pull apart 
 - [Recipe](#h-recipe)
 - [Comments](#comments)
 
-## Why this recipe works
+### Why this recipe works
 
 - Sourdough starter discard adds a light, tangy flavor
 - Milk and potato flour keep these sourdough rolls soft and fluffy
@@ -114,7 +114,7 @@ Bake the rolls at 350˚F for 20 to 25 minutes (**photo 4**).
 
 *Sourdough dinner rolls before and after a trip to the oven*
 
-### Storage and make-ahead instructions
+## Storage and make-ahead instructions
 
 **Storage instructions**: These rolls can be stored, covered tightly, for 2 to 3 days at room temperature or in the refrigerator for up to 1 week. For longer storage, freeze the rolls for up to 3 months. Thaw in the refrigerator or at room temperature, then reheat as desired.
 

@@ -26,7 +26,7 @@ labels: [fish, dairy, cake, candy]
 - [Blogs](https://erasmusu.com/en/erasmus-blog)
 - [Erasmus recipes](https://erasmusu.com/en/erasmus-blog/erasmus-recipes)
 
-## Caramelized apple cake
+### Caramelized apple cake
 
 [![nahom worku](<>)](https://erasmusu.com/en/nahom-worku-930499)
 

@@ -46,7 +46,7 @@ Take the potatoes out of the oven and transfer them back into a bowl. Now mix th
 
 ---
 
-## Notes
+### Notes
 
 * The baking soda breaks down the pectins in the potatoes, which results in a larger surface area.
 * The garlic and rosemary are only added to the potatoes after roasting in the oven, otherwise they would burn.

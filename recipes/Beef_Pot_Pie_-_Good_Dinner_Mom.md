@@ -33,7 +33,7 @@ Nutrition Label
 
 4.88 from 81 votes
 
-## Beef Pot Pie
+### Beef Pot Pie
 
 This recipe does take a few hours to finish, but it's not hands-on the entire time. The filling is pre-baked to ensure the chuck roast pieces are super tender. A nice option here is to just cook half the beef in a skillet until browned and juicy. Then add it in with the rest of the beef before putting into dish and oven-baking.
 

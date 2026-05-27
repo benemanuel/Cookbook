@@ -121,7 +121,7 @@ This isn’t the crisp-skinned, high-heat roast chicken you’re probably famili
 
 [$16.37 At Amazon](https://www.amazon.com/J-B-Prince-U715-Sauce-Spoon/dp/B009OL3UZI "$16.37 At Amazon")
 
-## Recipe information
+### Recipe information
 
 - Yield
 
@@ -175,7 +175,7 @@ Need to make a substitution?
 
 Ask AI
 
-### Instructions
+## Instructions
 
 1. #### Step 1
     Place a rack in middle of oven; preheat to 300°. This is an important temperature for this recipe, so if you don’t have an oven thermometer already, [now is the time to get one](https://www.bonappetit.com/story/oven-thermometer)! Pat chicken dry with paper towels. Place on a small rimmed baking sheet. Season **1 3½–4-lb. whole chicken** all over with **1 Tbsp. Diamond Crystal or 1¾ tsp. Morton kosher salt** and **lots of freshly ground black pepper**, making sure to season the inside cavity.

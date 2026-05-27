@@ -9,7 +9,7 @@ labels: [meat]
 
 # Re: Slow-Roast Gochujang Chicken Recipe | Bon Appetit
 
-## Easy Gochujang Sauce (Korean Chili Paste)
+### Easy Gochujang Sauce (Korean Chili Paste)
 
 Easy\-to\-make Korean\-inspired Gochujang sauce that’s vegan, gluten\-free, naturally sweetened, and soy\-free! Just 5 minutes, 5 ingredients, and 1 blender required.
 

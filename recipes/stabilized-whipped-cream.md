@@ -27,7 +27,7 @@ Whipped cream is the perfect finishing touch for so many desserts, from ice crea
 
 ![A woman with medium-length dark brown hair and fair skin smiling with trees behind her.](https://stateofdinner.com/wp-content/uploads/2023/10/erin-gierhart-image-1024x1024.jpg)
 
-## Note from Erin
+### Note from Erin
 
 Whipped cream is something I exclusively make from scratch, first because it is so easy. But also because the flavor tastes like sweetened cream, not chemical fillers.
 
@@ -124,7 +124,7 @@ Prevent your screen from going dark
 
 ### Ingredients
 
-### Instructions
+## Instructions
 
 - [ ] ▢
 

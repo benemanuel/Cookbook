@@ -58,7 +58,7 @@ If you’re into sourdough, you’ll believe me when I say the flavor is next-le
 
 These buns have officially ruined me for all others. Once you try them, you’ll know exactly what I mean.
 
-## Why make this recipe
+### Why make this recipe
 
 - A sourdough brioche bun with a golden crust and a tender, fluffy inside. The recipe includes a video showing how easy it is to make these buns.
 - These nice soft buns are perfect for juicy [burgers](https://veenaazmanov.com/spiced-homemade-beef-burger-recipe/), and they make a great substitute for [hamburger buns](https://veenaazmanov.com/hokkaido-burger-buns/). And they are fantastic with braised [shredded beef](https://veenaazmanov.com/slow-cooker-shredded-beef/) and [sandwiches](https://veenaazmanov.com/cooking-recipes/sandwiches-and-wraps/).
@@ -241,7 +241,7 @@ Brioche dough
 
 ### Ingredients
 
-### Instructions
+## Instructions
 
 1. **Autolyze** – In a large [bowl](https://amzn.to/2RD3cUR) of a [stand mixer,](https://amzn.to/2P8Nzmu) add the milk, eggs, starter, and flour. Stir well with a wooden spoon or spatula. Cover the bowl with [plastic wrap](https://amzn.to/2ESOhyF) and leave to rest for an hour.
 

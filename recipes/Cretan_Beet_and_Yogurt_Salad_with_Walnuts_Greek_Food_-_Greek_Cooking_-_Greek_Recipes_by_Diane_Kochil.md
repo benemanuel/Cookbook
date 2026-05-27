@@ -17,7 +17,7 @@ labels: [dairy]
 
 ![](https://www.dianekochilas.com/wp-content/uploads/2013/10/CRETAN-BEET_YOGURT-SALAD-930x620.jpg)
 
-## Beet, Walnut & Yogurt Salad
+### Beet, Walnut & Yogurt Salad
 
 ---
 

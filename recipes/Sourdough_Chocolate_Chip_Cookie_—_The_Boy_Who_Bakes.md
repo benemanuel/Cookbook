@@ -135,7 +135,7 @@ The edges should be set and lightly browned while the centers remain slightly so
 
 Allow the cookies to cool on the tray for 10 minutes before transferring to a rack.
 
-## Notes
+### Notes
 - Halve recipe with 1 yolk
 - Dough balls freeze 1 month; bake from frozen +1-2 min
 - Keeps 4-5 days sealed

@@ -9,7 +9,7 @@ labels: [meat]
 
 # Stuffed cabbage
 
-## Stuffed Cabbage
+### Stuffed Cabbage
 
 Old school sweet\-and\-sour stuffed cabbage rolls. Just like my grandmother and mother made them.
 

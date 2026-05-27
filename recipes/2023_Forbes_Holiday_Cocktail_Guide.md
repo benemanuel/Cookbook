@@ -11,7 +11,7 @@ labels: [dairy, candy]
 
 *
 
-## Creative cocktail recipes for 15 festive drinks—and two punches that pack a punch—from award\-winning bartenders around the world.
+### Creative cocktail recipes for 15 festive drinks—and two punches that pack a punch—from award\-winning bartenders around the world.
 
 #### By [Karla Alindahao](https://www.forbes.com/sites/karlaalindahao/), Senior Contributor
 

@@ -9,7 +9,7 @@ labels: [dairy]
 
 # Lekvar (Prune Butter)
 
-## How to Make Lekvar (Prune Butter)
+### How to Make Lekvar (Prune Butter)
 
 Lekvar or prune butter is one of the classic fillings for making hamantaschen cookies for Purim. Enhanced with orange zest and chopped walnuts, you'll be amazed what a lovely addition prune butter is to your cookie and pastry recipes.
 

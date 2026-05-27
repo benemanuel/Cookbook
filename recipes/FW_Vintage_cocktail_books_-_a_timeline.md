@@ -48,7 +48,7 @@ labels: [fish]
 
 ![Bibliography of vintage cocktail books image 1](https://cdn.diffords.com/contrib/encyclopedia/2024/01/65a8e066d2479.jpg)
 
-## Bibliography of vintage cocktail books
+### Bibliography of vintage cocktail books
 
 **Since Richard Cook wrote the first known dedicated book in the English language recording drinks recipes in 1827 there has followed an awful lot of cocktail recipe books, many such titles having numerous editions. Navigating these tomes is essential to understanding the origin and development of the classic cocktails that appear on bar menus around the world to this day.**
 

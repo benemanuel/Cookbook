@@ -9,7 +9,7 @@ labels: [dairy, bread]
 
 # Vegan Bechamel Sauce
 
-## How to make Vegan Bechamel Sauce
+### How to make Vegan Bechamel Sauce
 
 [★★★★★5 from 1 reviews](https://www.foodbymaria.com/2020/01/20/how-to-make-vegan-bechamel-sauce/#respond)
 

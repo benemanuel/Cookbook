@@ -15,7 +15,7 @@ labels: [dairy, bread]
 
 <https://www.wellandgood.com/avocado-sourdough-bread-recipe/> 
 
-## Avocado brioche sourdough bread
+### Avocado brioche sourdough bread
 
 *Ingredients*
 

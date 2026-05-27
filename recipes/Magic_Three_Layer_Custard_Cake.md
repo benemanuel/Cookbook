@@ -38,7 +38,7 @@ Nutrition Label
 
 4.72 from 128 votes
 
-## Magic Three Layer Custard Cake (From One Batter)
+### Magic Three Layer Custard Cake (From One Batter)
 
 One simple batter turns into a 3 layered cake with a top layer of sponge, a middle layer of custard and a fudge-like base. It's like....magic! Adapted from [Magic Cake](http://www.jocooks.com/bakery/cakes/magic-cake/comment-page-21/#comments) by [Jo Cooks](http://www.jocooks.com).
 

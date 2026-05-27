@@ -84,7 +84,7 @@ roasted garlic for another use), remaining 4 tablespoons olive oil,
 cumin, and paprika; pulse to a moderately smooth consistency. Top with
 feta cheese, parsley, and lemon zest.
 
-## Nutrition Facts
+### Nutrition Facts
 
 | Calories 215 | |
 | --- | --- |

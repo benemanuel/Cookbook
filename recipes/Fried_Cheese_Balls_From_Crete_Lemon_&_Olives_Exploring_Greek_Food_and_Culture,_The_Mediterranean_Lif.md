@@ -45,7 +45,7 @@ OPA!
 
 Kenton and Jane
 
-## Fried Cheese Balls From Crete
+### Fried Cheese Balls From Crete
 
 ![](https://cdn.lemonandolives.com/wp-content/uploads/2014/10/Fried-cheese-fritters-Crete-150x150.jpg)
 

@@ -19,7 +19,7 @@ labels: [candy]
 
 Feb 18, 2021
 
-## **Shared by** Stella Hanan Cohen
+### **Shared by** Stella Hanan Cohen
 
 ![Masapan with silver dragées on crescent shaped plate, atop purple tablecloth.](https://images.prismic.io/jewishfoodsociety/c80755c2-e032-444c-a337-84012196e3a6_Marzipan_0056.jpeg?h=1100&amp;auto=format&amp;rect=22%2C0%2C705%2C485&amp;__type=intro-left-side)
 

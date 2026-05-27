@@ -13,7 +13,7 @@ labels: [meat, fish]
 
 ---
 
-## Asian Vinaigrette Salad Dressing
+### Asian Vinaigrette Salad Dressing
 
 [SVG ImageSVG ImageSVG ImageSVG ImageSVG ImageSVG ImageSVG ImageSVG ImageSVG ImageSVG Image 33](#reviews)
 
@@ -76,7 +76,7 @@ Units: US
 
 Advertisement
 
-### Instructions
+## Instructions
 
 - Mix first 5 ingredients in a bowl or food processor.
 - If using a bowl: SLOWLY drizzle in the sesame and peanut oil, whisking constantly so that the dressing will emulsify.

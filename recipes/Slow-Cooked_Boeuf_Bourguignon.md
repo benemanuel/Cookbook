@@ -20,7 +20,7 @@ Subject: Slow\-Cooked Boeuf Bourguignon
 To: "Avraham Ben Emanuel" \<<avraham.benemanuel@gmail.com>\>  
 Cc:  
 
-## Slow\-Cooked Beef Bourguignon
+### Slow\-Cooked Beef Bourguignon
 
 *Serves 6*
 

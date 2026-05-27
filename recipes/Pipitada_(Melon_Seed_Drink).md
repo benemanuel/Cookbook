@@ -65,7 +65,7 @@ servings
 
 [View All Posts From Author](/author/stella-cohen)
 
-## Give to the URJ
+### Give to the URJ
 
 The Union for Reform Judaism leads the largest and most diverse Jewish movement in North America.
 

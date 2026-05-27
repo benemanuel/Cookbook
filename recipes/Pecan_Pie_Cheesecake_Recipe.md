@@ -29,7 +29,7 @@ This recipe is a fun way to take two well-loved classics and combine them into o
 
 Don’t let this recipe scare you. I know there are quite a few ingredients and the steps to making the cheesecake look overwhelming but it’s really not that complicated.
 
-## Why this recipe works
+### Why this recipe works
 
 - There’s a lot of crust! This will help hold the filling and topping. Plus there are ground pecans in the crust for more flavor!!
 - The batter for this recipe is from my basic cheesecake recipe. I scaled it back some so there would be room for the pecan pie filling on top. It gets baked for over a half-hour before adding the topping.
@@ -231,7 +231,7 @@ Cook Mode
 
 Prevent your screen from going dark
 
-### Instructions
+## Instructions
 
 #### Make the crust
 

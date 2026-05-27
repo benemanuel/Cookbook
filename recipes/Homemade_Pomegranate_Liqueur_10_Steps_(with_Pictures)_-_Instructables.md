@@ -17,7 +17,7 @@ labels: [cake, candy]
 
 ---
 
-## Homemade Pomegranate Liqueur
+### Homemade Pomegranate Liqueur
 
 *Source: [Instructables](https://www.instructables.com/Homemade-Pomegranate-Liqueur/) — by djeucalyptus*
 

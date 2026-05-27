@@ -9,7 +9,7 @@ labels: [bread, cake]
 
 # Soft Sourdough Pretzels Recipe - Easy Overnight! - Little Spoon Farm
 
-## Soft Sourdough Pretzels Recipe
+### Soft Sourdough Pretzels Recipe
 
 A
  soft sourdough pretzel recipe that yields a dark chewy crust with a

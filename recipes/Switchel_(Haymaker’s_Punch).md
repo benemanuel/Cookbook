@@ -13,7 +13,7 @@ labels: []
 
 ## Instructions
 
-## Switchel (Haymaker’s Punch)
+### Switchel (Haymaker’s Punch)
 
 **Yield:** 1\.5 liters (about 6 cups)  
 **Prep Time:** 10 minutes  

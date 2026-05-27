@@ -28,7 +28,7 @@ These [muffins](https://thefirstyearblog.com/recipes/muffins/ "muffins") have a 
 
 ![coffee cake muffins with bite removed showing cinnamon swirl layer inside on wood background](https://thefirstyearblog.com/wp-content/uploads/2021/02/Coffee-Cake-Muffins-2023-11B.jpg)
 
-## This is the Perfect Coffee Cake Muffins Recipe
+### This is the Perfect Coffee Cake Muffins Recipe
 
 I thought this recipe was going to crush my spirit 😂
 
@@ -302,7 +302,7 @@ Want to make absolutely perfect coffee cake muffins that rival any professional 
 
 [https://shop.thefirstyearblog.com/](https://shop.thefirstyearblog.com/)
 
-### Instructions
+## Instructions
 
 - Prepare the cinnamon sugar layer. Melt the butter, stir in the brown sugar and cinnamon until thick. Set it aside to thicken while you make the muffin batter.
 

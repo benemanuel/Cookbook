@@ -13,7 +13,7 @@ labels: []
 
 ## Instructions
 
-## Method: Brined, Then Oven\-Baked
+### Method: Brined, Then Oven\-Baked
 
 **Time:** 55 minutes
 

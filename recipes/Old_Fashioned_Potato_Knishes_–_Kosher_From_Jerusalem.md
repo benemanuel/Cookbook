@@ -107,7 +107,7 @@ Bake in the hot oven 30-40 minutes or till golden brown. Serve with brown mustar
 
 [Click here to print recipe](https://kosherfromjerusalem.com/wp-content/uploads/2024/10/Old-Fashioned-Potato-Knishes.pdf)
 
-## Old Fashioned Potato Knishes
+### Old Fashioned Potato Knishes
 
 Dough:
 
