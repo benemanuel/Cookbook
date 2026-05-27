@@ -20,7 +20,7 @@ labels: [dairy, cake]
 
 [Home](https://www.ifyougiveablondeakitchen.com/) » [Pies & Tarts](https://www.ifyougiveablondeakitchen.com/category/pies-tarts/) » Milk Bar Crack Pie
 
-# Milk Bar Crack Pie
+## Milk Bar Crack Pie
 
 [Jump to Recipe](#recipe)
 
@@ -47,13 +47,13 @@ Table of Contents
 - **Make ahead** the pie and store it in the refrigerator. It’s best served cold!
 - **It’s an authentic recipe** by Christina Tosi. This dessert was originally served at Momofuku Milk Bar in New York City.
 
-## What Is Crack Pie Made of?
+### What Is Crack Pie Made of?
 
 Crack pie is made of oatmeal cookie crust and an ooey gooey irresistible filling. The crust is crushed up oatmeal cookies mixed with butter and brown sugar. The filling is mostly butter, egg yolk, sugar and cream (which is why it’s so darn good). The whole thing is baked, chilled and topped with confectioners’ sugar.
 
 ![momofuku milk bar pie on stripe kitchen cloth next to rolled oats and eggs ingredients](https://www.ifyougiveablondeakitchen.com/wp-content/uploads/2016/11/crack-pie-milk-bar-momofuku-recipe-10.2019-770x1024.jpg)
 
-## How to Make Milk Bar Crack Pie
+### How to Make Milk Bar Crack Pie
 
 ![photo collage demonstrating how to make momofuku crack pie on cookie sheet and pie plate](https://www.ifyougiveablondeakitchen.com/wp-content/uploads/2023/04/how-to-make-milk-bar-pie-steps-1-4.jpg)
 
@@ -74,7 +74,7 @@ Crack pie is made of oatmeal cookie crust and an ooey gooey irresistible filling
 9. Pour this liquid filling into the cookie crust and bake at 350° F for 20 minutes, then reduce to 325° F and bake 15 to 20 minutes longer.
 10. Let the pie cool completely, then refrigerate for 8 hours (overnight is best). Dust with confectioners’ sugar before serving.
 
-## Expert Tips
+### Expert Tips
 
 **Don’t over-bake the cookie**. Since the crust is baked again once the filling is added, it’s important that the cookie isn’t too crispy when it’s first baked. Aim for a light golden color.
 
@@ -86,7 +86,7 @@ Crack pie is made of oatmeal cookie crust and an ooey gooey irresistible filling
 
 ![slice of milk bar pie on plate with fork taking bite](https://www.ifyougiveablondeakitchen.com/wp-content/uploads/2016/11/crack-pie-milk-bar-momofuku-recipe-10.2019-4.jpg)
 
-## Make Ahead and Storage Tips
+### Make Ahead and Storage Tips
 
 **Make ahead** the giant oatmeal and let it cool. Break it up into pieces and keep in an airtight container for up to 3 days before making the pie. I do not recommend making the filling ahead of time as it will likely separate. It’s best to make the whole pie in advance and store covered in the refrigerator for up to 48 hours before serving.
 
@@ -94,7 +94,7 @@ Crack pie is made of oatmeal cookie crust and an ooey gooey irresistible filling
 
 **Freeze** the pie for up to 3 months. After refrigerating the pie, cover it with plastic wrap and aluminum foil to prevent freezer burn. Defrost in the refrigerator before serving.
 
-## Recipe FAQ
+### Recipe FAQ
 
 **What does crack pie taste like?**
 
@@ -110,7 +110,7 @@ Yes, crack pie is meant to be served cold. However, if you prefer to eat it at r
 
 ![slice of crack pie on plate with fork](https://www.ifyougiveablondeakitchen.com/wp-content/uploads/2016/11/crack-pie-milk-bar-momofuku-recipe-10.2019-5.jpg)
 
-## Related Recipes
+### Related Recipes
 
 Looking for more unique desserts? Try these recipes next!
 
@@ -126,7 +126,7 @@ Looking for more unique desserts? Try these recipes next!
 
 ![two forks in a pie dish with momofuku crack pie dusted with confectioners sugar](https://www.ifyougiveablondeakitchen.com/wp-content/uploads/2016/11/momofuku-crack-pie-open-graph-image-282x282.jpg)
 
-## Get the Recipe: Milk Bar Crack Pie
+### Get the Recipe: Milk Bar Crack Pie
 
 Yield: 10 slices
 
@@ -170,7 +170,7 @@ Bake Mode
 
 Prevent your screen from going dark
 
-## Ingredients
+### Ingredients
 
 #### Oat Cookie Crust
 
@@ -235,7 +235,7 @@ Prevent your screen from going dark
 
   Powdered sugar, for dusting
 
-## Instructions
+### Instructions
 
 #### Oat Cookie Crust
 

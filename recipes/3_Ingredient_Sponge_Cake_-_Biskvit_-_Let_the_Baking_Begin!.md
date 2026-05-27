@@ -23,7 +23,7 @@ labels: [meat, fish, dairy, bread, cake, candy]
 
 [Home](https://letthebakingbegin.com/) » [Dessert](https://letthebakingbegin.com/category/dessert/) » [Cake](https://letthebakingbegin.com/category/dessert/cake/) » 3 Ingredient Sponge Cake – Biskvit
 
-# 3 Ingredient Sponge Cake – Biskvit
+## 3 Ingredient Sponge Cake – Biskvit
 
 July 14, 2017
 
@@ -44,11 +44,11 @@ As simple as it is to make, many people still have trouble with this delicate sp
 
 ## **Troubleshooting**
 
-## **Why does my 3 Ingredient Sponge Cake deflate and/or shrink when I remove it from the oven?**
+### **Why does my 3 Ingredient Sponge Cake deflate and/or shrink when I remove it from the oven?**
 
 **ANSWER:** The eggs were either not whipped long enough or the cake was removed from the oven too soon.
 
-## **Solution & Explanation#1:**
+### **Solution & Explanation#1:**
 
 When you don’t whip the eggs and sugar for long enough, the air pockets are too big, and in the oven they expand even more. This weakens the cake structure and as you take it out of the oven, it collapses under its own weight.  
 The simplest and easiest way to ensure that you get a cake that rises in the oven and doesn’t collapse as you take it out, is to whip it until proper thickness of the batter. After whipping the eggs and sugar for about 10 minutes you might think that is as whipped as you will get the eggs to be, but whip it for another 5-10 minutes and you will see it change.
@@ -57,7 +57,7 @@ The way to check if you have whipped it enough, is to raise the whisk from the b
 
 At this stage the air bubbles will be perfect size and your cake will not deflate upon removal from the oven.
 
-## **Solution and Explanation #2:**
+### **Solution and Explanation #2:**
 
 Sponge cake (Biskvit) is very delicate. Opening the oven too early into the baking will allow hot air to escape and with sudden change in temperature/pressure the delicate cake structure that has not been solidified by baking yet will collapse under its own weight. That is why you really don’t want to check the cake too early into the baking process. You also, do not want to not to bang the oven door when closing, to prevent disturbing and rupturing the fragile air pockets before they have had a chance to set/bake.
 
@@ -65,21 +65,21 @@ Sponge cake (Biskvit) is very delicate. Opening the oven too early into the baki
 
 ![Sliced yellow sponge cake on parchment paper with a knife.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20900'%3E%3C/svg%3E "Recipe for soft and moist yellow sponge cake, a classic cake base for many cake recipes! ")
 
-## **Why is my 3 Ingredient Sponge Cake’s texture dense instead of soft and tender?**
+### **Why is my 3 Ingredient Sponge Cake’s texture dense instead of soft and tender?**
 
 **ANSWER:** Most likely the cake was over mixed or too much flour was added.
 
-## **SOLUTION #1: –** Mix batter just until no flour streaks are seen, use folding technique to incorporate flour.
+### **SOLUTION #1: –** Mix batter just until no flour streaks are seen, use folding technique to incorporate flour.
 
-## **Explanation #1:**
+### **Explanation #1:**
 
 What is good to a loaf of artisan bread, is death to a cake. Even though gluten is part of the flour, there are ways we can prevent it from developing when we’re talking about cake. Perfect environment for gluten development is mixing and resting. We want the exact opposite when it comes to cake. You want to **m****inimally mix after adding the flour**. As soon as you do not see any streaks of flour STOP. Folding any further will allow the gluten to continue developing, which will lead to dense cake.
 
-## **Explanation #2:**
+### **Explanation #2:**
 
 Each mixing/folding stroke deflates the batter. The more you mix it, the more air you knock out of the batter. So, if you continue mixing/folding past the point that is necessary, there will not be enough air bubbles to expand when the cake is being baked. Also, since the air that was whipped into the batter is the only leavening agent, you really need those bubbles to make your cake rise in the oven.
 
-## **Solution #2:** Bake the cake as soon as you’re done mixing it.
+### **Solution #2:** Bake the cake as soon as you’re done mixing it.
 
 **Explanation:** Leaving the batter unbaked for too long will allow the batter to deflate. With no air to make the cake light and fluffy, the cake will be left dense and heavy.
 
@@ -93,12 +93,12 @@ Each mixing/folding stroke deflates the batter. The more you mix it, the more ai
 
 [Easy Dulce De Leche Buttercream Easy Dulce de Leche Buttercream (2 ingredients ONLY!)](https://letthebakingbegin.com/dulce-de-leche-buttercream/)
 
-## **Solution #3:**
+### **Solution #3:**
 
 Properly measure your ingredients by using a spoon to fill the measuring cup, then using the flat side of the knife to scrape off excess flour.  
 **Explanation:** if you have a jar of flour that has been sitting/settling on the shelf forever and then you go and scoop your flour with the measuring spoon, most likely you will have too much flour in the spoon.
 
-## **Why does my Sponge Cake crumble so much when I am trying to split it horizontally?**
+### **Why does my Sponge Cake crumble so much when I am trying to split it horizontally?**
 
 **ANSWER**: the sponge cake has been cut into without being let to mature.
 
@@ -108,17 +108,17 @@ Properly measure your ingredients by using a spoon to fill the measuring cup, th
 
 ![Simple yellow sponge cake, biskvit on a baking sheet cut in half. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%201350'%3E%3C/svg%3E "This simple sponge cake, biskvit, is an easy full proof recipe for a basic yellow sponge cake recipe with just three simple cake ingredients. ")
 
-# **3 Ingredient Sponge Cake – Biskvit**
+### **3 Ingredient Sponge Cake – Biskvit**
 
 **Yield:** ONE two inch tall 8″ round cake
 
-## **Ingredients for 3 Ingredient Sponge Cake Recipe:**
+### **Ingredients for 3 Ingredient Sponge Cake Recipe:**
 
 - eggs
 - granulated sugar
 - all-purpose flour, sifted
 
-## **How to make 3 Ingredient Sponge Cake – Biskvit:**
+### **How to make 3 Ingredient Sponge Cake – Biskvit:**
 
 To a large mixing bowl, add 4 eggs and whip with a mixer on high speed for about a minute or two or until slightly foamy. Then while continuing to whip add 3/4 cups sugar slowly pouring it in. Continue whipping for 15-20 minutes.
 
@@ -131,7 +131,7 @@ You really need to whip it that long, otherwise your cake will not have enough a
 When the proper stage of whipping has been achieved, in 2 or 3 additions sift in the flour and carefully fold it in with a wooden spoon or a spatula. To properly fold, with a spatula or a spoon you want to go underneath and then over the top, like pictured below. Fold just until incorporated, otherwise over folded batter produces tough cake.  
 ![How to sift in the flour for the sponge cake batter. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%201100'%3E%3C/svg%3E "Easy, foolproof recipe for a basic yellow sponge cake recipe. ")
 
-## **How to Bake the 3 Ingredient Sponge Cake – Biskvit**
+### **How to Bake the 3 Ingredient Sponge Cake – Biskvit**
 
 For easier cleanup line a 8 inch round cake pan with foil and spray the bottom, not the sides, with cooking spray.  
 Pour the batter into the baking pan, then grab both sides of the pan and swirl the pan in circular motion back and forth several times. Wrap the baking pan with wet [baking strips](http://amzn.to/2t9b4SV) if you have them and place in preheated to 350F oven for about 30-35 minutes.  
@@ -143,7 +143,7 @@ Remove from the oven and allow to cool inside the pan for about 30 minutes. Unpe
 ![Baked yellow sponge cake one a cooling rack, and how to slice the sponge cake in half. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%201000'%3E%3C/svg%3E "A basic yellow sponge cake recipe that is level, moist, and fluffy, that turns out perfect every time! ")  
 For best texture, leave the cooled cake covered in plastic wrap on the table for around 8 hours. You can use the cake even if you don’t let it mature for 8 hours, but the cake will be a lot crumblier if you do not.
 
-## If you’re looking for ways to use this sponge cake recipe, check out these **[cakes](https://letthebakingbegin.com/category/dessert/cake/)**:
+### If you’re looking for ways to use this sponge cake recipe, check out these **[cakes](https://letthebakingbegin.com/category/dessert/cake/)**:
 
 - [**Peaches & Cream Cake**](https://letthebakingbegin.com/peaches-and-cream-layer-cake/) – Sponge cake with peach syrup and light cream.
 - [**Boston Cream Cake**](https://letthebakingbegin.com/boston-cream-pie-cake/) – Simple cake with sponge cake, custard, and a chocolate ganache.
@@ -157,7 +157,7 @@ Also, check out this other version of **[Simple Yellow Sponge Cake](https://lett
 
 [Print](https://letthebakingbegin.com/wprm_print/3-ingredient-sponge-cake-biskvit)
 
-## 3 Ingredient Sponge Cake - Biskvit
+### 3 Ingredient Sponge Cake - Biskvit
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20450'%3E%3C/svg%3E)
 
@@ -185,13 +185,13 @@ Total Time: 55 minutes
 
 Servings: 12 servings (Two inch tall 8-inch round cakes)
 
-## Ingredients
+### Ingredients
 
 - 4 [eggs](https://amzn.to/3kqypaE)
 - 3/4 cups [granulated sugar](https://amzn.to/2DNYUnA)
 - 3/4 cups [all purpose flour](https://amzn.to/2VngDv8) sifted
 
-## Instructions
+### Instructions
 
 #### How to make Basic Sponge Cake (Genoise)
 

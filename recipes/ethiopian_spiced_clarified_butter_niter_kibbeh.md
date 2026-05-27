@@ -30,7 +30,7 @@ Niter Kibbeh (*Nit’ir Qibe)* is an ingredient integral to Ethiopian cuisine an
 
 While niter kibbeh is famously used in Ethiopia’s national dish, [**Doro Wat**](https://www.daringgourmet.com/doro-wat-spicy-ethiopian-chicken-stew/), it is highly versatile and used to bring life and flavor to a wide variety of dishes, including **[Sega Wat](https://www.daringgourmet.com/sega-wat-spicy-ethiopian-beef-stew/)**, **[Misir Wat](https://www.daringgourmet.com/misir-wat-ethiopian-spiced-red-lentils/)** and **[Gomen](https://www.daringgourmet.com/gomen-ethiopian-collard-greens/)**. Include a dollop in your favorite stews, your beans and lentils, sauces and gravies, add some to your vegetables and eggs, use it to brown your meat or chicken, spread some on your sandwich…and then sit back and savor your meal.
 
-## **Ingredients**
+### **Ingredients**
 
 For a truly authentic niter kibbeh you would include two Ethiopian spices that are very difficult to find outside of Ethiopia: Besobela and Kosseret. [**Besobela**](https://www.amazon.com/gp/product/B00ACP3RW6?ie=UTF8&tag=thedargou09-20&camp=1789&linkCode=xm2&creativeASIN=B00ACP3RW6) is also known as Ethiopian sacred basil though it tastes nothing like basil. It’s also traditionally included in [**Berbere**](https://www.daringgourmet.com/berbere-ethiopian-spice-blend/), the famous fiery hot Ethiopian spice blend. [**Kosseret**](https://www.amazon.com/gp/product/B00ACOBHL0?ie=UTF8&tag=thedargou09-20&camp=1789&linkCode=xm2&creativeASIN=B00ACOBHL0) is in the verbena family of plants and likewise has a very unique flavor. There are no adequate substitutes for either. If you can find them, use about a tablespoon of each. If you can’t, simply omit them. The resulting niter kibbeh will still be incredibly delicious without them.
 
@@ -46,7 +46,7 @@ Niter kibbeh is a wonderful and uniquely delicious clarified butter that you wil
 
 ![niter kibbeh ethiopian authentic recipe spiced clarified butter](https://www.daringgourmet.com/wp-content/uploads/2018/04/Niter-Kibbeh-6-cropped.jpg)
 
-## **Authentic Niter Kibbeh Recipe**
+### **Authentic Niter Kibbeh Recipe**
 
 Let’s get started!
 
@@ -82,7 +82,7 @@ Enter your email address and we’ll send it straight to your inbox!
 
 ![](https://www.daringgourmet.com/wp-content/uploads/2018/04/Niter-Kibbeh-7-cropped-300x300.jpg)
 
-## Authentic Niter Kibbeh (Ethiopian Spiced Clarified Butter)
+### Authentic Niter Kibbeh (Ethiopian Spiced Clarified Butter)
 
 By [Kimberly Killebrew](https://www.daringgourmet.com/about/)
 
@@ -123,9 +123,9 @@ Servings 2 cups
 - 1 tablespoon [besobela](https://www.amazon.com/Ethiopian-Premium-Bessobela-Sifted-tenuiflorum/dp/B0B5T67DBH?keywords=ethiopian%2Bbesobela&qid=1690776281&sr=8-5&th=1&linkCode=ll1&tag=thedargou09-20&linkId=6dc4618562f8ec0de9c593f0cc020bc5&language=en_US&ref_=as_li_ss_tl) ,if you can find it, otherwise omit (see blog post)
 - 1 tablespoon [kosseret](https://www.amazon.com/gp/product/B00ACOBHL0?ie=UTF8&tag=thedargou09-20&camp=1789&linkCode=xm2&creativeASIN=B00ACOBHL0) ,if you can find it, otherwise omit (see blog post)
 
-## Ingredients
+### Ingredients
 
-## Instructions
+### Instructions
 
 - Toast the whole spices over medium heat in a dry skillet for a few minutes until very fragrant. Be careful not to scorch the spices or they will become bitter. Set aside.
 

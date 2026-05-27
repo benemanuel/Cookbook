@@ -87,7 +87,7 @@ If you want to play around with the formula, change hydration, inoculation, and 
 
 ![the deeply caramelized crust of this cranberry walnut sourdough bread](https://foodgeek.dk/wp-content/uploads/2021/08/F31A7820-820x547.jpg)
 
-## The conclusion of this walnut cranberry sourdough bread recipe
+### The conclusion of this walnut cranberry sourdough bread recipe
 
 So what does this bread set out to do?
 
@@ -107,7 +107,7 @@ This is wonderful bread. Serve it with a healthy helping of wonderfully cultured
 
 ![close up of the crumb in this sourdough walnut cranberry bread](https://foodgeek.dk/wp-content/uploads/2021/08/F31A7871-820x547.jpg)
 
-## Please share this recipe for walnut cranberry sourdough bread on social media
+### Please share this recipe for walnut cranberry sourdough bread on social media
 
 This is my recipe for walnut cranberry sourdough bread. If you like the recipe please consider sharing it with like-minded bread lovers on social media.
 
@@ -124,7 +124,7 @@ Prevent your screen from going dark
 
 ![](https://foodgeek.io/wp-content/uploads/2021/08/Recipe-132x132.jpg)
 
-## Walnut Cranberry Sourdough Bread
+### Walnut Cranberry Sourdough Bread
 
 ![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjAiIHdpZHRoPSIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJkaXNwbGF5OmJsb2NrO3dpZHRoOjBweDtoZWlnaHQ6MHB4Ij48ZGVmcz48bGluZWFyZ3JhZGllbnQgaWQ9Indwcm0tcmVjaXBlLXVzZXItcmF0aW5nLTAtMzMiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjMzJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iMzMlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PC9saW5lYXJncmFkaWVudD48L2RlZnM+PGRlZnM+PGxpbmVhcmdyYWRpZW50IGlkPSJ3cHJtLXJlY2lwZS11c2VyLXJhdGluZy0wLTUwIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjwvbGluZWFyZ3JhZGllbnQ+PC9kZWZzPjxkZWZzPjxsaW5lYXJncmFkaWVudCBpZD0id3BybS1yZWNpcGUtdXNlci1yYXRpbmctMC02NiI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iNjYlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI2NiUiIHN0b3Atb3BhY2l0eT0iMCIgLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3Atb3BhY2l0eT0iMCIgLz48L2xpbmVhcmdyYWRpZW50PjwvZGVmcz48L3N2Zz4=)
 
@@ -210,7 +210,7 @@ Sugar 33g**37%**
 
 * Percent Daily Values are based on a 2000 calorie diet.
 
-## Ingredients
+### Ingredients
 
 #### Dough
 
@@ -228,7 +228,7 @@ Sugar 33g**37%**
 - 93 g dried sweet cranberries
 - 80 g bourbon
 
-## Instructions
+### Instructions
 
 #### Mix dough
 

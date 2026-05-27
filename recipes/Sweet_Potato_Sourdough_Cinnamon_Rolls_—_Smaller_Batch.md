@@ -28,7 +28,7 @@ labels: [dairy, bread, cake]
 ---
 
 
-## **Filling**
+### **Filling**
 
 * 145 g butter
 * 115 g demerara sugar
@@ -40,7 +40,7 @@ labels: [dairy, bread, cake]
 ---
 
 
-## **Frosting**
+### **Frosting**
 
 * 95 g cream cheese
 * 95 g mascarpone
@@ -57,7 +57,7 @@ instead of a huge tray
 ---
 
 
-# 🧠 Small execution notes
+### 🧠 Small execution notes
 
 * Keep milk conservative — sweet potato varies a lot
 * Dough should be **soft, elastic, slightly tacky**, not loose

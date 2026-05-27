@@ -15,7 +15,7 @@ labels: [dairy, bread, cake]
 
 [Home](https://alexandracooks.com/) » [Recipe Type](https://alexandracooks.com/category/recipe/) » [Bread Recipes](https://alexandracooks.com/category/recipe/bread/) » [Sourdough Bread Recipes](https://alexandracooks.com/category/recipe/bread/sourdough-breads/) » Simple Sourdough Focaccia: A Beginner’s Guide
 
-# Simple Sourdough Focaccia: A Beginner’s Guide
+## Simple Sourdough Focaccia: A Beginner’s Guide
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2038%2038'%3E%3C/svg%3E) By [Alexandra Stafford](https://alexandracooks.com/alexandra-stafford/ "Visit Alexandra Stafford’s website") — Last Updated: 01/22/2026
 
@@ -162,7 +162,7 @@ A few thoughts: If you are making this focaccia in the summer (northern hemisphe
 
 ---
 
-## Ingredients
+### Ingredients
 
 - 50 g – 100 g (1/4 to 1/2 cup) active starter, see notes above
 - 10 g (about 2.5 teaspoons) kosher salt
@@ -173,7 +173,7 @@ A few thoughts: If you are making this focaccia in the summer (northern hemisphe
 
 ---
 
-## Instructions
+### Instructions
 
 1. Place the starter, salt, and water in a large bowl. Stir with a spatula to combine — it doesn’t have to be uniformly mixed. Add the flour. Mix again until the flour is completely incorporated.
 2. If time permits, perform one “fold”: 30 minutes after you mix the dough, reach into the bowl and pull the dough up and into the center. Turn the bowl quarter turns and continue this pulling 8 to 10 times. [**See video for guidance.**](https://youtu.be/koEppmNnT0A)

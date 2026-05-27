@@ -22,7 +22,7 @@ labels: [meat, dairy]
 - [Soups](https://www.simplyrecipes.com/soup-recipes-5091377)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb25fcmlnaHQiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLWNoZXZyb25fcmlnaHQiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1jaGV2cm9uX3JpZ2h0IiAvPgo8L3N2Zz4=)
 - [Stocks](https://www.simplyrecipes.com/stock-recipes-5091365)
 
-# How to Make Chicken Stock
+### How to Make Chicken Stock
 
 This recipe includes three of our favorite ways to make delicious homemade chicken stock; it's easier than you might think!
 
@@ -82,7 +82,7 @@ Not only do you save money because you don't have to buy boxed stock, the stock 
 
 There are several ways to make chicken stock. Three of our favorite methods are presented here.
 
-## How to Make Chicken Stock from Roasted Bones
+### How to Make Chicken Stock from Roasted Bones
 
  **The first method** uses the leftover bones from a chicken carcass and vegetables (which means it's practically free), and takes several hours of slow cooking. We often use this method when we've roasted a chicken and have a leftover carcass. It's a great way to keep good bones from going to waste.
 
@@ -90,11 +90,11 @@ There are several ways to make chicken stock. Three of our favorite methods are 
 
 *Simply Recipes / Elise Bauer*
 
-## How to Make Chicken Stock from Sautéed Bones
+### How to Make Chicken Stock from Sautéed Bones
 
  **In the second method**, we start with chopped raw chicken backs and/or wings, and sauté them first to brown them for flavor. Then add onion, carrots, parsley, and leek or onion greens, and cover with several inches of cold water. This we simmer for 4 to 6 hours and then strain.
 
-## The Best Way to Make Quick Chicken Stock
+### The Best Way to Make Quick Chicken Stock
 
  **The third method** is a quick version of the second. You can make stock easily in about an hour this way, again starting with the backs and wings.
 
@@ -102,11 +102,11 @@ There are several ways to make chicken stock. Three of our favorite methods are 
 
 *Simply Recipes / Elise Bauer*
 
-## Chicken Stock vs Chicken Broth
+### Chicken Stock vs Chicken Broth
 
 Broth is usually thinner and made from chicken meat, while chicken stock is made from simmering bones for a long time. Chicken stock is usually thicker and has a richer mouth feel from the gelatin released from the long-simmered bones.  
 
-## How to Store and Freeze Chicken Broth
+### How to Store and Freeze Chicken Broth
 
 Let the stock cool completely before refrigerating or freezing. When you are ready, pour into glass jars and refrigerate.
 
@@ -114,13 +114,13 @@ If you are freezing, you may want to ladle off some of the excess fat on the sur
 
 Stock should last a week or so in the fridge, and at least several months in the freezer.
 
-## More Ways to Make Chicken Stock at Home
+### More Ways to Make Chicken Stock at Home
 
 - [How to Make Chicken Stock From Feet](https://www.simplyrecipes.com/recipes/how_to_make_stock_from_chicken_feet/)
 - [Slow-Cooker Chicken Stock](https://www.simplyrecipes.com/recipes/slow_cooker_chicken_stock/)
 - [How to Make Chicken Stock in the Pressure Cooker](https://www.simplyrecipes.com/recipes/how_to_make_chicken_stock_in_the_pressure_cooker/)
 
-## Recipes to Make Using Homemade Chicken Stock
+### Recipes to Make Using Homemade Chicken Stock
 
 - [Mom’s Cold-Season Chicken Soup](https://www.simplyrecipes.com/recipes/moms_cold_season_chicken_soup/)
 - [Asparagus Risotto](https://www.simplyrecipes.com/recipes/asparagus_risotto/)
@@ -132,7 +132,7 @@ From the Editors Of Simply Recipes
 
  Save![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhdm9yaXRlIj4KPHVzZSBocmVmPSIjaWNvbi1mYXZvcml0ZSIgeGxpbms6aHJlZj0iI2ljb24tZmF2b3JpdGUiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
 
-## How to Make Chicken Stock
+### How to Make Chicken Stock
 
 Prep Time 30 mins
 

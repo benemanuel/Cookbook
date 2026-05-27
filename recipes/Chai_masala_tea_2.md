@@ -35,7 +35,7 @@ This drink is enjoyed year\-round in India, often with breakfast or snacks.
 
 ---
 
-## Ingredients
+### Ingredients
 
 ### Basic Spices (Essential)
 
@@ -70,7 +70,7 @@ This drink is enjoyed year\-round in India, often with breakfast or snacks.
 ---
 
 
-## Tea Selection
+### Tea Selection
 
 ### Types of Black Tea
 
@@ -91,7 +91,7 @@ This drink is enjoyed year\-round in India, often with breakfast or snacks.
 ---
 
 
-## Milk \& Water Ratio
+### Milk \& Water Ratio
 
 Depends on milk type:
 
@@ -102,7 +102,7 @@ Depends on milk type:
 ---
 
 
-## Method 1: Instant Masala Chai
+### Method 1: Instant Masala Chai
 
 ### Step 1 – Prepare Spices
 
@@ -161,7 +161,7 @@ Serve hot.
 ---
 
 
-## Method 2: Chai Masala Powder
+### Method 2: Chai Masala Powder
 
 ### Spice Mix (for storage)
 
@@ -192,7 +192,7 @@ Store in airtight jar.
 ---
 
 
-## Masala Chai vs Chai Latte
+### Masala Chai vs Chai Latte
 
 | Feature | Masala Chai | Chai Latte |
 | --- | --- | --- |
@@ -204,7 +204,7 @@ Store in airtight jar.
 ---
 
 
-## Tips
+### Tips
 
 * Do not overboil → can turn bitter
 
@@ -217,7 +217,7 @@ Store in airtight jar.
 ---
 
 
-## Common Issues
+### Common Issues
 
 ### Watery Tea
 
@@ -238,4 +238,4 @@ Store in airtight jar.
 
 <https://www.indianhealthyrecipes.com/masala-tea-chai/#wprm-recipe-container-38384>
 
-## Instructions
+### Instructions

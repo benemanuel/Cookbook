@@ -17,7 +17,7 @@ Recipes
 
 ![Chocolate Mousse Cake](https://images.ricardocuisine.com/services/recipes/7472.jpg)
 
-# Chocolate Mousse Cake
+## Chocolate Mousse Cake
 
 [#comments](#comments)
 
@@ -41,7 +41,7 @@ We have to confess that we still love McCain Deep ’n Delicious, the cornerston
 
 ## Categories
 
-## Ingredients
+### Ingredients
 
 - [ ] ### Cake
   
@@ -64,7 +64,7 @@ We have to confess that we still love McCain Deep ’n Delicious, the cornerston
   3 oz (85 g) dark chocolate, chopped
   - [ ] 1/3 cup (75 ml) 35% whipping cream
 
-## Instructions
+### Instructions
 
 - [ ] ### Cake
   

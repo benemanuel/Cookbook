@@ -44,7 +44,7 @@ Grab your copy
 
 [Get it Now!](https://homegrownhappiness.com/product/learn-to-make-sourdough-speciality-bread-ebook/)
 
-## The starter
+### The starter
 
 In the morning, feed your [sourdough starter.](https://homegrownhappiness.com/starting-and-maintaining-a-sourdough-starter/)[https://homegrownhappiness.com/starting-and-maintaining-a-sourdough-starter/](https://homegrownhappiness.com/starting-and-maintaining-a-sourdough-starter/)You’ll need approximately 150g of fed and active sourdough starter at 100% hydration for these sourdough croissants. *100% hydration means equal weights of flour and water are used when feeding the starter.*
 
@@ -58,7 +58,7 @@ At a room temperature of between 21-23°C, a ready starter will double, if not t
 
 ![cut in half croissant](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20924%201357'%3E%3C/svg%3E)
 
-## The pastry dough
+### The pastry dough
 
 When the starter is ready to use, combine the flour, water, salt, sugar, sourdough starter, and butter in a bowl. Mix it together by hand to create a sticky ball of dough.
 
@@ -68,7 +68,7 @@ Leave the dough out for 3 hours to ferment, ideally at room temperature between 
 
 At this point, leave out 250 grams of butter for tomorrow’s step so it is at room temperature for when you need it.
 
-## Butter Packet
+### Butter Packet
 
 In the morning, take the butter that was left out overnight and mix it with some flour to create a butter mixture that is nice and malleable.
 
@@ -78,7 +78,7 @@ If the butter is too cold and stiff, it’s going to shatter in the dough when i
 
 *Gauging the exact temperature of the butter packet so that it is a similar consistency to the dough is something that gets better with practice.*
 
-## Lamination
+### Lamination
 
 Now, on a floured bench, roll out yesterday’s dough into a 20x40cm(8x16inch) rectangle.
 
@@ -112,7 +112,7 @@ Turn the chilled dough 90 degrees and roll it out in front of you into another 2
 
 Repeat this step once more. After this fold, chill the dough for at least 2 hours.
 
-## Cutting croissants
+### Cutting croissants
 
 Roll the chilled dough into a 28x60cm (11x24inch) rectangle.
 
@@ -122,7 +122,7 @@ Mark 5cm (2inch) marks along both lengths of the dough rectangle. Use a pizza cu
 
 ![cut croissants](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
 
-## Shaping
+### Shaping
 
 Stretch the cut at the bottom of each triangle out a bit. Then roll the triangles up tightly, starting from the bottom and rolling to the tip. You can bend the ends of croissants a little to make a crescent or leave them straight.
 
@@ -140,19 +140,19 @@ Really ensure the butter in the croissants doesn’t melt or it will ruin the la
 
 ![croissant with shiny egg wash](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20924%201334'%3E%3C/svg%3E)
 
-## Baking
+### Baking
 
 The croissants can be baked once they have puffed out, or they can be refrigerated if you want to bake them in the morning. The extended fridge time will increase the sour flavor.
 
 Preheat the oven to 205**°**C/400**°**F. Brush the croissants with egg wash. Bake them in a hot oven for around 20 minutes until deeply browned. If they are browning too quickly, you can turn down the oven temperature a bit.
 
-## Storing
+### Storing
 
 Croissants are great served fresh on the day they are baked. The layers in the croissants will be most prominent if the croissant has cooled down to room temperature before slicing.
 
 Leftover croissants can be stored in an airtight container at room temperature for up to 4 days, or frozen for up to three months.
 
-## Freezing croissant dough
+### Freezing croissant dough
 
 Freeze the croissants after shaping but before proofing. Shape the croissants, place them on a tray without them touching, and freeze until solid, then store them in an airtight container or bag. They can be frozen for up to two months.
 
@@ -164,7 +164,7 @@ Take the frozen croissants out of the freezer and place them on a lined tray. Le
 
 ![croissants ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20924%201386'%3E%3C/svg%3E)
 
-## Related recipes
+### Related recipes
 
 Try these other sourdough recipes –
 
@@ -178,7 +178,7 @@ Love lamination? Try this [inverse puff pastry](https://bakingwithbutter.com/inv
 
 [![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMTZweCIgdmlld0JveD0iMCAwIDQ0NC44MTkgNDQ0LjgxOSIgd2lkdGg9IjE2cHgiIGNsYXNzPSJtdi1jcmVhdGUtanRyLWNhcmV0Ij48cGF0aCBkPSJNNDM0LjI1MiwxMTQuMjAzbC0yMS40MDktMjEuNDE2Yy03LjQxOS03LjA0LTE2LjA4NC0xMC41NjEtMjUuOTc1LTEwLjU2MWMtMTAuMDk1LDAtMTguNjU3LDMuNTIxLTI1LjcsMTAuNTYxIEwyMjIuNDEsMjMxLjU0OUw4My42NTMsOTIuNzkxYy03LjA0Mi03LjA0LTE1LjYwNi0xMC41NjEtMjUuNjk3LTEwLjU2MWMtOS44OTYsMC0xOC41NTksMy41MjEtMjUuOTc5LDEwLjU2MWwtMjEuMTI4LDIxLjQxNiBDMy42MTUsMTIxLjQzNiwwLDEzMC4wOTksMCwxNDAuMTg4YzAsMTAuMjc3LDMuNjE5LDE4Ljg0MiwxMC44NDgsMjUuNjkzbDE4NS44NjQsMTg1Ljg2NWM2Ljg1NSw3LjIzLDE1LjQxNiwxMC44NDgsMjUuNjk3LDEwLjg0OCBjMTAuMDg4LDAsMTguNzUtMy42MTcsMjUuOTc3LTEwLjg0OGwxODUuODY1LTE4NS44NjVjNy4wNDMtNy4wNDQsMTAuNTY3LTE1LjYwOCwxMC41NjctMjUuNjkzIEM0NDQuODE5LDEzMC4yODcsNDQxLjI5NSwxMjEuNjI5LDQzNC4yNTIsMTE0LjIwM3oiIC8+PC9zdmc+) Continue to Content](#mv-creation-98)
 
-## Ingredients
+### Ingredients
 
 #### Starter
 
@@ -212,7 +212,7 @@ Toggle ingredient group
 
 - 1 egg + 1 tbsp water
 
-## Instructions
+### Instructions
 
 #### Starter
 

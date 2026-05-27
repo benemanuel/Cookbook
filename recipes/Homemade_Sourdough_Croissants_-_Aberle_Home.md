@@ -71,7 +71,7 @@ You can also hold the dough in the fridge for an extra day before or after lamin
 - **[Sourdough Baking Terms for Beginners](https://aberlehome.com/sourdough-baking-terms-for-beginners/)**
 - **[Milling Flour at Home: A Beginner’s Guide](https://aberlehome.com/milling-flour-at-home/)**
 
-## Do I have to use unsalted butter?
+### Do I have to use unsalted butter?
 
 Definitely use unsalted butter. Salted butter will pull moisture from the dough, making the layers in the croissant less defined.
 
@@ -85,7 +85,7 @@ All this to say, you *can* use a store brand unsalted butter which I have done i
 
 It will ultimately impart more flavor and color to your sourdough croissants.
 
-## Sourdough Croissants Baking Schedule
+### Sourdough Croissants Baking Schedule
 
 **The strength of your starter, the temperature in your home, and other factors will affect how long each step in the recipe will take.*
 
@@ -101,7 +101,7 @@ It will ultimately impart more flavor and color to your sourdough croissants.
 
 *Start the dough on day 1, leaving about 4 hours of time for fermenting at room temperature. Refrigerate until the next day. Finish croissants on day 2*, *remembering to leave extra time for proofing just in case.*
 
-## Tips for Success When Making Sourdough Croissants
+### Tips for Success When Making Sourdough Croissants
 
 - Use active starter that has just come to its peak after a fresh feeding.
 - When laminating croissant dough, you want your butter the same consistency as your dough. Your dough should be chilled. Your butter should be cold as well but still very pliable if you bend your butter block. If the butter becomes too warm and melts at any point, the butter will meld into the dough and you will lose your layering (you’ll end up with bread-like crescent rolls). Wrap and chill your dough when necessary during lamination if your butter and dough become too soft or your dough begins to resist being rolled out.
@@ -112,7 +112,7 @@ It will ultimately impart more flavor and color to your sourdough croissants.
 
 ![croissants on a cooling rack](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='760'%20height='507'%20viewBox='0%200%20760%20507'%3E%3C/svg%3E)![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSItNjQgMCA1MTIgNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMDQgNi41QzEwMS40IDYuNSAwIDc0LjkgMCAxODUuNiAwIDI1NiAzOS42IDI5NiA2My42IDI5NmM5LjkgMCAxNS42LTI3LjYgMTUuNi0zNS40IDAtOS4zLTIzLjctMjkuMS0yMy43LTY3LjggMC04MC40IDYxLjItMTM3LjQgMTQwLjQtMTM3LjQgNjguMSAwIDExOC41IDM4LjcgMTE4LjUgMTA5LjggMCA1My4xLTIxLjMgMTUyLjctOTAuMyAxNTIuNy0yNC45IDAtNDYuMi0xOC00Ni4yLTQzLjggMC0zNy44IDI2LjQtNzQuNCAyNi40LTExMy40IDAtNjYuMi05My45LTU0LjItOTMuOSAyNS44IDAgMTYuOCAyLjEgMzUuNCA5LjYgNTAuNy0xMy44IDU5LjQtNDIgMTQ3LjktNDIgMjA5LjEgMCAxOC45IDIuNyAzNy41IDQuNSA1Ni40IDMuNCAzLjggMS43IDMuNCA2LjkgMS41IDUwLjQtNjkgNDguNi04Mi41IDcxLjQtMTcyLjggMTIuMyAyMy40IDQ0LjEgMzYgNjkuMyAzNiAxMDYuMiAwIDE1My45LTEwMy41IDE1My45LTE5Ni44QzM4NCA3MS4zIDI5OC4yIDYuNSAyMDQgNi41IiBmaWxsPSJjdXJyZW50Q29sb3IiIC8+PC9zdmc+)
 
-## Recommended Equipment
+### Recommended Equipment
 
 - **[Digital kitchen scale](https://amzn.to/3kBJKWU)**
 - **[Parchment paper](https://amzn.to/3xSKCdn)**
@@ -124,7 +124,7 @@ It will ultimately impart more flavor and color to your sourdough croissants.
 - Rolling Pin
 - **[Cooling rack](https://amzn.to/42kncw3)**
 
-## How to Make Sourdough Croissants
+### How to Make Sourdough Croissants
 
 ### Step 1 – Make and Ferment Sourdough Croissant Dough
 
@@ -314,7 +314,7 @@ Place your finished pastries on a rack to cool completely before serving or stor
 
 ![sourdough croissants](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='760'%20height='507'%20viewBox='0%200%20760%20507'%3E%3C/svg%3E)![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSItNjQgMCA1MTIgNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMDQgNi41QzEwMS40IDYuNSAwIDc0LjkgMCAxODUuNiAwIDI1NiAzOS42IDI5NiA2My42IDI5NmM5LjkgMCAxNS42LTI3LjYgMTUuNi0zNS40IDAtOS4zLTIzLjctMjkuMS0yMy43LTY3LjggMC04MC40IDYxLjItMTM3LjQgMTQwLjQtMTM3LjQgNjguMSAwIDExOC41IDM4LjcgMTE4LjUgMTA5LjggMCA1My4xLTIxLjMgMTUyLjctOTAuMyAxNTIuNy0yNC45IDAtNDYuMi0xOC00Ni4yLTQzLjggMC0zNy44IDI2LjQtNzQuNCAyNi40LTExMy40IDAtNjYuMi05My45LTU0LjItOTMuOSAyNS44IDAgMTYuOCAyLjEgMzUuNCA5LjYgNTAuNy0xMy44IDU5LjQtNDIgMTQ3LjktNDIgMjA5LjEgMCAxOC45IDIuNyAzNy41IDQuNSA1Ni40IDMuNCAzLjggMS43IDMuNCA2LjkgMS41IDUwLjQtNjkgNDguNi04Mi41IDcxLjQtMTcyLjggMTIuMyAyMy40IDQ0LjEgMzYgNjkuMyAzNiAxMDYuMiAwIDE1My45LTEwMy41IDE1My45LTE5Ni44QzM4NCA3MS4zIDI5OC4yIDYuNSAyMDQgNi41IiBmaWxsPSJjdXJyZW50Q29sb3IiIC8+PC9zdmc+)
 
-## How to Store Sourdough Croissants
+### How to Store Sourdough Croissants
 
 The croissants will last for 2-3 days at room temperature in a sealed container.
 
@@ -324,7 +324,7 @@ I hope you enjoy making these as much as I do!
 
 [![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTZweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjE2cHgiIHZpZXdCb3g9IjAgMCA0NDQuODE5IDQ0NC44MTkiIGNsYXNzPSJtdi1jcmVhdGUtanRyLWNhcmV0Ij48cGF0aCBkPSJNNDM0LjI1MiwxMTQuMjAzbC0yMS40MDktMjEuNDE2Yy03LjQxOS03LjA0LTE2LjA4NC0xMC41NjEtMjUuOTc1LTEwLjU2MWMtMTAuMDk1LDAtMTguNjU3LDMuNTIxLTI1LjcsMTAuNTYxIEwyMjIuNDEsMjMxLjU0OUw4My42NTMsOTIuNzkxYy03LjA0Mi03LjA0LTE1LjYwNi0xMC41NjEtMjUuNjk3LTEwLjU2MWMtOS44OTYsMC0xOC41NTksMy41MjEtMjUuOTc5LDEwLjU2MWwtMjEuMTI4LDIxLjQxNiBDMy42MTUsMTIxLjQzNiwwLDEzMC4wOTksMCwxNDAuMTg4YzAsMTAuMjc3LDMuNjE5LDE4Ljg0MiwxMC44NDgsMjUuNjkzbDE4NS44NjQsMTg1Ljg2NWM2Ljg1NSw3LjIzLDE1LjQxNiwxMC44NDgsMjUuNjk3LDEwLjg0OCBjMTAuMDg4LDAsMTguNzUtMy42MTcsMjUuOTc3LTEwLjg0OGwxODUuODY1LTE4NS44NjVjNy4wNDMtNy4wNDQsMTAuNTY3LTE1LjYwOCwxMC41NjctMjUuNjkzIEM0NDQuODE5LDEzMC4yODcsNDQxLjI5NSwxMjEuNjI5LDQzNC4yNTIsMTE0LjIwM3oiIC8+PC9zdmc+) Continue to Content](#mv-creation-31)
 
-## Ingredients
+### Ingredients
 
 #### Sourdough Croissant Dough
 
@@ -351,7 +351,7 @@ Toggle ingredient group
 - 1 egg
 - 15g (1 tablespoon) whole milk
 
-## Instructions
+### Instructions
 
 **Feed starter several hours before mixing dough and allow it to peak.**
 

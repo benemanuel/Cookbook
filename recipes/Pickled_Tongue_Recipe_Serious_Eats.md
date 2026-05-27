@@ -21,7 +21,7 @@ labels: [meat]
 - [Recipes By Ingredients](https://www.seriouseats.com/recipes-by-ingredient-recipes-5117749)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb25fcmlnaHQiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1jaGV2cm9uX3JpZ2h0IiB4bGluazpocmVmPSIjaWNvbi1jaGV2cm9uX3JpZ2h0IiAvPgo8L3N2Zz4=)
 - [Beef](https://www.seriouseats.com/beef-recipes-5117732)
 
-# Pickled Tongue Recipe
+### Pickled Tongue Recipe
 
 By
 
@@ -63,7 +63,7 @@ Adapted from [The River Cottage Meat Book](https://www.amazon.com/River-Cottage-
 
 Recipe Details
 
-## Pickled Tongue Recipe
+### Pickled Tongue Recipe
 
 Prep 5 mins
 
@@ -117,7 +117,7 @@ For Simmering:
 
 4. Serve the tongue, both hot and cold, with horseradish and mustard. Thinly sliced tongue may be used for a sandwich on rye with plenty of mustard and horseradish.
 
-## Special equipment
+### Special equipment
 
 3 to 5 quart pot
 

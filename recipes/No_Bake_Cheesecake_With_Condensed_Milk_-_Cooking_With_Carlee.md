@@ -98,7 +98,7 @@ That filling has a nice smooth texture, but it is also softer and the piece didn
 
 4.76 from 209 ratings
 
-## No Bake Cheesecake With Condensed Milk
+### No Bake Cheesecake With Condensed Milk
 
 Author: [Carlee](https://cookingwithcarlee.com/about/)
 
@@ -144,9 +144,9 @@ Graham cracker crust
 
 2 teaspoons lemon juice optional
 
-## Ingredients
+### Ingredients
 
-## Instructions
+### Instructions
 
 - In a medium bowl, mix 16 oz. cream cheese on low speed until it is creamy and lump free. Be sure to scrape the sides of the bowl and the beater a few times along the way.
 
@@ -182,7 +182,7 @@ Serving: 1slice | Calories: 377kcal | Carbohydrates: 31g | Protein: 8g | Fat: 26
 
 Don’t forget to [leave a rating below](#comments) and make sure to follow on [Pinterest](https://pinterest.com/cookingwcarlee) and [Instagram](https://www.instagram.com/carleecooks) for more!
 
-## More Popular No Bake Cheesecake Recipes
+### More Popular No Bake Cheesecake Recipes
 
 [![Slice of chocolate no bake cheesecake with condensed milk on plate with remaining pie in the background.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='450'%20height='450'%20viewBox='0%200%20450%20450'%3E%3C/svg%3E "No Bake Chocolate Cheesecake 1")](https://cookingwithcarlee.com/no-bake-chocolate-cheesecake-2/)
 

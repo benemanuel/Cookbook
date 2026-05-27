@@ -17,7 +17,7 @@ labels: [cake]
 - [Recipes](https://www.foodandwine.com/recipes)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb24iPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLWNoZXZyb24iIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1jaGV2cm9uIiAvPgo8L3N2Zz4=)
 - [Salads](https://www.foodandwine.com/salads)
 
-# Honey-Roasted Root Vegetable Salad
+## Honey-Roasted Root Vegetable Salad
 
 ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)
 
@@ -84,17 +84,17 @@ While some chefs call for par-boiling root vegetables before roasting them, this
 
 Although most root vegetables can be eaten raw, we think they taste even better when cooked. Roasted root vegetables glazed with maple syrup or honey is delicious during the fall season, and a classic mash is also comforting. You can also dice them into small pieces and stir into a soup or stew. If you really want to enjoy root vegetables such as carrots, parsnips, and turnips raw, slice them thin on a mandoline and scatter them over a crunchy salad.
 
-## Notes from the Food & Wine Test Kitchen
+### Notes from the Food & Wine Test Kitchen
 
 Here’s how we peel beets easily in the test kitchen: Roast the beets, then let them rest for about 10 minutes before handling; you want them to be warm so they are easier to peel, but cool enough to handle comfortably. To peel, cup one beet in an old (but clean!) dish towel and rub the towel against the beet to remove the skin. Repeat with the remaining beets, then slice, dice, and serve.
 
-## Make ahead
+### Make ahead
 
 The herbed goat cheese and the vinaigrette can be refrigerated overnight. Bring the goat cheese to room temperature before serving the salad. The vegetables can be roasted earlier in the day and kept at room temperature.
 
  Keep Screen Awake
 
-## Ingredients
+### Ingredients
 
 ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZWNrIj4KPHVzZSBocmVmPSIjaWNvbi1jaGVjayIgeGxpbms6aHJlZj0iI2ljb24tY2hlY2siIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=) 1/2x
 
@@ -148,7 +148,7 @@ Salad
 
 - 4 cups packed arugula leaves (from two 4-ounce bunches)
 
-## Instructions
+### Instructions
 
 ### Make the salad
 

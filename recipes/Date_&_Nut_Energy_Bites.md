@@ -18,7 +18,7 @@ Here’s your **full recipe** for nutrient\-dense, naturally sweet **Date \& Nut
 ---
 
 
-## 🍫 **Date \& Nut Energy Bites** (Makes \~30 small balls)
+### 🍫 **Date \& Nut Energy Bites** (Makes \~30 small balls)
 
 ### 🛒 **Ingredients**
 
@@ -47,7 +47,7 @@ Here’s your **full recipe** for nutrient\-dense, naturally sweet **Date \& Nut
 ---
 
 
-## 🍳 Instructions
+### 🍳 Instructions
 
 ### 🔪 Step 1: Prep the Nuts
 
@@ -86,7 +86,7 @@ If your dates are dry:
 ---
 
 
-## 🧊 Storage
+### 🧊 Storage
 
 * Store in an airtight container in the **fridge for 2–3 weeks**.
 
@@ -95,7 +95,7 @@ If your dates are dry:
 ---
 
 
-## ☕ Best Way to Enjoy
+### ☕ Best Way to Enjoy
 
 * With **black or spiced coffee** around 4 PM.
 

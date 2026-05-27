@@ -20,7 +20,7 @@ labels: [dairy, bread, cake, candy]
 
 [Home](https://bakeorbreak.com/) » [cookies](https://bakeorbreak.com/category/cookies/) » [chocolate chip cookies](https://bakeorbreak.com/category/cookies/chocolate-chip/) » Jacques Torres Chocolate Chip Cookies
 
-# Jacques Torres Chocolate Chip Cookies
+## Jacques Torres Chocolate Chip Cookies
 
 May 23, 2019 *(updated* Aug 7, 2024*)* *by* [Jennifer McHenry](https://bakeorbreak.com/about-jennifer/ "Visit Jennifer McHenry’s website") //
 
@@ -56,13 +56,13 @@ Here’s why this iconic recipe is so beloved among chocolate chip cookie fans:
 
 ![Jacques Torres Chocolate Chip Cookies, homemade and from Jacques Torres shop](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20667%201000'%3E%3C/svg%3E "Jacques Torres Chocolate Chip Cookies may very well be the ultimate chocolate chip cookie recipe. A must-bake for cookie lovers!")
 
-## How These Homemade Jacques Torres Chocolate Chip Cookies Compare to the Original
+### How These Homemade Jacques Torres Chocolate Chip Cookies Compare to the Original
 
 I bought a few of the original Jacques Torres chocolate chip cookies from his shop to compare. You can see the store-bought kind alongside my version in the photo above. Honestly, we thought that the ones I baked were a little better, but that can be chalked up to freshness and small-batch baking. I’ll still gladly enjoy one from his shop whenever I have the opportunity.
 
 While there’s some fussiness in making them, it all comes down to the cookies. And they are beyond amazing. The texture, the flavor, just the whole package is just fantastic. While I’d likely pick a simpler recipe when I’ve got a chocolate chip cookie craving (like my classic [chewy chocolate chip cookies](https://bakeorbreak.com/2021/11/chewy-chocolate-chip-cookies/)), I highly recommend baking a batch of Jacques Torres chocolate chip cookies when you want an all-out chocolate chip cookie experience.
 
-## What You’ll Need
+### What You’ll Need
 
 *Scroll down to the recipe card to find the ingredient quantities and recipe instructions.*
 
@@ -81,7 +81,7 @@ While there’s some fussiness in making them, it all comes down to the cookies.
 
 ![Jacques Torres Chocolate Chip Cookies](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20667%201000'%3E%3C/svg%3E "Jacques Torres Chocolate Chip Cookies may very well be the ultimate chocolate chip cookie recipe. A must-bake for cookie lovers!")
 
-## How to Make Jacques Torres Chocolate Chip Cookies
+### How to Make Jacques Torres Chocolate Chip Cookies
 
 Mixing these cookies is simple, but be sure to factor the time for chilling into your baking plans.
 
@@ -96,7 +96,7 @@ Mixing these cookies is simple, but be sure to factor the time for chilling into
 - **Bake.** Place one pan at a time in the heated oven, and bake 18 to 20 minutes. The cookies should be golden brown but still soft. Repeat with the remaining cookie dough.
 - **Cool.** Place the pan on a wire rack, and allow the cookies to cool for 10 minutes. Then transfer the cookies from the pan directly onto the rack to cool completely.
 
-## More About the Chilling Time
+### More About the Chilling Time
 
 I did a little experiment to see if chilling really makes a difference in these Jacques Torres chocolate chip cookies. The recipe recommends refrigerating the dough at least 24 hours and up to 72 hours. I baked the dough every 24 hours for 3 days and definitely found some differences.
 
@@ -104,7 +104,7 @@ The different chilling times basically present a scale of crispiness and chewine
 
 We thought the 48- and 72-hour Jacques Torres chocolate chip cookies had the best flavor. Honestly, I’d be happy with the cookies from either of those chilling times, which allows me some leeway in when I bake the dough if I’ve got some in the refrigerator. That’s not to say the 24-hour cookies weren’t really, really good. If you need cookies the next day, don’t hesitate to trim the chilling time down to 24 hours. Honestly, you can’t go wrong!
 
-## Tips for Success
+### Tips for Success
 
 Read over my [baking tips for beginners](https://bakeorbreak.com/2022/08/baking-tips-for-beginners/), then follow these additional tips for perfect Jacques Torres chocolate chip cookies.
 
@@ -114,15 +114,15 @@ Read over my [baking tips for beginners](https://bakeorbreak.com/2022/08/baking-
 
 ![Jacques Torres Chocolate Chip Cookies cooling on a wire rack](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20667%201000'%3E%3C/svg%3E "Jacques Torres Chocolate Chip Cookies may very well be the ultimate chocolate chip cookie recipe. A must-bake for cookie lovers!")
 
-## How to Store
+### How to Store
 
 Store your homemade Jacques Torres chocolate chip cookies in an airtight container at room temperature for up to a week.
 
-## Can This Recipe Be Frozen?
+### Can This Recipe Be Frozen?
 
 You can freeze baked cookies for up to 3 months. Wrap them individually or place them in an airtight container or zip-top bag. Let them thaw at room temperature, or microwave them for a few seconds at a time until they’re warmed through.
 
-## More Chocolate Chip Cookie Recipes
+### More Chocolate Chip Cookie Recipes
 
 - [Giant Chocolate Chip Cookie](https://bakeorbreak.com/2023/02/giant-chocolate-chip-cookie/)
 - [Cheesecake-Stuffed Chocolate Chip Cookies](https://bakeorbreak.com/2022/04/cheesecake-stuffed-chocolate-chip-cookies/)
@@ -140,7 +140,7 @@ No ratings yet
 
 Get the Recipe:
 
-## Jacques Torres Chocolate Chip Cookies
+### Jacques Torres Chocolate Chip Cookies
 
 Yield: 18 large cookies
 
@@ -156,7 +156,7 @@ Jacques Torres Chocolate Chip Cookies may be a bit fussy to make, but they’re 
 
 [Print Recipe](https://bakeorbreak.com/wprm_print/jacques-torres-chocolate-chip-cookies) [Pin Recipe](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fbakeorbreak.com%2F2019%2F05%2Fjacques-torres-chocolate-chip-cookies%2F&media=https%3A%2F%2Fbakeorbreak.com%2Fwp-content%2Fuploads%2F2019%2F05%2Fjacques_torres_chocolate_chip_cookies53801k.jpg&description=Jacques+Torres+Chocolate+Chip+Cookies&is_video=false) [Leave a Review](#commentform)
 
-## Ingredients
+### Ingredients
 
 - 2 cups  (240 g) cake flour
 - 2 cups  (240 g) bread flour
@@ -183,7 +183,7 @@ Cook Mode
 
 Prevent your screen from going dark
 
-## Instructions
+### Instructions
 
 - Thoroughly whisk together (or sift) the cake flour, bread flour, baking powder, baking soda, and salt. Set aside.
 

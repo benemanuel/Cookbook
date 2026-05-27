@@ -56,9 +56,9 @@ You may like these [**pickle recipes**](https://www.indianhealthyrecipes.com/rec
 
 ## How to make Mango Pickle (Stepwise Photos)
 
-## Ingredients
+### Ingredients
 
-## Instructions
+### Instructions
 
 1.**This step is for better shelf-life**. If you skip this step, you have to refrigerate the pickle right away after making it. To make mango pickle, firstly make sure all the following are completely dry and free from moisture. It is ideal to sun dry all of them for a few hours. If you do not have sunlight, then wipe with a clean dry cloth and keep them in a dry place the previous night.
 
@@ -119,7 +119,7 @@ Store mango pickle in a glass or ceramic jar. Do not use plastic jars for storin
 
 ![mango pickle recipe made in instant method](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
 
-## Pro Tips
+### Pro Tips
 
 **Shelf-life:** If you do not have sunlight in the place you live, then you can skip all the sun drying process you can skip the step but ensure you refrigerate the pickle after 24 hours. Alternately you can also heat them in the oven. This has worked out super good to me & my pickles stay at room temperature for several months.
 
@@ -153,11 +153,11 @@ Store mango pickle in a glass or ceramic jar. Do not use plastic jars for storin
 
 [![amla pickle](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)](https://www.indianhealthyrecipes.com/amla-pickle-recipe/)
 
-## Recipe Card
+### Recipe Card
 
 ![mango pickle](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
 
-## Mango Pickle Recipe
+### Mango Pickle Recipe
 
 ![SVG Image](data:image/svg+xml;base64,PHN2ZyBzdHlsZT0iZGlzcGxheTpibG9jazt3aWR0aDowcHg7aGVpZ2h0OjBweCIgd2lkdGg9IjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgaGVpZ2h0PSIwIj48ZGVmcz48bGluZWFyZ3JhZGllbnQgaWQ9Indwcm0tcmVjaXBlLXVzZXItcmF0aW5nLTAtMzMiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjMzJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iMzMlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PC9saW5lYXJncmFkaWVudD48L2RlZnM+PGRlZnM+PGxpbmVhcmdyYWRpZW50IGlkPSJ3cHJtLXJlY2lwZS11c2VyLXJhdGluZy0wLTUwIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjwvbGluZWFyZ3JhZGllbnQ+PC9kZWZzPjxkZWZzPjxsaW5lYXJncmFkaWVudCBpZD0id3BybS1yZWNpcGUtdXNlci1yYXRpbmctMC02NiI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iNjYlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI2NiUiIHN0b3Atb3BhY2l0eT0iMCIgLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3Atb3BhY2l0eT0iMCIgLz48L2xpbmVhcmdyYWRpZW50PjwvZGVmcz48L3N2Zz4=)
 
@@ -282,7 +282,7 @@ Author[Swasthi](https://www.indianhealthyrecipes.com/about/)
 
 ### Video
 
-## Watch Mango Pickle Video
+### Watch Mango Pickle Video
 
 ### NUTRITION INFO (estimation only)
 
@@ -322,7 +322,7 @@ Sugar 2g**2%**
 
 © Swasthi’s Recipes
 
-## Meat Recipes
+### Meat Recipes
 
 ### About Swasthi
 

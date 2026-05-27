@@ -107,7 +107,7 @@ Would you like a snack that’s crunchy, flavorful, and healthy? Smoky and spicy
 | ---------- | ------------ |
 | 30 minutes | 20 minutes |
 
-## Ingredients
+### Ingredients
 
 - 1 can chickpeas*
 - 1 canned chipotle pepper in adobo sauce (1 pepper, NOT 1 can!)
@@ -122,7 +122,7 @@ Servings: servings
 Units:Metric
 US Imperial
 
-## Instructions
+### Instructions
 
 1. Preheat the oven to 425°F.
 
@@ -144,7 +144,7 @@ US Imperial
 
 10. Serve warm or cool. Store any leftovers in a paper bag.
 
-## Nutritional Information*
+### Nutritional Information*
 
 Nutrition Facts
 
@@ -188,7 +188,7 @@ Iron 18%
 
  
 
-## Cooking by the Numbers…
+### Cooking by the Numbers…
 
 ### Step 1 – Rinse and Dry Garbanzos
 
@@ -252,7 +252,7 @@ Roasted chickpea snacks can be served warm or cool.
 
 If you have any leftovers (which is doubtful!), store them in a paper bag to retain their crunch – airtight containers will make them soggy.
 
-## The Last Bite
+### The Last Bite
 
 Sweet, savory, or blazing-hot spicy, these little nuggets taste so good you’ll be amazed that they’re actually good for you.
 
@@ -292,7 +292,7 @@ Recently retired as a costume specialist in the TV and film industry, Lorna now 
 
 - [More Posts(187)](https://foodal.com/author/lorna944/ "More Posts By Lorna Kring")
 
-## More of Our Expert Guides
+### More of Our Expert Guides
 
 [![Horizontal image of a collage of various bean dip recipes, with a label in the center.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='800'%20viewBox='0%200%201200%20800'%3E%3C/svg%3E)](https://foodal.com/recipes/vegetarian-vegan/gourmet-hummus-variations/ "From Savory to Sweet, Get Creative with 7 Gourmet Hummus Recipes")
 

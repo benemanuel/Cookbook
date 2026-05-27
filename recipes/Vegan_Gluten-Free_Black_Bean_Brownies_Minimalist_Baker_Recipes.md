@@ -95,7 +95,7 @@ Freezer Friendly 1 month
 
 Does it keep? 3-4 Days
 
-## Ingredients
+### Ingredients
 
 [US Customary](#) – [Metric](#)
 
@@ -115,7 +115,7 @@ Does it keep? 3-4 Days
 - Pecans
 - Dairy-free semisweet chocolate chips
 
-## Instructions
+### Instructions
 
 - Preheat oven to 350 degrees F (176 C).
 

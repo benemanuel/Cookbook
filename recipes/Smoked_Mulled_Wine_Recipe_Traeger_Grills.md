@@ -23,7 +23,7 @@ labels: []
 
 ---
 
-# Smoked Mulled Wine
+## Smoked Mulled Wine
 
 By Traeger Kitchen
 
@@ -82,7 +82,7 @@ Imperial
 
 Metric
 
-## Instructions
+### Instructions
 
 - Step 1
 
@@ -129,7 +129,7 @@ Metric
 
       Remove from grill and ladle into mugs leaving the mulling spices behind. Garnish with fresh cinnamon sticks, anise, orange zest, or a combination. Enjoy!
 
-## My Notes
+### My Notes
 
 ---
 

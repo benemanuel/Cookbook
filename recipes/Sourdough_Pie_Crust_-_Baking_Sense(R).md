@@ -44,7 +44,7 @@ If you don’t already have one, I can show you [how to make a sourdough starter
 - **Fat** – I like to use a mixture of half vegetable shortening and half butter. The vegetable shortening has a higher melting point and keeps the crust from slumping as it bakes. The butter is, well, delicious! You can use all vegetable shortening for a vegan pie crust or all butter if that’s your preference. I sometimes use leaf lard in my pie crust. If you have that available you can use it in place of the shortening.
 - **Sourdough Discard** – This recipe was developed using a 100% hydration starter. That means the starter is fed with equal *weights* of starter, flour and water. You may need to adjust the amount of starter in the recipe based on the moisture level of your starter.
 
-## How to make Sourdough Pie Crust
+### How to make Sourdough Pie Crust
 
 **Here’s what the recipe process looks like at each stage. Refer to the recipe card below for measurements and exact instructions.**
 
@@ -96,7 +96,7 @@ I know you hate to throw away that sourdough discard. Check out these [recipes t
 
 4.56 from 138 reviews
 
-## Sourdough Pie Crust
+### Sourdough Pie Crust
 
 By: [Eileen Gray](https://www.baking-sense.com/about-2/)
 
@@ -122,7 +122,7 @@ Total Time: 1 hour hr 10 minutes mins
 - 4 oz unsalted butter (very cold and sliced into ¼" thin slices)
 - 8 oz sourdough discard (1 cup (100% hydration))
 
-## Instructions
+### Instructions
 
 - Combine 7 ½ oz all purpose flour, 3 ½ oz cake flour, 1 teaspoon salt and 1 tablespoon granulated sugar. Whisk together to mix the ingredients evenly.
 

@@ -23,7 +23,7 @@ labels: [dairy, cake]
 - [Pies](https://www.allrecipes.com/recipes/367/desserts/pies/)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb24iPgo8dXNlIGhyZWY9IiNpY29uLWNoZXZyb24iIHhsaW5rOmhyZWY9IiNpY29uLWNoZXZyb24iIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
 - [Pumpkin Pie Recipes](https://www.allrecipes.com/recipes/819/desserts/pies/pumpkin-pie/)
 
-# Perfect Pumpkin Pie
+## Perfect Pumpkin Pie
 
 ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXItaGFsZiI+Cjx1c2UgaHJlZj0iI2ljb24tc3Rhci1oYWxmIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeGxpbms6aHJlZj0iI2ljb24tc3Rhci1oYWxmIiAvPgo8L3N2Zz4=)
 
@@ -100,7 +100,7 @@ We have over 130 recipes for homemade pumpkin pie here at Allrecipes, but this r
 - Letting the pie cool completely before slicing is essential. Nicole prefers her pumpkin pie cold, so she chills it in the fridge after letting it come to room temperature.
 - “Only [homemade whipped cream](https://www.allrecipes.com/recipe/18352/whipped-cream/) will do” for this perfect pumpkin pie, according to Nicole.  
 
-## Do You Need to Blind Bake the Pie Crust?
+### Do You Need to Blind Bake the Pie Crust?
 
 Blind baking refers to baking pie crust, either partially or completely, without filling it. Why would you do this? Pie with a custard-based filling, such as pumpkin, generally requires little oven time, which means you may want to give your crust a bit of a head start to ensure you don't end up with a raw, soggy bottom.
 
@@ -110,31 +110,31 @@ Several reviewers suggest blind baking the pie crust in the recipe, particularly
 
 *Allrecipes Video*
 
-## Fresh or Canned Pumpkin in Pumpkin Pie?
+### Fresh or Canned Pumpkin in Pumpkin Pie?
 
 Note that this recipe calls for canned pumpkin, not "pumpkin pie filling," which is already spiced. If you plan to use the spices and sweeteners called for in this recipe, go for unflavored canned pumpkin.
 
 While there's no shame in using canned pumpkin, some folks prefer the flavor and satisfaction you get from using fresh pumpkin. If that's you, use [this recipe](https://www.allrecipes.com/recipe/22935/pumpkin-puree/) for making pumpkin puree from scratch. A 1 ½-pound pumpkin yields about 2 cups mashed pumpkin, the same as a 15-ounce can of pumpkin puree.
 
-## Can You Use Pumpkin Pie Spice?
+### Can You Use Pumpkin Pie Spice?
 
 Several reviewers call out using ready-made pumpkin pie spice — a combination of ground cinnamon, ginger, allspice, nutmeg, and sometimes cloves and mace — and additional cinnamon in place of the spices called for: "I followed a suggestion that someone else had made and used 2 teaspoon of [pumpkin pie spice](https://www.allrecipes.com/recipe/20476/pumpkin-spice/) and 2 teaspoon of ground cinnamon instead," says reviewer [Devin](https://www.allrecipes.com/cook/1549780). Some folks prefer the taste of the store-bought pumpkin pie spice to the individual spices, but ultimately it's a matter of personal preference (and convenience!).
 
-## Does Pumpkin Pie Need to Be Refrigerated?
+### Does Pumpkin Pie Need to Be Refrigerated?
 
 Yes, [pumpkin pie needs to be stored in the refrigerator](https://www.allrecipes.com/article/does-pumpkin-pie-need-to-be-refrigerated/#:~:text=The%20short%20and%20easy%20answer,pecan%20pie%2C%20and%20meringue%20pies.) as it is an "egg rich pie," according to the [USDA](https://ask.usda.gov/s/article/What-is-safe-storage-for-pecan-pie). Do allow your pie ample time to cool before refrigerating it (this will also give the filling time to set), but don't leave it out at room temperature for more than 2 hours, otherwise there's a risk of bacteria growth. Pumpkin pie will last up to three to four days in the fridge. If you plan to make pumpkin pie in advance, we'd suggest making it one to two days in advance and refrigerating — this way you'll still have a couple days for leftovers, too!
 
-## Can You Freeze Pumpkin Pie?
+### Can You Freeze Pumpkin Pie?
 
 Custard-based pies freeze remarkably well, so you can absolutely make pumpkin pie ahead of time and freeze it for up to one month in advance (hello, stress-free holidays). If you go this route, we do suggest baking your pie in an aluminum pie pan.
 
 To freeze pumpkin pie, bake your pie and allow it to cool completely. Then wrap it in several layers of plastic wrap, and follow with an additional layer of aluminum foil. Freeze for up to one month. When you're ready to serve, remove the aluminum foil and allow the pie to defrost overnight in the refrigerator.
 
-## How to Make Whipped Cream for Pumpkin Pie
+### How to Make Whipped Cream for Pumpkin Pie
 
 Cracked pie? Whipped cream to the rescue! Use homemade or store-bought whipped cream with a sprinkle of cinnamon to cover any imperfections on your pie. To make homemade whipped cream, follow this [top-rated whipped cream recipe](https://www.allrecipes.com/recipe/18352/whipped-cream/).
 
-## Allrecipes Community Tips and Praise
+### Allrecipes Community Tips and Praise
 
 "Outstanding flavor and very easy to make. Two combinations I love," says reviewer [TaoWine](https://www.allrecipes.com/cook/361105).
 
@@ -146,7 +146,7 @@ Editorial contributions by [**Melanie Fincher**](https://www.allrecipes.com/auth
 
  Keep Screen Awake
 
-## Ingredients
+### Ingredients
 
 ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZWNrIj4KPHVzZSB4bGluazpocmVmPSIjaWNvbi1jaGVjayIgaHJlZj0iI2ljb24tY2hlY2siIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=) 1/2x
 
@@ -176,7 +176,7 @@ This recipe was developed at its original yield. Ingredient amounts are automati
 
 - 1 (9-inch) unbaked pie crust
 
-## Instructions
+### Instructions
 
 1. Gather all ingredients and preheat the oven to 425 degrees F (220 degrees C).
 
@@ -218,7 +218,7 @@ I Made It
 
  ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWVycm9yIG1udGwtbWVzc2FnZS1iYW5uZXJfX3ByZWZpeC1pY29uIG1udGwtbWVzc2FnZS1iYW5uZXJfX2ljb24iPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLWVycm9yIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaHJlZj0iI2ljb24tZXJyb3IiIC8+Cjwvc3ZnPg==) Something went wrong. Please reload and try again.
 
-## Nutrition Facts (per serving)
+### Nutrition Facts (per serving)
 
 | 379 | Calories |
 | --- | -------- |

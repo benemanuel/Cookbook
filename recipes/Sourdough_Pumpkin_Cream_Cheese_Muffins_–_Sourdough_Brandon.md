@@ -44,7 +44,7 @@ Table of Contents
 
 View moreView less
 
-## 👍 Why You’ll Love This Recipe
+### 👍 Why You’ll Love This Recipe
 
 - **Made with real pumpkin**:
   * Like making [Sourdough Strawberries & Cream Scones](https://sourdoughbrandon.com/sourdough-strawberry-scones/ "Sourdough Strawberry Scones recipe"), I like using real fruit or real puree to make these sourdough discard pumpkin muffins! Pumpkin is such a great baking ingredient because it adds a subtle earthy flavor, beautiful orange color, and natural moistness to baked goods.
@@ -66,7 +66,7 @@ View moreView less
 
 ---
 
-## 👨‍🍳 Tips for Making the Best Sourdough Pumpkin Muffins
+### 👨‍🍳 Tips for Making the Best Sourdough Pumpkin Muffins
 
 - **Don’t overmix the batter**
   * Overmixing leads to gluten development, which will create a tough batter, just like making tender [Sourdough Irish Soda Bread](https://sourdoughbrandon.com/sourdough-irish-soda-bread/ "Sourdough Irish Soda Bread recipe") or these other [Sourdough Bran Muffins](https://sourdoughbrandon.com/sourdough-bran-muffins/ "Sourdough Bran Muffins recipe"). Like [cake](https://sourdoughbrandon.com/sourdough-lemon-poppy-seed-bundt-cake/ "Sourdough Lemon Poppy Seed Bundt Cake") or [pastry](https://sourdoughbrandon.com/sourdough-pie-crust/ "Sourdough Pie Crust"), you want to limit the mixing here so you get tender and soft muffins.
@@ -84,7 +84,7 @@ View moreView less
 
 ---
 
-## 🛠 Tools Needed
+### 🛠 Tools Needed
 
 ![Tools needed for sourdough pumpkin muffins including a muffin pan, muffin liners, a whisk, spatula, and cookie scoop.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1463'%20viewBox='0%200%201200%201463'%3E%3C/svg%3E)
 
@@ -102,7 +102,7 @@ View moreView less
 
 ---
 
-## 🛒 Ingredients Needed
+### 🛒 Ingredients Needed
 
 ![Labeled ingredients needed for sourdough pumpkin cream cheese muffins bowls of all-purpose flour, sourdough discard, light brown sugar, granulated sugar, eggs, unsalted melted butter, pumpkin seeds, pumpkin puree, salt, baking soda, baking powder, vanilla extract, cream cheese, and pumpkin pie spices.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
 
@@ -137,7 +137,7 @@ View moreView less
 
 ---
 
-## 🎃 How to Make Sourdough Pumpkin Cream Cheese Muffins
+### 🎃 How to Make Sourdough Pumpkin Cream Cheese Muffins
 
 Follow this visual and detailed recipe guide as you make these sourdough pumpkin muffins.
 
@@ -213,7 +213,7 @@ Finally, cool on a wire rack before serving for a quick [breakfast](https://sour
 
 ---
 
-## How to Store Sourdough Pumpkin Cream Cheese Muffins
+### How to Store Sourdough Pumpkin Cream Cheese Muffins
 
 Due to the cream cheese centers, the sourdough pumpkin muffins should be refrigerated if not consumed within a few hours.
 
@@ -235,7 +235,7 @@ Then, you can spoon some room temperature cream cheese on top of them if you’d
 
 ---
 
-## ❓FAQs
+### ❓FAQs
 
 ### What keeps sourdough pumpkin muffins moist?
 
@@ -286,7 +286,7 @@ Rate this Recipe
 
 4.98 from 34 votes
 
-## Sourdough Pumpkin Cream Cheese Muffins
+### Sourdough Pumpkin Cream Cheese Muffins
 
 By: [Brandon Cochran](https://sourdoughbrandon.com/about/)
 

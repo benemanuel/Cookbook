@@ -96,7 +96,7 @@ Chuck roast comes from the shoulder area of the beef, which means it's a well-ex
 10. **Cook for approximately 4 hours**, but start checking at 3 hours. All oven times vary, and yours may cook more quickly! The roast is done when it shreds easily with a fork.![Beef chuck roast cooked over vegetables in the dutch oven](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20633'%3E%3C/svg%3E)
 11. **Season with more salt and pepper if needed. Remove the bay leaves before serving. Serve hot with desired sides. Enjoy!**
 
-## Roasting Pan Instructions
+### Roasting Pan Instructions
 
 If you don't have a dutch oven, you can use a roasting pan to make my chuck roast recipe. Follow the steps outlined above for seasoning and searing the beef, as well as prepping the vegetables and deglazing the pot. Then, transfer everything to a roasting pan.
 
@@ -104,7 +104,7 @@ Cover the roasting pan tightly in aluminum foil and transfer to the oven. Cook a
 
 ![Overhead shot of the beef chuck roast recipe in a blue dutch oven with fresh herbs on top](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
 
-## Professional Tips for Perfect Results
+### Professional Tips for Perfect Results
 
 - All oven times vary. Because of this, I recommend using a meat thermometer to check the temperature of your roast periodically throughout the cooking process. Your roast may cook more quickly than mine! Check the [temp of the beef](https://sundaysuppermovement.com/beef-temperatures/) and tenderness at the 3-hour mark. You may find it's cooked through and shreds easily early.
 - **Leave the beef to reach room temperature before cooking.** I always recommend you allow your beef to come to room temperature before cooking it so it can cook evenly and beautifully. It will take about 2 hours to come to room temperature.
@@ -116,7 +116,7 @@ Cover the roasting pan tightly in aluminum foil and transfer to the oven. Cook a
 - **This dish is perfect over mashed potatoes.** The delicious [beef gravy](https://sundaysuppermovement.com/slow-cooker-beef-gravy/) seeping into[mashed potatoes](https://sundaysuppermovement.com/how-to-make-creamy-mashed-potatoes/) is a beautiful thing. *My family won't have it served any other way!*
 - Covering the beef in aluminum foil helps trap the moisture and flavors inside, which results in a tender and flavorful roast!
 
-## FAQ
+### FAQ
 
 **What is the difference between Chuck roast vs. shoulder roast?**
 
@@ -129,7 +129,7 @@ Bottom round or top round beef – leaner cut and good to use to slice your beef
 
 ![Chuck roast up close with vegetables and gravy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
 
-## Top Reviews
+### Top Reviews
 
 Wow, this is a great recipe. This will be my permanent roast beef, saved it to ReciMe. In the summer, I smoke my roasts. This is the perfect winter recipe. The way my house smells right now… perfection! ❤️❤️❤️ - **Geraldine**
 
@@ -143,14 +143,14 @@ This chuck roast recipe was AMAZING! I have never made a chuck roast and searche
 
 [See them all here→](#comments) or keep scrolling to the comments section below! I appreciate all of the amazing reviews on this recipe.
 
-## Troubleshooting Common Issues
+### Troubleshooting Common Issues
 
 - **Roast is Tough:** It needs more time. Chuck roast requires patience - under-cooking is the most common mistake.
 - **Vegetables are Mushy:** Add heartier vegetables (potatoes, carrots) at the 2-hour mark instead of at the beginning.
 - **Sauce is Too Salty:** Add a splash of apple cider vinegar or a pinch of sugar to balance the flavors.
 - **Meat is Dry:** Check your oven temperature with an oven thermometer - it may be running hot. Also ensure your Dutch oven lid fits tightly.
 
-## What to Serve with Chuck Roast
+### What to Serve with Chuck Roast
 
 - [Brown Sugar Carrots](https://sundaysuppermovement.com/brown-sugar-glazed-carrots/)
 - [Creamy mashed potatoes](https://sundaysuppermovement.com/how-to-make-creamy-mashed-potatoes/) to soak up the incredible sauce
@@ -160,7 +160,7 @@ This chuck roast recipe was AMAZING! I have never made a chuck roast and searche
 - Fresh crusty bread for dipping
 - Simple green vegetables like steamed broccoli or [green beans](https://sundaysuppermovement.com/garlic-butter-green-beans/)
 
-## Beef Chuck Roast Variations
+### Beef Chuck Roast Variations
 
 - **Mediterranean Style:** Add olives, sun-dried tomatoes, and fresh thyme.
 - **Smoky BBQ:** Include chipotle peppers and a touch of brown sugar.
@@ -171,13 +171,13 @@ Have you tried another variation? [Let me know in the comments!](#comments)
 
 ![Shredded beef chuck roast with vegetables on a white platter next to the dutch oven lid](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
 
-## How to Store Leftover Chuck Roast
+### How to Store Leftover Chuck Roast
 
 - Refrigerate leftovers for up to 4 days
 - Freeze for up to 3 months (reheat gently to prevent drying out)
 - Reheat in low oven (300°F) with a splash of beef stock to maintain moisture
 
-## Chuck Roast Recipes
+### Chuck Roast Recipes
 
 - [Chuck Roast Stew](https://sundaysuppermovement.com/slow-cooker-beef-stew/)
 - [Instant Pot Chuck Roast](https://sundaysuppermovement.com/instant-pot-pot-roast/)
@@ -193,7 +193,7 @@ The key is patience and proper technique. Let the low, slow heat work its magic,
 
 ![Overhead shot of beef chuck roast recipe on a white platter with carrots and fresh herbs](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20920%20920'%3E%3C/svg%3E)
 
-## Beef Chuck Roast Recipe
+### Beef Chuck Roast Recipe
 
 Recipe Author: ![Isabel, AKA Family Foodie](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)[Isabel Laessig](https://sundaysuppermovement.com/isabel-laessig/)
 
@@ -264,9 +264,9 @@ Calories 316 kcal
 
 salt and pepper to taste
 
-## Ingredients
+### Ingredients
 
-## Instructions
+### Instructions
 
 - Preheat oven to 350˚F. Season a 4 lb  boneless beef chuck roast on all sides with   salt and pepper to taste .
 

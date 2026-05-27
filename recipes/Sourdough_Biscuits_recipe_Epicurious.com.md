@@ -49,7 +49,7 @@ Hate pouring excess sourdough starter down the drain? Instead, use it in this bi
 
 Flaky sea salt (optional)
 
-## Instructions
+### Instructions
 
 1. #### Step 1
     Preheat oven to 425°. Stir together baking powder, baking soda, kosher salt, sugar, and 1½ cups flour with a fork in a large bowl. Add ½ cup chilled butter and toss with your hands or fork just to coat. Using your fingers, smash butter into flat disks (if you miss a few, it will be fine). Using a pastry cutter or fork, work butter into dry ingredients until shaggy crumbles form (you should have some large pieces, some small pieces, some flat pieces, and some sandy flour).
@@ -72,7 +72,7 @@ Flaky sea salt (optional)
 
 Tags[Biscuit](/type/biscuit)[Pastries](/type/pastry)[Nut Free](/special-consideration/tree-nut-free)[Baking](/technique/bake)[Thanksgiving](/occasion/thanksgiving)[Christmas](/occasion/christmas)[Epicurious](/source/epicurious)
 
-## Recipe notes
+### Recipe notes
 
 [Back to top![Triangle](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIGZvY3VzYWJsZT0iZmFsc2UiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDMyIDMyIiBjbGFzcz0iaWNvbiBpY29uLXRyaWFuZ2xlIFJldmlld0xpc3RDYXJhdC1qQnhrU2UgaE51V2JzIj48dGl0bGU+VHJpYW5nbGU8L3RpdGxlPjxwYXRoIGQ9Ik0zMCA5SDJsMTQgMTRMMzAgOVoiIGZpbGw9IiMwMDAiIC8+PC9zdmc+)](#main-content)
 

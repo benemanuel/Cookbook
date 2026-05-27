@@ -19,7 +19,7 @@ labels: [dairy]
 
 ![Ginger](https://mccormick.widen.net/content/igwxvlvfr0/original/ginger_snaps_with_br_637390546049010815_800x800.jpg)
 
-# Ginger Snaps with Brandy Cream
+## Ginger Snaps with Brandy Cream
 
 ![Ginger Snaps with Brandy Cream](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Ginger Snaps with Brandy Cream")
 

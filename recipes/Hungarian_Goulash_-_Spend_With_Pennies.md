@@ -38,20 +38,20 @@ This post may contain affiliate links. Please read our [disclosure policy](https
 
 ![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjQ0IiB3aWR0aD0iNDQiIGZvY3VzYWJsZT0iZmFsc2UiIGFyaWEtaGlkZGVuPSJ0cnVlIiByb2xlPSJpbWciPjx1c2UgaHJlZj0iI2NhdGVnb3J5LXNsb3ctY29va2VyIiAvPjwvc3ZnPg==)
 
-## Slow Cooked Comfort
+### Slow Cooked Comfort
 
 While I simmer this on the stove, you can also slow-cook this Hungarian beef goulash in the oven at 325°F for 2.5 hours.
 
 ![adding seasonings to onions with caraway seeds to make Hungarian Goulash](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E "Hungarian goulash is a classic beef recipe that’s both hearty and delicious. It features chunks of beef simmered in a tomato and paprika broth that’s rich, flavorful, and so comforting. Add carrots and potatoes for a full meal in one pot, and serve with bread or noodles to soak up every drop. Simple, warming, and perfect for family dinners. #spendwithpennies")
 ![adding potatoes , carrots and tomatoes to pot to make Hungarian Goulash](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E "Hungarian goulash is the best beef stew to cozy up with on a cool night. Tender beef, onions, and paprika come together in a rich tomato-based broth for bold, comforting flavor. Add carrots and potatoes to make it even heartier, and finish with a dollop of sour cream. Whether made on the stovetop or slow cooked in the oven, it’s always satisfying. #spendwithpennies")
 
-## How to Make Hungarian Goulash
+### How to Make Hungarian Goulash
 
 1. Sauté onions in butter until soft, then sear the beef until browned.
 2. Add broth to deglaze, then mix in tomatoes, more broth, and spices.
 3. Bring to a boil, then cover and simmer **(full recipe below)** until the meat is tender.
 
-## Serving Suggestions
+### Serving Suggestions
 
 Serve the goulash on its own or over [](https://www.spendwithpennies.com/egg-noodles/)[homemade egg noodles](https://www.spendwithpennies.com/egg-noodles/), elbow macaroni, or [mashed potatoes](https://www.spendwithpennies.com/how-to-make-mashed-potatoes/). Top it with a dollop of sour cream and fresh parsley.
 
@@ -59,7 +59,7 @@ Add a side of [crusty artisan bread](https://www.spendwithpennies.com/easy-artis
 
 ![bowl of Hungarian Goulash with sour cream on top](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E "Hungarian goulash is a traditional beef recipe with a rich paprika-spiced broth that’s cozy and full of flavor. Tender beef and vegetables simmer together to create a hearty, filling dish that’s perfect for family dinners. Try it as a soup-style meal with crusty bread or serve over noodles for comfort in every bite. #spendwithpennies")
 
-## Leftovers
+### Leftovers
 
 Store leftovers in an airtight container in the refrigerator for up to 4 days or freeze for up to 3 months.
 
@@ -117,7 +117,7 @@ To reheat, warm over low to medium-low heat, stirring occasionally. Add a splash
 
 Author [Holly Nilsson](https://www.spendwithpennies.com/author/holly/)
 
-## Hungarian Goulash
+### Hungarian Goulash
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
 
@@ -194,9 +194,9 @@ Total Time 2 hours hours
 
 chopped fresh parsley and sour cream for serving, optional
 
-## Ingredients
+### Ingredients
 
-## Instructions
+### Instructions
 
 - In a Dutch oven or large pot, melt the butter over medium-low heat. Add the onion and cook until translucent, about 5 minutes. Stir in caraway seeds and paprika.
 

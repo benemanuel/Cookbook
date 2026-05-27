@@ -22,7 +22,7 @@ labels: [dairy, bread, cake]
 - [Breakfast & Brunch](https://www.seriouseats.com/breakfast-brunch-recipes-5117905)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb25fcmlnaHQiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1jaGV2cm9uX3JpZ2h0IiB4bGluazpocmVmPSIjaWNvbi1jaGV2cm9uX3JpZ2h0IiAvPgo8L3N2Zz4=)
 - [Waffles](https://www.seriouseats.com/waffle-recipes-5117886)
 
-# Sourdough Waffles
+### Sourdough Waffles
 
 Instead throwing away sourdough discard, make waffles!
 
@@ -84,7 +84,7 @@ The flavor you end up with will depend on your starter. A really mild starter wi
 
 Recipe Details
 
-## Sourdough Waffles Recipe
+### Sourdough Waffles Recipe
 
 Prep 5 mins
 
@@ -127,15 +127,15 @@ to 6 servings
 
 4. Cook in waffle iron according to the manufacturer's directions. Serve right away with butter and maple syrup.
 
-## Special Equipment
+### Special Equipment
 
  [Belgian or American waffle iron](https://www.seriouseats.com/the-best-waffle-makers)
 
-## Notes
+### Notes
 
 You can use unfed/discarded starter that has been kept at room temperature or straight from the refrigerator. To read more about discarding, feeding, and maintaining a sourdough starter, please see our guide [here](https://www.seriouseats.com/sourdough-starter).
 
-## Read More
+### Read More
 
 - [Buttermilk Vanilla Waffles](https://www.seriouseats.com/buttermilk-vanilla-waffles-recipe)
 - [Overnight Brown-Butter Yeast-Raised Waffles](https://www.seriouseats.com/brown-butter-yeast-raised-waffles-recipe)

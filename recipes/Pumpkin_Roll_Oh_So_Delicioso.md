@@ -33,7 +33,7 @@ Yes! I have made this recipe using cup-4-cup flour and it works amazing. You don
 
 ![slice of pumpkin roll laying face down](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
 
-## What ingredients do I need?
+### What ingredients do I need?
 
 - 100% pure pumpkin. Not pumpkin pie filling. You can find this in the baking isle.
 - ginger, nutmeg, clove and cinnamon- while we just use a little of each spice they are essential to the flavor of a classic pumpkin roll. I use ground spices found in the spice isle.
@@ -42,7 +42,7 @@ Yes! I have made this recipe using cup-4-cup flour and it works amazing. You don
 ![ingredients on a platter
 ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
 
-## How to make Pumpkin Roll Batter.
+### How to make Pumpkin Roll Batter.
 
 1. Start by mixing your dry ingredients together.
 2. While mixing add in your wet ingredients.
@@ -52,7 +52,7 @@ Yes! I have made this recipe using cup-4-cup flour and it works amazing. You don
 ![Adding wet ingredients to a mixer with dry ingredients
 ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
 
-## How to place in pan so it doesn't stick
+### How to place in pan so it doesn't stick
 
 while you can generously coat your pan with butter and flour or a non-stick spray I prefer to line with a parchment sheet and then spray with a non-stick spray.
 
@@ -64,13 +64,13 @@ Bake your cake, and immediately remove from the pan, flip and roll on a powder s
 
 ![four process shots of inverting the cake peeling off parchment paper and rolling warm makeup in flour sack towel](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
 
-## How to reduce cracks in your Pumpkin Roll
+### How to reduce cracks in your Pumpkin Roll
 
 The best way to reduce the crack is to roll your pumpkin roll when it is still warm. I like to let it cool for just a few minutes. Then sprinkle a CLEAN flour sack towel or tea towel with powder sugar and flip the cake on top. (Be sure to not have a towel that is overly fragrant with laundry detergent.) Roll the cake up gently. Let cool, Then frost and roll up again.
 
 ![measuring cup sprinkling powder sugar over flour sack towel](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1920'%20viewBox='0%200%201200%201920'%3E%3C/svg%3E)
 
-## How to make Cream Cheese Frosting
+### How to make Cream Cheese Frosting
 
 To make cream cheese frosting you will need
 
@@ -87,7 +87,7 @@ To make cream cheese frosting you will need
 
 Mix the frosting for a few minutes while it fluffs up. You'll have a rich, creamy fluffy cream cheese frosting.
 
-## Filling the pumpkin cake
+### Filling the pumpkin cake
 
 With you pumpkin cake completely cooled you are ready to spread it.
 
@@ -99,7 +99,7 @@ With you pumpkin cake completely cooled you are ready to spread it.
 ![4 process shots of spreading cream cheese frosting on cake and rolling up the cake
 ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
 
-## How do I store the pumpkin roll?
+### How do I store the pumpkin roll?
 
 Now that your roll is completed you will want to store it in the fridge. Preferably in an air tight container or wrapped in a wrap. Chilling the pumpkin roll a few hours before serving will help in slicing the cake because it will be slightly firmer than if at room temp
 
@@ -124,13 +124,13 @@ The cake should be finished at the time the recipe calls for. If your oven bakes
 ![pumpkin roll with a slice in front of it
 ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
 
-## Make this recipe? Have questions?
+### Make this recipe? Have questions?
 
 Please let me know if you make this classic pumpkin roll recipe!! I love to hear from those who make my recipes. If you want to keep up with our newest recipes, make sure you follow is on [Facebook](http://facebook.com/ohsodelicioso) and [Instagram,](http://instagram.com/ohsodelicioso)and make sure to [subscribe to our newsletter.](https://us3.list-manage.com/subscribe?u=2bb42a811d82ffde0a1e5b41e&id=be1dcf21bc)
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='200'%20height='200'%20viewBox='0%200%20200%20200'%3E%3C/svg%3E)
 
-## Pumpkin Roll
+### Pumpkin Roll
 
 The classic pumpkin roll. Moist pumpkin cake with cream cheese filling, dusted with powdered sugar. The perfect addition to your fall baking.
 
@@ -160,7 +160,7 @@ Calories: 331kcal
 
 Author: [Kadee & Desarae](https://ohsodelicioso.com/about-los-angeles-food-bloggers-oh-so-delicioso/)
 
-## Ingredients
+### Ingredients
 
 #### Pumpkin roll sponge cake
 
@@ -213,7 +213,7 @@ Author: [Kadee & Desarae](https://ohsodelicioso.com/about-los-angeles-food-blogg
 
 1-2 tablespoons milk or heavy cream
 
-## Instructions
+### Instructions
 
 #### Sponge cake
 
@@ -251,7 +251,7 @@ Calories: 331kcal | Carbohydrates: 55g | Protein: 4g | Fat: 12g | Saturated Fat:
 
 SaveSave
 
-## More Dessert Recipes Index
+### More Dessert Recipes Index
 
 - [Chocolate lava cake on a plate. Molten Chocolate Lava Cake Recipe](https://ohsodelicioso.com/peppermint-chocolate-lava-cake-fiesta-dinnerware-ramekins-giveaway/)
 - [Sour cream pound cake with strawberries on a white cake stand. Sour Cream Pound Cake Recipe](https://ohsodelicioso.com/sour-cream-pound-cake/)

@@ -13,7 +13,7 @@ labels: [dairy, cake]
 
 ---
 
-# The Best Gluten-Free Battered Cauliflower Recipe
+## The Best Gluten-Free Battered Cauliflower Recipe
 
 by [Elyse the Gluten-Free Foodee](https://glutenfreefoodee.com/author/elyse/) March 10, 2025
 
@@ -37,7 +37,7 @@ It’s important that the following tips are followed to ensure the success of t
 
 *You can use these tips to lighten any batter but with gluten-free batter, I recommend using them all.*
 
-## The Best Gluten-Free Battered Cauliflower Recipe
+### The Best Gluten-Free Battered Cauliflower Recipe
 
 ### Ingredients:
 
@@ -125,13 +125,13 @@ Enjoy!
 
 **![The Best Gluten-Free Battered Cauliflower Recipe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "The Best Gluten-Free Battered Cauliflower Recipe")
 
-## The Best Gluten-Free Battered Cauliflower Recipe
+### The Best Gluten-Free Battered Cauliflower Recipe
 
 [Print Recipe/Tips](#)
 
 Nutrition facts: 200 calories 20 grams fat
 
-## Ingredients
+### Ingredients
 
 - 2 eggs separated
 - 1/2 tsp cream of tarter
@@ -178,7 +178,7 @@ Nutrition facts: 200 calories 20 grams fat
 
 ### NOTES/TIPS
 
-## 3 GFF Tips to Success
+### 3 GFF Tips to Success
 
 It's important that the following tips are followed to ensure the success of the best gluten-free battered cauliflower recipe:
 
@@ -226,4 +226,4 @@ How did it go? Let us know in the comments. Tag us on Instagram at [@Gluten_Free
 
 ### [The Ultimate List of Gluten-Free Father’s Day Recipes](https://glutenfreefoodee.com/the-ultimate-list-of-gluten-free-fathers-day-recipes/)
 
-## Instructions
+### Instructions

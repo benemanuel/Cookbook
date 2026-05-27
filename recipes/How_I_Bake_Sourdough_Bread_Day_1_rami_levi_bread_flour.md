@@ -42,7 +42,7 @@ labels: [bread]
 
 ---
 
-# How I Bake Sourdough Bread Every Day In LESS Than 30 Minutes
+## How I Bake Sourdough Bread Every Day In LESS Than 30 Minutes
 
 [bread baking](https://www.culinaryexploration.eu/blog?tag=bread+baking) [sourdough baking](https://www.culinaryexploration.eu/blog?tag=sourdough+baking) [sourdough bread](https://www.culinaryexploration.eu/blog?tag=sourdough+bread)
 

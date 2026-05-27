@@ -78,7 +78,7 @@ You’ll be a potluck hero, for sure!
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
 
-## How to make homemade oatmeal cream pies
+### How to make homemade oatmeal cream pies
 
 One of my favorite things about these homemade oatmeal cream pies is that I know what the ingredients are.
 
@@ -169,7 +169,7 @@ Spread or pipe the filling on the flat side of half of the cookies and top with 
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
 
-## Assembly tips
+### Assembly tips
 
 Getting the right amount of filling to cookies is the key to making these homemade oatmeal cream pies juuuust right. After all, you don’t want to take a bite and have all the filling smoosh out of the sides.
 
@@ -181,7 +181,7 @@ Make sure you only pipe or spread the filling in the center of the bottom cookie
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
 
-## Oatmeal cream pie storage and freezing
+### Oatmeal cream pie storage and freezing
 
 Store homemade oatmeal cream pies in an airtight container in the refrigerator for up to 3 days.
 
@@ -195,7 +195,7 @@ Let the oatmeal cream pies thaw in the fridge overnight or at room temperature f
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20800'%3E%3C/svg%3E)
 
-## Frequently asked questions
+### Frequently asked questions
 
 **I only have salted butter. Can I use this in the recipe instead?**
 
@@ -205,7 +205,7 @@ Yes. I would reduce the salt in the cookies to just a pinch if using salted butt
 
 I have not tried this myself, but I have had several readers who have used a gluten-free one-for-one flour in a number of my recipes successfully.
 
-## Homemade Oatmeal Cream Pies
+### Homemade Oatmeal Cream Pies
 
 By: [Jamie](https://www.mybakingaddiction.com/author/jamie/)
 
@@ -237,7 +237,7 @@ Servings: 9 large sandwich cookies
 
 - [Cooling rack](https://amzn.to/3QYnDtm)
 
-## Ingredients
+### Ingredients
 
 1x
 
@@ -299,7 +299,7 @@ Metric
 
 ### Video
 
-## Instructions
+### Instructions
 
 - Preheat oven to 350°F. Line cookie sheets with parchment paper.
 

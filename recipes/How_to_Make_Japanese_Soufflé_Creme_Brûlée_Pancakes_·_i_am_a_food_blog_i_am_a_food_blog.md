@@ -17,7 +17,7 @@ labels: [meat, fish, dairy, bread, cake, candy]
 
 ---
 
-# [i am a food blog](/)
+### [i am a food blog](/)
 
 [Subscribe](#)
 
@@ -43,7 +43,7 @@ labels: [meat, fish, dairy, bread, cake, candy]
 
 [baking](https://iamafoodblog.com/category/recipes/baking/)/[breakfast](https://iamafoodblog.com/category/recipes/sunday-brunch/breakfast/)/[brunch](https://iamafoodblog.com/category/recipes/sunday-brunch/)/[how to](https://iamafoodblog.com/category/recipes/cooking/how-to/)/[japanese food](https://iamafoodblog.com/category/recipes/cuisines/japanese-food/)/[recipes](https://iamafoodblog.com/category/recipes/)/[sweets](https://iamafoodblog.com/category/recipes/baking/sweets/)
 
-## [How to Make Japanese Soufflé Creme Brûlée Pancakes](https://iamafoodblog.com/how-to-make-japanese-souffle-creme-brulee-pancakes/ "Permanent Link to How to Make Japanese Soufflé Creme Brûlée Pancakes")
+### [How to Make Japanese Soufflé Creme Brûlée Pancakes](https://iamafoodblog.com/how-to-make-japanese-souffle-creme-brulee-pancakes/ "Permanent Link to How to Make Japanese Soufflé Creme Brûlée Pancakes")
 
 Do you want to eat fluffy Japanese soufflé creme brûlée pancakes but don’t want to fly to Hong Kong or wait in a line for hours? This recipe is for you! Make the fluffy pancakes of your dreams, tall and fluffy with a creme brûlée crackling sugar crust.
 

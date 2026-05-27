@@ -36,7 +36,7 @@ This recipe is so finger-licking good you will want to put it on EVERYTHING. Her
 
 ![Almond Pecan Frosting](https://iambaker.net/wp-content/uploads/2019/03/almond-pecah-blog4.jpg "Adding our favorite Ham Chowder to a bread bowl is the ultimate comfort food! ham chowder, ham and cheese chowder, bread bowl soup, bread bowls, soups, comfort food, iambaker")
 
-## Tips for Making Sheet Cake
+### Tips for Making Sheet Cake
 
 Use eggs at room temperature. Not only will the eggs incorporate better if they are at room temperature, but they won’t cook when you add them to the saucepan.
 
@@ -46,7 +46,7 @@ Prepare your pan well or line it with parchment paper. I love using GOOP (homema
 
 ![How to Make Sheet Cake](https://iambaker.net/wp-content/uploads/2019/03/almond-pecan-blog.jpg "Adding our favorite Ham Chowder to a bread bowl is the ultimate comfort food! ham chowder, ham and cheese chowder, bread bowl soup, bread bowls, soups, comfort food, iambaker")
 
-## Can I use a Different Size Pan?
+### Can I use a Different Size Pan?
 
 This recipe is designed as a sheet cake and the 10×15 pan is important. (If you don’t have one, I recommend waiting until you are able to get one. I found some at Dollar General for $2 each.)
 
@@ -54,7 +54,7 @@ Some readers have mentioned using a 9×13 pan, but be advised that the baking ti
 
 ![Perfect Pot Luck Sheet Cake](https://iambaker.net/wp-content/uploads/2019/03/almond-cake-blog.jpg "Adding our favorite Ham Chowder to a bread bowl is the ultimate comfort food! ham chowder, ham and cheese chowder, bread bowl soup, bread bowls, soups, comfort food, iambaker")
 
-## How to Store and Freeze Sheet Cake
+### How to Store and Freeze Sheet Cake
 
 This cake can be stored in an airtight container or covered at room temperature for 2-3 days.
 
@@ -92,7 +92,7 @@ To freeze, leave the cake in the sheet pan and cover with plastic wrap and then 
 
 5 from 12 votes
 
-## Almond Pecan Sheet Cake
+### Almond Pecan Sheet Cake
 
 Prep Time 15 minutes mins
 
@@ -104,7 +104,7 @@ If you love sheet cakes you are going to LOVE this one!
 
 [Save](#)[Saved!](#) [Print](https://iambaker.net/wprm_print/almond-pecan-sheet-cake) [Rate](#comment) [Comment](#comment)
 
-## Ingredients
+### Ingredients
 
 #### Cake
 
@@ -154,7 +154,7 @@ If you love sheet cakes you are going to LOVE this one!
 
 1 cup chopped pecans
 
-## Instructions
+### Instructions
 
 #### Cake
 

@@ -21,7 +21,7 @@ labels: []
 - [Cocktail Party Recipes](https://www.thespruceeats.com/cocktail-party-4162291)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb25fcmlnaHQiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1jaGV2cm9uX3JpZ2h0IiB4bGluazpocmVmPSIjaWNvbi1jaGV2cm9uX3JpZ2h0IiAvPgo8L3N2Zz4=)
 - [Cocktail Party Drinks](https://www.thespruceeats.com/cocktail-party-drinks-4162289)
 
-# Cranberry Ginger Shandy
+## Cranberry Ginger Shandy
 
 By
 

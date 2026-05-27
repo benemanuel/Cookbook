@@ -31,7 +31,7 @@ labels: [dairy, cake, candy]
 
 *![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTggMTMiIGhlaWdodD0iMTMiIHdpZHRoPSIxOCI+PHBhdGggZD0iTTE4IDMuNXY4bC0xLjUgMS41aC0xNWwtMS41LTEuNXYtOGwxLjUtMS41aDMuNWwyLTJoNGwyIDJoMy41bDEuNSAxLjV6bS05IDcuNWMxLjkgMCAzLjUtMS42IDMuNS0zLjVzLTEuNi0zLjUtMy41LTMuNS0zLjUgMS42LTMuNSAzLjUgMS42IDMuNSAzLjUgMy41eiIgLz48L3N2Zz4=)Felicity Cloake’s sticky toffee pudding. Photograph: Dan Matthews/The Guardian. Food styling: Loïc Parisot.*
 
-# How to make sticky toffee pudding – recipe
+### How to make sticky toffee pudding – recipe
 
 Is there anything more comforting than a sticky toffee pudding? Here’s your step-by-step guide to a faultless dessert
 
@@ -61,13 +61,13 @@ For the sauce
 **40g dark muscovado sugar**  
 **140ml double cream**
 
-## **1 Prep the dates**
+### **1 Prep the dates**
 
 Heat the oven to 200C (180C fan)/390F/gas 6) and get the butter out of the fridge to soften, if you haven’t already. Stone and roughly chop the dates – though sticky, this process should be relatively easy with a small, sharp knife.
 
 Medjool dates are softer and richer in flavour than some other common varieties, so are the best ones to use for this recipe, if you can find them.
 
-## **2 Make the sauce**
+### **2 Make the sauce**
 
 Put all the ingredients for the sauce in a small pan. Put over a low heat until the butter melts, stirring regularly to encourage it, then mix together, turn up the heat and bring to a boil. Simmer for about four minutes, until the sauce is thick enough to coat the back of a spoon.
 
@@ -75,11 +75,11 @@ Put all the ingredients for the sauce in a small pan. Put over a low heat until 
 
 *![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTggMTMiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMyI+PHBhdGggZD0iTTE4IDMuNXY4bC0xLjUgMS41aC0xNWwtMS41LTEuNXYtOGwxLjUtMS41aDMuNWwyLTJoNGwyIDJoMy41bDEuNSAxLjV6bS05IDcuNWMxLjkgMCAzLjUtMS42IDMuNS0zLjVzLTEuNi0zLjUtMy41LTMuNS0zLjUgMS42LTMuNSAzLjUgMS42IDMuNSAzLjUgMy41eiIgLz48L3N2Zz4=)Make the sauce by melting together butter, caster and muscovado sugar, and cream.*
 
-## **3 Line the dish**
+### **3 Line the dish**
 
 Grease a 24cm x 24cm baking dish with butter. Pour half the sauce into the prepared dish, tip it this way and that until the base is completely coated, then put the dish in the freezer while you make the batter. Leave the rest of the sauce in the pan for now. Boil a kettle of water.
 
-## **4 Prepare the dates and nuts**
+### **4 Prepare the dates and nuts**
 
 Put the dates and bicarb in a heatproof bowl and pour over 300ml boiling water to cover. Leave them to soften while you get the rest of the batter ingredients ready.
 
@@ -89,7 +89,7 @@ Put the dates and bicarb in a heatproof bowl and pour over 300ml boiling water t
 
 If you’re using the walnuts (pecans would also be nice), heat a small, dry frying pan over a medium-high heat, toast them until fragrant, then tip out on to a board and roughly chop.
 
-## **5 Start on the batter**
+### **5 Start on the batter**
 
 ![Prepare the batter: butter, sugars, flour, baking powder, eggs and a pinch of salt.](https://i.guim.co.uk/img/media/e7edcdb6f5b6452dcb9c9181ab428bdd1edf87f6/551_267_6724_6721/master/6724.jpg?width=445&amp;dpr=1&amp;s=none&amp;crop=none)[![SVG Image](data:image/svg+xml;base64,PHN2ZyBmb2N1c2FibGU9ImZhbHNlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGFyaWEtaGlkZGVuPSJ0cnVlIiB2aWV3Qm94PSItMyAtMyAzMCAzMCI+PHBhdGggZD0iTTIzIDguNzVWMS41bC0uNS0uNWgtNy4yNXYxLjI1bDQuNS42TDE0IDguNTc1IDE1LjQgMTBsNS43NS01LjcyNS42IDQuNDc1em0tMjIgNi41djcuMjVsLjQ3NS41aDcuMjV2LTEuMjVsLTQuNDc1LS42IDUuNzI1LTUuNzc1TDguNiAxNGwtNS43NzUgNS43MjUtLjU3NS00LjQ3NXoiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZmlsbC1ydWxlPSJldmVub2RkIiAvPjwvc3ZnPg==)View image in fullscreen](#img-5)
 
@@ -97,7 +97,7 @@ If you’re using the walnuts (pecans would also be nice), heat a small, dry fry
 
 Put the butter and both sugars into a large bowl or food mixer, add a pinch of salt, then beat vigorously until very light and fluffy. Grind the cloves to a fine powder and, in a separate bowl, whisk with the flour and baking powder. Beat the eggs in a cup or jug.
 
-## **6 Finish the batter**
+### **6 Finish the batter**
 
 ![Add the dates and walnuts to the batter, and fold in gently, so as not to knock out too much air.](https://i.guim.co.uk/img/media/e1f58bb97ee3272c7596a376968a895a32907c37/775_150_5143_5144/master/5143.jpg?width=445&amp;dpr=1&amp;s=none&amp;crop=none)[![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSItMyAtMyAzMCAzMCIgYXJpYS1oaWRkZW49InRydWUiIGZvY3VzYWJsZT0iZmFsc2UiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIzIDguNzVWMS41bC0uNS0uNWgtNy4yNXYxLjI1bDQuNS42TDE0IDguNTc1IDE1LjQgMTBsNS43NS01LjcyNS42IDQuNDc1em0tMjIgNi41djcuMjVsLjQ3NS41aDcuMjV2LTEuMjVsLTQuNDc1LS42IDUuNzI1LTUuNzc1TDguNiAxNGwtNS43NzUgNS43MjUtLjU3NS00LjQ3NXoiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZmlsbC1ydWxlPSJldmVub2RkIiAvPjwvc3ZnPg==)View image in fullscreen](#img-6)
 
@@ -105,7 +105,7 @@ Put the butter and both sugars into a large bowl or food mixer, add a pinch of s
 
 Beat the eggs, a little at a time, into the butter and sugar mixture, until thoroughly incorporated, then use a large metal spoon to fold in the dry ingredients, being careful to knock as little air out of the mixture as possible. Finally, fold in the dates and their soaking water, plus the walnuts, if using.
 
-## **7 Bake**
+### **7 Bake**
 
 Take the dish out of the freezer and pour the batter on top of the sauce. Tip the dish to level out the batter, then bake for about 30 minutes, until just firm to the touch in the centre. Towards the end of the cooking time, reheat the remaining sauce in the pan.
 
@@ -113,11 +113,11 @@ Take the dish out of the freezer and pour the batter on top of the sauce. Tip th
 
 *![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTggMTMiIGhlaWdodD0iMTMiIHdpZHRoPSIxOCI+PHBhdGggZD0iTTE4IDMuNXY4bC0xLjUgMS41aC0xNWwtMS41LTEuNXYtOGwxLjUtMS41aDMuNWwyLTJoNGwyIDJoMy41bDEuNSAxLjV6bS05IDcuNWMxLjkgMCAzLjUtMS42IDMuNS0zLjVzLTEuNi0zLjUtMy41LTMuNS0zLjUgMS42LTMuNSAzLjUgMS42IDMuNSAzLjUgMy41eiIgLz48L3N2Zz4=)Put half the sauce in a baking dish and chill. Top with batter and bake, then pour on the rest of the sauce and grill .*
 
-## **8 Grill the top**
+### **8 Grill the top**
 
 Heat the grill to medium. Using a skewer or similar, poke small holes all across the top of the baked pudding, then pour the sauce over the top. Remembering it will still be hot, put the dish under the grill until the top is molten and bubbling – keeping a watchful eye on it, because sugar is quick to burn.
 
-## 9 Serve (or reheat)
+### 9 Serve (or reheat)
 
 Serve the sticky toffee pudding immediately, with ice-cream, custard, creme fraiche or Greek yoghurt. Alternatively, bake the pudding itself ahead of time, but don’t add the remaining sauce until you’re ready to serve. Cover the pudding with foil, then reheat in a 180C (160C fan)/350F/gas 4 oven for about 20 minutes, then continue with step 8.
 

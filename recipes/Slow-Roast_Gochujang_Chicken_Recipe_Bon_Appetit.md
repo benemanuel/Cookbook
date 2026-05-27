@@ -175,7 +175,7 @@ Need to make a substitution?
 
 Ask AI
 
-## Instructions
+### Instructions
 
 1. #### Step 1
     Place a rack in middle of oven; preheat to 300°. This is an important temperature for this recipe, so if you don’t have an oven thermometer already, [now is the time to get one](https://www.bonappetit.com/story/oven-thermometer)! Pat chicken dry with paper towels. Place on a small rimmed baking sheet. Season **1 3½–4-lb. whole chicken** all over with **1 Tbsp. Diamond Crystal or 1¾ tsp. Morton kosher salt** and **lots of freshly ground black pepper**, making sure to season the inside cavity.
@@ -235,7 +235,7 @@ Ask AI
 
 Explore Bon Appétit[Korean](/cuisine/korean)[East Asian](/cuisine/east-asian)[Asian](/cuisine/asian)[Chicken](/ingredient/chicken)[Poultry](/ingredient/poultry)[Potato](/ingredient/potato)[Vegetable](/ingredient/vegetable)[Yukon Gold Potato](/ingredient/yukon-gold)[One-Pot Meals](/simple-cooking/one-pot-meals)[Easy](/simple-cooking/easy)[Weeknight Meals](/simple-cooking/weeknight-meals)[Main](/meal/main)[Dairy-Free](/diet/dairy-free)[Nut-Free](/diet/nut-free)[Roast](/cooking-method/roast)[Dinner](/meal-time/dinner)[Basically](/simple-cooking/basically)[Recipe All-Star](/misc/recipe-all-star)
 
-## Recipe notes
+### Recipe notes
 
 [Back to top![Triangle](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIiBmb2N1c2FibGU9ImZhbHNlIiBjbGFzcz0iaWNvbiBpY29uLXRyaWFuZ2xlIFJldmlld0xpc3RDYXJhdC1qQnhrU2UgZ05IRVdZIj48dGl0bGU+VHJpYW5nbGU8L3RpdGxlPjxwYXRoIGQ9Ik0zMCA5SDJsMTQgMTRMMzAgOVoiIGZpbGw9IiMwMDAiIC8+PC9zdmc+)](#main-content)
 

@@ -178,7 +178,7 @@ Vegan Hokkaido milk bread - a vegan version of the softest, fluffiest bread ever
 
 ![SVG Image](data:image/svg+xml;base64,PHN2ZyB5PSIwcHgiIHZpZXdib3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIxNnB4IiB3aWR0aD0iMTZweCIgeD0iMHB4Ij48Zz48cGF0aCBkPSJNMTMsMjFoLTJINXYyYzAsMC42LDAuNCwxLDEsMWgxMmMwLjYsMCwxLTAuNCwxLTF2LTJIMTN6IiBkYXRhLWNvbG9yPSJjb2xvci0yIiBmaWxsPSIjMzMzMzMzIiAvPjxwYXRoIGQ9Ik0xOCw0Yy0wLjEsMC0wLjIsMC0wLjMsMGMtMC44LTIuMy0zLTQtNS43LTRTNy4yLDEuNyw2LjMsNEM2LjIsNCw2LjEsNCw2LDRjLTMuMywwLTYsMi43LTYsNmMwLDMsMi4yLDUuNCw1LDUuOVYxOWg2di00aDJ2NGg2di0zLjFjMi44LTAuNSw1LTIuOSw1LTUuOUMyNCw2LjcsMjEuMyw0LDE4LDR6IiBmaWxsPSIjMzMzMzMzIiAvPjwvZz48L3N2Zz4=) Author Domestic Gothess
 
-## Ingredients
+### Ingredients
 
 #### Tangzhong:
 
@@ -204,7 +204,7 @@ Vegan Hokkaido milk bread - a vegan version of the softest, fluffiest bread ever
 - ½ Tbsp maple syrup
 - 1 Tbsp water
 
-## Instructions
+### Instructions
 
 - Start by making the tangzhong; whisk together the 30g bread flour and 150ml milk in a pan until no lumps remain.
 
@@ -248,7 +248,7 @@ For the best results make sure that you follow the recipe closely. As always, I 
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20680%201300'%3E%3C/svg%3E "Vegan Hokkaido milk bread - a vegan version of the softest, fluffiest bread ever! This eggless and dairy free milk bread has a cloud-like texture and is perfect for breakfast and snacking. #vegan #plantbased #veganbread #veganmilkbread #milkbread #hokkaidomilkbread #veganbaking #veganbreadfast #bread")
 
-## More Bread, Buns and Yeasted Bakes
+### More Bread, Buns and Yeasted Bakes
 
 - [An oatmeal molasses roll on a white plate. Oatmeal Molasses Rolls (vegan)](https://domesticgothess.com/blog/2026/05/03/oatmeal-molasses-rolls/)
 - [A woman in a green dress holding a vegan Colomba Pasquale. Vegan Colomba Pasquale](https://domesticgothess.com/blog/2026/03/31/vegan-colomba-pasquale/)

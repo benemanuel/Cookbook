@@ -47,7 +47,7 @@ This is what a fully spatchcocked chicken looks like:
 
 ![Overhead view of a spatchcocked chicken on a baking sheet](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20530'%3E%3C/svg%3E)
 
-## Step 2: Tuck the wings
+### Step 2: Tuck the wings
 
 Once you've gotten it spatchcocked, make sure you grab the wings and tuck them back underneath the breasts.
 
@@ -55,7 +55,7 @@ Once you've gotten it spatchcocked, make sure you grab the wings and tuck them b
 
 ![Person's hand tucking a chicken's wing under on a baking sheet](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20530'%3E%3C/svg%3E)
 
-## Step 3: Make your salt crust mixture.
+### Step 3: Make your salt crust mixture.
 
 Next, you're going to make your wet sand. This is literally just salt and water.
 
@@ -65,7 +65,7 @@ This was 6 cups of salt and 1 ½ cups of water:
 
 ![Overhead view of a bowl of salt and water mixture](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20530'%3E%3C/svg%3E)
 
-## Step 4: Salt crust your chicken
+### Step 4: Salt crust your chicken
 
 Lastly, you just take that big bowl of salt and dump it out on top of the chicken.
 
@@ -103,15 +103,15 @@ But, this salt crusted chicken is some of the most tender and juicy chicken you'
 
 [![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTZweCIgaGVpZ2h0PSIxNnB4IiB2aWV3Ym94PSIwIDAgNDQ0LjgxOSA0NDQuODE5IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJtdi1jcmVhdGUtanRyLWNhcmV0Ij48cGF0aCBkPSJNNDM0LjI1MiwxMTQuMjAzbC0yMS40MDktMjEuNDE2Yy03LjQxOS03LjA0LTE2LjA4NC0xMC41NjEtMjUuOTc1LTEwLjU2MWMtMTAuMDk1LDAtMTguNjU3LDMuNTIxLTI1LjcsMTAuNTYxIEwyMjIuNDEsMjMxLjU0OUw4My42NTMsOTIuNzkxYy03LjA0Mi03LjA0LTE1LjYwNi0xMC41NjEtMjUuNjk3LTEwLjU2MWMtOS44OTYsMC0xOC41NTksMy41MjEtMjUuOTc5LDEwLjU2MWwtMjEuMTI4LDIxLjQxNiBDMy42MTUsMTIxLjQzNiwwLDEzMC4wOTksMCwxNDAuMTg4YzAsMTAuMjc3LDMuNjE5LDE4Ljg0MiwxMC44NDgsMjUuNjkzbDE4NS44NjQsMTg1Ljg2NWM2Ljg1NSw3LjIzLDE1LjQxNiwxMC44NDgsMjUuNjk3LDEwLjg0OCBjMTAuMDg4LDAsMTguNzUtMy42MTcsMjUuOTc3LTEwLjg0OGwxODUuODY1LTE4NS44NjVjNy4wNDMtNy4wNDQsMTAuNTY3LTE1LjYwOCwxMC41NjctMjUuNjkzIEM0NDQuODE5LDEzMC4yODcsNDQxLjI5NSwxMjEuNjI5LDQzNC4yNTIsMTE0LjIwM3oiIC8+PC9zdmc+) Continue to Content](#mv-creation-69)
 
-## Recipe
+### Recipe
 
-## Ingredients
+### Ingredients
 
 - 1 five pound chicken
 - 5 - 6 cups kosher salt
 - 1 ½ cups water
 
-## Instructions
+### Instructions
 
 1. Preheat the oven to 400° and line a baking sheet with parchment paper.
 2. In a large bowl, combine the salt and water and stir until you have "wet sand." Set aside.
@@ -141,7 +141,7 @@ Yield: 4 Serving Size: 1 serving   *Amount Per Serving:* Calories: 1247Total Fat
 
 *I may earn a small commission off purchases made through affiliate links in this post from Amazon and other sellers. This helps me continue to run the blog and keep providing you fresh content. Thank you for your support!*
 
-## More Paleo Dinner Recipes
+### More Paleo Dinner Recipes
 
 - [bowl of taco spaghetti squash topped with salsa and sour cream and slices of lime Taco Spaghetti, Two Ways](https://rootedinnature.blog/taco-spaghetti-two-ways/)
 - [Traeger Pork Loin Recipe](https://rootedinnature.blog/traeger-pork-loin-recipe/)

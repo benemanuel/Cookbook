@@ -51,7 +51,7 @@ There are 3 main roadblocks when making lemon meringue pie: a soggy pie crust, a
 
 ![meringue topping for lemon meringue pie in a glass stand mixer bowl](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
 
-## How to Make Lemon Meringue Pie Topping
+### How to Make Lemon Meringue Pie Topping
 
 The meringue toasts in the oven. A lot of recipes call for putting the whole pie under the broiler, but I prefer to bake it so that the egg whites have a chance to cook through. Also, see the end of step 6 in the recipe below. Make sure you spread the meringue topping on while the filling is still warm. The warm filling helps seal the two layers together, preventing separation.
 
@@ -76,7 +76,7 @@ Meringue can be tricky, but you’re a baker and you can absolutely handle this.
 
 ---
 
-## Ingredients
+### Ingredients
 
 - [ ] [Homemade Pie Crust](https://sallysbakingaddiction.com/baking-basics-homemade-buttery-flaky-pie-crust/)*
 - [ ] 5 large **egg yolks** (use the whites in the meringue below)
@@ -99,7 +99,7 @@ Cook Mode Prevent your screen from going dark
 
 ---
 
-## Instructions
+### Instructions
 
 1. **Pie crust:** I like to make sure my pie dough is prepared before I begin making lemon meringue pie. I always make pie dough the night before because it needs to chill in the refrigerator for at least 2 hours before rolling out and blind baking (next step).
 2. Preheat oven to 375°F (190°C) and adjust your oven rack to the lowest position. Partially [blind bake pie crust](https://sallysbakingaddiction.com/how-to-blind-bake-pie-crust/) in a [9-inch pie dish](https://amzn.to/4dFDnNU). (Follow blind baking instructions through step 9. Be sure to [crimp or flute the pie crust edges](https://sallysbakingaddiction.com/how-to-crimp-flute-pie-crust/), too.) *Tip: You can get started on the lemon meringue pie filling steps while your crust is blind baking. But making the filling is time sensitive because you will temper the egg yolks, so if multi-tasking isn’t your thing, just wait until your crust is done blind baking before beginning the filling.*
@@ -120,7 +120,7 @@ Cook Mode Prevent your screen from going dark
 
 [![SVG Image](data:image/svg+xml;base64,PHN2ZyBmb2N1c2FibGU9ImZhbHNlIiByb2xlPSJpbWciIHdpZHRoPSIyNCIgYXJpYS1oaWRkZW49InRydWUiIGhlaWdodD0iMjQiPjx1c2UgaHJlZj0iI3NvY2lhbC1jaXJjbGUtcGludGVyZXN0IiAvPjwvc3ZnPg==)Pinterest](<https://pinterest.com/pin/create/button/?url=https://sallysbakingaddiction.com/lemon-meringue-pie/&media=https%3A%2F%2Fsallysbakingaddiction.com%2Fwp-content%2Fuploads%2F2018%2F03%2Flemon-meringue-pie-recipe-2.jpg&description=Classic Lemon Meringue Pie>) [![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjI0IiB3aWR0aD0iMjQiIGZvY3VzYWJsZT0iZmFsc2UiIHJvbGU9ImltZyIgYXJpYS1oaWRkZW49InRydWUiPjx1c2UgaHJlZj0iI3NvY2lhbC1jaXJjbGUtZmFjZWJvb2siIC8+PC9zdmc+)Facebook](<http://www.facebook.com/share.php?u=https://sallysbakingaddiction.com/lemon-meringue-pie/&t=Classic Lemon Meringue Pie>) [![SVG Image](data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIGFyaWEtaGlkZGVuPSJ0cnVlIiB3aWR0aD0iMjQiIGZvY3VzYWJsZT0iZmFsc2UiIGhlaWdodD0iMjQiPjx1c2UgaHJlZj0iI3NvY2lhbC1jaXJjbGUtZW1haWwiIC8+PC9zdmc+)Email](<mailto:?body=I thought you might enjoy this post: Classic Lemon Meringue Pie, https://sallysbakingaddiction.com/lemon-meringue-pie/>)
 
-## You Might Also Like...
+### You Might Also Like...
 
 [![warm chocolate chip cookies on black plate](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='600'%20height='900'%20viewBox='0%200%20600%20900'%3E%3C/svg%3E)](https://sallysbakingaddiction.com/chocolate-chip-cookies/)
 

@@ -59,13 +59,13 @@ These days, we’ve lost that art, and so many people have a difficult time dige
 
 ![Sourdough buns topped with sesame seeds on a parchment lined baking Sheed on a white quartz countertop](https://www.farmhouseonboone.com/wp-content/uploads/2022/03/sourdough-burger-buns-2-1024x683.jpg)
 
-## Tips For Making Sourdough Buns:
+### Tips For Making Sourdough Buns:
 
 - Ferment the dough overnight for the most benefits, or make a quick version.
 - If you are new to sourdough, make sure to see **[how to make your own sourdough starter](https://www.farmhouseonboone.com/how-to-care-for-sourdough-starter)** and [**how to care for it**](https://www.farmhouseonboone.com/how-to-care-for-sourdough-starter).
 - Adding an egg wash to the top gives them a beautiful golden color. This is an optional step. You can also use a little milk instead.
 
-## FAQ:
+### FAQ:
 
 ![Overhead photos of sourdough buns on a wire baking rack  on a quartz countertop with more buns to the left on a baking sheet](https://www.farmhouseonboone.com/wp-content/uploads/2022/03/sourdough-burger-buns-6-1024x683.jpg)
 
@@ -109,7 +109,7 @@ Measuring cups
 
 Parchment paper
 
-## Sourdough Hamburger Buns Ingredients:
+### Sourdough Hamburger Buns Ingredients:
 
 **Sourdough starter** – Active and bubbly. Your sourdough starter should be fed 4-12 hours before starting this recipe. It should be nice and active to give the hamburger buns their rise.
 
@@ -132,7 +132,7 @@ Parchment paper
 
 ![fluffy sourdough hamburger buns scattered on a parchment lined baking sheet and one on a white countertop on a kitchen island. A vintage stove is in the background](https://www.farmhouseonboone.com/wp-content/uploads/2022/03/sourdough-burger-buns-1-1024x683.jpg)
 
-## How To Make Sourdough Buns
+### How To Make Sourdough Buns
 
 ### Day 1
 
@@ -166,11 +166,11 @@ Bake the buns for 25-30 minutes at 350 degrees. You want them to be golden on to
 4. Bake in a 350 degree preheated oven until lightly browned on top, approximately 25-30 minutes.
 5. Let cool completely before serving these sourdough buns.
 
-## Storage:
+### Storage:
 
 Store in an air-tight container. Best if used within 3-4 days. Freeze for longer storage. I love freezing bread. Freezes so well and basically taste like fresh bread.
 
-## Baker’s Schedule:
+### Baker’s Schedule:
 
 **8:00 am:** Feed sourdough starter
 
@@ -196,7 +196,7 @@ Store in an air-tight container. Best if used within 3-4 days. Freeze for longer
 
 [Save](https://app.grow.me)[Saved](https://app.grow.me) [Pin](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.farmhouseonboone.com%2Fsourdough-buns%2F&media=https%3A%2F%2Fwww.farmhouseonboone.com%2Fwp-content%2Fuploads%2F2022%2F03%2Fsourdough-burger-buns-5-scaled.jpg&description=Sourdough+Buns&is_video=false) [Print](https://www.farmhouseonboone.com/wprm_print/sourdough-buns)
 
-## Sourdough Buns
+### Sourdough Buns
 
 ![SVG Image](data:image/svg+xml;base64,PHN2ZyBzdHlsZT0iZGlzcGxheTpibG9jazt3aWR0aDowcHg7aGVpZ2h0OjBweCIgaGVpZ2h0PSIwIiB3aWR0aD0iMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48bGluZWFyZ3JhZGllbnQgaWQ9Indwcm0tcmVjaXBlLXVzZXItcmF0aW5nLTEtMzMiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjMzJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iMzMlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PC9saW5lYXJncmFkaWVudD48L2RlZnM+PGRlZnM+PGxpbmVhcmdyYWRpZW50IGlkPSJ3cHJtLXJlY2lwZS11c2VyLXJhdGluZy0xLTUwIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjwvbGluZWFyZ3JhZGllbnQ+PC9kZWZzPjxkZWZzPjxsaW5lYXJncmFkaWVudCBpZD0id3BybS1yZWNpcGUtdXNlci1yYXRpbmctMS02NiI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iNjYlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI2NiUiIHN0b3Atb3BhY2l0eT0iMCIgLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3Atb3BhY2l0eT0iMCIgLz48L2xpbmVhcmdyYWRpZW50PjwvZGVmcz48L3N2Zz4=)
 
@@ -224,7 +224,7 @@ Servings: 8 buns
 
 - [Cast Iron Skillet](https://amzn.to/4oagWSK)
 
-## Ingredients
+### Ingredients
 
 - [ ] ▢
 
@@ -266,7 +266,7 @@ Cook Mode
 
 Prevent your screen from going dark
 
-## Instructions
+### Instructions
 
 - In a stand mixer with a dough hook, add sourdough starter, warm water, all purpose flour, melted butter or coconut oil, honey, salt and egg. Knead for 5-10 minutes with dough hook until smooth and elastic.
 

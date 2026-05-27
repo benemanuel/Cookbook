@@ -3,7 +3,7 @@ labels: [dairy]
 labels: [dairy]
 ---
 
-## Arroz Rojo / Mexican Rice
+# Arroz Rojo / Mexican Rice
 
 ## Ingredients
 

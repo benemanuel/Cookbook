@@ -76,11 +76,11 @@ No sourdough starter? No problem! You can make the dinner rolls by replacing the
 
 See the [recipe card](https://www.scotchandscones.com/sourdough-dinner-rolls/#recipe) for a full list of ingredients and measurements.
 
-## How to leave out the commercial yeast
+### How to leave out the commercial yeast
 
 If you don't want to use commercial yeast in this sourdough dinner rolls recipe, replace the yeast with ½ cup (114 grams) of **active, fed starter**, reduce the amount of flour by about ½ cup (57 grams), and reduce the milk by about ¼ cup (57 grams). The rising time will be longer (about double) for both the first and second rises. (Note: there are some rounding inconsistencies here due to the volume vs. weight measurement conversion.)
 
-## How to make sourdough discard dinner rolls
+### How to make sourdough discard dinner rolls
 
 Like most dinner roll recipes, this one takes just a little bit of action. Most of the time is spent letting the dough rise.
 
@@ -114,7 +114,7 @@ Bake the rolls at 350˚F for 20 to 25 minutes (**photo 4**).
 
 *Sourdough dinner rolls before and after a trip to the oven*
 
-## Storage and make-ahead instructions
+### Storage and make-ahead instructions
 
 **Storage instructions**: These rolls can be stored, covered tightly, for 2 to 3 days at room temperature or in the refrigerator for up to 1 week. For longer storage, freeze the rolls for up to 3 months. Thaw in the refrigerator or at room temperature, then reheat as desired.
 
@@ -122,7 +122,7 @@ Bake the rolls at 350˚F for 20 to 25 minutes (**photo 4**).
 
 You can also shape the rolls before refrigerating them overnight. Remove the rolls from the refrigerator and let them rise, still covered, on the counter for about 1 to 2 hours before baking.
 
-## Questions asked and answered
+### Questions asked and answered
 
 Here are some questions you might have...
 
@@ -168,7 +168,7 @@ Slainté! L'chaim! Cheers!
 
 ---
 
-## More recipes featuring sourdough discard to try
+### More recipes featuring sourdough discard to try
 
 - [Eight Sourdough Discard Popovers in a bowl lined with a blue towel. Mini Sourdough Discard Popovers](https://www.scotchandscones.com/sourdough-discard-popovers/)
 - [Sliced sourdough discard sandwich bread on a blue towel set in a wooden bowl. Sourdough Discard Sandwich Bread](https://www.scotchandscones.com/sourdough-discard-sandwich-bread/)
@@ -179,7 +179,7 @@ Slainté! L'chaim! Cheers!
 
 [![Cover of How to Maintain Sourdough Starter e-book showing a crock of sourdough starter next to a small glass bowl of sourdough discard.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='600'%20height='600'%20viewBox='0%200%20600%20600'%3E%3C/svg%3E)](https://www.scotchandscones.com/shop/)
 
-## Good news for sourdough bakers!
+### Good news for sourdough bakers!
 
 Discover a new method to *feed your starter with less flour*, making your baking both sustainable and scrumptious.
 
@@ -187,11 +187,11 @@ Plus, get my **bonus recipe** for naturally-leavened sourdough bread using unfed
 
 [Get your copy today!](https://www.scotchandscones.com/shop/)
 
-## Recipe
+### Recipe
 
 ![Two sourdough dinner rolls stacked on a purple checked towel with bowl of rolls in background.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='270'%20height='270'%20viewBox='0%200%20270%20270'%3E%3C/svg%3E)
 
-## Soft Sourdough Discard Dinner Rolls
+### Soft Sourdough Discard Dinner Rolls
 
 [Tammy Spencer](https://www.scotchandscones.com/about-tammy/)
 
@@ -279,9 +279,9 @@ Prevent your screen from going dark while cooking
 
 1½ teaspoons kosher salt
 
-## Ingredients
+### Ingredients
 
-## Instructions
+### Instructions
 
 - [ ] ▢
 
@@ -353,7 +353,7 @@ Serving: 1 rollCalories: 153 kcalCarbohydrates: 22 gProtein: 4 gFat: 5 gSaturate
 
 [![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMTYiIHZpZXdib3g9IjAgMCAyNCAyNCIgd2lkdGg9IjE2Ij48ZyBmaWxsPSIjYTAyODFiIiBjbGFzcz0ibmMtaWNvbi13cmFwcGVyIj48cGF0aCBkPSJNMjIsMEgyQzAuODk1LDAsMCwwLjg5NSwwLDJ2MjBjMCwxLjEwNSwwLjg5NSwyLDIsMmgxMXYtOWgtM3YtNGgzVjguNDEzYzAtMy4xLDEuODkzLTQuNzg4LDQuNjU5LTQuNzg4IGMxLjMyNSwwLDIuNDYzLDAuMDk5LDIuNzk1LDAuMTQzdjMuMjRsLTEuOTE4LDAuMDAxYy0xLjUwNCwwLTEuNzk1LDAuNzE1LTEuNzk1LDEuNzYzVjExaDQuNDRsLTEsNGgtMy40NHY5SDIyYzEuMTA1LDAsMi0wLjg5NSwyLTIgVjJDMjQsMC44OTUsMjMuMTA1LDAsMjIsMHoiIGZpbGw9IiNhMDI4MWIiIC8+PC9nPjwvc3ZnPg==) Share on Facebook](https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.scotchandscones.com%2Fsourdough-dinner-rolls%2F)
 
-## More Breads & Rolls Recipes
+### More Breads & Rolls Recipes
 
 - [Two finished Scottish Cream Buns on a china plate in front of a china cup and saucer and a plate of unfilled cream buns. Cream Buns from Scotland](https://www.scotchandscones.com/cream-buns/)
 - [Swedish Tea Ring finished drizzled tea ring on a cooling rack. Swedish Tea Ring Recipe (Soft Tangzhong Coffee Bread)](https://www.scotchandscones.com/swedish-tea-ring-tangzhong/)

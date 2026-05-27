@@ -49,9 +49,9 @@ labels: [dairy, bread]
 
 ---
 
-## Instructions
+### Instructions
 
-## 1️⃣ Autolyse – 30 Minutes
+### 1️⃣ Autolyse – 30 Minutes
 
 Mix until no dry flour remains:
 
@@ -65,7 +65,7 @@ Rest 30 minutes.
 ---
 
 
-## 2️⃣ Final Mix
+### 2️⃣ Final Mix
 
 Add:
 
@@ -95,7 +95,7 @@ Total kneading: \~10–12 minutes.
 ---
 
 
-## 3️⃣ Bulk Fermentation (22–23°C Room)
+### 3️⃣ Bulk Fermentation (22–23°C Room)
 
 Let rise **5–7 hours** until:
 
@@ -115,7 +115,7 @@ Ferment at 26–27°C until 60–70% risen.
 ---
 
 
-## 4️⃣ Shape
+### 4️⃣ Shape
 
 1. Roll to rectangle (\~5mm thick).
 2. Spread filling.
@@ -127,7 +127,7 @@ Ferment at 26–27°C until 60–70% risen.
 ---
 
 
-## 5️⃣ Short Room Proof
+### 5️⃣ Short Room Proof
 
 Let sit 45–60 minutes at room temp  
 until slight puffing begins.
@@ -135,7 +135,7 @@ until slight puffing begins.
 ---
 
 
-## 6️⃣ Overnight Final Proof (Recommended)
+### 6️⃣ Overnight Final Proof (Recommended)
 
 Refrigerate 8–14 hours at 4°C.
 
@@ -146,7 +146,7 @@ until visibly puffy and airy.
 ---
 
 
-## 7️⃣ Bake
+### 7️⃣ Bake
 
 * 190°C preheated oven
 * 18–25 minutes depending on pan size
@@ -165,7 +165,7 @@ If tops darken early:
 ---
 
 
-## Optional Syrup (Highly Recommended)
+### Optional Syrup (Highly Recommended)
 
 Boil:
 
@@ -179,7 +179,7 @@ Brush immediately after baking.
 ---
 
 
-# Key Technical Notes
+### Key Technical Notes
 
 ### Dough Temperature
 
@@ -231,7 +231,7 @@ Fresh cardamom is stronger than pre\-ground.
 ---
 
 
-# Lessons for Next Time
+### Lessons for Next Time
 
 * A 2\-week\-old stiff starter should be refreshed once before enriched dough.
 * Enriched sourdough benefits from warmer fermentation (26°C ideal).

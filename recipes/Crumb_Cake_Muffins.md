@@ -87,7 +87,7 @@ These simple ingredients make the best coffee cake muffins! This muffin is divid
 
 ![coffee cake muffin with powdered sugar glaze on white plate](https://thefirstyearblog.com/wp-content/uploads/2021/02/Coffee-Cake-Muffins-2023-16.jpg)
 
-## How to Make Cinnamon Crumble Muffins
+### How to Make Cinnamon Crumble Muffins
 
 These easy cinnamon swirl muffins look like they came from a bakery, but are so easy to make! Get the entire recipe in the recipe card below.
 
@@ -119,7 +119,7 @@ These easy cinnamon swirl muffins look like they came from a bakery, but are so 
 
 ![coffee cake muffins with bite removed showing cinnamon swirl layer inside on metal muffin pan](https://thefirstyearblog.com/wp-content/uploads/2021/02/Coffee-Cake-Muffins-2023-13C.jpg)
 
-## Cinnamon Muffins Crumb Topping
+### Cinnamon Muffins Crumb Topping
 
 I walked away from this recipe feeling like a crumb topping expert. Let’s discuss some of the things I discovered.
 
@@ -144,7 +144,7 @@ Here are a few tips to help you create the best crumb topping!
 - Too much flour causes the crumb to be dry and overly crumbly.
 - Too little flour causes the crumb topping to not have enough stability and structure.
 
-## **Tips for creating Bakery Style Crumb Cake Muffins**
+### **Tips for creating Bakery Style Crumb Cake Muffins**
 
 Bakery style muffins are known for their domed tops. Plus who doesn’t love them? I used my favorite technique to help “lift” these muffins so they would have domed tops.
 
@@ -166,17 +166,17 @@ This tip has been a game changer! For bakery style muffin tops, line a 12 count 
 
 ![coffee cake muffins on a white plate on a wood background](https://thefirstyearblog.com/wp-content/uploads/2021/02/Coffee-Cake-Muffins-2023-4B.jpg)
 
-## **Coffee Cake Muffin – Gluten Free Variation**
+### **Coffee Cake Muffin – Gluten Free Variation**
 
 I’ve made these muffins with both regular and gluten free flour with awesome results on multiple occasions. I recommend [**King Arthur’s Gluten Free Measure for Measure Flour**](https://linksta.io/d7c10982/wp). Use it as a one for one substitute for regular flour.
 
-## Storing & Freezing Cinnamon Coffee Cake Muffins
+### Storing & Freezing Cinnamon Coffee Cake Muffins
 
 To store this cinnamon muffin recipe, make sure your baked muffins are completely cooled before you store or freeze them! You can store these muffins in an airtight container at room temperature for 3 or 4 days.
 
 You can also freeze these in a freezer safe container. I like to wrap mine two at a time, end to end, in plastic wrap and store my wrapped muffins in a freezer zip lock bag. You can thaw them individually to satisfy a sweet tooth whenever you want to! To thaw, you can leave them out on your kitchen counter or heat them in the microwave for 15-second intervals until they’re thawed completely.
 
-## More Muffin Recipes
+### More Muffin Recipes
 
 - [Lemon Poppy Seed Muffins](https://thefirstyearblog.com/lemon-poppy-seed-muffins-2/)
 - [Chocolate Banana Muffins](https://thefirstyearblog.com/chocolate-banana-muffins/)
@@ -193,7 +193,7 @@ You can also freeze these in a freezer safe container. I like to wrap mine two a
 
 *Tap stars to rate!*
 
-## Cinnamon Crumble Muffins
+### Cinnamon Crumble Muffins
 
 By: Beth
 
@@ -221,7 +221,7 @@ Want to make absolutely perfect coffee cake muffins that rival any professional 
 
 - [Bakery Style Muffins Cookbook](https://shop.thefirstyearblog.com/products/bakery-style-muffins-cookbook-physical-copy)
 
-## Ingredients
+### Ingredients
 
 #### Muffins
 
@@ -302,7 +302,7 @@ Want to make absolutely perfect coffee cake muffins that rival any professional 
 
 [https://shop.thefirstyearblog.com/](https://shop.thefirstyearblog.com/)
 
-## Instructions
+### Instructions
 
 - Prepare the cinnamon sugar layer. Melt the butter, stir in the brown sugar and cinnamon until thick. Set it aside to thicken while you make the muffin batter.
 

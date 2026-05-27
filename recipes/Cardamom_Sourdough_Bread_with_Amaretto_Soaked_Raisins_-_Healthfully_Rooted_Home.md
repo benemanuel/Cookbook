@@ -83,7 +83,7 @@ For my cardamom sourdough bread recipe, I used einkorn flour since I didn’t lo
 - 1 cup raisins (soaked)
 - 1 cup amaretto (or filtered water)
 
-## Instructions
+### Instructions
 
 #### sourdough
 
@@ -124,7 +124,7 @@ For my cardamom sourdough bread recipe, I used einkorn flour since I didn’t lo
 
 [Related: how to make a sourdough starter from scratch](https://healthfullyrootedhome.com/einkorn-flour-for-making-sourdough-starter/)
 
-## Why this cardamom sourdough bread recipe works
+### Why this cardamom sourdough bread recipe works
 
 ![This recipe is perfect for a cozy Fall morning!](https://healthfullyrootedhome.com/wp-content/uploads/2021/10/2-1.jpg)
 
@@ -133,7 +133,7 @@ For my cardamom sourdough bread recipe, I used einkorn flour since I didn’t lo
 3. The sourdough starter can be active or discard so it’s a very low-maintenance recipe.
 4. Lastly, you can opt-out of using yeast and just long ferment the dough during the first rise.
 
-## Cardamom Bread FAQ
+### Cardamom Bread FAQ
 
 **What do I do with cardamom?**
 
@@ -171,7 +171,7 @@ Amaretto can be made from apricot pits, almonds, or both. You can make your own 
 
 To plump raisins, you’ll need to rehydrate them. Soak them in a liquid for several hours (the longer the better). If you want to plump them up quickly, you can do so by pouring boiling water over them and they will plump up in minutes.
 
-## shop cardamom sourdough bread
+### shop cardamom sourdough bread
 
 *These affiliate links help to support my blog at no extra cost to you. Your support means the world to me!*
 
@@ -187,7 +187,7 @@ To plump raisins, you’ll need to rehydrate them. Soak them in a liquid for sev
 
 [Boos Block Butcher Block](https://rstyle.me/+ilc7NOKoREfxpR2vufxnfw)
 
-## more Sourdough recipes
+### more Sourdough recipes
 
 [Roasted Garlic Sourdough Bread](https://healthfullyrootedhome.com/roasted-garlic-sourdough/)
 
@@ -197,11 +197,11 @@ To plump raisins, you’ll need to rehydrate them. Soak them in a liquid for sev
 
 [Sourdough Starter from Scratch](https://healthfullyrootedhome.com/einkorn-flour-for-making-sourdough-starter/)
 
-## Homestead living – harvest edition free ebook
+### Homestead living – harvest edition free ebook
 
 ![free ebook homestead living fall edition](https://healthfullyrootedhome.com/wp-content/uploads/2021/10/Homestead-Living-Fall-Edition-Graphic-1.png)
 
-## Pin it – Cardamom Sourdough Bread recipe
+### Pin it – Cardamom Sourdough Bread recipe
 
 ![This cardamom sourdough bread recipe is perfect for a cozy fall morning!](https://healthfullyrootedhome.com/wp-content/uploads/2021/10/Cardamom-sourdough-bread-pin-683x1024.jpg)
 
@@ -209,11 +209,11 @@ To plump raisins, you’ll need to rehydrate them. Soak them in a liquid for sev
 
 [Sourdough Pumpkin Muffins Recipe](https://healthfullyrootedhome.com/sourdough-pumpkin-muffins/)
 
-## Print the cardamom sourdough bread recipe
+### Print the cardamom sourdough bread recipe
 
 ![This cardamom sourdough bread recipe is perfect for a cozy fall morning!](https://healthfullyrootedhome.com/wp-content/uploads/2021/10/1-1-400x400.jpg)
 
-## Cardamom Sourdough Bread with Soaked Amaretto Raisins
+### Cardamom Sourdough Bread with Soaked Amaretto Raisins
 
 Kyrie | Healthfully Rooted Home
 
@@ -332,7 +332,7 @@ Calories 176 kcal
 
 Keyword cardamom sourdough bread, cinnamon raisin sourdough bread, fall quick bread, french toast bread, sourdough quick bread
 
-## [about me](https://healthfullyrootedhome.com/meet-kyrie-from-healthfully-rooted-home/)
+### [about me](https://healthfullyrootedhome.com/meet-kyrie-from-healthfully-rooted-home/)
 
 [![Healthfully rooted home author woman with rose tattoo and blue striped sundress](https://healthfullyrootedhome.com/wp-content/uploads/2021/06/bright-2-Healthfully-rooted-home-kyrie-1024x1024.png)](https://healthfullyrootedhome.com/meet-kyrie-from-healthfully-rooted-home/)
 

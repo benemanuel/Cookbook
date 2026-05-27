@@ -18,7 +18,7 @@ labels: [meat, dairy, cake]
 - [Stuffed](https://www.allrecipes.com/recipes/17246/main-dish/stuffed-main-dishes/)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb24iPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLWNoZXZyb24iIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1jaGV2cm9uIiAvPgo8L3N2Zz4=)
 - [Stuffed Cabbage](https://www.allrecipes.com/recipes/16539/main-dish/stuffed-main-dishes/stuffed-cabbage/)
 
-# Easy Cabbage Rolls
+## Easy Cabbage Rolls
 
 ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIGhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBocmVmPSIjaWNvbi1zdGFyIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bGluazpocmVmPSIjaWNvbi1zdGFyIiBocmVmPSIjaWNvbi1zdGFyIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXIiPgo8dXNlIGhyZWY9IiNpY29uLXN0YXIiIHhsaW5rOmhyZWY9IiNpY29uLXN0YXIiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLXN0YXItaGFsZiI+Cjx1c2UgaHJlZj0iI2ljb24tc3Rhci1oYWxmIiB4bGluazpocmVmPSIjaWNvbi1zdGFyLWhhbGYiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
 
@@ -125,7 +125,7 @@ This recipe was developed at its original yield. Ingredient amounts are automati
 
 - 1 teaspoon Worcestershire sauce
 
-## Instructions
+### Instructions
 
 1. Bring a large pot of water to a boil. Boil cabbage leaves for 2 minutes; drain.
 
@@ -167,7 +167,7 @@ I Made It
 
  ![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWVycm9yIG1udGwtbWVzc2FnZS1iYW5uZXJfX3ByZWZpeC1pY29uIG1udGwtbWVzc2FnZS1iYW5uZXJfX2ljb24iPgo8dXNlIGhyZWY9IiNpY29uLWVycm9yIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeGxpbms6aHJlZj0iI2ljb24tZXJyb3IiIC8+Cjwvc3ZnPg==) Something went wrong. Please reload and try again.
 
-## Nutrition Facts (per serving)
+### Nutrition Facts (per serving)
 
 | 246 | Calories |
 | --- | -------- |

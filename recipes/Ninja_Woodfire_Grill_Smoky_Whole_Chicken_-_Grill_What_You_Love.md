@@ -51,7 +51,7 @@ My method uses the Grill setting with the woodfire button on, sears the skin fir
 
 ![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjMwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGFyaWEtaGlkZGVuPSJ0cnVlIiBzdHlsZT0iZGlzcGxheTppbmxpbmUtYmxvY2s7dmVydGljYWwtYWxpZ246bWlkZGxlIiBmaWxsPSJjdXJyZW50Q29sb3IiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iMzAiPjxwYXRoIGQ9Ik00NjIuMyA2Mi42QzQwNy41IDE1LjkgMzI2IDI0LjMgMjc1LjcgNzYuMkwyNTYgOTYuNWwtMTkuNy0yMC4zQzE4Ni4xIDI0LjMgMTA0LjUgMTUuOSA0OS43IDYyLjZjLTYyLjggNTMuNi02Ni4xIDE0OS44LTkuOSAyMDcuOWwxOTMuNSAxOTkuOGMxMi41IDEyLjkgMzIuOCAxMi45IDQ1LjMgMGwxOTMuNS0xOTkuOGM1Ni4zLTU4LjEgNTMtMTU0LjMtOS44LTIwNy45eiIgLz48L3N2Zz4=)
 
-## What You’ll Love About Ninja Woodfire Grill Smoky Whole Chicken
+### What You’ll Love About Ninja Woodfire Grill Smoky Whole Chicken
 
 ---
 
@@ -61,7 +61,7 @@ My method uses the Grill setting with the woodfire button on, sears the skin fir
 - No basting, no flipping every five minutes, no spritzing, just a meat thermometer and you’re good
 - Spatchcocking is the trick every restaurant kitchen I worked in used to roast chicken fast and evenly, and it works just as well on the Ninja
 
-## Ingredients
+### Ingredients
 
 To make this delectable dish, you’ll need:
 
@@ -71,7 +71,7 @@ To make this delectable dish, you’ll need:
 
 ![Labeled ingredients to make Ninja Woodfire Grill Whole Smoky Chicken.](https://grillwhatyoulove.com/wp-content/uploads/2023/07/labeled-ingredients-2-1024x742.jpg)
 
-## How to Spatchcock a Chicken
+### How to Spatchcock a Chicken
 
 Spatchcocking, or butterflying, a chicken ensures it cooks evenly on the grill. Here’s how to do it:
 
@@ -82,7 +82,7 @@ Spatchcocking, or butterflying, a chicken ensures it cooks evenly on the grill. 
 
 ![A spatchcocked chicken.](https://grillwhatyoulove.com/wp-content/uploads/2023/07/spatchcock-the-chicken-1024x765.jpg)
 
-## How to Make The Best Ninja Woodfire Grill Whole Chicken
+### How to Make The Best Ninja Woodfire Grill Whole Chicken
 
 *Scroll down for the full recipe card with exact measurements and printable instructions.*
 
@@ -110,18 +110,18 @@ Carve and serve!
 
 ![Ninja Woodfire Grill Smoky Whole Chicken on the grill.](https://grillwhatyoulove.com/wp-content/uploads/2023/07/chicken-on-grill-2-1024x768.jpg)
 
-## Chef Jenn’s Tips
+### Chef Jenn’s Tips
 
 - Pull the chicken at 155 or 160°F, not 165°F. The Ninja cooks hot and carryover cooking will take it to 165°F while it rests, which is the safe temp. Pulling at 165°F means it finishes at 170°F, and the breast goes dry every time.
 - Take the chicken out of the fridge 20 to 30 minutes before it goes on the grill. A cold bird on a hot grill cooks unevenly, the outside burns before the inside is done. Tempered meat is the single biggest cheat code for grilling, and almost no home cook does it.
 - Pat the skin bone dry with paper towels before seasoning. Wet skin steams instead of crisps, no matter how hot your grill is. If you have an extra hour, leave the seasoned chicken uncovered in the fridge to dry the skin even more.
 - Save the backbone. After you spatchcock, throw the backbone in a freezer bag with onion peels and carrot tops. When you have two or three backbones saved up, simmer them for chicken stock that beats anything in a box.
 
-## Make It A Meal
+### Make It A Meal
 
 A whole chicken needs sides that can hold their own. For a cookout vibe, [Grilled Elote Corn Ribs](https://grillwhatyoulove.com/grilled-elote-corn-ribs/) are my go-to, smoky char on smoky char and they hold up to the bigger flavors of the bird. When the chicken’s resting, I use that 15 minutes to throw [smoked corn on the cob](https://grillwhatyoulove.com/ninja-woodfire-outdoor-grill-smoked-corn-on-the-cob/) on the same grill, no extra pots, no extra cleanup. For something heartier, my [Ninja Woodfire Air Fryer Smashed Potatoes](https://grillwhatyoulove.com/ninja-woodfire-grill-air-fryer-smashed-potatoes/) come out crispy outside and creamy inside on the same machine. On a noodle night, I’ll boil pasta and toss it with this [cottage cheese pasta sauce](https://iheartvegetables.com/cottage-cheese-pasta-sauce/), which is high-protein, creamy, and cuts through the smoke better than any red sauce. For a lighter plate, I’ll grill [asparagus with garlic](https://grillwhatyoulove.com/ninja-grilled-asparagus-with-garlic/) alongside the chicken, the green is a fresh counterpoint and the garlic plays nice with the woodfire. And for a summer dinner party, my [Grilled Peach Salad with Tomatoes and Feta](https://grillwhatyoulove.com/grilled-peach-salad-with-tomatoes-feta/) brings sweet and salty that cuts through the rich bird better than anything else I make.
 
-## Storage
+### Storage
 
 Store any leftover chicken in an airtight container for 3-4 days. You can use the leftover chicken in pasta salads or hot pasta dishes, or cut it up for chicken salad or add it to a wrap or sandwich. Yum!
 
@@ -141,7 +141,7 @@ A 3 to 4 pound whole chicken is the sweet spot for the Ninja Woodfire and it’l
 
 ![Ninja Woodfire Grill Smoky Whole Chicken on a cutting board.](https://grillwhatyoulove.com/wp-content/uploads/2023/07/finished-chicken-6v-500x500.jpg)
 
-## Ninja Woodfire Grill Whole Smoky Chicken
+### Ninja Woodfire Grill Whole Smoky Chicken
 
 Chef Jenn
 
@@ -184,7 +184,7 @@ Calories 277 kcal
 - 1 whole chicken 3-4 pounds
 - 2 tablespoons Montreal Chicken Seasoning or your favorite chicken rub
 
-## Instructions
+### Instructions
 
 - Preheat your Ninja woodfire outdoor grill to Grill setting and high heat, add pellets to the hopper and press the woodfire button to add smoke. Set it for 35-40 minutes.
 
@@ -200,7 +200,7 @@ Calories 277 kcal
 
 ### Notes
 
-## Chef Jenn’s Tips
+### Chef Jenn’s Tips
 
 - Don’t have Montreal seasoning? Substitute it with your favorite poultry seasoning blend.
 

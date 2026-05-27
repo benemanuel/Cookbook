@@ -17,7 +17,7 @@ labels: []
 
 ![Soufico](https://www.dianekochilas.com/wp-content/uploads/2017/10/Soufico-930x620.jpg)
 
-# Soufico, One-pot Vegetable Stew
+## Soufico, One-pot Vegetable Stew
 
 ---
 

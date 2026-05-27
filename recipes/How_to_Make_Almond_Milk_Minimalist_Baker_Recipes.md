@@ -33,13 +33,13 @@ After blending the mixture for 1-2 minutes, the milk is poured through a [nut mi
 
 *Tada*– that’s almond milk, friends!
 
-## What to Do with Almond Pulp?
+### What to Do with Almond Pulp?
 
 If you’re curious what to do with leftover almond pulp, check out this article on [how to turn almond pulp into almond meal](https://minimalistbaker.com/how-to-make-almond-meal-from-almond-pulp/), as well as our guide to [delicious uses for almond pulp and meal](https://minimalistbaker.com/12-easy-almond-pulp-recipes-sweet-savory/)!
 
 ![Squeezing almond milk through a nut milk bag into a bowl](https://minimalistbaker.com/wp-content/uploads/2020/02/CREAMY-Dairy-Free-Coffee-Creamer-3-ingredients-SIMPLE-methods-SO-rich-and-satisfying-recipe-almond-creamer-minimalistbaker-plantbased-glutenfree-14.jpg)
 
-## How Long Does It Last?
+### How Long Does It Last?
 
 How long it lasts will depend on a variety of factors such as how well you sterilize your equipment, the freshness of your ingredients, and the temperature of your fridge.
 
@@ -55,7 +55,7 @@ Slightly nutty
 Versatile  
 & Super delicious!
 
-## How to Use Almond Milk
+### How to Use Almond Milk
 
 It can be used in many of the same ways you would use cow’s milk. Think [smoothies](https://minimalistbaker.com/banana-split-smoothie/), [lattes](https://minimalistbaker.com/vegan-chai-latte/), [baking](https://minimalistbaker.com/gluten-free-birthday-cake-vegan/), and so much more!
 
@@ -66,7 +66,7 @@ Found this recipe helpful? Check out our [Guide to Dairy-Free Milk](https://mini
 
 If you try this recipe, let us know! Leave a comment, rate it, and don’t forget to tag a photo [#minimalistbaker](https://www.instagram.com/minimalistbaker/) on Instagram. Cheers, friends!
 
-## How to Make Almond Milk
+### How to Make Almond Milk
 
 Simple homemade almond milk that’s creamy, delicious, and entirely customizable! Perfect for cereal, baking, and drinking straight alongside baked goods.
 
@@ -96,7 +96,7 @@ Freezer Friendly 1 month
 
 Does it keep? 4-5 Days
 
-## Ingredients
+### Ingredients
 
 [US Customary](#) – [Metric](#)
 
@@ -108,7 +108,7 @@ Does it keep? 4-5 Days
 - 2 Tbsp cocoa powder (*optional* // for “chocolate milk”)
 - 1/2 cup berries (*optional* // for “berry milk”)
 
-## Instructions
+### Instructions
 
 - Add your soaked almonds, water, salt, and any additional add-ins (optional) to a [high-speed blender](https://aax-us-east.amazon-adsystem.com/x/c/Qghzz67vnLtL1zabK5okN4sAAAFeTpDL_AEAAAFKAf28E00/http://www.amazon.com/dp/B000GIGZXM/ref=as_at?creativeASIN=B000GIGZXM&linkCode=w61&imprToken=gFwGRXQvhd7fUYlhrNKZVg&slotNum=4&tag=minimalistbaker-20) and blend until creamy and smooth. Keep it running for at least 1-2 minutes so you get the most out of your almonds.
 

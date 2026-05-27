@@ -213,7 +213,7 @@ It can seem daunting and like it’s not coming together, but it will. Here is a
 
 ![Two slices of golden brown sourdough brioche bread are placed in front of a larger brioche loaf on a cooling rack. The bread boasts a soft, airy texture and a light crust, resting elegantly on a marble surface.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
 
-## FAQS
+### FAQS
 
 #### Why is my sourdough brioche not rising?
 
@@ -227,7 +227,7 @@ You can shorten the cold-proof, but I wouldn’t skip it entirely. It helps with
 
 You can use a 100% hydration starter, but this will make your dough stickier as it’s introducing more water.
 
-## Related recipes
+### Related recipes
 
 If you enjoyed this sourdough brioche recipe, you might like these too!
 
@@ -241,7 +241,7 @@ If you enjoyed this sourdough brioche recipe, you might like these too!
 
 ![Close-up of freshly baked sourdough brioche slices with a golden crust and a light, airy interior. The bread rests on a cooling rack, highlighting its fluffy texture and even crumb.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%20250'%3E%3C/svg%3E)
 
-## Sourdough Brioche Bread
+### Sourdough Brioche Bread
 
 [Elien Lewis](https://homegrownhappiness.com/about-me/)
 
@@ -299,9 +299,9 @@ Calories 478 kcal
 
 - One egg yolk + 1 Tbsp water whisked together
 
-## Ingredients
+### Ingredients
 
-## Instructions
+### Instructions
 
 #### The Night Before – Stiff starter
 

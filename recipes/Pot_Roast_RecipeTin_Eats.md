@@ -47,7 +47,7 @@ So I decided to change it and thicken the sauce using a touch of flour. **So it�
 
 ![How to make a great Slow Cooker Beef Pot Roast](https://www.recipetineats.com/tachyon/2018/01/How-to-make-Slow-Cooker-Beef-Pot-Roast-1.jpg)
 
-## **Best cut of beef for pot roast is chuck roast**
+### **Best cut of beef for pot roast is chuck roast**
 
 The best beef for pot roast is Beef Chuck Roast. It’s an economical cut of beef that’s marbled with fat that needs to be slow cooked to breakdown the tough connective tissues so it becomes ultra tender to eat.
 
@@ -55,7 +55,7 @@ Chuck roast can be purchased in large pieces that are or aren’t rolled. You wa
 
 ![Slow Cooker Pot Roast in a casserole dish, ready to be served](https://www.recipetineats.com/tachyon/2018/09/Slow-Cooker-Beef-Pot-Roast-8.jpg)
 
-## **It’s essentially a slow cooked Roast Beef!**
+### **It’s essentially a slow cooked Roast Beef!**
 
 The key point of difference with this pot roast recipe is that the **braising liquid is thickened** so it comes out **like a deeply flavoured gravy** rather than a watery broth which is how most pot roasts are made.
 
@@ -73,7 +73,7 @@ PS Bread to mop your bowl clean wouldn’t go astray. Try these [No Knead Dinner
 
 ---
 
-## **Watch how to make it**
+### **Watch how to make it**
 
 Note: My slow cooker *looks* like a pressure cooker because it’s a multi function slow cooker (but no, it’s not an Instant Pot!).
 
@@ -83,7 +83,7 @@ Hungry for more? Subscribe to my [newsletter](https://recipetineats.ck.page/6f68
 
 ![Slow Cooker Pot Roast in a slow cooker, ready to be eaten](https://www.recipetineats.com/tachyon/2018/09/Slow-Cooker-Beef-Pot-Roast-4.jpg?resize=206%2C206)
 
-## Pot Roast
+### Pot Roast
 
 Author: Nagi
 
@@ -116,7 +116,7 @@ Tap or hover to scale
 
 **Recipe VIDEO above.** The ultimate one-pot family meal! Meltingly tender slow cooker beef and vegetables smothered in a gravy like sauce – because it's so much tastier than just a watery broth! I like to make this in my slow cooker but I've also added directions for pressure cooker, stove and oven.
 
-## Ingredients
+### Ingredients
 
 - [ ] ▢
 
@@ -162,7 +162,7 @@ Cook Mode
 
 Prevent screen from sleeping
 
-## Instructions
+### Instructions
 
 - Pat beef dry with paper towels. Sprinkle generously with salt and pepper all over.
 
@@ -222,7 +222,7 @@ Keywords: beef pot roast, Pot Roast, slow cooked beef, Slow Cooker Pot Roast
 
  
 
-## **More slow cooked beef recipes**
+### **More slow cooked beef recipes**
 
 Because nothing beats the flavour of beef cooked long and slow until it’s meltingly tender….
 
@@ -244,7 +244,7 @@ Because nothing beats the flavour of beef cooked long and slow until it’s melt
 
 ---
 
-## **Life of Dozer**
+### **Life of Dozer**
 
 When the homeless man at the dog park isn’t at his car (usually off tending to the park grounds – best groundskeeper EVER!), I tie food to the boot of his van. Pot Roast, in this case!
 

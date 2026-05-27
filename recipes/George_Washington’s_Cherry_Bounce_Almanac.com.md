@@ -73,11 +73,11 @@ The recipe for this drink was found among Martha Washington’s surviving papers
 
 Interestingly, the Washington recipe specifies brandy, as whiskey was more popular at the time.
 
-## An Easy, Small-Batch Version of Cherry Bounce
+### An Easy, Small-Batch Version of Cherry Bounce
 
 If you wish to simplify the Washington recipe (listed below), just put 2 cups pitted tart cherries (such as Door County cherries) in a clean, 1-quart glass jar. Add 1/3 cup sugar. Fill the rest of the jar with vodka or brandy, or bourbon (about 1 cup). Store the jar in a cool, dark area for about a month, stirring occasionally.
 
-## Washington’s Cherry Bounce Recipe
+### Washington’s Cherry Bounce Recipe
 
 Below is a modern recipe based on Washington’s papers, courtesy of the beautiful book [*Dining With the Washingtons: Historic Recipes, Entertaining, and Hospitality from Mount Vernon*](https://shops.mountvernon.org/products/dining-with-the-washingtons-18845).
 
@@ -97,9 +97,9 @@ Ingredients
 
 1 (1/4-inch) piece fresh whole nutmeg
 
-## Ingredients
+### Ingredients
 
-## Instructions
+### Instructions
 
 **Note: The recipe lists fresh cherries, but you can also buy jars of preserved cherries, specifically 3 jars (1 pound, 9 ounces), preferably Morello cherries. Or if jarred cherries are not available, thawed pie cherries can be substituted.**
 
@@ -115,7 +115,7 @@ About The Author
 
 ![Catherine Boeckmann](/sites/default/files/pictures/2024-10/IMG_0365.jpeg)
 
-## Catherine Boeckmann
+### Catherine Boeckmann
 
 ### Executive Digital Editor and Master Gardener
 
@@ -123,7 +123,7 @@ Catherine Boeckmann is the Executive Digital Editor of Almanac.com, the website 
 
 [Read More from Catherine Boeckmann](/author/catherine-boeckmann)
 
-## What's cooking in The Old Farmer's Store?
+### What's cooking in The Old Farmer's Store?
 
 ### More Like This
 

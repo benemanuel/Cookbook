@@ -14,7 +14,7 @@ labels: [dairy, bread, cake]
 
 ---
 
-# Sourdough Cream Filled Doughnuts
+## Sourdough Cream Filled Doughnuts
 
 ## Ingredients
 
@@ -45,7 +45,7 @@ labels: [dairy, bread, cake]
 - 2 L frying oil
 - 200 g sugar for coating
 
-## Instructions
+### Instructions
 
 ### Day 1: Stiff Levain
 Mix starter, water, and flour. Cover and rise at 75-78°F (24-26°C) for 8-10 hours until tripled.
@@ -80,6 +80,6 @@ Mix starter, water, and flour. Cover and rise at 75-78°F (24-26°C) for 8-10 ho
 ### Assembly
 Stir cooled pastry cream. Pierce doughnut centers, pipe filling generously.
 
-## Notes
+### Notes
 - Serve same day as frying
 - Yields 15 doughnuts

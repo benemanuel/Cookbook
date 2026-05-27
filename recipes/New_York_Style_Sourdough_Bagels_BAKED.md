@@ -192,9 +192,9 @@ Flour, or semolina for proofing
 
 Â½ cup [any combination of poppy seeds/dried onion flakes/dried garlic flakes/sesame seeds/flaky salt/za'atar](/sourdough-crackers-homemade-zaatar/)
 
-## Ingredients
+### Ingredients
 
-## Instructions
+### Instructions
 
 #### Day 1
 

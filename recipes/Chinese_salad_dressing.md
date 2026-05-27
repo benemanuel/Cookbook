@@ -13,7 +13,7 @@ labels: [meat, fish]
 
 ---
 
-# Asian Vinaigrette Salad Dressing
+## Asian Vinaigrette Salad Dressing
 
 [SVG ImageSVG ImageSVG ImageSVG ImageSVG ImageSVG ImageSVG ImageSVG ImageSVG ImageSVG Image 33](#reviews)
 
@@ -76,7 +76,7 @@ Units: US
 
 Advertisement
 
-## Instructions
+### Instructions
 
 - Mix first 5 ingredients in a bowl or food processor.
 - If using a bowl: SLOWLY drizzle in the sesame and peanut oil, whisking constantly so that the dressing will emulsify.
@@ -90,7 +90,7 @@ The joy of cooking is being creative!
 
 If you wish to substitute the oil, use a bland vegetable oil, extra virgin olive oil or "light" olive oil. Regular olive oil is too strong for this recipe.> "Share via Pinterest") [![icons / email](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjRweCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGhlaWdodD0iMjRweCI+PHRpdGxlPmljb25zIC8gZW1haWw8L3RpdGxlPjxkZWZzPjxwYXRoIGQ9Ik0yMy44NjExOTk2LDMuMDM3MzM4NjYgQzIzLjc3MTY4OCwyLjg0MTQ5NTEyIDIzLjY1MzY3ODMsMi42NTQwMDgxNCAyMy41MTE0MDI1LDIuNDc0ODc3NzMgQzIzLjMzMjI3MjEsMi4zMzI2MDE5IDIzLjE0NDAzNTIsMi4yMTk4NDE4NyAyMi45NDgxOTE2LDIuMTMwMzMwMjMgQzIyLjc1MTQ5MSwyLjA0MTU2ODU0IDIyLjUyNzIwMywyIDIyLjI3Nzc5MTgsMiBMMS43MDc3OTIwOCwyIEMxLjQ1NzUyMzc1LDIgMS4yMzQwMzkyOCwyLjA0MTU2ODU0IDEuMDM4MTk1NzQsMi4xMzAzMzAyMyBDMC44NDE0OTUxMTgsMi4yMTk4NDE4NyAwLjY1NDAwODE0MSwyLjMzNDQyMzIgMC40NzU3MzQ4MTEsMi40NzY2OTkwMyBDMC4zMzI2MDE4OTYsMi42NTU4Mjk0NCAwLjIxOTQ2Njg5OCwyLjg0MjQwNTc3IDAuMTMwNzA1MjA2LDMuMDM4MjQ5MzEgQzAuMDQxMTkzNTY3MSwzLjIzNDk0OTkzIDAsMy40NTc1MjM3NSAwLDMuNzA2OTM1IEwwLDIwLjg0ODYwMTQgQzAsMjEuMDk4ODY5NyAwLjA0MTE5MzU2NzEsMjEuMzIyMzU0MiAwLjEzMDcwNTIwNiwyMS41MTgxOTc4IEMwLjIxOTQ2Njg5OCwyMS43MTQ4OTg0IDAuMzM0MjA4OTI3LDIxLjkwMjM4NTQgMC40NzczNDE4NDIsMjIuMDgwNjU4NyBDMC42NTU2MTUxNzMsMjIuMjIzNzkxNiAwLjg0MjI5ODYzMywyMi4zNDM3Mjk3IDEuMDM4OTk5MjYsMjIuNDMyNDkxNCBDMS4yMzQ4NDI3OSwyMi41MjIwNTY2IDEuNDU3NTIzNzUsMjIuNTY5OTk5NyAxLjcwNzc5MjA4LDIyLjU2OTk5OTcgTDIyLjI3Nzc5MTgsMjIuNTY5OTk5NyBDMjIuNTI3MjAzLDIyLjU2OTk5OTcgMjIuNzUwNjg3NSwyMi41MjIwNTY2IDIyLjk0NzM4ODEsMjIuNDMyNDkxNCBDMjMuMTQzMjMxNywyMi4zNDM3Mjk3IDIzLjMzMDcxODYsMjIuMjI1NjEyOSAyMy41MDk4NDkxLDIyLjA4MjQ4IEMyMy42NTIxMjQ5LDIxLjkwNDIwNjcgMjMuNzcxNjg4LDIxLjcxNTgwOSAyMy44NjExOTk2LDIxLjUxOTEwODQgQzIzLjk0OTk2MTMsMjEuMzIzMjY0OSAyMy45OTgzMzMsMjEuMDk4ODY5NyAyMy45OTgzMzMsMjAuODQ4NjAxNCBMMjMuOTk4MzMzLDMuNzA2OTM1IEMyMy45OTgzMzMsMy40NTc1MjM3NSAyMy45NDk5NjEzLDMuMjM0MDM5MjggMjMuODYxMTk5NiwzLjAzNzMzODY2IEwyMy44NjExOTk2LDMuMDM3MzM4NjYgWiBNMTUuNjc3MzkzMSwxMi4xMzM1NjM5IEwyMi4yODQxNjYzLDUuOTk5MjA0MzQgTDIyLjI4NDE2NjMsMTguNTIxNDA1OSBMMTUuNjc3MzkzMSwxMi4xMzM1NjM5IEwxNS42NzczOTMxLDEyLjEzMzU2MzkgWiBNMjIuMjg0MTY2MywzLjc1NjQzMTU2IEwxMi4wMjM0MzI3LDEzLjIzNjU3NjYgTDEuNzY1NDg0NTEsMy43MTQxNjY2NCBMMjIuMjg0MTY2MywzLjcxNDE2NjY0IEwyMi4yODQxNjYzLDMuNzU2NDMxNTYgTDIyLjI4NDE2NjMsMy43NTY0MzE1NiBaIE0xLjcxNDE2NjY0LDUuOTQ5NDM5OTQgTDguMzcyMjU3NzEsMTIuMTM0MzY3NSBMMS43MTQxNjY2NCwxOC41NzM0MjAyIEwxLjcxNDE2NjY0LDUuOTQ5NDM5OTQgTDEuNzE0MTY2NjQsNS45NDk0Mzk5NCBaIE0xMS40MDM1NDcxLDE0Ljk1NjE1MzYgQzExLjYxNzgxOCwxNS4wNjMyODkgMTEuODMyMDg4OCwxNS4xMTY4NTY3IDEyLjA0NjM1OTYsMTUuMTE2ODU2NyBDMTIuMjYwNjMwNSwxNS4xMTY4NTY3IDEyLjQ1NjQ3NCwxNS4wNjMyODkgMTIuNjM1NjA0NCwxNC45NTYxNTM2IEwxNC40NDU5Nzg3LDEzLjI3ODA5MTYgTDIyLjI3NTk3MDUsMjAuODU1ODMzMSBMMS43MDc3OTIwOCwyMC44NTU4MzMxIEw5LjU5MzE3MjksMTMuMjc4MDkxNiBMMTEuNDAzNTQ3MSwxNC45NTYxNTM2IEwxMS40MDM1NDcxLDE0Ljk1NjE1MzYgWiIgaWQ9InBhdGgtZW1haWwiIC8+PC9kZWZzPjxnIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlPSJub25lIiBmaWxsPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGlkPSJpY29ucy0vLWVtYWlsIj48bWFzayBmaWxsPSJ3aGl0ZSIgaWQ9Im1hc2stZW1haWwiPjx1c2UgeGxpbms6aHJlZj0iI3BhdGgtZW1haWwiIC8+PC9tYXNrPjx1c2UgZmlsbD0iY3VycmVudENvbG9yIiB4bGluazpocmVmPSIjcGF0aC1lbWFpbCIgaWQ9Ik1hc2siIC8+PGcgZmlsbD0iY3VycmVudENvbG9yIiBtYXNrPSJ1cmwoI21hc2stZW1haWwpIiBpZD0iR3JvdXAiPjxnIGlkPSJjb2xvci0vLXByaW1hcnktLy1ibGFjayI+PHJlY3QgeD0iMCIgaGVpZ2h0PSIyNCIgd2lkdGg9IjI0IiB5PSIwIiBpZD0iUmVjdGFuZ2xlIiAvPjwvZz48L2c+PC9nPjwvc3ZnPg==)](<mailto:?subject=Asian Vinaigrette Salad Dressing&body=%0AThis%20is%20simple%20to%20throw%20together%2C%20light%20and%20tangy.%20I%20often%20vary%20the%20ingredients%2C%20using%20honey%20or%20orange%20juice%20instead%20of%20sugar%2C%20adding%20wasabi%20powder%20--%20whatever%20I'm%20in%20the%20mood%20for.%0D%0A%0D%0AThe%20joy%20of%20cooking%20is%20being%20creative!%20%0D%0A%0D%0AIf%20you%20wish%20to%20substitute%20the%20oil%2C%20use%20a%20bland%20vegetable%20oil%2C%20extra%20virgin%20olive%20oil%20or%20%22light%22%20olive%20oil.%20Regular%20olive%20oil%20is%20too%20strong%20for%20this%20recipe.%0A%0AView%20it%20here%3A%20https%3A%2F%2Fwww.food.com%2Frecipe%2Fasian-vinaigrette-salad-dressing-114822%3Fnl%3Demail_share%0A> "Share via Email")
 
-## Questions & Replies
+### Questions & Replies
 
 ![](https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_48,ar_1:1/v1/gk-static/gk/img/avatar/pop.png)
 
@@ -130,7 +130,7 @@ By entering your email address, you agree to our [Terms of Use](https://corporat
 
 To withdraw your consent or to learn more about your rights, see the [Privacy Policy](https://www.wbdprivacy.com/policycenter/b2c/).
 
-## Reviews
+### Reviews
 
 MOST POPULAR
 MOST RECENT
@@ -352,7 +352,7 @@ MOST RECENT
 
 see 2 more tweaks ![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjUgMjQiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTIuMDAzOCAxOC43Mjk2QzEyLjIwMzQgMTguNzM1OSAxMi40MDUgMTguNjYyOCAxMi41NTczIDE4LjUxMDVMMjMuNzg2OSA3LjI4MDg1QzI0LjA3OTcgNi45ODgwOCAyNC4wNzk3IDYuNTEzNDQgMjMuNzg2OSA2LjIyMDcxQzIzLjQ5NDIgNS45Mjc5OSAyMy4wMTk2IDUuOTI3OTkgMjIuNzI2OCA2LjIyMDcxTDEyLjAwMzggMTYuOTQzN0wxLjI3OTYzIDYuMjE5NTRDMC45ODY5MTEgNS45MjY4MiAwLjUxMjI2NiA1LjkyNjgyIDAuMjE5NTQzIDYuMjE5NTRDLTAuMDczMTgwOSA2LjUxMjI3IC0wLjA3MzE4MDkgNi45ODY5MSAwLjIxOTU0MyA3LjI3OTYzTDExLjQ1MDQgMTguNTEwNUMxMS42MDI3IDE4LjY2MjggMTEuODA0MyAxOC43MzU5IDEyLjAwMzggMTguNzI5NloiIC8+PC9zdmc+)
 
-## RECIPE SUBMITTED BY
+### RECIPE SUBMITTED BY
 
 [![](https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_112,ar_1:1/v1/gk-static/gk/img/avatar/sushi.png)](https://www.food.com/user/168158)
 
@@ -374,7 +374,7 @@ Advertisement
 
 Advertisement
 
-## YOU'LL ALSO LOVE
+### YOU'LL ALSO LOVE
 
 [Italian Salad Dressing](https://www.food.com/recipe/italian-salad-dressing-43522)
 

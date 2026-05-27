@@ -13,7 +13,7 @@ labels: [bread]
 
 ---
 
-# Best Basic Pizza Dough Recipe
+## Best Basic Pizza Dough Recipe
 
 ![Best Basic Pizza Dough Recipe](https://www.foodrepublic.com/img/gallery/best-basic-pizza-dough-recipe/intro-import.jpg) It's all about the crust, so make it count.
 
@@ -39,7 +39,7 @@ makes 2, 12- inch pies
 
 [](https://www.pinterest.com/pin/create/button/?utm_source=PT-addon&utm_medium=Social-Distribution&utm_campaign=image-save)
 
-## Ingredients
+### Ingredients
 
 - 1 packet active dry yeast
 - 2 tablespoons olive oil
@@ -47,7 +47,7 @@ makes 2, 12- inch pies
 - 3 cups all- purpose flour
 - 1 cup slightly warm water
 
-## Instructions
+### Instructions
 
 1. In the bowl of a mixer fitted with a dough hook, pour the warm water in and sprinkle with yeast. Let stand until foamy, about 5 minutes. *Do not use hot water or it will kill the yeast and your dough will not rise.
 2. Add the sugar, oil, and salt into yeast mixture.

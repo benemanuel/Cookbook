@@ -13,16 +13,16 @@ labels: [dairy, bread]
 
 ## Instructions
 
-## 📦 Yield
+### 📦 Yield
 
 * **14\-15 rolls × \~120 g**
 
 ---
 
 
-# 🧾 TOTAL INGREDIENTS
+### 🧾 TOTAL INGREDIENTS
 
-## 🌾 Flour (Total: 840 g)
+### 🌾 Flour (Total: 840 g)
 
 * 145 g whole wheat
 * 160 g כפרי
@@ -30,18 +30,18 @@ labels: [dairy, bread]
 * 35 g ap flour
 
 
-## 💧 Liquids
+### 💧 Liquids
 
 * 530 g water
 * 175 g milk
 
 
-## 🧪 Levain
+### 🧪 Levain
 
 * 220 g (100% hydration)
 
 
-## 🍯 Enrichment
+### 🍯 Enrichment
 
 * 45 g butter
 * 30 g honey
@@ -50,7 +50,7 @@ labels: [dairy, bread]
 ---
 
 
-# 🔴 STEP 1 — TANGZHONG
+### 🔴 STEP 1 — TANGZHONG
 
 Use:
 
@@ -63,7 +63,7 @@ Cook until thick pudding. Cool completely.
 ---
 
 
-# 🟡 STEP 2 — AUTOLYSE
+### 🟡 STEP 2 — AUTOLYSE
 
 Use:
 
@@ -77,7 +77,7 @@ Mix until shaggy. Rest 1–4 hours.
 ---
 
 
-# 🔵 STEP 3 — FINAL MIX
+### 🔵 STEP 3 — FINAL MIX
 
 Add:
 
@@ -91,7 +91,7 @@ Mix until combined and moderately developed.
 ---
 
 
-# 🟣 STEP 4 — BULK \+ BUTTER
+### 🟣 STEP 4 — BULK \+ BUTTER
 
 Add during first fold:
 
@@ -106,7 +106,7 @@ Then:
 ---
 
 
-# ❄️ STEP 5 — SHAPE \& COLD RETARD
+### ❄️ STEP 5 — SHAPE \& COLD RETARD
 
 * Divide into **15 × 120 g**
 * Shape into balls
@@ -115,7 +115,7 @@ Then:
 ---
 
 
-# 🔥 STEP 6 — BAKE
+### 🔥 STEP 6 — BAKE
 
 * 200°C
 * 15–18 minutes

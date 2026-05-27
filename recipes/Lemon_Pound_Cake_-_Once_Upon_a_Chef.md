@@ -82,7 +82,7 @@ The recipe yields two ultra-moist loaves that stay fresh for days on the counter
 
 ![Partially-sliced loaf of lemon pound cake.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='760'%20height='587'%20viewBox='0%200%20760%20587'%3E%3C/svg%3E)
 
-## You May Also Like
+### You May Also Like
 
 - ![Lemon Bars dusted with powdered sugar.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='227'%20height='307'%20viewBox='0%200%20227%20307'%3E%3C/svg%3E)
 
@@ -102,7 +102,7 @@ The recipe yields two ultra-moist loaves that stay fresh for days on the counter
 
 [![SVG Image](data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgY2xhc3M9ImNpY29uIGljb24tcHJpbnQiPjx1c2UgeGxpbms6aHJlZj0iI2ljb24tcHJpbnQiIC8+PC9zdmc+)Print](https://www.onceuponachef.com/wprm_print/lemon-pound-cake)
 
-## Lemon Pound Cake
+### Lemon Pound Cake
 
 ![Partially sliced lemon pound cake on a plate.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='160'%20height='160'%20viewBox='0%200%20160%20160'%3E%3C/svg%3E)
 
@@ -149,9 +149,9 @@ Total Time: 1 hour hour 25 minutes minutes, plus about 1 hour cooling time
 - 1 cup confectioners' sugar
 - 2 tablespoons fresh lemon juice
 
-## Ingredients
+### Ingredients
 
-## Instructions
+### Instructions
 
 - Preheat the oven to 350°F (175°C) and set an oven rack in the middle position. Spray two 8½ x 4½-in (22 x 11-cm) loaf pans with nonstick cooking spray. Line the long sides of the pans with parchment paper “slings” and spray lightly with nonstick cooking spray again.
 
@@ -208,11 +208,11 @@ This website is written and produced for informational purposes only. I am not a
 
 4.78 from 1052 votes
 
-## Add a Comment [Cancel reply](/recipes/lemon-buttermilk-pound-cake.html#respond)
+### Add a Comment [Cancel reply](/recipes/lemon-buttermilk-pound-cake.html#respond)
 
 This site uses Akismet to reduce spam. [Learn how your comment data is processed.](https://akismet.com/privacy/)
 
-## 2,099 Comments
+### 2,099 Comments
 
 - ![5 stars](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='80'%20height='16'%20viewBox='0%200%2080%2016'%3E%3C/svg%3E)  
 Delicious  

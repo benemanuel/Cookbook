@@ -183,7 +183,7 @@ Republish our articles for free, online or in print, under a Creative Commons li
 
 Close window
 
-## Republish this article
+### Republish this article
 
 [![Creative Commons Attribution-NoDerivatives 4.0 International License](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)](https://creativecommons.org/licenses/by-nd/4.0/)
 
@@ -247,7 +247,7 @@ Keep in touch
 
 We want to hear from you if you love Modern Farmer content, have a collaboration idea, or anything else to share. As a nonprofit outlet, we work in service of our community and are always open to comments, feedback, and ideas. Contact us at [[email protected]](/cdn-cgi/l/email-protection).
 
-# How to Transform Green Walnuts Into a Nutty Liqueur
+### How to Transform Green Walnuts Into a Nutty Liqueur
 
 by Danny Childs, Modern Farmer  
 June 22, 2022  

@@ -15,7 +15,7 @@ labels: [meat, fish, dairy]
 
 [Home](https://rasamalaysia.com/) / [Recipes](https://rasamalaysia.com/recipes/) / [Baking Recipes](https://rasamalaysia.com/recipes/baking-recipes/)
 
-# Brazilian Cheese Puffs
+## Brazilian Cheese Puffs
 
 [![](https://rasamalaysia.com/wp-content/uploads/2022/06/website-author-profile-2018n.jpg)](https://rasamalaysia.com/about/)
 
@@ -58,7 +58,7 @@ I just love all kinds of cheesy bread, such as [cheese breadsticks](https://rasa
 
 ---
 
-## Homemade Brazilian Cheese Puffs Recipe
+### Homemade Brazilian Cheese Puffs Recipe
 
 ![Super easy and authentic Brazilian cheese ball bread recipe.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20900'%3E%3C/svg%3E)
 
@@ -78,7 +78,7 @@ Make a bunch of these, you will finish them all in no time!
 
 ---
 
-## Frequently Asked Questions
+### Frequently Asked Questions
 
 **How many calories per serving?**
 
@@ -88,7 +88,7 @@ This recipe is only 88 calories per serving.
 
 ---
 
-## What To Serve With Brazilian Cheese Puffs
+### What To Serve With Brazilian Cheese Puffs
 
 For a wholesome meal and easy weeknight dinner, I recommend the following recipes.
 
@@ -122,7 +122,7 @@ I hope you enjoy this post as much as I do. If you try my recipe, please leave a
 
 4.52 from 149 votes
 
-## Brazilian Cheese Puffs Recipe
+### Brazilian Cheese Puffs Recipe
 
 By: [Bee Yinn Low](/about/)
 
@@ -161,9 +161,9 @@ Cook Mode
 
 Prevent your screen from going dark
 
-## Ingredients
+### Ingredients
 
-## Instructions
+### Instructions
 
 - Preheat the oven to 350°F (176°C). Line 2 baking sheets with parchment paper. Place the milk, oil, and salt in a medium saucepan and bring to a gentle boil over medium heat, stirring occasionally. Remove from heat as soon as large bubbles start to form in the milk.
 

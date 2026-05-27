@@ -63,7 +63,7 @@ Over 50 of my very favorite cake recipes all in one place! From Classic Cakes to
 - If you have excess fluff left over, you can freeze it in an airtight container to use at a later date. I recommend using it in Rice Krispie treats!
 - I do not recommend using store-bought marshmallow fluff in place of homemade if the recipe calls for it. The store-bought stuff can be very runny and will totally ruin your dessert!
 
-## **Where to use Marshmallow Fluff:**
+### **Where to use Marshmallow Fluff:**
 
 - [S’mores Cake](https://livforcake.com/smores-cake/)
 - [S’mores Cookie Cups](https://livforcake.com/smores-cookie-cups/)
@@ -80,7 +80,7 @@ Over 50 of my very favorite cake recipes all in one place! From Classic Cakes to
 
 [![SVG Image](data:image/svg+xml;base64,PHN2ZyB5PSIwcHgiIGhlaWdodD0iMTZweCIgdmlld2JveD0iMCAwIDI0IDI0IiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4PSIwcHgiIHdpZHRoPSIxNnB4Ij48Zz48cGF0aCBkPSJNMTIuNzEyLDEuOTQybDIuOTY5LDYuMDE1bDYuNjM4LDAuOTY1YzAuNjUxLDAuMDk1LDAuOTExLDAuODk1LDAuNDQsMS4zNTRsLTQuODA0LDQuNjgybDEuMTM0LDYuNjEyYzAuMTExLDAuNjQ5LTAuNTcsMS4xNDMtMS4xNTIsMC44MzdMMTIsMTkuMjg2bC01LjkzOCwzLjEyMkM1LjQ4LDIyLjcxNCw0Ljc5OSwyMi4yMTksNC45MSwyMS41N2wxLjEzNC02LjYxMmwtNC44MDQtNC42ODJjLTAuNDcxLTAuNDU5LTAuMjExLTEuMjYsMC40NC0xLjM1NGw2LjYzOC0wLjk2NWwyLjk2OS02LjAxNUMxMS41NzksMS4zNTIsMTIuNDIxLDEuMzUyLDEyLjcxMiwxLjk0MnoiIGZpbGw9IiNmZmZmZmYiIC8+PC9nPjwvc3ZnPg==) Rate](#commentform)
 
-## Homemade Marshmallow Fluff
+### Homemade Marshmallow Fluff
 
 ![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMCIgc3R5bGU9ImRpc3BsYXk6YmxvY2s7d2lkdGg6MHB4O2hlaWdodDowcHgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgaGVpZ2h0PSIwIj48ZGVmcz48bGluZWFyZ3JhZGllbnQgaWQ9Indwcm0tcmVjaXBlLXJhdGluZy0wLTMzIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSIzMyUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjMzJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjwvbGluZWFyZ3JhZGllbnQ+PC9kZWZzPjxkZWZzPjxsaW5lYXJncmFkaWVudCBpZD0id3BybS1yZWNpcGUtcmF0aW5nLTAtNTAiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PC9saW5lYXJncmFkaWVudD48L2RlZnM+PGRlZnM+PGxpbmVhcmdyYWRpZW50IGlkPSJ3cHJtLXJlY2lwZS1yYXRpbmctMC02NiI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iNjYlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI2NiUiIHN0b3Atb3BhY2l0eT0iMCIgLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3Atb3BhY2l0eT0iMCIgLz48L2xpbmVhcmdyYWRpZW50PjwvZGVmcz48L3N2Zz4=)
 
@@ -115,9 +115,9 @@ Author [Olivia](https://livforcake.com/about/)
 - 1/2 tsp [cream of tartar](http://amzn.to/2oscmme)
 - 1 tsp [vanilla extract](http://amzn.to/2oEYyqC)
 
-## Ingredients
+### Ingredients
 
-## Instructions
+### Instructions
 
 - Place water, sugar, and corn syrup in a medium saucepan. Stir to combine.
 

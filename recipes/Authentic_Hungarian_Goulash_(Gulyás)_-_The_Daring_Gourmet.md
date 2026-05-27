@@ -61,13 +61,13 @@ For this size batch of Goulash, you want to use a full 1/4 cup of it. When I liv
 
 I mentioned earlier, many variations of goulash exist. Some include turnip or wine or caraway seeds, to name a few. But this recipe is a very old, very traditional way of making Goulash that my brother and I learned from older generations of Hungarian women and it needs no embellishments. It’s simple and simply delicious!
 
-## What’s the Best Dutch Oven to Use?
+### What’s the Best Dutch Oven to Use?
 
 For this recipe, I recommend using a Dutch oven because it seals in the flavors and heats evenly, ensuring consistent cooking results. I love this 6-quart, budget-friendly option from Lodge, which you can get [**on Amazon for around $80**](https://www.amazon.com/gp/product/B000N501BK?th=1&linkCode=ll1&tag=thedargou09-20&linkId=cd6c897394b89851887066d0829df145&language=en_US&ref_=as_li_ss_tl). Or, if you’re looking for a worthy splurge, I also have **[this one from Le](https://www.amazon.com/Creuset-Signature-21179302002430-Gourmet-Casserole-Marseille/dp/B01BNIOU8K/r?th=1&linkCode=ll1&tag=thedargou09-20&linkId=6e14be7d8b8743c400b44a4c01259382&language=en_US&ref_=as_li_ss_tl)[Creuset](https://www.amazon.com/Creuset-Signature-21179302002430-Gourmet-Casserole-Marseille/dp/B01BNIOU8K/r?th=1&linkCode=ll1&tag=raptive-daringgourmet-cse-20&linkId=6e14be7d8b8743c400b44a4c01259382&language=en_US&ref_=as_li_ss_tl),** which sells for around $300.
 
 ![hungarian goulash recipe traditional authentic gulyas beef stew paprika carrots peppers potatoes sour cream caraway](https://www.daringgourmet.com/wp-content/uploads/2022/01/Hungarian-Goulash-13.jpg)
 
-## **Hungarian Goulash Recipe**
+### **Hungarian Goulash Recipe**
 
 Let’s get started!
 
@@ -103,7 +103,7 @@ Enter your email address and we’ll send it straight to your inbox!
 
 ![hungarian goulash recipe traditional authentic gulyas beef stew paprika carrots peppers potatoes sour cream caraway](https://www.daringgourmet.com/wp-content/uploads/2022/01/Hungarian-Goulash-17-300x300.jpg)
 
-## Authentic Hungarian Goulash (Gulyás)
+### Authentic Hungarian Goulash (Gulyás)
 
 By [Kimberly Killebrew](https://www.daringgourmet.com/about/)
 
@@ -143,9 +143,9 @@ Servings 4 servings
 - 1/2 teaspoon freshly ground black pepper
 - 1/2 teaspoon [crushed caraway seeds](https://www.amazon.com/gp/product/B08BY6J6KR?ie=UTF8&tag=thedargou09-20&camp=1789&linkCode=xm2&creativeASIN=B08BY6J6KR) (optional, not traditional in all regions)
 
-## Ingredients
+### Ingredients
 
-## Instructions
+### Instructions
 
 - Melt the pork lard or butter/oil in a Dutch oven or other heavy soup pot over medium high heat and cook the onions until beginning to brown, about 7-10 minutes. Add the beef and cook until the beef is just starting to brown, 7-10 minutes. Add the bell peppers, tomatoes, and garlic and cook for another 6-8 minutes. Remove the pot from the heat and stir in the paprika, salt, pepper and caraway (if using) (note: paprika becomes bitter if at all scorched). Add the beef broth, bay leaf, return to the stove and bring to a boil. Reduce the heat to medium-low, cover and simmer for 40 minutes. Add the carrots and potatoes. Return to a boil, reduce the heat to medium-low, cover, and simmer for another 30-40 minutes or until the beef is nice and tender. Add salt to taste. Remove the bay leaf.
 

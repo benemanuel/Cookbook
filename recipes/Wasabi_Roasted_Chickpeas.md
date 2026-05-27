@@ -49,7 +49,7 @@ This recipe is adapted from one that my coworker Jeannie Moulton shared long ago
 
 ![wasabi chickpeas on a serving dish on a wooden table](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20180%20180'%3E%3C/svg%3E)
 
-## Wasabi Roasted Chickpeas
+### Wasabi Roasted Chickpeas
 
 by Becky Striepe
 
@@ -88,9 +88,9 @@ Prevent your screen from going dark
 
 ![Instacart](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2042%2052'%3E%3C/svg%3E)Get Recipe Ingredients
 
-## Ingredients
+### Ingredients
 
-## Instructions
+### Instructions
 
 - Preheat the oven to 400F.
 
@@ -114,7 +114,7 @@ Keywords wasabi roasted chickpeas
 
 ![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIHk9IjBweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4PSIwcHgiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBoZWlnaHQ9IjE2cHgiIHdpZHRoPSIxNnB4Ij48Zz48cGF0aCBkPSJNMTAsMEM5LjQsMCw5LDAuNCw5LDF2NEg3VjFjMC0wLjYtMC40LTEtMS0xUzUsMC40LDUsMXY0SDNWMWMwLTAuNi0wLjQtMS0xLTFTMSwwLjQsMSwxdjhjMCwxLjcsMS4zLDMsMywzdjEwYzAsMS4xLDAuOSwyLDIsMnMyLTAuOSwyLTJWMTJjMS43LDAsMy0xLjMsMy0zVjFDMTEsMC40LDEwLjYsMCwxMCwweiIgZmlsbD0iI2ZmZmZmZiIgLz48cGF0aCBkYXRhLWNvbG9yPSJjb2xvci0yIiBkPSJNMTksMGMtMy4zLDAtNiwyLjctNiw2djljMCwwLjYsMC40LDEsMSwxaDJ2NmMwLDEuMSwwLjksMiwyLDJzMi0wLjksMi0yVjFDMjAsMC40LDE5LjYsMCwxOSwweiIgZmlsbD0iI2ZmZmZmZiIgLz48L2c+PC9zdmc+) 💌 Hungry for more?Sign up for [my newsletter](https://www.glueandglitter.com/subscribe/)! ✨Get top tips for going (and staying!) vegan and never miss a recipe.
 
-## More Vegan recipes
+### More Vegan recipes
 
 - [smashed white bean salad sandwich on a black plate 10-Minute Smashed White Bean Salad](https://www.glueandglitter.com/smashed-white-bean-salad/)
 - [Image collage of vegan summer dinners. Text reads: "30 Quick and Easy Plant-Based Summer Dinners" 30+ Easy Vegan Summer Dinners](https://www.glueandglitter.com/vegan-summer-dinners/)

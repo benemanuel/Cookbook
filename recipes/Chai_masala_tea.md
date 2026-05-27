@@ -75,7 +75,7 @@ More Indian beverages
 [Lassi Recipe](https://www.indianhealthyrecipes.com/lassi-recipe/)  
 [Mango Lassi](https://www.indianhealthyrecipes.com/mango-lassi-recipe/)**
 
-## How to choose your Black Tea
+### How to choose your Black Tea
 
 Traditionally masala chai is made with loose tea leaves but now most people use processed black tea which is in granular or powder form. There are basically 2 different kinds of processed tea in the market – CTC and Tea dust.
 
@@ -99,7 +99,7 @@ In a lot of places in South India, you will find tea being simmered for too long
 
 If you don’t live in India, then use any strong black tea you like.
 
-## Other Ingredients
+### Other Ingredients
 
 **Spices** – The basic and most common spices used in masala tea are green cardamoms, cloves and cinnamon. The other optional spices are black pepper, ginger, fennel seeds, nutmeg and star anise. Each spice has its own health benefits. To know more scroll down to read my pro tips section.
 
@@ -176,7 +176,7 @@ Serve Masala Chai hot or warm with biscuits.
 
 ![masala chai recipe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
 
-## Method 2 – Make Chai Masala Powder
+### Method 2 – Make Chai Masala Powder
 
 1. This is the second method. If you drink masala tea regularly, you can make the masala chai powder in little larger quantity and store it in a glass jar. For quantities refer the recipe card below.
 
@@ -192,7 +192,7 @@ Serve Masala Chai hot or warm with biscuits.
 
 Serve masala chai hot or warm.
 
-## Faqs
+### Faqs
 
 **What is masala chai made of?**
 
@@ -245,13 +245,13 @@ Most masala tea recipes use fresh ginger. If you use fresh ginger, always boil i
 
 [![turmeric milk](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)](https://www.indianhealthyrecipes.com/turmeric-milk-recipe/)
 
-## Recipe Card
+### Recipe Card
 
 **Masala Chai Recipe first published in September 2014. Updated & Republished in May 2023.**
 
 ![masala chai tea recipe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
 
-## Masala Chai Recipe (Indian Masala Tea)
+### Masala Chai Recipe (Indian Masala Tea)
 
 ![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjAiIHdpZHRoPSIwIiBzdHlsZT0iZGlzcGxheTpibG9jazt3aWR0aDowcHg7aGVpZ2h0OjBweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48bGluZWFyZ3JhZGllbnQgaWQ9Indwcm0tcmVjaXBlLXVzZXItcmF0aW5nLTAtMzMiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjMzJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iMzMlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PC9saW5lYXJncmFkaWVudD48L2RlZnM+PGRlZnM+PGxpbmVhcmdyYWRpZW50IGlkPSJ3cHJtLXJlY2lwZS11c2VyLXJhdGluZy0wLTUwIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjwvbGluZWFyZ3JhZGllbnQ+PC9kZWZzPjxkZWZzPjxsaW5lYXJncmFkaWVudCBpZD0id3BybS1yZWNpcGUtdXNlci1yYXRpbmctMC02NiI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iNjYlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI2NiUiIHN0b3Atb3BhY2l0eT0iMCIgLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3Atb3BhY2l0eT0iMCIgLz48L2xpbmVhcmdyYWRpZW50PjwvZGVmcz48L3N2Zz4=)
 
@@ -346,9 +346,9 @@ Author[Swasthi](https://www.indianhealthyrecipes.com/about/)
 
 2 petals star flower (star anise) (chakri phool)
 
-## Ingredients
+### Ingredients
 
-## Instructions
+### Instructions
 
 #### How to make Masala Chai (Method 1)
 
@@ -413,7 +413,7 @@ Author[Swasthi](https://www.indianhealthyrecipes.com/about/)
 
 ### Video
 
-## Watch Masala Chai Video
+### Watch Masala Chai Video
 
 ### NUTRITION INFO (estimation only)
 
@@ -455,7 +455,7 @@ Sugar 9g**10%**
 
 © Swasthi’s Recipes
 
-## Meat Recipes
+### Meat Recipes
 
 ### About Swasthi
 

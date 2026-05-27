@@ -11,7 +11,7 @@ labels: [meat, dairy, cake, candy]
 
 [[link]
 
-# Mushroom Potpie
+## Mushroom Potpie
 
 ### By [Alexa Weibel]([link]
 

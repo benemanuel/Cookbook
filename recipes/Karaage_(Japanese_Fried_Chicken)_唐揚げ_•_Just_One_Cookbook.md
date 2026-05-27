@@ -50,7 +50,7 @@ If you’re craving more fried chicken, try my [Fried Chicken Wings](https://www
 
 ![Beautiful Japanese plates containing karaage, Japanese fried chicken, garnished with lemon wedges and kewpie mayo dollop sprinkled with shichimi togarashi.](https://cdn.justonecookbook.com/spai/q_glossy+ret_img+to_auto/www.justonecookbook.com/wp-content/uploads/2025/04/Karaage-Japanese-Fried-Chicken-9536-IV.jpg)
 
-## Ingredients for Karaage
+### Ingredients for Karaage
 
 - **Chicken thighs** –  boneless and skin-on
 - **Kosher salt and black pepper**
@@ -77,11 +77,11 @@ If you’re craving more fried chicken, try my [Fried Chicken Wings](https://www
 
 ![Beautiful Japanese plates containing karaage, Japanese fried chicken, garnished with lemon wedges and kewpie mayo dollop sprinkled with shichimi togarashi.](https://cdn.justonecookbook.com/spai/q_glossy+ret_img+to_auto/www.justonecookbook.com/wp-content/uploads/2025/04/Karaage-Japanese-Fried-Chicken-9554-II.jpg)
 
-## How to Make Karaage
+### How to Make Karaage
 
-## Ingredients
+### Ingredients
 
-## Instructions
+### Instructions
 
 **Step 1 – Prepare the chicken.** Slice the chicken thighs into 2-inch pieces and season with salt and pepper. Place it in a large bowl.
 
@@ -122,14 +122,14 @@ If you’re craving more fried chicken, try my [Fried Chicken Wings](https://www
 ![Serve kewpie mayonnaise in a small dish.](https://cdn.justonecookbook.com/spai/q_glossy+ret_img+to_auto/www.justonecookbook.com/wp-content/uploads/2025/04/Karaage-Japanese-Fried-Chicken-step-by-step-39-1200x900.jpg)
 ![Serve karaage on a wire rack.](https://cdn.justonecookbook.com/spai/q_glossy+ret_img+to_auto/www.justonecookbook.com/wp-content/uploads/2025/04/Karaage-Japanese-Fried-Chicken-step-by-step-41-1200x900.jpg)
 
-## Nami’s Recipe Tips
+### Nami’s Recipe Tips
 
 - **Cut the chicken into evenly sized pieces –** This helps ensure that all the pieces cook at the same rate. When the chicken is uniform in size, you avoid undercooking some pieces while overcooking others.
 - **Don’t marinate too long –** I’ve found that 30 minutes is ideal for the chicken to soak in the flavors.
 - **Lightly coat in flour –** Before frying, I suggest lightly shaking the chicken to remove the excess flour, which could make the oil cloudy and compromise the chicken’s texture.
 - **Don’t crowd the pot –** There should only be 3–5 pieces of chicken in the pot at one time. Any more and the oil temperature will drop, causing the chicken to absorb too much oil. For more helpful tips, see my post [How to Deep-Fry Food at Home](https://www.justonecookbook.com/how-to-deep-fry-food/).
 
-## Variations and Customizations
+### Variations and Customizations
 
 Like many versions of fried chicken, my recipe has a lot of room to modify and adjust to your preferences. Here are some of my suggestions.
 
@@ -138,7 +138,7 @@ Like many versions of fried chicken, my recipe has a lot of room to modify and a
 
 ![A large white plate containing gluten free karaage with a lemon wedge.](https://cdn.justonecookbook.com/spai/q_glossy+ret_img+to_auto/www.justonecookbook.com/wp-content/uploads/2025/04/Gluten-Free-Karaage-5829.jpg)
 
-## What to Serve with Karaage
+### What to Serve with Karaage
 
 - **With vegetable sides –** [Green Beans with Yuzu Vinaigrette](https://www.justonecookbook.com/green-beans-with-yuzu-vinaigrette/) always make for a bright and vibrant side.
 - **With a salad –** A refreshing [Tomato Salad with Sesame Ponzu](https://www.justonecookbook.com/tomato-salad-with-s) balances the rich fried texture of the chicken.
@@ -156,13 +156,13 @@ For even more ideas, browse our full [20 Best Japanese Chicken Recipes for Dinne
 ![A Japanese black mortar containing cut tomato wedges dressed in ground sesame ponzu seasoning, garnished with mitsuba leaves on top.](https://cdn.justonecookbook.com/spai/q_glossy+ret_img+to_auto/www.justonecookbook.com/wp-content/uploads/2025/01/Tomato-Salad-with-Sesame-Ponzu-6009-II-800x1200.jpg)
 ![A round plate containing Japanese pan-fried dumplings, Napa Cabbage Gyoza, served with a savory miso dumpling sauce.](https://cdn.justonecookbook.com/spai/q_glossy+ret_img+to_auto/www.justonecookbook.com/wp-content/uploads/2024/03/Napa-Cabbage-Gyoza-7231-III-800x1200.jpg)
 
-## Storage and Reheating Tips
+### Storage and Reheating Tips
 
 **To store:** Allow the chicken to cool completely, then refrigerate it in an airtight container for 3–4 days or freeze it for up to 3–4 months.
 
 **To reheat:** Reheat leftovers in the oven at 350°F (180ºC) for 7–8 minutes or until warm and crispy throughout.
 
-## Frequently Asked Questions
+### Frequently Asked Questions
 
 **What is the difference between karaage and katsu?**
 
@@ -172,7 +172,7 @@ Katsu refers to deep-fried cutlets and commonly uses panko-breaded chicken breas
 
 While both karaage and tatsuta-age are beloved Japanese fried chicken dishes, they differ slightly in preparation and presentation. **Karaage** is typically marinated in a mixture of soy sauce, sake, garlic, and ginger, then coated in either flour, potato starch, or a mix of both before frying. This gives it a golden, rustic appearance with bold, savory flavors. In contrast, **tatsuta-age** uses a simpler marinade—usually just soy sauce and mirin—which results in a slightly sweeter taste. It’s coated only in potato starch, giving it a lighter, crispier texture and a pale, almost powdery finish once fried.
 
-## Karaage (Japanese Fried Chicken)
+### Karaage (Japanese Fried Chicken)
 
 ![SVG Image](data:image/svg+xml;base64,PHN2ZyBzdHlsZT0iZGlzcGxheTpibG9jazt3aWR0aDowcHg7aGVpZ2h0OjBweCIgaGVpZ2h0PSIwIiB3aWR0aD0iMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48bGluZWFyZ3JhZGllbnQgaWQ9Indwcm0tcmVjaXBlLXVzZXItcmF0aW5nLTAtMzMiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjMzJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iMzMlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PC9saW5lYXJncmFkaWVudD48L2RlZnM+PGRlZnM+PGxpbmVhcmdyYWRpZW50IGlkPSJ3cHJtLXJlY2lwZS11c2VyLXJhdGluZy0wLTUwIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjwvbGluZWFyZ3JhZGllbnQ+PC9kZWZzPjxkZWZzPjxsaW5lYXJncmFkaWVudCBpZD0id3BybS1yZWNpcGUtdXNlci1yYXRpbmctMC02NiI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iNjYlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI2NiUiIHN0b3Atb3BhY2l0eT0iMCIgLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3Atb3BhY2l0eT0iMCIgLz48L2xpbmVhcmdyYWRpZW50PjwvZGVmcz48L3N2Zz4=)
 
@@ -306,7 +306,7 @@ Prevent your screen from going dark
 
 Calories: 531kcal, Carbohydrates: 8g, Protein: 29g, Fat: 42g, Saturated Fat: 19g, Trans Fat: 1g, Cholesterol: 167mg, Sodium: 254mg, Potassium: 411mg, Fiber: 1g, Sugar: 1g, Vitamin A: 133IU, Vitamin C: 1mg, Calcium: 19mg, Iron: 1mg
 
-## Did you make this recipe?
+### Did you make this recipe?
 
 Tag [@justonecookbook](https://www.instagram.com/justonecookbook/) on Instagram so we can see your delicious creation!
 

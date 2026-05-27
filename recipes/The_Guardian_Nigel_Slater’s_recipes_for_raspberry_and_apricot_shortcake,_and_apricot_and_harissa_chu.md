@@ -26,7 +26,7 @@ labels: [meat, dairy, cake]
 
 *![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTggMTMiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMyI+PHBhdGggZD0iTTE4IDMuNXY4bC0xLjUgMS41aC0xNWwtMS41LTEuNXYtOGwxLjUtMS41aDMuNWwyLTJoNGwyIDJoMy41bDEuNSAxLjV6bS05IDcuNWMxLjkgMCAzLjUtMS42IDMuNS0zLjVzLTEuNi0zLjUtMy41LTMuNS0zLjUgMS42LTMuNSAzLjUgMS42IDMuNSAzLjUgMy41eiIgLz48L3N2Zz4=)‘Soft, sweet crumbs…’ raspberry and apricot shortcake. Photograph: Jonathan Lovekin/The Observer*
 
-# Nigel Slater’s recipes for raspberry and apricot shortcake, and apricot and harissa chutney
+### Nigel Slater’s recipes for raspberry and apricot shortcake, and apricot and harissa chutney
 
 Glossy, rich and fleeting, apricots always make summer special
 
@@ -38,7 +38,7 @@ The fruit produces the most sumptuous and glossy of softly set jams, something I
 
 I cannot think of many fruits that work better in a Danish pastry, their tenderness being a perfect contrast to layers of crisp, flaky dough. Apricots are also my first choice to chop up and incorporate into a ginger cake or as a layer, perhaps with raspberries or blueberries, amid the soft, sweet crumbs of a buttery shortcake.
 
-## Raspberry and apricot shortcake
+### Raspberry and apricot shortcake
 
 I make this cake throughout the year, using whatever fruits are in season, from gooseberries to blueberries. Whether you use apricots or peaches, the fruit must be thoroughly ripe. Rhubarb works, too, as will plums. The cake will keep for a couple of days in an airtight tin in a cool place. *Serves 8-10*
 
@@ -72,7 +72,7 @@ Scatter the crumble mixture loosely over the fruit, then bake in the preheated o
 
 Run a palette knife around the edge of the cake to free it from its tin, then ease open the tin and transfer the cake to a plate. Dust lightly with icing sugar.
 
-## Apricot and harissa chutney
+### Apricot and harissa chutney
 
 ![‘The best chutney of all chutneys…’ apricot and harissa chutney.](https://i.guim.co.uk/img/media/5c22a8872be3dd3752e121b2fc661964b86d590d/0_62_3981_4973/master/3981.jpg?width=445&amp;dpr=1&amp;s=none&amp;crop=none)[![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZvY3VzYWJsZT0iZmFsc2UiIHZpZXdCb3g9Ii0zIC0zIDMwIDMwIiBhcmlhLWhpZGRlbj0idHJ1ZSI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yMyA4Ljc1VjEuNWwtLjUtLjVoLTcuMjV2MS4yNWw0LjUuNkwxNCA4LjU3NSAxNS40IDEwbDUuNzUtNS43MjUuNiA0LjQ3NXptLTIyIDYuNXY3LjI1bC40NzUuNWg3LjI1di0xLjI1bC00LjQ3NS0uNiA1LjcyNS01Ljc3NUw4LjYgMTRsLTUuNzc1IDUuNzI1LS41NzUtNC40NzV6IiAvPjwvc3ZnPg==)View image in fullscreen](#img-2)
 

@@ -15,7 +15,7 @@ labels: [dairy, bread, cake]
 
 **Sweet Potato Sourdough Cinnamon Rolls**
 
-## **Dough**
+### **Dough**
 
 * 350 g sweet potato (blended with milk)
 
@@ -35,7 +35,7 @@ labels: [dairy, bread, cake]
 
 * Milk 80–120 ml — begin with 80
 
-## **Filling**
+### **Filling**
 
 * 345 g butter
 
@@ -49,7 +49,7 @@ labels: [dairy, bread, cake]
 
 * 2 tsp cloves
 
-## **Frosting**
+### **Frosting**
 
 * 230 g cream cheese
 
@@ -64,7 +64,7 @@ labels: [dairy, bread, cake]
 ---
 
 
-# **Method**
+### **Method**
 
 1. Make tangzhong (50 g flour \+ 250 g milk to 65°C).
 

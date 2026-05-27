@@ -14,7 +14,7 @@ labels: [meat, fish, dairy, cake]
 
 [www.recipetineats.com](https://www.recipetineats.com/meat-pie-recipe/)
 
-# Meat Pie recipe!
+## Meat Pie recipe!
 
 Nagi
 
@@ -36,7 +36,7 @@ best meat pie makers in town – Bourke Street Bakery included! *Bonus: old scho
 
 ## **Two homemade Australian Meat Pies with tomato sauce, ready to be eaten**
 
-## **Australian meat pie recipe!!**
+### **Australian meat pie recipe!!**
 
 From midnight post\-pub feasting to footy games, quick lunches on the
 run to essential road trip pit stops, Aussies never need an excuse to
@@ -56,7 +56,7 @@ So today’s meat pie recipe is dedicated to all Aussies living overseas. Your h
 
 ![Meat Pie on silver tray, fresh out of the oven](https://recipetineats.com/wp-content/uploads/2019/04/Cooked-Meat-Pies_5.jpg)![Close up of spoon with Meat Pie Filling](https://recipetineats.com/wp-content/uploads/2019/04/Meat-Pie-Filling_7.jpg)
 
-## **How to make meat pies**
+### **How to make meat pies**
 
 It’s not the fastest recipe in the world – truthfully, it’s quite
 fiddly – but I absolutely promise it’s worth it. Here’s an overview –
@@ -77,7 +77,7 @@ for that classic flaky meat pie lid we love and know so well!
 
 ![How to make Meat Pies](https://recipetineats.com/wp-content/uploads/2019/04/How-to-make-Meat-Pies.jpg)
 
-## **Meat Pie Filling**
+### **Meat Pie Filling**
 
 Here’s what goes in the meat pie filling. This is for a *chunky* meat pie – pieces of beef slow cooked until fall apart tender which makes an intensely deep, rich flavoured gravy.
 
@@ -95,7 +95,7 @@ sauce!
 
 ![Meat Pie ingredients](https://recipetineats.com/wp-content/uploads/2019/04/Meat-Pies-ingredients.jpg)![Australian Meat Pie Filling in a cast iron pot](https://recipetineats.com/wp-content/uploads/2019/04/Meat-Pie-Filling_6.jpg)
 
-## **Meat Pie pastry**
+### **Meat Pie pastry**
 
 The base of meat pies is made with shortcrust pastry and the lids are
  made with puff pastry. For convenience, use store bought for both if
@@ -110,7 +110,7 @@ But I always use store bought puff pastry – I’ve made it once, and it’s pr
 
 ![Meat Pie Pastry](https://recipetineats.com/wp-content/uploads/2019/04/How-to-make-Meat-Pie-Pastry.jpg)
 
-## **Meat Pie recipe tips**
+### **Meat Pie recipe tips**
 
 * **Brown the beef VERY well** – this is key to
 ensure your filling has a rich complex flavour and is a deep dark brown
@@ -145,7 +145,7 @@ tomato sauce. I really try to respect personal preferences….. but I will
 
 ![Australian Meat Pie cut open to show filling inside](https://recipetineats.com/wp-content/uploads/2019/04/Meat-Pies_7.jpg)
 
-## **Worth the effort!**
+### **Worth the effort!**
 
 It will take you the better part of a day to make homemade meat pies.
  It’s quite involved and they’re especially fiddly because we’re making
@@ -177,7 +177,7 @@ There is simply no question. It’s one of the best food experiences in the worl
 
 ![Close up of Meat Pie cut open to show meat pie filling inside, with tomato sauce on top](https://recipetineats.com/wp-content/uploads/2019/04/Meat-Pies_4.jpg)
 
-## Aussie Meat Pie recipe
+### Aussie Meat Pie recipe
 
 Author: Nagi
 
@@ -204,7 +204,7 @@ with puff pastry. Legendary! {See notes for beef mince version}
 
 Also see the [Family Size Meat Pie](https://www.recipetineats.com/family-meat-pie/), mini [Party Pies](https://www.recipetineats.com/party-pies-mini-beef-pies/) and [Sausage Rolls](https://www.recipetineats.com/special-pork-fennel-sausage-rolls/)!
 
-## Ingredients
+### Ingredients
 
 #### Pie Lid:
 
@@ -254,7 +254,7 @@ Also see the [Family Size Meat Pie](https://www.recipetineats.com/family-meat-pi
 
 2 bay leaves
 
-## Instructions
+### Instructions
 
 #### Filling:
 

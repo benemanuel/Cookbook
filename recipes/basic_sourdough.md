@@ -24,7 +24,7 @@ labels: [meat, dairy, bread, cake]
 
  Save recipe
 
-# Sourdough bread
+## Sourdough bread
 
  [](#review-panel)
 
@@ -130,7 +130,7 @@ fine semolina flour, for dusting
 
 semolina, for dusting
 
-## Instructions
+### Instructions
 
 1. The night before you want to bake, make the levain starter. Pour 50ml of tepid water into a large mixing bowl. Use your fingers to gently stir in the mature sourdough starter until fully dissolved, then repeat with the flour until smooth and combined.
 2. Leave, covered, in a warm place for at least 8 hours â itâs ready when lots of bubbles appear on the surface and the dough has a milky-sweet aroma.
@@ -150,7 +150,7 @@ Tags
 
   
 
-# Share Your Thoughts!
+### Share Your Thoughts!
 
    Login to Review  
 

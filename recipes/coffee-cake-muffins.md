@@ -16,7 +16,7 @@ half crumbs
 
 ---
 
-# Coffee Cake Muffins
+## Coffee Cake Muffins
 
 ![](https://secure.gravatar.com/avatar/10524848b45fe7909c8148d8bf9e7a0e3726d514b29b95c8428148b2f01d4798?s=36&amp;d=blank&amp;r=g) *by* [Chungah](https://damndelicious.net/about-me/ "Visit Chungah’s website") — *updated* Feb 17, 2026
 
@@ -58,7 +58,7 @@ Although it’s really hard to stop at yourself at just one muffin, especially s
 
 ![Coffee Cake Muffins](https://damndelicious.net/wp-content/uploads/2014/03/IMG_0394edit-200x200.jpg)
 
-## Coffee Cake Muffins
+### Coffee Cake Muffins
 
 Yield: 12 muffins
 
@@ -82,7 +82,7 @@ The classic coffee cake is transformed into a convenient muffin, loaded with a m
 
 ### Video
 
-## Ingredients
+### Ingredients
 
 - 1 ½ cups all-purpose flour
 - ½ cup brown sugar
@@ -109,7 +109,7 @@ The classic coffee cake is transformed into a convenient muffin, loaded with a m
 - ½ teaspoon vanilla extract
 - 1 teaspoon milk
 
-## Instructions
+### Instructions
 
 - Preheat oven to 375 degrees F. Line a 12-cup standard muffin tin with paper liners or coat with nonstick spray; set aside.
 
@@ -143,7 +143,7 @@ Tag [@damn_delicious](https://www.instagram.com/damn_delicious) on Instagram and
 
 [https://www.facebook.com/damndeliciousblog](https://www.facebook.com/damndeliciousblog "Facebook") [https://www.instagram.com/damn_delicious/](https://www.instagram.com/damn_delicious/ "Instagram")
 
-## About the Author:
+### About the Author:
 
 Chungah Rhee is the founder of Damn Delicious, a website created in 2011 featuring quick and easy meals. Chungah and her recipes are regularly featured in major media such as People, TODAY, and Bon Appetit, among others. Today, Chungah cooks nonstop alongside her two favorite corgi assistants, Butters and Cartman.
 

@@ -58,7 +58,7 @@ You can also use any discard you save straight from the refrigerator. If you’r
 
 Read through my [guide to creating a sourdough starter discard cache](https://www.theperfectloaf.com/my-sourdough-starter-cache-how-i-keep-discard-for-weeks/) to hold your discards in the fridge for up to 2 weeks!
 
-## Tips for Making the Perfect Sourdough Pie Crust
+### Tips for Making the Perfect Sourdough Pie Crust
 
 A pie crust can be intimidating, but it doesn’t have to be. Using my tips and tricks below, we’ll ensure you have a flaky, tender crust with minimal effort.
 
@@ -100,7 +100,7 @@ If you are making a pie or galette with a very wet filling, pre-bake (blind-bake
 
 See below f*or times and temperatures when blind baking.*
 
-## How to Store a Sourdough Discard Pie Crust
+### How to Store a Sourdough Discard Pie Crust
 
 To store the pie crust for up to a week, wrap the mixed and formed dough tightly in plastic wrap and refrigerate it.
 
@@ -110,7 +110,7 @@ The dough can also be stored in the freezer for up to 6 months. After wrapping t
 
 *Rolling out pie crust to 12 inches in diameter.*
 
-## How To Roll Out Sourdough Pie Crust Dough
+### How To Roll Out Sourdough Pie Crust Dough
 
 A pie crust can be used for the obvious pie, galette, and crostata (an Italian-style galette), of course, but it can also be used for hand pies, quiche, tarts, and empanadas.
 
@@ -136,7 +136,7 @@ Refrigerate the galette for 30 minutes before baking.
 
 *My go-to: pie crust used for a galette.*
 
-## How to Bake Sourdough Pie Crust
+### How to Bake Sourdough Pie Crust
 
 There are three ways to use this recipe:
 
@@ -159,7 +159,7 @@ The recipe makes two sourdough pie crusts suitable for the bottom pie crust and 
 
 ---
 
-## Ingredients
+### Ingredients
 
 - 350g all-purpose flour
 - 14g granulated sugar
@@ -170,7 +170,7 @@ The recipe makes two sourdough pie crusts suitable for the bottom pie crust and 
 
 ---
 
-## Instructions
+### Instructions
 
 1. In a large bowl, whisk together the flour, sugar, and salt. Cut the butter into small cubes. Add the butter and lightly toss to coat with flour. Using a [pastry blender](https://amzn.to/3RqzT6A) or the back of a fork, cut the butter into the flour until the butter is the size of small peas. Add the sourdough starter and water. Stir with a spatula until well combined. The dough should just come together, but add more water, one tablespoon at a time, as needed.  
 
@@ -198,7 +198,7 @@ After rolling out and filling your crust, be sure to refrigerate your pie/galett
 
 The pie crust can be wrapped in plastic, placed into a freezer bag and kept in the freezer for up to 6 months. To use, thaw in the refrigerator overnight, then roll out the next day as described above.
 
-## Sourdough Discard Pie Crust FAQs
+### Sourdough Discard Pie Crust FAQs
 
 ### What does vinegar do in pie crust?
 
@@ -220,7 +220,7 @@ Use an egg wash. Brush the crust with a beaten egg. This can add a nice golden c
 
 Yes, you can! After making the crust, wrap it well with plastic, then place it into an airtight ziplock freezer bag. Place in the freezer for months. To use, thaw overnight in the fridge, then roll out when pliable.
 
-## What’s Next?
+### What’s Next?
 
 Now that you’ve learned how to make sourdough pie crust, use it to make one of my all-time favorite desserts: [Whole-grain peach and blueberry sourdough galette](https://www.theperfectloaf.com/whole-grain-peach-blueberry-lavender-sourdough-galette/).
 

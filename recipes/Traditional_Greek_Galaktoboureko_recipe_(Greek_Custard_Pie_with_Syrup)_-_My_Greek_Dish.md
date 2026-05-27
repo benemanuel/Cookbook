@@ -53,7 +53,7 @@ Traditionally, Greek Galaktoboureko uses use thin [semolina](https://en.wikipedi
 
 ![Greek Galaktoboureko meringue](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20854%201280'%3E%3C/svg%3E)
 
-## Prepare the syrup for the Galaktoboureko
+### Prepare the syrup for the Galaktoboureko
 
 To achieve the perfect syrup consistency for your Galaktoboureko, **you should never blend or stir the syrup while it is boiling**. Just let the sugar dissolve in the boiling water, remove it from the stove and then add your honey. **Honey helps the syrup not to crystallise**, gives extra flavour and makes it nice and thick.
 
@@ -65,7 +65,7 @@ So go ahead, give this traditional Galaktoboureko recipe a try and amaze your fr
 
 ![Traditional Greek Galaktoboureko ready to serve](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201707%202560'%3E%3C/svg%3E)
 
-## Similar recipes to try
+### Similar recipes to try
 
 If you love a traditional syrupy greek desert, the below recipes are made for you! Enjoy!
 
@@ -99,7 +99,7 @@ Golden, crispy and extra syrupy. A no fuss, three step Galaktoboureko recipe to 
 
 ---
 
-## Ingredients
+### Ingredients
 
 Scale 1x
 
@@ -142,7 +142,7 @@ Scale 1x
 
 ---
 
-## Instructions
+### Instructions
 
 1. To make this Galaktoboureko recipe, **start by preparing the syrup**. Into a small pan add the **sugar**, the **water** and **lemon peel**, **cinammon stick and lemon** and bring to the boil. Let it boil just **until the sugar has dissolved.** Remove the pan from the stove, add the honey and stir. Leave the syrup aside to cool completely.
 2. Prepare the custard for the Galaktoboureko (steps 3-8).

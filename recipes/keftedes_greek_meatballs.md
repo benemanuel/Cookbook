@@ -44,7 +44,7 @@ Leftovers (which is a good thing in this case!) make a delicious brand new dish,
 
 ![Greek Meatballs recipe (Keftedes - Keftethes) ingredients](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201710%202560'%3E%3C/svg%3E)
 
-## Key Preparation Steps
+### Key Preparation Steps
 
 There’s only really two steps involved with making meatballs:
 
@@ -53,7 +53,7 @@ There’s only really two steps involved with making meatballs:
 
 ![Greek Meatballs recipe (Keftedes - Keftethes) meatball mixture](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201625%202560'%3E%3C/svg%3E)
 
-## Make the meatballs
+### Make the meatballs
 
 To make Greek pork meatballs (keftedes), combine all of the ingredients in a large mixing bowl and mix thoroughly for 5-10 minutes, squeezing with your hands to blend the flavors. Cover the mixture with plastic wrap and refrigerate for 1 hour.
 
@@ -61,7 +61,7 @@ Turn the keftedes out of the fridge and roll them into meatballs about the size 
 
 ![Greek Meatballs recipe (Keftedes - Keftethes) meatball mixture - ready to shape](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201707%202560'%3E%3C/svg%3E)
 
-## Cook the meatballs
+### Cook the meatballs
 
 Greek meatballs (keftedes) are traditionally cooked in a frying pan. Fry the keftedes in batches of 10-15 at a time, until golden brown on all sides.
 
@@ -71,13 +71,13 @@ Bake for 20 minutes, turning the meatballs upside down halfway through cooking t
 
 ![Greek Meatballs recipe (Keftedes - Keftethes) meatballs shaped](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201646%202560'%3E%3C/svg%3E)
 
-## What’s the difference between Greek meatballs and normal meatballs?
+### What’s the difference between Greek meatballs and normal meatballs?
 
 Greek meatballs are typically made with ground pork and beef and seasoned with a variety of Greek herbs and spices. This mixture is then formed into small balls and fried until golden brown. Their unique flavour comes from their Mediterranean herbs – with **parsley, spearmint and oregano** giving them that deliciously fresh flavour!
 
 Your regular meatballs, on the other hand, can be made with any type of ground meat, including pork, chicken, or turkey. The seasonings used in regular meatballs are also different, ranging from Italian-style herbs to Asian-inspired flavors.
 
-## Variations
+### Variations
 
 Feeling cold? Then the traditional [Greek meatballs soup in egg and lemon sauce (avgolemono)](https://www.mygreekdish.com/recipe/creamy-meatball-soup-egg-lemon-sauce-youvarlakia-avgolemono/) is the perfect heartwarming dish! It is a classic delicacy made basically with boiled juicy Greek meatballs (youvarlakia) and rice and finished off with delicious egg-lemon sauce.
 
@@ -91,7 +91,7 @@ The traditional diced beef of the giouvetsi is substituted with crispy fried mea
 
 ![Greek Meatballs recipe (Keftedes - Keftethes)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202560%201938'%3E%3C/svg%3E)
 
-## Making ahead of time and storing
+### Making ahead of time and storing
 
 These Greek meatballs can be stored in the refrigerator for three to four days. To serve, just reheat in the microwave, stove, oven or in your crock pot.
 
@@ -104,7 +104,7 @@ You can also make the mixture ahead of time, cover with plastic wrap, chill, the
 
  
 
-## Serving suggestions
+### Serving suggestions
 
 Keftedes (Greek meatballs) are ideally served as an appetizer (meze) with some creamy [tzatziki](https://www.mygreekdish.com/recipe/authentic-greek-tzatziki-sauce-recipe/) sauce and [pita breads](https://www.mygreekdish.com/recipe/the-easiest-homemade-pita-bread/) or as a main course with some basmati rice and a [Greek salad](https://www.mygreekdish.com/recipe/greek-feta-salad/).
 
@@ -127,7 +127,7 @@ A crispy, juicy and absolutely delicious Greek meatballs (keftedes) recipe! Keft
 
 ---
 
-## Ingredients
+### Ingredients
 
 Scale 1x
 
@@ -162,7 +162,7 @@ Scale 1x
 
 ---
 
-## Instructions
+### Instructions
 
 1. To prepare this traditional Greek meatballs recipe (keftedes), add all the ingredients into a large bowl and mix well (for about 5-10 minutes), squeezing with your hands, to allow the flavours to blend. Cover the bowl with some plastic wrap and let it rest in the fridge for 1 hour.
 2. Turn the mixture for the keftedes out of the fridge and roll into meatballs the size of a walnut (or bigger if you prefer). If you’re frying them, dredge the rolled meatballs lightly in flour making sure to shake off any excess. Fry until nicely browned on all sides.

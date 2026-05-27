@@ -13,7 +13,7 @@ labels: [dairy]
 
 ---
 
-# Zucchini Cauliflower Summer Gratin
+## Zucchini Cauliflower Summer Gratin
 
 ## Ingredients
 

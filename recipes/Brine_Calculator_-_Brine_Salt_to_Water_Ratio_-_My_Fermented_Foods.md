@@ -27,7 +27,7 @@ Tounge 3\.5%
 - enter the amount of brine to make (Water Value)
 - select your preferred salt unit measurement (grams, ounces or pounds).
 
-## Brine Calculator
+### Brine Calculator
 
 ### Target Brine (%)
 
@@ -43,7 +43,7 @@ Salt Unit:
 
 Salt Required:
 
-## Salt to water ratio for fermenting
+### Salt to water ratio for fermenting
 
 Use the Brine Calculator to determine the accurate salt to water ratio and make a perfect brine for fermenting vegetables.
 
@@ -59,7 +59,7 @@ Remember that all salt weighs differently and is difficult to measure by volume.
 
 If you are looking for a rule of thumb, then for vegetable ferments you need 1-3 tablespoons of salt per quart of water.
 
-## Brine percentage chart for fermenting
+### Brine percentage chart for fermenting
 
 You can refer to your recipe to find out brine percentage needed or simply use my chart below. If what you are fermenting is not on the chart, just leave a comment and I’ll help you calculate your brine.
 
@@ -79,7 +79,7 @@ You can refer to your recipe to find out brine percentage needed or simply use m
 
 ![pickled olives in glass bowl](https://myfermentedfoods.com/wp-content/uploads/2019/04/pickled-olives-in-glass-bowl.jpg)
 
-## Why is salt important in fermentation?
+### Why is salt important in fermentation?
 
 Salt is a key ingredient in fermentation. The amount of salt you add to the ferment can make a big difference to the taste of the final product.
 
@@ -87,13 +87,13 @@ The purpose of using salt in fermenting is to keep away the unwanted bacteria, m
 
 You have probably noticed that similar fermentation recipes recommend using different amounts of salt. Reasons for this are personal preferences, other ingredients used in the recipe and the way the salt is added to the ferment.
 
-## How to add salt to a vegetable ferment?
+### How to add salt to a vegetable ferment?
 
 There are two ways to add salt to a vegetable ferment. You can add salt directly to shredded or chopped vegetables such as beets or cabbage. Or you can make a brine by dissolving salt in the water and then submerging the vegetables in the brine.
 
 ![pink himalayan salt](https://myfermentedfoods.com/wp-content/uploads/2019/04/pink-himalayan-salt-1.jpg)
 
-## What is brine?
+### What is brine?
 
 Brine is dissolved salt in water. You need to make a [brine](https://en.wikipedia.org/wiki/Brine) when fermenting vegetables such as onions, olives, or horseradish (see the Brine percentage chart above for a more detailed list including the required brine level).
 
@@ -101,7 +101,7 @@ Use filtered water to make your brine and get nutritious pickled and fermented v
 
 To avoid interference with the fermentation process, don’t use salt that contains additives like iodine, sugar or anti-caking agents. My recommendation is to use unprocessed salt as its purity and high mineral concentration ensures a healthy fermentation environment. My favorite is [**Himalayan pink salt**](https://www.amazon.com/dp/B00HVJI7KI?tag=mff046-20&linkCode=ogi&th=1&psc=1 "Himalayan pink salt"). Its salmon hue comes from trace amounts of rust and is extracted from deep in the Himalayan Mountains.
 
-## How to keep vegetables submerged?
+### How to keep vegetables submerged?
 
 Keeping vegetables submerged below the brine is essential to achieve desired taste for your pickled or fermented vegetables. If you have limited equipment and are new to fermenting, you can simply place a ceramic plate that fits well inside the vessel then place a clean rock on top.
 

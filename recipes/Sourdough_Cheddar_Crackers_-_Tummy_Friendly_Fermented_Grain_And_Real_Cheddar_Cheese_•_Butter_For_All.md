@@ -21,19 +21,19 @@ I know they are a big hit in my family. But one thing I can’t do is bring myse
 
 ## A bowl of sourdough cheddar crackers with text overlay.
 
-## Wholesome Snacking at Its Best.
+### Wholesome Snacking at Its Best.
 
 I’ve taken my original [Sourdough Butter Cracker](https://www.butterforall.com/traditional-cooking-traditional-living/rustic-sourdough-butter-crackers/) recipe and added real cheddar cheese. That’s all. Simple, wholesome ingredients that are traditionally fermented to create an easily digestible, crunchy, super cheesy snack cracker.
 
 ![A bowl of sourdough cheddar crackers,](https://www.butterforall.com/wp-content/uploads/2018/04/4-595x893.png.webp)
 
-## Sourdough Cheddar Crackers Make the Perfect Snack for Little Hands.
+### Sourdough Cheddar Crackers Make the Perfect Snack for Little Hands.
 
 We all want the best for our kiddos! Limiting the amount of processed food our children eat can make a big impact on their health. So pack some of these sourdough cheddar snack crackers along on your next playdate or adventure.
 
 ![A bowl of sourdough cheddar crackers with text overlay.](https://www.butterforall.com/wp-content/uploads/2018/04/3-595x893.png.webp)
 
-## Ingredients
+### Ingredients
 
 #### For the Dough:
 
@@ -44,7 +44,7 @@ We all want the best for our kiddos! Limiting the amount of processed food our c
 - [105 grams (just shy 1/2 cup) filtered water](https://amzn.to/2MgDCji)
 - 8 ounces cheddar cheese, grated
 
-## Instructions
+### Instructions
 
 #### The Night Before Baking:
 
@@ -74,7 +74,7 @@ We all want the best for our kiddos! Limiting the amount of processed food our c
 
 Serving Size: 1 grams   *Amount Per Serving:* Unsaturated Fat: 0g
 
-## **Want To Learn Everything About Sourdough?**
+### **Want To Learn Everything About Sourdough?**
 
 ### Start with this free guide:
 

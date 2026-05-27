@@ -62,7 +62,7 @@ While deep-fried onion rings aren’t an everyday indulgence, they’re well wor
 
 ![easy-beer-batter-recipe-for-onion-rings](https://www.melissassouthernstylekitchen.com/wp-content/uploads/2025/06/easy-beer-batter-recipe-for-onion-rings-680x1020.jpg)
 
-## Kitchen Equipment You’ll Need to Make Beer Batter Onion Rings
+### Kitchen Equipment You’ll Need to Make Beer Batter Onion Rings
 
 - **A deep fryer, deep pot or dutch oven** for frying the onion rings.
 - **Deep-fry thermometer** for monitoring the temperature of the oil.
@@ -72,7 +72,7 @@ While deep-fried onion rings aren’t an everyday indulgence, they’re well wor
 - **Sheet pan lined with paper towels** for draining the onion rings after frying. You can also drain them on a wire rack over a sheet pan to catch any excess grease.
 - **Slotted spoon or stainless steel spider** for removing from the oil.
 
-## Recipe Variations and Substitutions
+### Recipe Variations and Substitutions
 
 - **Onions –** I used jumbo sweet onions for this recipe. You can make onion rings out of white onions or yellow onions.
 - **Veggies** – This beer batter is delicious for frying zucchini and thick rounds of squash.
@@ -81,13 +81,13 @@ While deep-fried onion rings aren’t an everyday indulgence, they’re well wor
 - **Does Beer Batter Have a High Alcohol Content?** The batter is cooked so the majority of the alcohol content will cook out in the process.
 - **Baked Onion Rings** – If you’re counting calories, but still have a craving for crispy onion rings, I have a lighter oven fried breaded [Firecracker Onion Ring](https://www.melissassouthernstylekitchen.com/2013/04/firecracker-onion-rings.html) recipe that are baked not fried.
 
-## Storage and Leftovers
+### Storage and Leftovers
 
 - **Leftovers –** Store leftover onion rings in an airtight container chilled in the refrigerator for up to 3 days. Line the container with paper towels to absorb any moisture.
 - **Reheating –** Beer Battered Onion Rings are best made and eaten while fresh. That said, you could reheat leftovers in an air fryer or arrange on a sheet pan and reheat in a preheated 375°F oven for a few minutes to crisp for a round two meal.
 - **Freezer –** You could freeze leftovers for up to 1 month. Reheat from frozen in the oven.
 
-## More Easy Appetizers and Side Dish Recipes to Make
+### More Easy Appetizers and Side Dish Recipes to Make
 
 - See how to make crispy [Homemade French Fries](https://www.melissassouthernstylekitchen.com/homemade-french-fries/) at home.
 - Crispy [Corn Fritters](https://www.melissassouthernstylekitchen.com/corn-fritters/) can be served as an appetizer or a side dish.
@@ -99,7 +99,7 @@ While deep-fried onion rings aren’t an everyday indulgence, they’re well wor
 - [Fried Ravioli](https://www.melissassouthernstylekitchen.com/fried-ravioli/)with warm marinara for dipping.
 - [Chicken and Tomato Kabobs](https://www.skinnytaste.com/grilled-pesto-chicken-and-tomato-kebabs/) from Skinnytaste.
 
-## *Thanks for visiting come back soon!*
+### *Thanks for visiting come back soon!*
 
 Disclosure ~ If a purchase is made using one of the affiliate links on this website we may earn a small commission at no additional cost to you. Thank you!
 
@@ -118,7 +118,7 @@ Disclosure ~ If a purchase is made using one of the affiliate links on this webs
 
 5 from 7 votes
 
-## Beer Battered Onion Rings
+### Beer Battered Onion Rings
 
 Prep Time25 minutes mins
 
@@ -140,7 +140,7 @@ Calories: 540kcal
 
 Author: Melissa Sperka
 
-## Ingredients
+### Ingredients
 
 - 2 jumbo sweet onions sliced into 1/2 inch rings
 - 2 cups buttermilk
@@ -164,7 +164,7 @@ Author: Melissa Sperka
 - 1½ tsp Creole or Cajun seasoning
 - ½ tsp prepared horseradish  adjust to your taste
 
-## Instructions
+### Instructions
 
 - **Marinate the Onions:** Peel and slice the onions into 1/2-inch thick rings. Separate the rings. Mix together the buttermilk and hot sauce and pour over the onions. Marinate the onions for 1 hour.
 

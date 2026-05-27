@@ -19,7 +19,7 @@ labels: [dairy, bread]
 
 ---
 
-# Naturally Leavened Bomboloni (Doughnuts)
+## Naturally Leavened Bomboloni (Doughnuts)
 
 ## Levain Build
 - 45g mature 100% hydration starter
@@ -28,7 +28,7 @@ labels: [dairy, bread]
 
 Build in morning, store at 78°F (25°C) until ripe (~5h).
 
-## Dough Formula
+### Dough Formula
 **Target dough temp:** 76-78°F (24-25°C) | **Yield:** 18 × 65g | **Total:** 1200g
 
 - 253g all-purpose white flour (50%)
@@ -40,9 +40,9 @@ Build in morning, store at 78°F (25°C) until ripe (~5h).
 - 10g salt (2%)
 - 203g mature 100% hydration levain (40%)
 
-## Ingredients
+### Ingredients
 
-## Instructions
+### Instructions
 
 ### 1. Levain (9:30 AM)
 Build and ferment at 78°F for ~5h.
@@ -78,13 +78,13 @@ Floured trays, 8/tray, 78°F. Proof until nearly doubled, very puffy. Should fee
 - 2.5 min per side, golden brown
 - Drain, then toss in cinnamon-sugar while warm
 
-## Cinnamon-Sugar Coating
+### Cinnamon-Sugar Coating
 - 2g (1 tsp) ground cinnamon
 - 200g (1 cup) sugar
 
 Mix; toss warm bomboloni several times.
 
-## Crema Pasticcera
+### Crema Pasticcera
 - 365g whole milk
 - 30g all-purpose flour
 - 100g fine sugar
@@ -103,7 +103,7 @@ Mix; toss warm bomboloni several times.
 
 Keeps 3-4 days. Pipe into bomboloni just before serving.
 
-## Key Notes
+### Key Notes
 - Strong fermentation is critical
 - Lengthy warm bulk and final proof; temp control essential
 - Handle gently when transferring to oil

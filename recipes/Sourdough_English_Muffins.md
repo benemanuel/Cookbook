@@ -15,7 +15,7 @@ labels: [dairy, bread, cake]
 
 [Home](https://littlespoonfarm.com/) / [Recipes](https://littlespoonfarm.com/recipe-index/) / [Sourdough](https://littlespoonfarm.com/category/sourdough-recipes/)
 
-# Sourdough English Muffins
+## Sourdough English Muffins
 
 December 22, 2024 | By [Amy Duska](https://littlespoonfarm.com/amy-duska/) If you click on links we provide, we may receive compensation.
 
@@ -95,7 +95,7 @@ These sourdough English muffins are simple to make, so let's dive straight into 
 
 ![Sourdough english muffins resting on a baking sheet.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1440'%20height='960'%20viewBox='0%200%201440%20960'%3E%3C/svg%3E)
 
-## Tips for success
+### Tips for success
 
 The sourdough English muffins should be cooked over a very low heat, and covered, for best results. This will allow the inside to cook evenly while the outside does not burn.
 
@@ -111,7 +111,7 @@ If you do not want to knead the dough by hand, use a stand mixer with a dough ho
 
 If you live in a very warm or humid environment, you may need to adjust the recipe. I recommend reducing the milk by 30g and using granulated sugar instead of honey to help the dough from being too sticky to work with. Add more liquid if the dough is too stiff.
 
-## How to store and freeze
+### How to store and freeze
 
 - These sourdough English muffins can be [frozen](https://www.stilltasty.com/fooditems/index/17156) after they have been cooked for up to 3 months.
 - Store them in a container at room temperature for up to 5 days.
@@ -134,7 +134,7 @@ Leave us a message in the comment section below. And don't forget to rate the re
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='200'%20height='200'%20viewBox='0%200%20200%20200'%3E%3C/svg%3E)
 
-## Sourdough English Muffins Recipe
+### Sourdough English Muffins Recipe
 
 These easy sourdough english muffins cook up light and fluffy, with a delicious sourdough flavor! Mix everything the night before and wake up to a beautiful dough that's ready to be cut out and cooked to "nook and cranny" perfection!
 
@@ -176,7 +176,7 @@ Cook Mode
 
 Prevent your screen from going dark
 
-## Ingredients
+### Ingredients
 
 ### **Ingredients to make Â½ cup (100 g)Â of Active Sourdough Starter**
 
@@ -193,7 +193,7 @@ Prevent your screen from going dark
 - 1 teaspoon  (5 g) fine sea salt
 - Â¼ cup  (40 g) cornmeal (for sprinkling)
 
-## Instructions
+### Instructions
 
 #### Feed Your Sourdough Starter
 

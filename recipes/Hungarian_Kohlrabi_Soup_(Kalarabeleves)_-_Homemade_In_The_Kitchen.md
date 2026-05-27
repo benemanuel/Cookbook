@@ -15,7 +15,7 @@ labels: [meat, dairy, bread]
 
 [Home](https://www.chocolatemoosey.com/) » [Soups + Stews](https://www.chocolatemoosey.com/category/soupsandstews/) » Kohlrabi Soup (with Kohlrabi Greens)
 
-# Kohlrabi Soup (with Kohlrabi Greens)
+## Kohlrabi Soup (with Kohlrabi Greens)
 
 *posted by* [Carla](https://www.chocolatemoosey.com "Visit Carla’s website") *on* Feb 17, 2022 *(updated* Feb 14, 2024*)* [35 comments »](https://www.chocolatemoosey.com/hungarian-kohlrabi-soup-kalarabeleves/#comments)
 
@@ -62,17 +62,17 @@ Serve it with [stuffed butternut squash](https://www.chocolatemoosey.com/vegan-s
 
 Kohlrabi is a cruciferous vegetable, which is fancy botanist speak for being in the cabbage family. If you enjoy cabbage, broccoli, and even [roasted Brussels sprouts](https://www.chocolatemoosey.com/roasted-brussels-sprouts/), there’s a high chance you’ll also love kohlrabi.
 
-## Can you eat kohlrabi leaves?
+### Can you eat kohlrabi leaves?
 
 Absolutely! Kohlrabi greens are similar to eating kale or Swiss chard, so if you’re lucky to find them with the leaves, grab them. The stems are edible as well.
 
 ![Kohlrabi Soup with Kohlrabi Greens in a silver ridged bowl on a dark gray plate](https://www.chocolatemoosey.com/wp-content/uploads/2011/01/Kohlrabi-Soup-with-Kohlrabi-Greens-recipe-photo-9988.jpg)
 
-## What does kohlrabi taste like?
+### What does kohlrabi taste like?
 
 The kohlrabi bulbs have a sweet yet peppery flavor, much like a radish. The kohlrabi greens taste similar to kale leaves with a mild leafy flavor.
 
-## When is kohlrabi in season?
+### When is kohlrabi in season?
 
 Like most produce you can often find kohlrabi all year long. However, kohlrabi peak season is from winter to early spring (roughly November – April).
 
@@ -84,7 +84,7 @@ Although my local grocery store had kohlrabi with greens, the leaves were a bit 
 
 ![Kohlrabi Soup with Kohlrabi Greens in a silver ridged bowl on a dark gray plate](https://www.chocolatemoosey.com/wp-content/uploads/2011/01/Kohlrabi-Soup-with-Kohlrabi-Greens-recipe-photo-0001.jpg)
 
-## How To Prepare Kohlrabi
+### How To Prepare Kohlrabi
 
 To prepare kohlrabi, there are two parts:
 
@@ -102,7 +102,7 @@ Next, cut the greens into bite-sized pieces.
 
 ![Close up of Kohlrabi Soup in silver ridged bowl](https://www.chocolatemoosey.com/wp-content/uploads/2011/01/Kohlrabi-Soup-with-Kohlrabi-Greens-recipe-photo-9998.jpg)
 
-## How To Make Kohlrabi Soup
+### How To Make Kohlrabi Soup
 
 First, heat your oil in a Dutch oven or similar large pot. You can also use butter (which no longer makes this soup vegan but still a delicious vegetarian dinner).
 
@@ -117,7 +117,7 @@ Once boiling, add your kohlrabi and sweet potato. Cook until fork tender, about 
 Add your leaves then cook another 3-5 minutes or until the greens are softened. Stir in lemon juice and enjoy!
 > If you really want to go all out with this soup, learn [how to make vegetable stock](https://tablematters.com/how-to-make-vegetable-stock/) from Table Matters rather than buying a box.
 
-## Did you change this recipe?
+### Did you change this recipe?
 
 Busted! If you’ve made my kohlrabi soup recipe between 2011-2022, you may notice the directions are different.
 
@@ -137,7 +137,7 @@ Trust me – that little extra effort is totally worth it.
 
 [![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE2cHgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDQ0NC44MTkgNDQ0LjgxOSIgd2lkdGg9IjE2cHgiIGNsYXNzPSJtdi1jcmVhdGUtanRyLWNhcmV0Ij48cGF0aCBkPSJNNDM0LjI1MiwxMTQuMjAzbC0yMS40MDktMjEuNDE2Yy03LjQxOS03LjA0LTE2LjA4NC0xMC41NjEtMjUuOTc1LTEwLjU2MWMtMTAuMDk1LDAtMTguNjU3LDMuNTIxLTI1LjcsMTAuNTYxIEwyMjIuNDEsMjMxLjU0OUw4My42NTMsOTIuNzkxYy03LjA0Mi03LjA0LTE1LjYwNi0xMC41NjEtMjUuNjk3LTEwLjU2MWMtOS44OTYsMC0xOC41NTksMy41MjEtMjUuOTc5LDEwLjU2MWwtMjEuMTI4LDIxLjQxNiBDMy42MTUsMTIxLjQzNiwwLDEzMC4wOTksMCwxNDAuMTg4YzAsMTAuMjc3LDMuNjE5LDE4Ljg0MiwxMC44NDgsMjUuNjkzbDE4NS44NjQsMTg1Ljg2NWM2Ljg1NSw3LjIzLDE1LjQxNiwxMC44NDgsMjUuNjk3LDEwLjg0OCBjMTAuMDg4LDAsMTguNzUtMy42MTcsMjUuOTc3LTEwLjg0OGwxODUuODY1LTE4NS44NjVjNy4wNDMtNy4wNDQsMTAuNTY3LTE1LjYwOCwxMC41NjctMjUuNjkzIEM0NDQuODE5LDEzMC4yODcsNDQxLjI5NSwxMjEuNjI5LDQzNC4yNTIsMTE0LjIwM3oiIC8+PC9zdmc+) Continue to Content](#mv-creation-95)
 
-## Ingredients
+### Ingredients
 
 - 1 tablespoon olive oil
 - Salt (preferably kosher), to taste
@@ -149,7 +149,7 @@ Trust me – that little extra effort is totally worth it.
 - 1 small sweet potato, peeled and diced (roughly 8 ounces)
 - 1 tablespoon lemon juice
 
-## Instructions
+### Instructions
 
 1. In a Dutch oven or large pot, add the oil. Once hot, add the onion, carrot, and a big pinch of salt. Cook until they start to soften and brown, about 3-5 minutes. Add the garlic and cook 1 minute.
 2. Add 1 + 1/2 cups broth and bring to a boil. Cook until carrots are softened, about 8-10 minutes.

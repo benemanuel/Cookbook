@@ -27,7 +27,7 @@ labels: [dairy]
 - [Sauces](https://www.simplyrecipes.com/sauce-recipes-5091342)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb25fcmlnaHQiPgo8dXNlIGhyZWY9IiNpY29uLWNoZXZyb25fcmlnaHQiIHhsaW5rOmhyZWY9IiNpY29uLWNoZXZyb25fcmlnaHQiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
 - [Pesto Sauces](https://www.simplyrecipes.com/pesto-recipes-5091333)
 
-# Fresh Basil Pesto
+### Fresh Basil Pesto
 
 Homemade fresh basil pesto is the single best way to enjoy a bounty of basil.
 
@@ -83,7 +83,7 @@ Every year we plant basil and every year the plants do so well that we can't use
 
 *Simply Recipes / Photo by Julia Gartland / Food Styling by Barrett Washburne*
 
-## Ingredients for Pesto Sauce
+### Ingredients for Pesto Sauce
 
 Note that pesto is always made to taste, based on the ingredients at hand. So adjust the ingredients to your taste.
 
@@ -91,7 +91,7 @@ Most pesto recipes call for [Parmesan cheese](https://www.simplyrecipes.com/parm
 
 Basil is a powerfully aromatic herb and a little goes a long way. You can mellow the pesto out a bit by subbing half of the basil with fresh baby spinach leaves. The pesto will more easily stay vibrant green and the flavor of the basil will still come through, though just not as strongly.
 
-## How To Freeze Pesto
+### How To Freeze Pesto
 
 If you want to freeze the pesto, omit the cheese (it doesn't freeze well). Line an ice cube tray with plastic wrap, and fill each cube with the pesto sauce. Freeze and then remove from the ice tray and store in a freezer safe, zip-top bag. When you want to use it, defrost and add the grated Parmesan or Romano.
 
@@ -99,17 +99,17 @@ If you want to freeze the pesto, omit the cheese (it doesn't freeze well). Line 
 
 *Simply Recipes / Photo by Julia Gartland / Food Styling by Barrett Washburne*
 
-## What Is Pesto?
+### What Is Pesto?
 
 Originally from Genoa, Italy, pesto traces its name to the Italian word "pestare," which means "to crush or pound." For hundreds of years, pesto was made by pounding the ingredients in a mortar and pestle. It dates back to Roman times when Genoans would crush walnuts with herbs and garlic.
 
 The most popular variety of pesto now is made by "crushing" basil, garlic, pine nuts, olive oil, and some hard cheese in a food processor or blender, but there are many varieties of pesto like [sun dried tomato pesto](https://www.simplyrecipes.com/recipes/sun_dried_tomato_pesto/) or [kale pesto](https://www.simplyrecipes.com/recipes/kale_pesto/). It's fun to use a mortar and pestle, but the modern way is much easier.
 
-## Use Fresh Basil for Pesto
+### Use Fresh Basil for Pesto
 
 Dried basil is fine for flavoring sauces, soups, and other dishes. But its flavor is very different from fresh basil. You need fresh basil leaves to make pesto. When buying fresh basil, look for vibrant green leaves with no sports or wilting. There are many varieties of basil. Thai basil is really the only kind that's too pungent for this recipe.
 
-## Use Pesto In These Recipes!
+### Use Pesto In These Recipes!
 
 - [Garlic Bread](https://www.simplyrecipes.com/recipes/garlic_bread/)
 - [Oven-Roasted New Potatoes](https://www.simplyrecipes.com/recipes/roasted_new_potatoes/)
@@ -121,7 +121,7 @@ From the Editors Of Simply Recipes
 
  Save![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWZhdm9yaXRlIj4KPHVzZSB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaHJlZj0iI2ljb24tZmF2b3JpdGUiIHhsaW5rOmhyZWY9IiNpY29uLWZhdm9yaXRlIiAvPgo8L3N2Zz4=)
 
-## Fresh Basil Pesto
+### Fresh Basil Pesto
 
 Prep Time 15 mins
 

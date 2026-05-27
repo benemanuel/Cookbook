@@ -49,9 +49,9 @@ Find the ingredients listed in the printable recipe card at the bottom of this p
 
 This sourdough recipe can easily be made by hand or use a stand mixer with a dough hook attachment.
 
-## Ingredients
+### Ingredients
 
-## Instructions
+### Instructions
 
 1. In the morning or the evening before, feed your sourdough starter.
 
@@ -70,7 +70,7 @@ This sourdough recipe can easily be made by hand or use a stand mixer with a dou
 3. Cover the bowl and let the dough rise in a warm spot around 25°C/77°F until it almost doubles in size. *You can create a warm and humid spot by placing the dough in a turned-off oven next to a mug of boiled water. This can take around 4-6 hours in a warm space.*
 4. Once the dough has risen, place it in the refrigerator until the next morning or for up to 24 hours.
 
-## Shaping and adding the raisins
+### Shaping and adding the raisins
 
 ![risen dough being pulled from a bowl.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20683%201024'%3E%3C/svg%3E)
 
@@ -129,7 +129,7 @@ This sourdough recipe can easily be made by hand or use a stand mixer with a dou
 
 ![sourdough cinnamon raisin bagel halved.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
 
-## Serving and storing
+### Serving and storing
 
 Serve the bagels with a smear of cream cheese, or toast them and spread with salted butter.
 
@@ -142,7 +142,7 @@ Store leftover bagels in an airtight container for up to 3 days at room temperat
 
 ![bitten sourdough cinnamon raisin bagel.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%20250'%3E%3C/svg%3E)
 
-## Sourdough Cinnamon Raisin Bagels
+### Sourdough Cinnamon Raisin Bagels
 
 [Elien Lewis](https://homegrownhappiness.com/about-me/)
 

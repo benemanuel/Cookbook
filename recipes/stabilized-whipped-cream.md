@@ -52,7 +52,7 @@ This works for plain whipped cream and flavored varieties like [Cinnamon](https:
 
 I’ll email it to you for later, and periodically send recipes and updates.
 
-## How to Stabilize Whipped Cream with Cream of Tartar
+### How to Stabilize Whipped Cream with Cream of Tartar
 
 - Start mixing at low speed so the cream doesn't splash everywhere.
 - Increase the speed to medium-high once it starts to thicken, then watch the texture closely. Soft peaks fold over, medium peaks hold briefly, and stiff peaks stand straight with a defined tip.
@@ -62,13 +62,13 @@ I’ll email it to you for later, and periodically send recipes and updates.
 
 ![Two peach-colored sparkle shapes on a light gray background.](https://stateofdinner.com/wp-content/uploads/2025/08/favicon-4.png)
 
-## Top Tip!
+### Top Tip!
 
 If you want the fluffiest whipped cream, make sure your heavy cream is super cold. In addition to keeping your heavy cream in the refrigerator until you are ready to whip it, it helps to freeze your bowl and beaters for 20 minutes.
 
 ![Big bowl of whipped cream in a large mixing bowl, with a spatula.](https://stateofdinner.com/wp-content/uploads/2021/02/whipped_cream_bowl.jpg)
 
-## Ways to Use Stabilized Whipped Cream
+### Ways to Use Stabilized Whipped Cream
 
 - **Cake Topping:** Spoon it over [Southern Peach Cobbler Pound Cake](https://stateofdinner.com/peach-cobbler-pound-cake/) or your favorite cake flavor.
 - **Layered desserts:** Use it in desserts like [Banana Split Dessert](https://stateofdinner.com/banana-split-pie/), where the whipped cream needs to stay firm.
@@ -79,11 +79,11 @@ If you want the fluffiest whipped cream, make sure your heavy cream is super col
 
 ![Bowl of fluffy whipped cream with a small offset spatula on top.](https://stateofdinner.com/wp-content/uploads/2023/06/whipped-cream-frosting.jpg)
 
-## Recipe
+### Recipe
 
 ![Pillowy whipped cream in a bowl with a spoon.](https://stateofdinner.com/wp-content/uploads/2021/02/whipped_cream_featured-300x300.jpg)
 
-## Stabilized Whipped Cream
+### Stabilized Whipped Cream
 
 Recipe by: [Erin Gierhart](https://stateofdinner.com/erin-gierhart/)
 
@@ -122,9 +122,9 @@ Prevent your screen from going dark
 
 ¼ teaspoon   (0.75 g) cream of tartar
 
-## Ingredients
+### Ingredients
 
-## Instructions
+### Instructions
 
 - [ ] ▢
 
@@ -176,7 +176,7 @@ Calories: 239kcal | Carbohydrates: 10g | Protein: 1g | Fat: 22g | Saturated Fat:
 
 ![SVG Image](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdib3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZyBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0iI2ZmZmZmZiIgY2xhc3M9Im5jLWljb24td3JhcHBlciI+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2U9IiNmZmZmZmYiIGRhdGEtY2FwPSJidXR0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGQ9Ik0xMS41LDAuNSBDOS45ODIsMC41LDguNjc4LDEuMzU1LDgsMi42MDFDNy4zMjIsMS4zNTUsNi4wMTgsMC41LDQuNSwwLjVjLTIuMjA5LDAtNCwxLjc5MS00LDRjMCw0LDcuNSwxMSw3LjUsMTFzNy41LTcsNy41LTExIEMxNS41LDIuMjkxLDEzLjcwOSwwLjUsMTEuNSwwLjV6IiAvPiA8L2c+PC9zdmc+) Tried this recipe?[Leave a review!](#comment) We love hearing your feedback!
 
-## More Whipped Cream Recipes
+### More Whipped Cream Recipes
 
 - [Ruffles of whipped cream layered in a majon jar with lemon zest on top. Lemon Whipped Cream](https://stateofdinner.com/lemon-whipped-cream/)
 - [Dipped strawberry sitting in a bowl of whipped cream. Fluffy Marshmallow Whipped Cream](https://stateofdinner.com/marshmallow-whipped-cream/)

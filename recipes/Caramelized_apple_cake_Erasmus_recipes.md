@@ -26,7 +26,7 @@ labels: [fish, dairy, cake, candy]
 - [Blogs](https://erasmusu.com/en/erasmus-blog)
 - [Erasmus recipes](https://erasmusu.com/en/erasmus-blog/erasmus-recipes)
 
-# Caramelized apple cake
+## Caramelized apple cake
 
 [![nahom worku](<>)](https://erasmusu.com/en/nahom-worku-930499)
 
@@ -89,7 +89,7 @@ One thing I would like to point out is the fact that (unlike my friend whom was 
 
 With this amazing cake I suggest you make a make **a warm cup of tea** that compliments the flavours of this dessert: black tea infused with cardamoms and cloves is a good choice. If the idea of having a piece of cake and a warm cup of tea makes you feel like a granny, you can try accompanying this cake with a **liquor** made of orange zest or my favorite mint liquor, which is perfect because it gives you that freshness, leaving you with the desire to take one more bite and one more sip... An ongoing of feel good moments filled with comfort and relaxation.
 
-## About the pictures...
+### About the pictures...
 
 I would love to put my own pictures of this caramelized apple cake I made (yesterday to be precise) but **unfortunately I took only a couple of pictures** and as you can imagine there wasn't even time to think about pictures... The pieces were eaten one after another, with no mercy by me and my friends who were there to share this delight with me.
 
@@ -200,4 +200,4 @@ This website is not related to the European Union and the European Commission ei
 
 Run hamsters! Run! ![](https://d1bvpoagx8hqbg.cloudfront.net/css/admin/ajax-loader.gif)
 
-## Instructions
+### Instructions

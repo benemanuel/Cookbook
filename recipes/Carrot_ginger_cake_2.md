@@ -37,7 +37,7 @@ labels: [meat, fish, dairy, cake, candy]
 
 ![Ginger Carrot Cake](https://mojo.generalmills.com/api/public/content/FxdGPhdLwUy9spQPibvbPg_webp_base.webp?v=ffa586cc&amp;t=191ddcab8d1c415fa10fa00a14351227)
 
-# Ginger Carrot Cake
+## Ginger Carrot Cake
 
 [4.5 (21)](#cgcRatingAndReview)
 
@@ -158,7 +158,7 @@ What veggies do you bake with?
 
 ![Ginger Carrot Cake](https://mojo.generalmills.com/api/public/content/FxdGPhdLwUy9spQPibvbPg_webp_base.webp?v=ffa586cc&amp;t=191ddcab8d1c415fa10fa00a14351227)
 
-## Ginger Carrot Cake
+### Ginger Carrot Cake
 
 [4.5 (21)](#cgcRatingAndReview)
 
@@ -214,7 +214,7 @@ Shop Recipe
 });
 })();
 
-## Ingredients
+### Ingredients
 
 ### Carrot Cake
 
@@ -274,7 +274,7 @@ Gold Medal Flour
 });
 })();
 
-## Instructions
+### Instructions
 
 - Step
 
@@ -304,7 +304,7 @@ Gold Medal Flour
 });
 })();
 
-## Nutrition
+### Nutrition
 
 Less Nutrition
 
@@ -403,7 +403,7 @@ Iron
 });
 })();
 
-## Recipe Tips
+### Recipe Tips
 
 (function() {
  document.addEventListener('DOMContentLoaded', function() {
@@ -445,7 +445,7 @@ Iron
 });
 })();
 
-## Try These Next
+### Try These Next
 
 - [Carrot Cake Recipes](/recipes/dishes/cake-recipes/carrot-cake)
 - [Super Moist™ Carrot Cake Recipes](/recipes/product-recipes/supermoist-cake-mix-recipes/supermoist-carrot-cake-recipes)
@@ -495,7 +495,7 @@ Iron
 });
 })();
 
-## Reviews & Questions Section
+### Reviews & Questions Section
 
 Reviews 4
 

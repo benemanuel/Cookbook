@@ -21,7 +21,7 @@ labels: [dairy, candy]
 - [Cocktails](https://www.thespruceeats.com/cocktails-4162707)![SVG Image](data:image/svg+xml;base64,PHN2ZyBjbGFzcz0iaWNvbiBpY29uLWNoZXZyb25fcmlnaHQiPgo8dXNlIGhyZWY9IiNpY29uLWNoZXZyb25fcmlnaHQiIHhsaW5rOmhyZWY9IiNpY29uLWNoZXZyb25fcmlnaHQiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiAvPgo8L3N2Zz4=)
 - [Mixology & Techniques](https://www.thespruceeats.com/mixology-techniques-4162705)
 
-# Homemade Cocktail Bitters
+### Homemade Cocktail Bitters
 
 By
 
@@ -92,7 +92,7 @@ This recipe yields an aromatic style of bitters. Quassia bark and gentian root a
 
 Great for cocktails, bitters have culinary uses in sauces, soups, dressings, and pie fillings as well. Just a couple of drops can enhance the flavor of savory preparations, and bitters are used to flavor sodas and ice cream, too.
 
-## Can I Replace Bitters With Something Else?
+### Can I Replace Bitters With Something Else?
 
 There is no great substitute for bitters because it's a unique ingredient with a strong character and flavor. You may get some tartness from a citrus peel, but you'll never achieve the complex flavor of a couple of dashes of bitters.  
 
@@ -134,7 +134,7 @@ Love a Spruce Eats recipe? [With MyRecipes, your personal home for recipes](http
 
 - 1/3 cup sugar
 
-## Make the Alcohol Infusion
+### Make the Alcohol Infusion
 
 1. Gather the ingredients.
 
@@ -160,7 +160,7 @@ Love a Spruce Eats recipe? [With MyRecipes, your personal home for recipes](http
 
 *​The Spruce Eats / Julia Hartbeck*
 
-## Make Aromatic Water
+### Make Aromatic Water
 
 1. Use a muddler or mortar and pestle to break up the strained botanicals as much as possible.
 
@@ -192,7 +192,7 @@ Love a Spruce Eats recipe? [With MyRecipes, your personal home for recipes](http
 
 *​The Spruce Eats / Julia Hartbeck*
 
-## Finish the Bitters
+### Finish the Bitters
 
 1. Measure the infused alcohol and combine it with an equal amount of aromatic water in a 1-pint (or larger) jar.
 

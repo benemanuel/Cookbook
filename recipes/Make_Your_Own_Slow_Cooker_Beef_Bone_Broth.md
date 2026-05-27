@@ -15,7 +15,7 @@ labels: [meat, candy]
 
 October 7, 2016
 
-# How to Make Nutrient-Dense Slow Cooker Beef Bone Broth
+## How to Make Nutrient-Dense Slow Cooker Beef Bone Broth
 
 [Jump to Recipe](#recipe) //
 
@@ -35,7 +35,7 @@ The slow cooker method maintains consistent low heat **without requiring constan
 
 ![Clear glass jars filled with golden bone broth ](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA2NDAgOTYwJz48L3N2Zz4=)
 
-## Nutritional Benefits of Homemade Bone Broth
+### Nutritional Benefits of Homemade Bone Broth
 
 ### **Collagen and Gelatin**:
 
@@ -59,7 +59,7 @@ Traditional remedy backed by modern research showing anti-inflammatory propertie
 
 ![Cup of hot bone broth garnished with fresh parsley and black pepper, steam visible](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA2NDAgOTYwJz48L3N2Zz4=)
 
-## Key Ingredients for Perfect Bone Broth
+### Key Ingredients for Perfect Bone Broth
 
 ### **Essential Ingredients:**
 
@@ -75,7 +75,7 @@ Choose grass-fed, pasture-raised bones when possible. CAFO-raised animals often 
 
 ---
 
-## Recipe Overview
+### Recipe Overview
 
 **Prep Time**: 20 minutes  
 **Cook Time**: 18-36 hours  
@@ -86,7 +86,7 @@ Choose grass-fed, pasture-raised bones when possible. CAFO-raised animals often 
 
 ![Raw mixed beef bones including oxtail and knuckle bones arranged on a white baking sheet before roasting](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA2NDAgOTYwJz48L3N2Zz4=)
 
-## How to Make Slow Cooker Bone Broth: Step-by-Step
+### How to Make Slow Cooker Bone Broth: Step-by-Step
 
 ### Step 1: Roast the Bones
 
@@ -138,7 +138,7 @@ The fat will float to the surface and, when chilled, form a protective barrier t
 
 ![Clear glass jars filled with golden bone broth showing proper gel consistency when cooled](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA2NDAgOTYwJz48L3N2Zz4=)
 
-## Serving Recommendations
+### Serving Recommendations
 
 **As a Beverage**: Heat 1 cup broth, season with sea salt, black pepper, and fresh herbs. Sip warm for comfort and nutrition.
 
@@ -153,7 +153,7 @@ The fat will float to the surface and, when chilled, form a protective barrier t
 
 ![Cup of hot bone broth garnished with fresh parsley and black pepper, steam visible](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA2NDAgOTYwJz48L3N2Zz4=)
 
-## Expert Tips for Bone Broth Success
+### Expert Tips for Bone Broth Success
 
 1. **Don’t Skip Roasting**: This step is essential for flavor development
 2. **Use Bone Variety**: Mix marrow bones with joint bones for best texture
@@ -165,7 +165,7 @@ The fat will float to the surface and, when chilled, form a protective barrier t
 
 ![Cup of hot bone broth garnished with fresh parsley and black pepper, steam visible](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA2NDAgOTYwJz48L3N2Zz4=)
 
-## Recipe Variations and Adaptations
+### Recipe Variations and Adaptations
 
 ### Chicken Bone Broth
 
@@ -191,7 +191,7 @@ Add during final reheating:
 
 ---
 
-## Nutritional Benefits of Homemade Bone Broth
+### Nutritional Benefits of Homemade Bone Broth
 
 **Collagen and Gelatin**: Supports skin elasticity, joint health, and gut lining integrity. The slow cooking process converts tough collagen into easily digestible gelatin.
 
@@ -205,7 +205,7 @@ Add during final reheating:
 
 ---
 
-## Troubleshooting Common Bone Broth Issues
+### Troubleshooting Common Bone Broth Issues
 
 **Problem: Broth doesn’t gel when cooled**  
 **Solution**: Use more joint bones (knuckle, neck), cook longer, or add chicken feet for extra collagen
@@ -224,7 +224,7 @@ Add during final reheating:
 
 ---
 
-## Frequently Asked Questions
+### Frequently Asked Questions
 
 ### **Q: How long does bone broth last in the refrigerator?**
 
@@ -252,7 +252,7 @@ A: Bone broth cooks longer (18+ hours vs 4-6 hours), uses more bones, and focuse
 
 ---
 
-## Bottom Line
+### Bottom Line
 
 This slow cooker bone broth recipe delivers restaurant-quality results with minimal hands-on effort. The extended cooking time and proper technique **extract maximum nutrition from bones**, creating a **versatile superfood that supports overall health.** While it requires patience, the active preparation time is minimal, making it perfect for meal prep enthusiasts.
 
@@ -268,7 +268,7 @@ Whether you’re sipping it for comfort, using it as a cooking base, or incorpor
 
 4.77 from 96 votes
 
-## Slow Cooker Beef Bone Broth
+### Slow Cooker Beef Bone Broth
 
 Prep Time: 20 minutes minutes
 
@@ -280,7 +280,7 @@ Transform roasted beef bones into nutrient-rich broth packed with collagen, mine
 
 Servings: 4 cups
 
-## Ingredients
+### Ingredients
 
 [US Customary](#) – [Metric](#)
 
@@ -300,7 +300,7 @@ Servings: 4 cups
 
 - [Fine Mesh Sieve](https://amzn.to/3ZVmKWR)
 
-## Instructions
+### Instructions
 
 - Preheat oven to 400°F.
 

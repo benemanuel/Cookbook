@@ -53,7 +53,7 @@ Raw eggs are key for real chocolate mousse, the classic French way to make it th
 
 ![](https://www.recipetineats.com/tachyon/2018/09/Nagi-holding-two-eggs.jpg)
 
-## Note on raw eggs concern
+### Note on raw eggs concern
 
 Raw eggs in food is more common than you think – and you’ve probably eaten it without even realising.
 
@@ -69,7 +69,7 @@ Note: raw eggs is not advisable for pregnant women and babies.
 
 ---
 
-## **How to make chocolate mousse**
+### **How to make chocolate mousse**
 
 The path to light and fluffy Chocolate Mousse involves just a few key steps:
 
@@ -117,7 +117,7 @@ I chose to make little pots (using whisky glasses!) but you can make one dish if
 
 ![Close up of spoon holding a scoop of Chocolate Mousse](https://www.recipetineats.com/tachyon/2018/09/Chocolate-Mousse_0.jpg)
 
-## **First timers – never fear!**
+### **First timers – never fear!**
 
 If you’re a **chocolate mousse first timer** and are concerned about deflation because you’re taking your time with the steps, **don’t be worried!** When I film recipe videos, I’m always faffing around with camera set ups and batting away a [certain giant dog](https://www.recipetineats.com/dozer-the-golden-retriever-dog/) who is always sprawled where I want the tripod to be.
 
@@ -127,13 +127,13 @@ But it was fine! The chocolate mousse came out exactly the same as it always has
 
 ---
 
-## Watch how to make it
+### Watch how to make it
 
 Hungry for more? Subscribe to my [newsletter](https://recipetineats.ck.page/6f68ed0a2d) and follow along on [Facebook](https://www.facebook.com/RecipeTinEats), [Pinterest](http://www.pinterest.com/recipetin/) and [Instagram](http://instagram.com/recipe_tin) for all of the latest updates.
 
 ![Chocolate Mousse in glasses topped with a dollop of cream and chocolate shavings, ready to be served](https://www.recipetineats.com/tachyon/2018/09/Chocolate-Mousse_9.jpg?resize=206%2C206)
 
-## Chocolate Mousse
+### Chocolate Mousse
 
 Author: Nagi
 
@@ -166,7 +166,7 @@ Excellent dessert for dinner parties because they keep 100% perfectly in the fri
 
 See notes section for comment on raw eggs (yes it's essential to make mousse properly).
 
-## Ingredients
+### Ingredients
 
 Cups
 
@@ -201,7 +201,7 @@ Cook Mode
 
 Prevent screen from sleeping
 
-## Instructions
+### Instructions
 
 - For reliable results, work at a steady pace so your whipped egg whites and cream do not get too warm!
 
@@ -266,7 +266,7 @@ PS More ways to get a serious Chocolate fix: [Chocolate Cake](https://www.recipe
 
 ---
 
-## Life of Dozer
+### Life of Dozer
 
 Back at the beach with his mates! Under strict instructions to take it easy* and ease back into it. Unfortunately, he doesn’t understand what “taking it easy” means…..
 

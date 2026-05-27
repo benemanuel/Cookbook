@@ -83,19 +83,19 @@ Protein Made Simple Email Series
 
 **Fourth Step:** Cut into squares and eat your toffee candy!
 
-## Storing Homemade Toffee
+### Storing Homemade Toffee
 
 You can store sugar free toffee at room temperature for a day or two. At room temperature, it will be softer and more caramelly. For it to get crisp like a real English toffee chill it. You can see the difference between my video and photos. In the video, the toffee was room temperature. In these photos, it has been chilled first.
 
 ![the toffee after removing from the pan on a cutting board](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='750'%20height='500'%20viewBox='0%200%20750%20500'%3E%3C/svg%3E)
 
-## Tips for Making Sugar Free Toffee
+### Tips for Making Sugar Free Toffee
 
 I have had readers simplify this by putting the melted sugar free chocolate in a muffin tin with aluminum liners. Chill the chocolate, put the warm toffee on top, chill again, and then top with more chocolate. You get cute little circles that way and don’t need to flip the toffee over or cut it. That method can also help with portion control.
 
 ![cut pieces of the sugar free toffee on a cutting board](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='750'%20height='500'%20viewBox='0%200%20750%20500'%3E%3C/svg%3E)
 
-## Substitutions & Tweaks
+### Substitutions & Tweaks
 
 This basic combination of cream, butter, and sweetener can be used to make all varieties of keto toffee.
 
@@ -115,7 +115,7 @@ This basic combination of cream, butter, and sweetener can be used to make all v
 
 ![close up of the keto toffee candy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='300'%20height='300'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
 
-## Keto Toffee
+### Keto Toffee
 
 [Taryn Scarfone](https://joyfilledeats.com/about-taryn-scarfone/)
 
@@ -158,7 +158,7 @@ Calories 105
 - pinch [salt](https://rstyle.me/+eBJdK_D79GcPhHA6-tQVsQ)
 - 7 oz sugar free or very dark chocolate***
 
-## Instructions
+### Instructions
 
 - Line a small baking pan with foil and spray with cooking spray.
 

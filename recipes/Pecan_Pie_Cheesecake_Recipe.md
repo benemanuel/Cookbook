@@ -69,7 +69,7 @@ To bake this cheesecake you need:
 
 ---
 
-## How to make pecan pie cheesecake
+### How to make pecan pie cheesecake
 
 There are several steps to making pecan pie cheesecake. You must first make the crust, then the filling followed by the topping. It takes time so make sure you plan ahead before starting this recipe.
 
@@ -147,7 +147,7 @@ To cut the cheesecake, use a sharp knife and run it under hot water to warm the 
 
 ![closeup of pecan pie cheesecake with a fork taking a bite out](https://www.bakedbyanintrovert.com/wp-content/uploads/2018/09/Pecan-Pie-Cheesecake-photo.jpg)
 
-## Can the cheesecake be frozen?
+### Can the cheesecake be frozen?
 
 Yes, it certainly can. After it has set in the refrigerator, remove the springform pan and wrap the cheesecake tightly with plastic wrap and a layer of aluminum foil.
 
@@ -155,20 +155,20 @@ It can be frozen for up to 2 months. Thaw the frozen cheesecake overnight in the
 
 ---
 
-## Tips for success
+### Tips for success
 
 - As with all cheesecakes, this one needs time for preparation and refrigeration. Plan accordingly.
 - No water bath is needed for this recipe. The cheesecake will remain creamy and any cracks that may form will be covered with the topping.
 - Bake this cheesecake on the middle rack.
 
-## More cheesecake recipes you’ll love
+### More cheesecake recipes you’ll love
 
 1. [Red Velvet Cheesecake](https://www.bakedbyanintrovert.com/red-velvet-cheesecake/)
 2. [Strawberry Cheesecake](https://www.bakedbyanintrovert.com/strawberry-cheesecake/)
 3. [Pumpkin Cheesecake](https://www.bakedbyanintrovert.com/pumpkin-cheesecake/)
 4. [Eggnog Cheesecake](https://www.bakedbyanintrovert.com/eggnog-cheesecake/)
 
-## Pecan Pie Cheesecake
+### Pecan Pie Cheesecake
 
 ![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjAiIHdpZHRoPSIwIiBzdHlsZT0iZGlzcGxheTpibG9jazt3aWR0aDowcHg7aGVpZ2h0OjBweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcz48bGluZWFyZ3JhZGllbnQgaWQ9Indwcm0tcmVjaXBlLXVzZXItcmF0aW5nLTItMzMiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjMzJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iMzMlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PC9saW5lYXJncmFkaWVudD48L2RlZnM+PGRlZnM+PGxpbmVhcmdyYWRpZW50IGlkPSJ3cHJtLXJlY2lwZS11c2VyLXJhdGluZy0yLTUwIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjwvbGluZWFyZ3JhZGllbnQ+PC9kZWZzPjxkZWZzPjxsaW5lYXJncmFkaWVudCBpZD0id3BybS1yZWNpcGUtdXNlci1yYXRpbmctMi02NiI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iNjYlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI2NiUiIHN0b3Atb3BhY2l0eT0iMCIgLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3Atb3BhY2l0eT0iMCIgLz48L2xpbmVhcmdyYWRpZW50PjwvZGVmcz48L3N2Zz4=)
 
@@ -231,7 +231,7 @@ Cook Mode
 
 Prevent your screen from going dark
 
-## Instructions
+### Instructions
 
 #### Make the crust
 

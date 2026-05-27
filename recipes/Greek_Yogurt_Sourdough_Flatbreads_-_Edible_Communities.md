@@ -15,7 +15,7 @@ labels: [dairy, bread, cake]
 
 [Skip to content](#content)
 
-# Greek Yogurt Sourdough Flatbreads
+## Greek Yogurt Sourdough Flatbreads
 
 - [By Emilie Raffa](https://ediblecommunities.com/author/emilie-raffa/)
 - | January 31, 2018
@@ -48,7 +48,7 @@ Leftover sourdough starter paired with tangy Greek yogurt creates the best homem
 
 ![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeD0iMHB4IiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgaGVpZ2h0PSIxNnB4IiB5PSIwcHgiIHdpZHRoPSIxNnB4Ij48Zz48cGF0aCBmaWxsPSIjMzMzMzMzIiBkPSJNMTMsMjFoLTJINXYyYzAsMC42LDAuNCwxLDEsMWgxMmMwLjYsMCwxLTAuNCwxLTF2LTJIMTN6IiBkYXRhLWNvbG9yPSJjb2xvci0yIiAvPjxwYXRoIGQ9Ik0xOCw0Yy0wLjEsMC0wLjIsMC0wLjMsMGMtMC44LTIuMy0zLTQtNS43LTRTNy4yLDEuNyw2LjMsNEM2LjIsNCw2LjEsNCw2LDRjLTMuMywwLTYsMi43LTYsNmMwLDMsMi4yLDUuNCw1LDUuOVYxOWg2di00aDJ2NGg2di0zLjFjMi44LTAuNSw1LTIuOSw1LTUuOUMyNCw2LjcsMjEuMyw0LDE4LDR6IiBmaWxsPSIjMzMzMzMzIiAvPjwvZz48L3N2Zz4=) Author Emilie Raffa
 
-## Ingredients
+### Ingredients
 
 - 2½ cups /300 g all-purpose flour
 - 1 tablespoon /12 g sugar
@@ -60,7 +60,7 @@ Leftover sourdough starter paired with tangy Greek yogurt creates the best homem
 - 1 to 2 tablespoon /15 to 30 ml warm water
 - 2 tablespoon /28 g unsalted butter, melted
 
-## Instructions
+### Instructions
 
 - Whisk the flour, sugar, salt, and baking powder together in a large bowl. Add the leftover starter, yogurt, oil, and 1 tablespoon (15 ml) of water. Mix with your hands until a rough dough forms. The dough should feel soft but not sticky. Add more water or flour as needed to get the right texture. Cover with a damp kitchen towel and let rest for 1 hour.
 
@@ -106,26 +106,26 @@ Excerpted with permission from [Artisan Sourdough Made Simple](https://www.amazo
 
 **RECIPES**
 
-## [All Recipes](https://ediblecommunities.com/recipes)
+### [All Recipes](https://ediblecommunities.com/recipes)
 
-## [Home Cooking](https://ediblecommunities.com/home-cooking/)
+### [Home Cooking](https://ediblecommunities.com/home-cooking/)
 
-## [Seasonal Ingredients](https://ediblecommunities.com/seasonal-ingredients/)
+### [Seasonal Ingredients](https://ediblecommunities.com/seasonal-ingredients/)
 
-## [GARDEN](https://ediblecommunities.com/garden/)
+### [GARDEN](https://ediblecommunities.com/garden/)
 
 **DRINK**
 
-## [All Drinks](https://ediblecommunities.com/drink/)
+### [All Drinks](https://ediblecommunities.com/drink/)
 
-## [Wine](https://ediblecommunities.com/wine/)
+### [Wine](https://ediblecommunities.com/wine/)
 
-## [PODCASTS](https://ediblecommunities.com/podcasts)
+### [PODCASTS](https://ediblecommunities.com/podcasts)
 
-## [KIDS](https://ediblecommunities.com/kids/)
+### [KIDS](https://ediblecommunities.com/kids/)
 
-## [FIND YOUR EDIBLE](https://ediblecommunities.com/edible-communities/find-your-edible/)
+### [FIND YOUR EDIBLE](https://ediblecommunities.com/edible-communities/find-your-edible/)
 
-## [ABOUT](https://ediblecommunities.com/about/founders-edible-communities/)
+### [ABOUT](https://ediblecommunities.com/about/founders-edible-communities/)
 
 [Instagram](https://www.instagram.com/edible.communities/) [Facebook](https://www.facebook.com/EdibleCommunities)

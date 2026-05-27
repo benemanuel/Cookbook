@@ -55,13 +55,13 @@ While there isn’t one single way to cut a sweet potato into cubes, I’ll shar
 
 Now that we’ve got the perfect cubes for roasting, let’s talk about the rest of the process.
 
-## How to make roasted sweet potatoes
+### How to make roasted sweet potatoes
 
 1. Cut the potatoes, trying to get each cube roughly the same size. See above for cutting instructions.
 2. Toss the cubes with the oil and seasonings.
 3. Cook at 425 degrees Fahrenheit, tossing the sweet potatoes every 10-15 minutes to prevent them from burning and to get an *even cook and caramelization*.
 
-## Recipe tips
+### Recipe tips
 
 - **Use a LARGE sheet pan**: the more space the vegetables have (the less crowded they are) the better they roast. When vegetables are overlapping on a sheet pan, they end up steaming instead of roasting. This definitely affects the end taste/texture. I’ve started using this [15×21 inch sheet pan](https://amzn.to/2DY9LsB) – which is practically the width of my oven. Using a huge sheet pan makes a big difference for roasting vegetables!
 - Different varieties of sweet potatoes cook differently and there can be quite a lot of variance between ovens, so it is important to **check the sweet potatoes** rather than relying solely on a time.
@@ -69,25 +69,25 @@ Now that we’ve got the perfect cubes for roasting, let’s talk about the rest
 
 ![Spices used to season the sweet potatoes with](https://www.chelseasmessyapron.com/wp-content/uploads/2019/02/Roasted-Sweet-Potatoes-5.jpg "Spices added to the roasted sweet potatoes will complement the natural flavor of the sweet potato, without over-powering it")
 
-## Roasted Sweet Potatoes FAQs:
+### Roasted Sweet Potatoes FAQs:
 
-## Should I boil sweet potatoes before roasting?
+### Should I boil sweet potatoes before roasting?
 
 While you certainly can boil your sweet potatoes before roasting, it’s not necessary and I would discourage it. Boiling sweet potatoes creates more steps, more dirty dishes, and it affects the taste for the worse in my opinion.
 
-## Do you have to peel sweet potatoes before roasting?
+### Do you have to peel sweet potatoes before roasting?
 
 This comes down to personal preference, but I highly recommend peeling the potatoes for this recipe to ensure best texture and flavor.
 
 The skin can stay on for other types of roasted sweet potatoes such as sweet potato wedges.
 
-## How long does it take to roast sweet potatoes?
+### How long does it take to roast sweet potatoes?
 
 At 425 degrees, these ½-inch thick sweet potato chunks take 27-35 minutes to cook.
 
 ![Finished roasted sweet potatoes on a sheet pan](https://www.chelseasmessyapron.com/wp-content/uploads/2019/02/Roasted-Sweet-Potatoes-2.jpg "Delicious roasted sweet potatoes ready to eat")
 
-## More Sweet Potato Recipes
+### More Sweet Potato Recipes
 
 - [Pesto Couscous Bowls](https://www.chelseasmessyapron.com/pesto-couscous-bowls/)
 - [Wild Rice Salad](https://www.chelseasmessyapron.com/pomegranate-wild-rice-salad/)
@@ -106,7 +106,7 @@ Tap stars to rate!
 
 [Save](#)[Saved](#) [Pin](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.chelseasmessyapron.com%2Froasted-sweet-potatoes%2F&media=https%3A%2F%2Fwww.chelseasmessyapron.com%2Fwp-content%2Fuploads%2F2019%2F02%2FRoasted-Sweet-Potatoes-1.jpg&description=Roasted+Sweet+Potatoes&is_video=false) [Print](https://www.chelseasmessyapron.com/wprm_print/roasted-sweet-potatoes)
 
-## Roasted Sweet Potatoes
+### Roasted Sweet Potatoes
 
 By [Chelsea Lords](https://www.chelseasmessyapron.com/about/)
 
@@ -126,7 +126,7 @@ Servings: 6 servings as a side
 
 - Large sheet pan (15" x 21")
 
-## Ingredients
+### Ingredients
 
 1x
 
@@ -180,7 +180,7 @@ Seasoned Roasted Sweet Potatoes
 
 1/2 teaspoon garlic powder
 
-## Instructions
+### Instructions
 
 - **Plain Roasted Sweet Potatoes:** Preheat oven to 425°F. Peel and cube sweet potatoes into 1/2-inch pieces. Add to your largest sheet pan and add the melted coconut oil, salt, and brown sugar on top. Toss to coat all the sweet potatoes, then spread out in an even layer. You don’t want any potatoes overlapping or you’ll end up with steamed potatoes instead of roasted potatoes. Flip every 10–15 minutes, cooking for a total of 27–35 minutes. (I flip every 10 minutes and bake around 30 minutes.)
 

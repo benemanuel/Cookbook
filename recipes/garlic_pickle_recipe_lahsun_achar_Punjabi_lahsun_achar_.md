@@ -15,7 +15,7 @@ labels: []
 
 You are here: [Home](/) > [Indian Veg Recipes](/recipes-for-indian-veg-recipes-2) > [Punjabi](/recipes-for-punjabi-veg-punjabi-recipes-3) > [Punjabi Raita | Punjabi Chutney | Achar](/recipes-for-punjabi-raita-chtutney-achar-12) > [Best Quick Pickle (Indian Aachar) at Home](/recipes-for-quick-pickles-achar-338) > Garlic Pickle ( Achaar Recipe )
 
-# Garlic Pickle Recipe (Lahsun Achar)
+## Garlic Pickle Recipe (Lahsun Achar)
 
 ★ ★ ★ ★ ★
 
@@ -156,7 +156,7 @@ This **lahsun achar** is ready to serve after about a week and it stays well for
 - 1/4 tsp [crushed coriander (dhania) seeds](/glossary-coriander-seeds-dhania-ke-beej-dhania-seeds-akha-dhania-371i#ing_3354)
 - 1/4 tsp [asafoetida (hing)](/glossary-asafoetida-hing-113i)
 
-## Instructions
+### Instructions
 
 For garlic pickle
 
@@ -167,7 +167,7 @@ For garlic pickle
 5. Remove from the flame, cool and store in a sterilised glass jar.
 6. Store the **garlic pickle** in a cool dry place. This **garlic pickle** is ready for the table after 1 week.
 
-## Garlic Pickle Recipe (Lahsun Achar) Video by Tarla Dalal
+### Garlic Pickle Recipe (Lahsun Achar) Video by Tarla Dalal
 
 ×
 
@@ -507,7 +507,7 @@ I love this so much, I should have been born in India! This country of mine seem
 
 #### Recipe Categories
 
-## By Healthy Indian
+### By Healthy Indian
 
 - [Vitamin B12 Cobalamin Rich 35 recipes](/recipes/category/vitamin-b12-cobalamin-rich-foods/)
 - [Low Calorie, Weight Loss Indian 432 recipes](/recipes/category/healthy-low-calorie-weight-loss/)
@@ -584,7 +584,7 @@ I love this so much, I should have been born in India! This country of mine seem
 - [Chronic Kidney Disease Indian 12 recipes](/recipes/category/chronic-kidney-disease/)
 - [Selenium1 0 recipes](/recipes/category/selenium1/)
 
-## By Quick Recipe
+### By Quick Recipe
 
 - [Quick Indian Snacks / Quick Starters 388 recipes](/recipes/category/quick-snacks-starters/)
 - [Quick Breakfast Indian 141 recipes](/recipes/category/quick-breakfast-indian/)
@@ -610,7 +610,7 @@ I love this so much, I should have been born in India! This country of mine seem
 - [Quick 4 Ingredients 44 recipes](/recipes/category/quick-4-ingredients-veg-indian-/)
 - [Quick 5 Ingredients 46 recipes](/recipes/category/quick-5-ingredients-indian-veg/)
 
-## By Vegetarian Cuisine
+### By Vegetarian Cuisine
 
 - [Indian Veg Recipes 2379 recipes](/recipes/category/indian-veg-recipes/)
 - [Chinese Vegetarian Dishes (Simple & Delicious) 246 recipes](/recipes/category/chinese-veg-chinese-recipes/)
@@ -621,7 +621,7 @@ I love this so much, I should have been born in India! This country of mine seem
 - [French style Indian 7 recipes](/recipes/category/french-style-indian/)
 - [American 266 recipes](/recipes/category/american/)
 
-## By Kids Recipes
+### By Kids Recipes
 
 - [Kids Tiffin Box 328 recipes](/recipes/category/kids-tiffin-snacks/)
 - [Recipes for Toddlers (1-3 Years) 33 recipes](/recipes/category/recipes-for-toddlers-1-3-years/)
@@ -656,7 +656,7 @@ I love this so much, I should have been born in India! This country of mine seem
 - [Weaning foods at 7 months 12 recipes](/recipes/category/weaning-foods-at-7-months/)
 - [Indian Teen 315 recipes](/recipes/category/indian-teen-recipes/)
 
-## By Indian Course
+### By Indian Course
 
 - [Starters / Snacks 2143 recipes](/recipes/category/starters-snacks/)
 - [Indian Breakfast 825 recipes](/recipes/category/breakfast--indian-veg-breakfast-recipes/)
@@ -681,7 +681,7 @@ I love this so much, I should have been born in India! This country of mine seem
 - [Advanced Recipes 10 recipes](/recipes/category/advanced-recipes/)
 - [Cakes with Eggs 13 recipes](/recipes/category/indian-cakes-with-eggs/)
 
-## By Equipment
+### By Equipment
 
 - [Microwave 228 recipes](/recipes/category/equipment-microwave/)
 - [Oven 620 recipes](/recipes/category/oven/)
@@ -706,7 +706,7 @@ I love this so much, I should have been born in India! This country of mine seem
 - [Toaster 23 recipes](/recipes/category/indian-toast-toaster-/)
 - [Gas Toaster 8 recipes](/recipes/category/gas-toaster/)
 
-## By Cooking Basic Indian recipes | Basic cooking Indian recipe |
+### By Cooking Basic Indian recipes | Basic cooking Indian recipe |
 
 - [Healthy Indian steamed 74 recipes](/recipes/category/healthy-indian-steamed/)
 - [No Cooking Veg Indian 335 recipes](/recipes/category/cooking-basics-no-cooking-veg-indian/)
@@ -721,7 +721,7 @@ I love this so much, I should have been born in India! This country of mine seem
 - [Stir-fry 101 recipes](/recipes/category/stir-fry/)
 - [Roasting 0 recipes](/recipes/category/roasting-recipes/)
 
-## By Occasion & Party
+### By Occasion & Party
 
 - [Sankashti Chaturthi Recipes 45 recipes](/recipes/category/sankashti-chaturthi/)
 - [Party 3707 recipes](/recipes/category/party/)

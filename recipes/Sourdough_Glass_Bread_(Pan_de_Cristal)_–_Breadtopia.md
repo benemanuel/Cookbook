@@ -97,7 +97,7 @@ Total Time
 - 3% olive oil
 - 2.4% salt
 
-## Instructions
+### Instructions
 
 #### Autolyse
 
@@ -260,4 +260,4 @@ Thread on the Fresh Loaf [message board](https://www.thefreshloaf.com/node/50220
   ### [Parchment Paper Sheets — 200 Sheets](https://breadtopia.com/store/parchment-paper-sheets-200/)$29.00
   [Add to cart](/sourdough-glass-bread-pan-de-cristal/?add-to-cart=293923)
 
-# Sourdough Glass Bread (Pan de Cristal)
+### Sourdough Glass Bread (Pan de Cristal)

@@ -64,7 +64,7 @@ This means a baking steel or baking stone is a great tool to get perfect pita br
 
 When the bread then cools this gap doesn’t seal again, so when you cut it open there’s a convenient pocket in the middle.
 
-## The dough composition
+### The dough composition
 
 ### Vitals
 
@@ -100,7 +100,7 @@ The salt content is 2.6% to really bring out the taste of the flour.
 
 If you want to play around with the formula, and change hydration or quantity, you can do so in my [Bread Calculator](https://fdgk.net/sourdough-pita-bread-formula).
 
-## The conclusion of this sourdough pita bread recipe
+### The conclusion of this sourdough pita bread recipe
 
 These pita bread are absolutely a delight and it requires so little work to make them.
 
@@ -114,7 +114,7 @@ They can be eaten straight out of the oven. They can stay good in a sealed plast
 
 Why are you sitting there reading? Go make delicious pita bread.
 
-## Ideas for fillings for sourdough pita bread
+### Ideas for fillings for sourdough pita bread
 
 Here are my four ideas for fillings that
 
@@ -152,7 +152,7 @@ To your warm pita add:
                 * 1 cup/240 ml vinegar                  * 1 cup/240 ml sugar                    * Mix to combine.                      * Slice an English cucumber very thinly and add to the mixture.
                         * Leave to infuse at least 1 hour, but it’s better with 24 hours.
 
-## Please share this recipe for sourdough pita bread on social media
+### Please share this recipe for sourdough pita bread on social media
 
 This is my recipe for sourdough pita bread. If you like the recipe please consider sharing it with like-minded food lovers on social media.
 
@@ -166,7 +166,7 @@ Prevent your screen from going dark
 
 ![](https://foodgeek.io/wp-content/uploads/2020/09/recipe-3-132x132.jpg)
 
-## Sourdough Pita Bread
+### Sourdough Pita Bread
 
 ![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJkaXNwbGF5OmJsb2NrO3dpZHRoOjBweDtoZWlnaHQ6MHB4IiBoZWlnaHQ9IjAiIHdpZHRoPSIwIj48ZGVmcz48bGluZWFyZ3JhZGllbnQgaWQ9Indwcm0tcmVjaXBlLXVzZXItcmF0aW5nLTAtMzMiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjMzJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iMzMlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PC9saW5lYXJncmFkaWVudD48L2RlZnM+PGRlZnM+PGxpbmVhcmdyYWRpZW50IGlkPSJ3cHJtLXJlY2lwZS11c2VyLXJhdGluZy0wLTUwIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjwvbGluZWFyZ3JhZGllbnQ+PC9kZWZzPjxkZWZzPjxsaW5lYXJncmFkaWVudCBpZD0id3BybS1yZWNpcGUtdXNlci1yYXRpbmctMC02NiI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iNjYlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI2NiUiIHN0b3Atb3BhY2l0eT0iMCIgLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3Atb3BhY2l0eT0iMCIgLz48L2xpbmVhcmdyYWRpZW50PjwvZGVmcz48L3N2Zz4=)
 
@@ -222,13 +222,13 @@ Sugar 2g**2%**
 
 * Percent Daily Values are based on a 2000 calorie diet.
 
-## Ingredients
+### Ingredients
 
 - 308 g [bread flour](https://fdgk.net/buy-bread-flour)  - 77 g [whole wheat flour](https://fdgk.net/buy-whole-wheat-flour)    - 225 g [sourdough starter](https://foodgeek.dk/en/make-your-own-sourdough-starter-recipe/)      - 211 g water        - 25 g olive oil          - 15 g sugar            - 10 g salt
 
 [Metric](#) – [US Customary](#)
 
-## Instructions
+### Instructions
 
 #### Make the dough
 

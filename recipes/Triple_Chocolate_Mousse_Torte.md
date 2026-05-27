@@ -17,7 +17,7 @@ labels: [dairy, cake, candy]
 
 [Cakes](https://abajillianrecipes.com/category/cakes/)
 
-# Triple Chocolate Mousse Torte
+## Triple Chocolate Mousse Torte
 
 by [Jillian](https://abajillianrecipes.com/author/jillianhb87yahoo-com/) May 8, 2023
 
@@ -111,7 +111,7 @@ Cuisine American
 
 Servings 10 Slices
 
-## Ingredients
+### Ingredients
 
 #### Chocolate Cake:
 
@@ -147,7 +147,7 @@ Servings 10 Slices
 
 - White, Milk, and Dark Chocolate Curls*
 
-## Instructions
+### Instructions
 
 #### Make the Cake:
 

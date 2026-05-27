@@ -15,7 +15,7 @@ labels: [meat, dairy, cake]
 
 [Home](https://www.averiecooks.com/) › [Recipe Index](https://www.averiecooks.com/recipe-index/) › [Drinks](https://www.averiecooks.com/category/drinks/)
 
-# Homemade Baileys Irish Cream
+## Homemade Baileys Irish Cream
 
 [![Avatar photo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3C/svg%3E)](https://www.averiecooks.com/about-averie/)
 
@@ -63,7 +63,7 @@ At parties, there’s always that one person who can mix a great drink, juggle s
 
 ![Homemade Baileys Irish Cream - Make in 1 minute averiecooks.com](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20585%20800'%3E%3C/svg%3E "Homemade Baileys Irish Cream - Make in 1 minute averiecooks.com")
 
-## Recipe Ingredients
+### Recipe Ingredients
 
 **Here’s what you’ll need to make this homemade Baileys Irish cream recipe:**
 
@@ -78,11 +78,11 @@ At parties, there’s always that one person who can mix a great drink, juggle s
 
 ![Homemade Baileys Irish Cream - Make in 1 minute averiecooks.com](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20589%20800'%3E%3C/svg%3E "Homemade Baileys Irish Cream - Make in 1 minute averiecooks.com")
 
-## How to Make Baileys Irish Cream
+### How to Make Baileys Irish Cream
 
 This homemade Irish cream recipe couldn’t be simpler to make! **Just add all the ingredients to a blender and mix until smooth.**
 
-## Storage Instructions
+### Storage Instructions
 
 If stored in an air-tight container, homemade Baileys can last up to 2 months in the fridge. The alcohol helps preserve it, but always sniff the mixture first to make sure it hasn’t gone off (trust me, you’ll know if the half and half has gone sour).
 
@@ -90,7 +90,7 @@ I also recommend shaking the homemade Baileys before enjoying it, just to mix ev
 
 ![Homemade Baileys Irish Cream - Make in 1 minute averiecooks.com](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20622%20800'%3E%3C/svg%3E "Homemade Baileys Irish Cream - Make in 1 minute averiecooks.com")
 
-## Recipe FAQs
+### Recipe FAQs
 
 **Can I Use Regular Coffee Instead of Instant Coffee Granules?**
 
@@ -145,7 +145,7 @@ Yes! The homemade Irish Cream needs to be refrigerated. The alcohol acts as a pr
 
 4.56 from 113 votes
 
-## Homemade Baileys Irish Cream
+### Homemade Baileys Irish Cream
 
 By Averie Sunshine
 
@@ -157,7 +157,7 @@ Total Time: 1 minute minute
 
 Servings: 32 ounces
 
-## Ingredients
+### Ingredients
 
 - [ ] ▢
 
@@ -178,7 +178,7 @@ one 14-ounce can sweetened condensed milk
 
 1 teaspoon instant coffee granules or instant espresso, make sure it’s instant so it dissolves
 
-## Instructions
+### Instructions
 
 - Combine all ingredients in the canister of a blender and blend on high speed until smooth, 30 to 60 seconds.
 
@@ -210,7 +210,7 @@ Tried this recipe? [Leave a review!](#comment)
 
 Consider leaving a 5 star rating if you’ve made and loved one of my recipes!
 
-## More Easy Holiday Drinks:
+### More Easy Holiday Drinks:
 
 [Sparkling Cranberry Orange Christmas Punch](https://www.averiecooks.com/sparkling-christmas-punch/) — Put some SPARKLE in your holidays with this EASY and FESTIVE punch that everyone loves!! Can be made in strengths ranging from non-alcoholic to knock-you-for-a-punch!!
 

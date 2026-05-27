@@ -51,7 +51,7 @@ And although this sourdough pizza crust recipe looks like there’s SO much to t
 
         
 
-## **The Start of Something Delicious**
+### **The Start of Something Delicious**
 
 For this sourdough pizza dough recipe, start with simple ingredients and a mixing bowl.
 
@@ -90,7 +90,7 @@ For this sourdough pizza dough recipe, start with simple ingredients and a mixin
 
         
 
-## **Bulk Fermentation (first rise)**
+### **Bulk Fermentation (first rise)**
 
 This step shouldn’t be rushed, because this is when most flavor development happens.
 
@@ -109,7 +109,7 @@ Bulk fermentation is when the dough is rested at room temperature **until it dou
 
 ### While the dough rests for 10 minutes, this is a good time to prep your proofing containers. I use 4 cup (950mL) lidded glass bowls for this. It helps the dough hold its shape and, they’re reusable! Bush each container with olive oil.
 
-## **Proof Two Ways (second rise)**
+### **Proof Two Ways (second rise)**
 
 After shaping the dough, there are several ways to proof the dough, depending on your schedule:
 
@@ -124,7 +124,7 @@ After shaping the dough, there are several ways to proof the dough, depending on
 
 *… after 2.5 hours at room temperature. ready to make pizza!*
 
-## **When is the Proofed Sourdough Pizza Dough Ready?**
+### **When is the Proofed Sourdough Pizza Dough Ready?**
 
 **The dough is ready to make pizza** when it’s risen between over one and a half times in size to just doubling in size, is **puffy** and **springy** to the touch (it’s pretty forgiving – just make sure it’s at room temp).
 
@@ -132,7 +132,7 @@ After shaping the dough, there are several ways to proof the dough, depending on
 
 _________________________
 
-## **Let’s Shape the Pizza!**
+### **Let’s Shape the Pizza!**
 
 ![Shaping the pizza dough with two hands.](https://vanillaandbean.com/wp-content/uploads/2020/04/pizza-9-680x1020.jpg)
 
@@ -147,7 +147,7 @@ _________________________
 
 *2. until you have a roundish (or oblong) pizza.*
 
-## **Let’s Get Ready to Bake!**
+### **Let’s Get Ready to Bake!**
 
 **Preheat the Oven & Sheet Pan and/or Pizza Stone**: to 550F preferably, or 500F if that is as hot as your oven gets. You’ll want to preheat for at least 45 minutes.
 
@@ -155,7 +155,7 @@ Just before getting ready to shape the dough, and while your oven is preheating,
 
 ---
 
-## **How to Shape Sourdough Pizza Dough Video**
+### **How to Shape Sourdough Pizza Dough Video**
 
 ---
 
@@ -164,7 +164,7 @@ Just before getting ready to shape the dough, and while your oven is preheating,
 
    
 
-## **Add the Toppings**
+### **Add the Toppings**
 
 The delicious thing about pizza is that you can personalize it. Setting up a pizza bar is a fun way to entertain and also let the family create their own masterpiece. Let your cravings guide you!
 
@@ -177,7 +177,7 @@ The delicious thing about pizza is that you can personalize it. Setting up a piz
 
    
 
-## **Bake the Sourdough Pizza**
+### **Bake the Sourdough Pizza**
 
 Bake the pizza for about 7-9 minutes, or until the cheese is melty and the crust is golden with some charring. It bakes fast, so keep an eye on it! Use the peel or back of a sheet pan to remove the pizza from the oven and transfer to a cutting board.
 
@@ -185,7 +185,7 @@ Allow the pizza to rest for about five minutes before cutting into it. Your sour
 
 ![Overhead shot of a vegetarian sourdough pizza after baking with a sprinkle of herbs, parmesan and pepper flakes.](https://vanillaandbean.com/wp-content/uploads/2020/04/pizza-3-680x1020.jpg)
 
-## **Traci’s Tips**
+### **Traci’s Tips**
 
 - **Note that parchment paper is generally rated for use under 500F.** So at 550F, with any overhang, beyond the sourdough pizza dough, the paper will char and become brittle. [Cooks Illustrated](https://www.cooksillustrated.com/how_tos/5858-can-you-heat-parchment-paper-higher-than-manufacturers-recommend) has more on this.
 - **Timing**: Use the times mentioned in the recipe as a guide rather than a determining factor for when the sourdough pizza dough is done fermenting and proofing. The ambient temperature and how active your starter is will determine when the dough is ready. **It’s ready when it’s ready.**
@@ -194,7 +194,7 @@ Allow the pizza to rest for about five minutes before cutting into it. Your sour
 
 [![SVG Image](data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2Ij48ZyBmaWxsPSIjN2QzZjVjIiBzdHJva2U9IiM3ZDNmNWMiIHN0cm9rZS13aWR0aD0iMSIgY2xhc3M9Im5jLWljb24td3JhcHBlciI+PHBhdGggZD0iTTExLjUsMC41IEM5Ljk4MiwwLjUsOC42NzgsMS4zNTUsOCwyLjYwMUM3LjMyMiwxLjM1NSw2LjAxOCwwLjUsNC41LDAuNWMtMi4yMDksMC00LDEuNzkxLTQsNGMwLDQsNy41LDExLDcuNSwxMXM3LjUtNyw3LjUtMTEgQzE1LjUsMi4yOTEsMTMuNzA5LDAuNSwxMS41LDAuNXoiIGRhdGEtY2FwPSJidXR0IiBzdHJva2U9IiM3ZDNmNWMiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGZpbGw9Im5vbmUiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAvPiA8L2c+PC9zdmc+) Save Recipe](#)[![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE2IiB3aWR0aD0iMTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld2JveD0iMCAwIDE2IDE2Ij48ZyBmaWxsPSIjN2QzZjVjIiBjbGFzcz0ibmMtaWNvbi13cmFwcGVyIj48cGF0aCBkPSJNMTEuNiwwQzEwLjEsMCw4LjgsMC44LDgsMkM3LjIsMC44LDUuOSwwLDQuNCwwQzIsMCwwLDIsMCw0LjRjMCw0LjQsOCwxMC45LDgsMTAuOXM4LTYuNSw4LTEwLjkgQzE2LDIsMTQsMCwxMS42LDB6IiBmaWxsPSIjN2QzZjVjIiAvPjwvZz48L3N2Zz4=) Saved!](#) [![SVG Image](data:image/svg+xml;base64,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgd2lkdGg9IjE2cHgiIGhlaWdodD0iMTZweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiIHZpZXdib3g9IjAgMCAyNCAyNCI+PGcgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZT0ibm9uZSI+PGcgZmlsbD0iIzdkM2Y1YyI+PGc+PHBhdGggZD0iTTE3LjU0NTQsMC4wMDA1IEMxOC4yOTA0LDAuMDAwNSAxOC45MDA0LDAuNjEwNSAxOC45MDA0LDEuMzU2NSBMMTguOTAwNCwxLjM1NjUgTDE4LjkwMDQsNC45NDQ1IEwyMS45OTA0LDQuOTQ0NSBDMjMuMDk1NCw0Ljk0NDUgMjQuMDAwNCw1Ljg0ODUgMjQuMDAwNCw2Ljk1MzUgTDI0LjAwMDQsNi45NTM1IEwyNC4wMDA0LDE3LjI0MTUgQzI0LjAwMDQsMTguMzQ2NSAyMy4wOTU0LDE5LjI1MDUgMjEuOTkwNCwxOS4yNTA1IEwyMS45OTA0LDE5LjI1MDUgTDE5Ljg0MTQsMTkuMjUwNSBMMTkuODQxNCwyMi4yNzk1IEMxOS44NDE0LDIzLjE3MjUgMTkuMTEwNCwyMy45MDM1IDE4LjIxNzQsMjMuOTAzNSBMMTguMjE3NCwyMy45MDM1IEw1Ljc4MzQsMjMuOTAzNSBDNC44ODk0LDIzLjkwMzUgNC4xNTk0LDIzLjE3MjUgNC4xNTk0LDIyLjI3OTUgTDQuMTU5NCwyMi4yNzk1IEw0LjE1OTQsMTkuMjUwNSBMMi4wMTA0LDE5LjI1MDUgQzAuOTA0NCwxOS4yNTA1IDAuMDAwNCwxOC4zNDY1IDAuMDAwNCwxNy4yNDE1IEwwLjAwMDQsMTcuMjQxNSBMMC4wMDA0LDYuOTUzNSBDMC4wMDA0LDUuODQ4NSAwLjkwNDQsNC45NDQ1IDIuMDEwNCw0Ljk0NDUgTDIuMDEwNCw0Ljk0NDUgTDUuMDk4NCw0Ljk0NDUgTDUuMDk4NCwxLjM1NjUgQzUuMDk4NCwwLjYxMDUgNS43MDk0LDAuMDAwNSA2LjQ1NTQsMC4wMDA1IEw2LjQ1NTQsMC4wMDA1IFogTTE3Ljg0MTQsMTUuNTk3NSBMNi4xNTk0LDE1LjU5NzUgTDYuMTU5NCwyMS45MDM1IEwxNy44NDE0LDIxLjkwMzUgTDE3Ljg0MTQsMTUuNTk3NSBaIE0yMS45OTA0LDYuOTQ0NSBMMi4wMTA0LDYuOTQ0NSBMMi4wMDA0LDE3LjI0MTUgTDQuMTU5NCwxNy4yNDI1IEw0LjE1OTQsMTUuMjIxNSBDNC4xNTk0LDE0LjMyODUgNC44ODk0LDEzLjU5NzUgNS43ODM0LDEzLjU5NzUgTDUuNzgzNCwxMy41OTc1IEwxOC4yMTc0LDEzLjU5NzUgQzE5LjExMDQsMTMuNTk3NSAxOS44NDE0LDE0LjMyODUgMTkuODQxNCwxNS4yMjE1IEwxOS44NDE0LDE1LjIyMTUgTDE5Ljg0MTQsMTcuMjQ5NSBMMjEuOTkwNCwxNy4yNTA1IEwyMi4wMDA0LDYuOTUzNSBMMjEuOTkwNCw2Ljk0NDUgWiBNNi4xNjMyLDkuMTMxOCBDNi43OTAyLDkuMTMxOCA3LjI5OTIsOS42NDA4IDcuMjk5MiwxMC4yNjc4IEM3LjI5OTIsMTAuODk0OCA2Ljc5MDIsMTEuNDAyOCA2LjE2MzIsMTEuNDAyOCBMNi4xNjMyLDExLjQwMjggTDUuMDk5MiwxMS40MDI4IEM0LjQ3MjIsMTEuNDAyOCAzLjk2MzIsMTAuODk0OCAzLjk2MzIsMTAuMjY3OCBDMy45NjMyLDkuNjQwOCA0LjQ3MjIsOS4xMzE4IDUuMDk5Miw5LjEzMTggTDUuMDk5Miw5LjEzMTggWiBNMTYuNjMwNCwyLjI3MTUgTDcuMzcwNCwyLjI3MTUgTDcuMzcwNCw0LjY4NDUgTDE2LjYzMDQsNC42ODQ1IEwxNi42MzA0LDIuMjcxNSBaIiAvPjwvZz48L2c+PC9nPjwvc3ZnPg==) Print Recipe](https://vanillaandbean.com/wprm_print/overnight-sourdough-pizza-dough-with-active-starter)
 
-## Overnight Sourdough Pizza Dough (with Active Starter)
+### Overnight Sourdough Pizza Dough (with Active Starter)
 
 ![SVG Image](data:image/svg+xml;base64,PHN2ZyBzdHlsZT0iZGlzcGxheTpibG9jazt3aWR0aDowcHg7aGVpZ2h0OjBweCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjAiIHdpZHRoPSIwIj48ZGVmcz48bGluZWFyZ3JhZGllbnQgaWQ9Indwcm0tcmVjaXBlLXVzZXItcmF0aW5nLTEtMzMiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjMzJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iMzMlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PC9saW5lYXJncmFkaWVudD48L2RlZnM+PGRlZnM+PGxpbmVhcmdyYWRpZW50IGlkPSJ3cHJtLXJlY2lwZS11c2VyLXJhdGluZy0xLTUwIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjwvbGluZWFyZ3JhZGllbnQ+PC9kZWZzPjxkZWZzPjxsaW5lYXJncmFkaWVudCBpZD0id3BybS1yZWNpcGUtdXNlci1yYXRpbmctMS02NiI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iNjYlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI2NiUiIHN0b3Atb3BhY2l0eT0iMCIgLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3Atb3BhY2l0eT0iMCIgLz48L2xpbmVhcmdyYWRpZW50PjwvZGVmcz48L3N2Zz4=)
 
@@ -238,7 +238,7 @@ Cook Mode
 
 (keep screen awake)
 
-## Ingredients
+### Ingredients
 
 #### For Four 11" Pizzas:
 
@@ -282,7 +282,7 @@ Cook Mode
 
 3/4 tsp [Fine Sea Salt](https://www.amazon.com/Baleine-Salt-Crystals-Canister-Ounce/dp/B000VHNOSM?content-id=amzn1.sym.05cdea1b-984e-43e0-92af-e9507a5a81b0%3Aamzn1.sym.05cdea1b-984e-43e0-92af-e9507a5a81b0&crid=3E1ABTU6G9DDG&cv_ct_cx=fine+sea+salt&keywords=fine+sea+salt&pd_rd_i=B000VHNOSM&pd_rd_r=82945546-e9e5-43a4-8d00-c25d791343de&pd_rd_w=w7vXX&pd_rd_wg=gmpKD&pf_rd_p=05cdea1b-984e-43e0-92af-e9507a5a81b0&pf_rd_r=TQ4993Z19WPV8JWSSK8P&qid=1679515555&s=grocery&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=fine+sea+salt%2Cgrocery%2C137&sr=1-2-eaba3e64-2c1a-4b51-a783-d570c84bd9fa&linkCode=ll1&tag=vanandbea-20&linkId=2debd144bb99c7cc8401f49e6ae7d6d1&language=en_US&ref_=as_li_ss_tl)
 
-## Instructions
+### Instructions
 
 #### Mix the Dough:
 
@@ -324,7 +324,7 @@ Cook Mode
 
 - Store pizza leftovers in a lidded container in the refrigerator for up to three days. Reheat at 350F for about 10 minutes.
 
-## Video
+### Video
 
 ### Notes
 

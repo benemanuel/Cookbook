@@ -86,7 +86,7 @@ These buns have officially ruined me for all others. Once you try them, you’ll
 
 ---
 
-## Step-by-step: Sourdough brioche buns
+### Step-by-step: Sourdough brioche buns
 
 - Refresh your starter – In a medium [bowl](https://amzn.to/2RD3cUR), combine 50g of sourdough starter, 50g of water, and 50g of flour. Stir well to combine. Cover and leave to rise for 3 to 5 hours at room temperature. Once your starter is ready, you can proceed with making the dough below.  
 ***Pro tip** – You can also make the levain up to 5 days in advance and leave it in the fridge.*
@@ -143,7 +143,7 @@ These buns have officially ruined me for all others. Once you try them, you’ll
 
 *Brioche Buns with Sourdough Starter*
 
-## Troubleshooting
+### Troubleshooting
 
 - One common issue that can occur when making sourdough brioche buns is a **lack of rising**. If your dough doesn’t seem to rise as much as you’d like, ensure you’re following the sourdough fermentation process correctly. It’s important to give the dough enough time to develop and rise, so be patient and allow it to sit for the recommended duration. Additionally, double-check that your sourdough starter is active and healthy before incorporating it into the dough.
 - Another potential problem you might encounter is a **dense or heavy texture** in your brioche buns. This can be caused by over-kneading the dough, which can lead to gluten development that is too strong. To avoid this, be mindful of the kneading process and stop once the dough reaches the desired level of elasticity. Remember, brioche dough should be tender and slightly sticky, not firm and tough.
@@ -171,7 +171,7 @@ These buns have officially ruined me for all others. Once you try them, you’ll
 
 ---
 
-## Frequently asked questions
+### Frequently asked questions
 
 **How long will these brioche buns keep?**
 
@@ -195,7 +195,7 @@ You can also make a classic sourdough brioche à tête by shaping the dough into
 
 [Veena Azmanov](https://veenaazmanov.com/about-this-blog/)
 
-## Sourdough Brioche Buns
+### Sourdough Brioche Buns
 
 ![SVG Image](data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjAiIHdpZHRoPSIwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJkaXNwbGF5OmJsb2NrO3dpZHRoOjBweDtoZWlnaHQ6MHB4Ij48ZGVmcz48bGluZWFyZ3JhZGllbnQgaWQ9Indwcm0tcmVjaXBlLXVzZXItcmF0aW5nLTAtMzMiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjMzJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iMzMlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLW9wYWNpdHk9IjAiIC8+PC9saW5lYXJncmFkaWVudD48L2RlZnM+PGRlZnM+PGxpbmVhcmdyYWRpZW50IGlkPSJ3cHJtLXJlY2lwZS11c2VyLXJhdGluZy0wLTUwIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3Atb3BhY2l0eT0iMSIgLz48c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjwvbGluZWFyZ3JhZGllbnQ+PC9kZWZzPjxkZWZzPjxsaW5lYXJncmFkaWVudCBpZD0id3BybS1yZWNpcGUtdXNlci1yYXRpbmctMC02NiI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIG9mZnNldD0iNjYlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agb2Zmc2V0PSI2NiUiIHN0b3Atb3BhY2l0eT0iMCIgLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3Atb3BhY2l0eT0iMCIgLz48L2xpbmVhcmdyYWRpZW50PjwvZGVmcz48L3N2Zz4=)
 
@@ -239,9 +239,9 @@ Brioche dough
 - 10 grams  (1½ tsp) Kosher salt
 - 170 grams  (¾ cups) [Unsalted butter](https://veenaazmanov.com/baking-basics-how-flour-affects-our-baking/)
 
-## Ingredients
+### Ingredients
 
-## Instructions
+### Instructions
 
 1. **Autolyze** – In a large [bowl](https://amzn.to/2RD3cUR) of a [stand mixer,](https://amzn.to/2P8Nzmu) add the milk, eggs, starter, and flour. Stir well with a wooden spoon or spatula. Cover the bowl with [plastic wrap](https://amzn.to/2ESOhyF) and leave to rest for an hour.
 

@@ -27,7 +27,7 @@ Mediterranean cuisine for every day
 * [Blogroll](https://web.archive.org/web/20160730150332/http://www.tobiascooks.com/blogroll)
 * [Table of Content](https://web.archive.org/web/20160730150332/http://www.tobiascooks.com/site-map)
 
-# Beetroot and apple salad with yogurt dressing and wallnuts
+### Beetroot and apple salad with yogurt dressing and wallnuts
 
 [7 comments](https://web.archive.org/web/20160730150332/http://www.tobiascooks.com/recipes/beetroot-and-apple-salad-with-yogurt-dressing-and-wallnuts.html#comments "Comment on Beetroot and apple salad with yogurt dressing and wallnuts") Mar 25th, 2010 \| By [Tobias](https://web.archive.org/web/20160730150332/http://www.tobiascooks.com/author/tobias "Posts by Tobias") \| Category: [Recipes](https://web.archive.org/web/20160730150332/http://www.tobiascooks.com/category/recipes "View all posts in Recipes"), [Salads and Dressings](https://web.archive.org/web/20160730150332/http://www.tobiascooks.com/category/recipes/salads-and-dressings "View all posts in Salads and Dressings")
 
@@ -56,7 +56,7 @@ Though it has lots of **apple** in it and also some **honey** in the **dressing*
 * a pinch of salt
 * 100 gram of hazelnuts, chopped
 
-## Preparation:
+### Preparation:
 
 Grate the beetroot and the peeled apple into a bowl. Sprinkle the lemon juice over it an mix well.
 
