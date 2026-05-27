@@ -2,35 +2,37 @@
 subject: "Brisket rub"
 from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "benemanuel family <benemanuel.family@gmail.com>"
-date: "Sat, 3 Feb 2024 13:27:47 +0200"
-date_parsed: 2024-02-03T13:27:47+02:00
+date: "Thu, 22 May 2025 11:25:11 +0300"
+date_parsed: 2025-05-22T11:25:11+03:00
 labels: [meat]
 ---
 
-# Brisket rub
+Brisket rub
 
 ## Ingredients
+Brown sugar 1/3 cup 67 grams
 
+Paprika 2 tablespoons 14 grams
+
+Smoked paprika 1 tablespoon 7 grams
+
+Freshly ground black pepper 2 1/2 teaspoons 5 grams
+
+Freshly ground sea salt 1 tablespoon 18 grams
+
+Garlic powder 1 tablespoon 9 grams
+
+Onion powder 1 tablespoon 8 grams
+
+Mustard powder 3/4 teaspoon 2 grams
+
+Cayenne pepper 1/4 teaspoon 0\.5 grams
+
+Cumin 1 teaspoon 2 grams
+
+Coriander 1 teaspoon 2 gram
 ## Instructions
 
-1/3 cup brown sugar
 
-2 tablespoons paprika
 
-1 tablespoons smoked paprika
 
-2 1/2 teaspoons freshly ground black pepper
-
-1 tablespoon freshly ground sea salt
-
-1 tablespoon garlic powder
-
-1 tablespoon onion powder
-
-3/4 teaspoon mustard powder
-
-1/4 teaspoon cayenne pepper
-
-1 teaspoon cumin
-
-1 teaspoon coriander

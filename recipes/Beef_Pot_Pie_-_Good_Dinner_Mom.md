@@ -13,30 +13,6 @@ labels: [meat, bread]
 
 ---
 
-[Go Back](https://gooddinnermom.com/beef-pot-pie/) Print
-
-Recipe Image
-
-Notes
-
-Nutrition Label
-
-–+ servings
-
-[Smaller](#)[Normal](#)[Larger](#)
-
-![](https://gooddinnermom.com/wp-content/uploads/2014/10/Beef-Pot-PieThis2-1-500x500.jpg)
-
-[ Print Recipe](https://gooddinnermom.com/wprm_print/beef-pot-pie)
-
-
-
-4.88 from 81 votes
-
-### Beef Pot Pie
-
-This recipe does take a few hours to finish, but it's not hands-on the entire time. The filling is pre-baked to ensure the chuck roast pieces are super tender. A nice option here is to just cook half the beef in a skillet until browned and juicy. Then add it in with the rest of the beef before putting into dish and oven-baking.
-
 Prep Time20 minutes mins
 
 Cook Time2 hours hrs 30 minutes mins
@@ -161,6 +137,16 @@ Author: Good Dinner Mom
 - Beef stew meat is okay to use for the meat in the recipe.
 - If you want to make any of the recipe ahead of baking, follow through step 5 for preparing the filling. Filling can be refrigerated for 24 hours or frozen for several weeks. If freezing, some of the ingredients' texture may change a bit, especially if adding potatoes and pearl onions.
 
-### Nutrition
 
-Calories: 503kcal | Carbohydrates: 28g | Protein: 36g | Fat: 25g | Saturated Fat: 10g | Cholesterol: 131mg | Sodium: 808mg | Potassium: 942mg | Fiber: 3g | Sugar: 5g | Vitamin A: 5420IU | Vitamin C: 15.3mg | Calcium: 69mg | Iron: 5.4mg
+
+![](https://gooddinnermom.com/wp-content/uploads/2014/10/Beef-Pot-PieThis2-1-500x500.jpg)
+
+[ Print Recipe](https://gooddinnermom.com/wprm_print/beef-pot-pie)
+
+
+
+
+
+### Beef Pot Pie
+
+This recipe does take a few hours to finish, but it's not hands-on the entire time. The filling is pre-baked to ensure the chuck roast pieces are super tender. A nice option here is to just cook half the beef in a skillet until browned and juicy. Then add it in with the rest of the beef before putting into dish and oven-baking.

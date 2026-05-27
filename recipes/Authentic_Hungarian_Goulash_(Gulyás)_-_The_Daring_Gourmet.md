@@ -10,12 +10,38 @@ labels: [meat, dairy, bread]
 # Authentic Hungarian Goulash (Gulyás) - The Daring Gourmet
 
 <https://www.daringgourmet.com/traditional-hungarian-goulash-gulyas/>
+Prep Time 20 minutes mins
 
+Cook Time 1 hour hr 30 minutes mins
+
+Total Time 1 hour hr 50 minutes mins
+
+Servings 4 servings
+
+### Ingredients
+
+- 3 tablespoons [pork lard](https://www.amazon.com/Cornhusker-Kitchen-Gourmet-Rendered-Berkshire/dp/B0BSB7HPFZ/r?&linkCode=ll1&tag=thedargou09-20&linkId=d2170adbdf4a934998dc8d9bcbffdb05&language=en_US&ref_=as_li_ss_tl) , or butter or bacon grease (pork lard is traditionally used and imparts a great flavor)
+- 1 1/2 pounds yellow onions chopped
+- 1/4 cup [quality genuine imported Hungarian sweet paprika](https://www.amazon.com/Hungarian-Paprika-Premium-Quality-Smoked/dp/B01MZ9RUC6?crid=NZAY083BFUO0&dib=eyJ2IjoiMSJ9.XR0DCL7PVU-BzKxPthTbo-QV1BBsPiyhECX8j-MpGIXO_c2PTUzUqcXkj7ZBVL3tA4ZutdCYKjJMPBbaZlA2X6OtYkn8qlXo3dFxyWWbUkEki0O7ulTv-SzEJ08UM_pf9wFPoQbYEbH13-DyEIMHZEba_0z3bP-E6J_mp8DxSA0gtBSpq7RcnpQm8qcKfdj3pjiQr0lCJnM6J8oH2uCYuXIjX-dXpJDHxydR1QeteCpe_1uMyYl0AJsvtdYtX-TfmjYTRrIvC2yWPxyXR6bNZEWqFylkcr9_AbUYNxEDv40.FfeR5wMHAm9T7Wd8XHnyLiwNpEXr9msKOBXfCa31mpI&dib_tag=se&keywords=kaloscai%2Bpaprika&qid=1711717278&s=grocery&sprefix=kaloscai%2Bpaprika%2Cgrocery%2C129&sr=1-13-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1&linkCode=ll1&tag=thedargou09-20&linkId=b1888ec640e4c2af1bb8c997986f8241&language=en_US&ref_=as_li_ss_tl)
+- 1 1/2 pounds stewing beef , cut into 1/2 inch pieces
+- 5 cloves garlic ,minced
+- 2 red bell peppers ,seeded/membranes removed, cut into 1/2 inch chunks
+- 1 yellow bell pepper ,seeded/membranes removed, cut into 1/2 inch chunks
+- 2  tomatoes ,diced
+- 2 carrots ,diced
+- 2 medium potatoes ,cut into 1/2 inch chunks
+- 5 cups beef broth (traditionally just water is used but beef broth adds so much more flavor)
+- 1 [bay leaf](https://www.amazon.com/gp/product/B00XNK0BS0?ie=UTF8&tag=thedargou09-20&camp=1789&linkCode=xm2&creativeASIN=B00XNK0BS0)
+- 1 teaspoon salt
+- 1/2 teaspoon freshly ground black pepper
+- 1/2 teaspoon [crushed caraway seeds](https://www.amazon.com/gp/product/B08BY6J6KR?ie=UTF8&tag=thedargou09-20&camp=1789&linkCode=xm2&creativeASIN=B08BY6J6KR) (optional, not traditional in all regions)
+
+
+
+### Instructions
+
+- Melt the pork lard or butter/oil in a Dutch oven or other heavy soup pot over medium high heat and cook the onions until beginning to brown, about 7-10 minutes. Add the beef and cook until the beef is just starting to brown, 7-10 minutes. Add the bell peppers, tomatoes, and garlic and cook for another 6-8 minutes. Remove the pot from the heat and stir in the paprika, salt, pepper and caraway (if using) (note: paprika becomes bitter if at all scorched). Add the beef broth, bay leaf, return to the stove and bring to a boil. Reduce the heat to medium-low, cover and simmer for 40 minutes. Add the carrots and potatoes. Return to a boil, reduce the heat to medium-low, cover, and simmer for another 30-40 minutes or until the beef is nice and tender. Add salt to taste. Remove the bay leaf.
 ---
-
-[ Jump to Recipe](#recipe)
-
-This post may contain affiliate links. See my [disclosure policy](https://www.daringgourmet.com/privacy-policy/).
 
 A thoroughly authentic Hungarian Goulash recipe with a depth and richness of flavor that will satisfy both body and soul. Hungary’s national dish, this traditional gulyás captures everything that has made this dish so beloved across the globe. It is simply out-of-this-world delicious!
 
@@ -89,17 +115,7 @@ Enjoy!
 
 ![hungarian goulash recipe traditional authentic gulyas beef stew paprika carrots peppers potatoes sour cream caraway](https://www.daringgourmet.com/wp-content/uploads/2022/01/Hungarian-Goulash-6.jpg)
 
-### **For more authentic Hungarian dishes, be sure to try my:**
 
-- [**Chicken Paprikash**](https://www.daringgourmet.com/chicken-paprikash-paprikas-csirke/)
-- [**Pörkölt**](https://www.daringgourmet.com/hungarian-beef-and-onion-stew-marhaporkolt/)
-- **[Bean Goulash](https://www.daringgourmet.com/babgulyas-hungarian-bean-goulash/)** (Babgulyas)
-- [**Szegedin Goulash**](https://www.daringgourmet.com/szegedin-goulash-szekely-gulyas/)
-- **[Chicken Goulash](https://www.daringgourmet.com/2013/04/15/hungarian-chicken-goulash/)**
-
-### Save This Recipe
-
-Enter your email address and we’ll send it straight to your inbox!
 
 ![hungarian goulash recipe traditional authentic gulyas beef stew paprika carrots peppers potatoes sour cream caraway](https://www.daringgourmet.com/wp-content/uploads/2022/01/Hungarian-Goulash-17-300x300.jpg)
 
@@ -113,66 +129,12 @@ A thoroughly authentic Hungarian Goulash with a richness of flavor that will sat
 
 
 
-4.97 from 573 votes
-
-[ Print](https://www.daringgourmet.com/wprm_print/authentic-hungarian-goulash-gulyas) [ Pin](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.daringgourmet.com%2Ftraditional-hungarian-goulash-gulyas%2F&media=https%3A%2F%2Fwww.daringgourmet.com%2Fwp-content%2Fuploads%2F2022%2F01%2FHungarian-Goulash-17.jpg&description=Authentic+Hungarian+Goulash+%28Guly%C3%A1s%29&is_video=false) [ Rate](#commentform) [ Save](#)[Saved!](#)
-
-Prep Time 20 minutes mins
-
-Cook Time 1 hour hr 30 minutes mins
-
-Total Time 1 hour hr 50 minutes mins
-
-Servings 4 servings
-
-### Ingredients US CustomaryMetric 1x2x3x
-
-- 3 tablespoons [pork lard](https://www.amazon.com/Cornhusker-Kitchen-Gourmet-Rendered-Berkshire/dp/B0BSB7HPFZ/r?&linkCode=ll1&tag=thedargou09-20&linkId=d2170adbdf4a934998dc8d9bcbffdb05&language=en_US&ref_=as_li_ss_tl) , or butter or bacon grease (pork lard is traditionally used and imparts a great flavor)
-- 1 1/2 pounds yellow onions chopped
-- 1/4 cup [quality genuine imported Hungarian sweet paprika](https://www.amazon.com/Hungarian-Paprika-Premium-Quality-Smoked/dp/B01MZ9RUC6?crid=NZAY083BFUO0&dib=eyJ2IjoiMSJ9.XR0DCL7PVU-BzKxPthTbo-QV1BBsPiyhECX8j-MpGIXO_c2PTUzUqcXkj7ZBVL3tA4ZutdCYKjJMPBbaZlA2X6OtYkn8qlXo3dFxyWWbUkEki0O7ulTv-SzEJ08UM_pf9wFPoQbYEbH13-DyEIMHZEba_0z3bP-E6J_mp8DxSA0gtBSpq7RcnpQm8qcKfdj3pjiQr0lCJnM6J8oH2uCYuXIjX-dXpJDHxydR1QeteCpe_1uMyYl0AJsvtdYtX-TfmjYTRrIvC2yWPxyXR6bNZEWqFylkcr9_AbUYNxEDv40.FfeR5wMHAm9T7Wd8XHnyLiwNpEXr9msKOBXfCa31mpI&dib_tag=se&keywords=kaloscai%2Bpaprika&qid=1711717278&s=grocery&sprefix=kaloscai%2Bpaprika%2Cgrocery%2C129&sr=1-13-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1&linkCode=ll1&tag=thedargou09-20&linkId=b1888ec640e4c2af1bb8c997986f8241&language=en_US&ref_=as_li_ss_tl)
-- 1 1/2 pounds stewing beef , cut into 1/2 inch pieces
-- 5 cloves garlic ,minced
-- 2 red bell peppers ,seeded/membranes removed, cut into 1/2 inch chunks
-- 1 yellow bell pepper ,seeded/membranes removed, cut into 1/2 inch chunks
-- 2  tomatoes ,diced
-- 2 carrots ,diced
-- 2 medium potatoes ,cut into 1/2 inch chunks
-- 5 cups beef broth (traditionally just water is used but beef broth adds so much more flavor)
-- 1 [bay leaf](https://www.amazon.com/gp/product/B00XNK0BS0?ie=UTF8&tag=thedargou09-20&camp=1789&linkCode=xm2&creativeASIN=B00XNK0BS0)
-- 1 teaspoon salt
-- 1/2 teaspoon freshly ground black pepper
-- 1/2 teaspoon [crushed caraway seeds](https://www.amazon.com/gp/product/B08BY6J6KR?ie=UTF8&tag=thedargou09-20&camp=1789&linkCode=xm2&creativeASIN=B08BY6J6KR) (optional, not traditional in all regions)
-
-### Ingredients
-
-### Instructions
-
-- Melt the pork lard or butter/oil in a Dutch oven or other heavy soup pot over medium high heat and cook the onions until beginning to brown, about 7-10 minutes. Add the beef and cook until the beef is just starting to brown, 7-10 minutes. Add the bell peppers, tomatoes, and garlic and cook for another 6-8 minutes. Remove the pot from the heat and stir in the paprika, salt, pepper and caraway (if using) (note: paprika becomes bitter if at all scorched). Add the beef broth, bay leaf, return to the stove and bring to a boil. Reduce the heat to medium-low, cover and simmer for 40 minutes. Add the carrots and potatoes. Return to a boil, reduce the heat to medium-low, cover, and simmer for another 30-40 minutes or until the beef is nice and tender. Add salt to taste. Remove the bay leaf.
-
-### Nutrition
-
-Serving: 1servingCalories: 679kcalCarbohydrates: 32gProtein: 39gFat: 45gSaturated Fat: 17gPolyunsaturated Fat: 3gMonounsaturated Fat: 19gCholesterol: 130mgSodium: 1285mgPotassium: 1915mgFiber: 9gSugar: 14gVitamin A: 10862IUVitamin C: 155mgCalcium: 119mgIron: 6mg
 
 
 
-Course Main Course
 
-Cuisine Hungarian
 
- Tried this recipe?[Let us know](#comment) how it was!
 
 Originally published on The Daring Gourmet on March 18, 2014
 
 ![hungarian goulash recipe authentic traditional gulyas beef stew](https://www.daringgourmet.com/wp-content/uploads/2022/01/Hungarian-Goulash-20-728x784.jpg)
-
-![kimberly killebrew the daring gourmet](https://www.daringgourmet.com/wp-content/uploads/2020/04/Kimberly-Bermuda-Widgets-2.jpg)
-
-Hi, I’m Kimberly Killebrew and welcome to Daring Gourmet where you'll find delicious originals, revitalized classics, and simply downright good eats from around the world! Originally from Germany, later raised in England, world-traveled, and now living in the U.S., from my globally-influenced kitchen I invite you to tour the world through your taste buds!
-
-[Read more about me...](https://www.daringgourmet.com/about/)
-
-- [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.daringgourmet.com%2Ftraditional-hungarian-goulash-gulyas%2F&t=Authentic%20Hungarian%20Goulash%20%28Guly%C3%A1s%29 "Share on Facebook")
-- [](https://x.com/intent/tweet?text=Authentic%20Hungarian%20Goulash%20%28Guly%C3%A1s%29&url=https%3A%2F%2Fwww.daringgourmet.com%2Ftraditional-hungarian-goulash-gulyas%2F&via=@daringgourmet "Share on X")
--  
-
-- [](mailto:?subject=Authentic%20Hungarian%20Goulash%20%28Guly%C3%A1s%29&body=https%3A%2F%2Fwww.daringgourmet.com%2Ftraditional-hungarian-goulash-gulyas%2F "Send over email")

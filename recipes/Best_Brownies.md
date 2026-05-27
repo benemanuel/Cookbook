@@ -18,7 +18,7 @@ The Best Brownies
 
 for 24 brownies
 
-
+## Ingredients
 2 ½ sticks unsalted butter, plus more, softened, for greasing
 
 8 oz good\-quality semisweet chocolate (225 g), or bittersweet chocolate, 60\-70% cacao, roughly chopped
@@ -41,7 +41,7 @@ for 24 brownies
 
 flaky sea salt, for sprinkling
 
-## Ingredients
+
 
 ## Instructions
 

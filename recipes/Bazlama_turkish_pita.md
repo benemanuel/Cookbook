@@ -11,14 +11,6 @@ labels: [dairy, bread]
 
 ## Ingredients
 
-## Instructions
-
-\*\*This is the easiest bread you will make as it requires no kneading, only just mixing the ingredients and then shaping!\*\*
-
-
-\#Ingredients:
-
-
 \* 500 g (1 pound) flour
 
 \* 150 ml (5 fl. oz) warm milk
@@ -34,7 +26,9 @@ labels: [dairy, bread]
 \* chopped parsley, chili flakes
 
 
-\#Instructions:
+## Instructions
+
+\*\*This is the easiest bread you will make as it requires no kneading, only just mixing the ingredients and then shaping!\*\*
 
 
 1\) Whisk flour with salt and yeast. Add warm water and milk and knead just until liquids absorb.

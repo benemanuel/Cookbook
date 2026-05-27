@@ -8,91 +8,72 @@ labels: [dairy, cake]
 ---
 
 # Armenian perok cake
-
+https://www.annesappetite.com/traditional-perok-cake/
 ## Ingredients
-
+- 250g of unsalted softened butter
+- 1 cup caster sugar
+- 1 whole egg
+- 2 egg yolks
+- 1 tsp vanilla
+- 1 cup sour cream (or natural Greek yogurt)
+- 3 cups flour (sifted)
+- 2 tsp baking powder
+- 1/2 tsp salt
+- 1 cup jam (Pappou’s favourite was strawberry, but any flavour works)
+- 1 shot of ouzo (optional, but my yiayia always used it; if you have it, use it!)
 ## Instructions
 
-Recipe!
+1. **Preheat oven to 175°C (350°F).**
+2. **Cream together** the butter and sugar until fluffy and delightful.
+3. **Mix in** the egg, egg yolks, vanilla, and yoghurt (or sour cream)
 
+![Softened Butter and Sugar Creamed in Bowl](https://www.annesappetite.com/wp-content/uploads/2025/02/Softened-Butter-Sugar-771x1024.jpg)
 
-\&nbsp;
+![Cup of Yoghurt and Bowl of Egg Yolks](https://www.annesappetite.com/wp-content/uploads/2025/02/Eggs-Yoghurt-1024x665.jpg)
 
+![](https://www.annesappetite.com/wp-content/uploads/2025/02/Yogurt-Added-to-Mixture-847x1024.jpg)
 
-Preheat oven to 350 f
+1. **Sift in** the flour, baking powder, and salt, then fold it all together.
+2. **Reserve a small handful of batter** and mix in a little more flour to form a firmer dough for the lattice top.
 
-\&nbsp;
+![Cake Batter in Two Bowls](https://www.annesappetite.com/wp-content/uploads/2025/02/Batter-for-Cake-Lattice-Top-1024x722.jpg)
 
+![Cake Batter in Baking Pan](https://www.annesappetite.com/wp-content/uploads/2025/02/Batter-in-Pan-964x1024.jpg)
 
-\*\*Cream together:\*\*
+Main Batter in Pan
 
-\&nbsp;
+![Lattice Top Batter in Flour](https://www.annesappetite.com/wp-content/uploads/2025/02/Rolled-Out-Lattice-Top-927x1024.jpg)
 
+Reserved Batter mixed with Flour to create a lattice top
 
-2 sticks of softened butter
+1. **Spread the main batter** into a greased 9-inch round pan (try and use a pan that isn’t high but if you don’t have one, don’t stress)
+2. **Top generously with jam.** No measurements here just go with what feels right – I used about a cup.
+3. **Roll out the reserved dough and cut strips**
+4. **Brush with leftover egg whites** for a glossy finish.
 
-\&nbsp;
+![Cake Batter with Topped Strawberry Jam](https://www.annesappetite.com/wp-content/uploads/2025/02/Batter-topped-with-Jam-1024x934.jpg)
 
+Topped with Jam
 
-1 cup sugar
+![Unbaked Pontian Perok Cake](https://www.annesappetite.com/wp-content/uploads/2025/02/Cake-with-Lattice-Top-1024x951.jpg)
 
-\&nbsp;
+Lattice Top
 
+![Baked Pontian Perok Cake Top Down View](https://www.annesappetite.com/wp-content/uploads/2025/02/Baked-Perok-1024x856.jpg)
 
-\*\*Mix in:\*\*
+Just Out of the Oven
 
-\&nbsp;
+1. **Bake for around 50 minutes** or until golden brown and a knife comes out clean.
+2. **Let it cool**
 
+![Baked Pontian Perok Cake with Peice Cut](https://www.annesappetite.com/wp-content/uploads/2025/02/Closeup-of-Inside-of-Perok-1024x771.jpg)
 
-1 whole egg
+![Inside the Pontian Perok Cake](https://www.annesappetite.com/wp-content/uploads/2025/02/Inside-of-the-Perok-771x1024.jpg)
 
-\&nbsp;
+![Peice of Pontian Perok Cake](https://www.annesappetite.com/wp-content/uploads/2025/02/Peice-of-Perok-874x1024.jpg)
 
+## Tips for the Best Perok Cake (What I’d Do Differently Next Time)
 
-2 egg yolks
+- **Use a shallower pan.** My mum confirmed yiayia’s version was always on the shorter side, which made the jam feel more prominent. Lesson learned!
+- **Actually use the ouzo.** I didn’t have any on hand this time, and while the cake was delicious, I suspect that little splash of Greek magic would’ve elevated it even more.
 
-\&nbsp;
-
-
-1 tsp vanilla
-
-\&nbsp;
-
-
-1 cup sour cream
-
-
-\*\*Sift in:\*\*
-
-\&nbsp;
-
-
-3 cups flour
-
-\&nbsp;
-
-
-2 tsp baking powder
-
-\&nbsp;
-
-
-Half tsp salt
-
-
-\&nbsp;
-
-
-Leave like a handful of batter at the end and add more flour to it for the lattice top. Just eyeball it to get a nice consistency to shape into strips. You can also roll it out flat like pie crust and cut strips.
-
-
-\&nbsp;
-
-
-The batter will be thicker than usual cake batter. Spread it into a greased pan (I used a 9 inch square glass dish) and top with about a cup of jam (I eyeballed it). Apricot is traditional, but any kind of jam will work. Then lay the strips of dough on top.
-
-
-\&nbsp;
-
-
-Bake for around 50 min, or until the top is golden and a knife comes out clean. Try not to eat it all, and let me know if you make it.. I'd love to see!

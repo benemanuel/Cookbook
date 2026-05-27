@@ -7,16 +7,14 @@ date_parsed: 2022-12-24T16:19:19+02:00
 labels: [cake]
 ---
 
-# Banana peel
+# Banana peel flour
 
 ## Ingredients
 
+Ripe banana peels washed and dryed
+
 ## Instructions
 
-To make banana peel flour, you will need:  
-
-
-Ripe banana peels
 
 A dehydrator or an oven
 

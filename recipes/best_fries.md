@@ -9,8 +9,7 @@ labels: [bread]
 
 # best fries
 
-* YIELD:four
-* RATED:
+
 
 ## Ingredients
 

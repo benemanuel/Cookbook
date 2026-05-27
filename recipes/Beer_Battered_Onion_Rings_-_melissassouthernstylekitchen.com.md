@@ -13,17 +13,6 @@ labels: [meat, fish, dairy, bread]
 
 ---
 
-[ JUMP TO RECIPE](#recipe)  
-
-[Pin](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.melissassouthernstylekitchen.com%2Fbeer-battered-onion-rings%2F&description=Crispy%20Beer%20Battered%20Onion%20Rings%20are%20a%20crowd-pleasing%20appetizer%20and%20an%20easy%20side%20dish%20for%20burgers%2C%20sandwiches%2C%20steaks%2C%20and%20more.%20%23onionrings%20%23deepfriedonionrings%20%23beerbatteredonionrings%20%23beer%20%23beerbatter%20%23onions%20%23appetizers%20%23partyfood%20%23footballfood%20%23sidedish%20%23southernfood%20%23southernrecipes%20via%20%40melissasssk)
-
-
-
-[Email](mailto:?Subject=Beer%20Battered%20Onion%20Rings&Body=I%20saw%20this%20and%20thought%20of%20you%21%20https%3A%2F%2Fwww.melissassouthernstylekitchen.com%2Fbeer-battered-onion-rings%2F)
-
-[Post](https://x.com/intent/tweet?text=Beer%20Battered%20Onion%20Rings&url=https%3A%2F%2Fwww.melissassouthernstylekitchen.com%2Fbeer-battered-onion-rings%2F)
-
-59.3KShares
 
 ![Crispy Beer Battered Onion Rings are a crowd-pleasing appetizer and an easy side dish for burgers, sandwiches, steaks, and more. #onionrings #deepfriedonionrings #beerbatteredonionrings #beer #beerbatter #onions #appetizers #partyfood #footballfood #sidedish #southernfood #southernrecipes via @melissasssk](https://www.melissassouthernstylekitchen.com/wp-content/uploads/2014/07/beer-battered-onion-rings-pin.jpg)![Crispy Beer Battered Onion Rings are a crowd-pleasing appetizer and an easy side dish for burgers, sandwiches, steaks, and more. #onionrings #deepfriedonionrings #beerbatteredonionrings #beer #beerbatter #onions #appetizers #partyfood #footballfood #sidedish #southernfood #southernrecipes via @melissasssk](https://www.melissassouthernstylekitchen.com/wp-content/uploads/2014/07/beer-battered-onion-rings-pinterest-1.jpg)![Crispy Beer Battered Onion Rings are a crowd-pleasing appetizer and an easy side dish for burgers, sandwiches, steaks, and more. #onionrings #deepfriedonionrings #beerbatteredonionrings #beer #beerbatter #onions #appetizers #partyfood #footballfood #sidedish #southernfood #southernrecipes via @melissasssk](https://www.melissassouthernstylekitchen.com/wp-content/uploads/2014/07/beer-battered-onion-rings-pinterest.jpg)![Crispy Beer Battered Onion Rings are a crowd-pleasing appetizer and an easy side dish for burgers, sandwiches, steaks, and more. #onionrings #deepfriedonionrings #beerbatteredonionrings #beer #beerbatter #onions #appetizers #partyfood #footballfood #sidedish #southernfood #southernrecipes via @melissasssk](https://www.melissassouthernstylekitchen.com/wp-content/uploads/2014/07/Beer-Battered-Onion-Rings-Recipe-1.jpg)![Crispy Beer Battered Onion Rings are a crowd-pleasing appetizer and an easy side dish for burgers, sandwiches, steaks, and more. #onionrings #deepfriedonionrings #beerbatteredonionrings #beer #beerbatter #onions #appetizers #partyfood #footballfood #sidedish #southernfood #southernrecipes via @melissasssk](https://www.melissassouthernstylekitchen.com/wp-content/uploads/2014/07/best-ever-Beer-Battered-Onion-Rings.jpg)![Crispy Beer Battered Onion Rings are a crowd-pleasing appetizer and an easy side dish for burgers, sandwiches, steaks, and more. #onionrings #deepfriedonionrings #beerbatteredonionrings #beer #beerbatter #onions #appetizers #partyfood #footballfood #sidedish #southernfood #southernrecipes via @melissasssk](https://www.melissassouthernstylekitchen.com/wp-content/uploads/2014/07/Onion-Rings.jpg)
 

@@ -128,8 +128,4 @@ Serve hot or cold with ice cream, cream or custard.
 
 If there is any crumble left over, cover the dish with tin foil and it  
 will keep in the fridge for a couple of days.  
-\-\-  
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
-Avi Wollman  
-Fax: 972\-2\-6751151  
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+
