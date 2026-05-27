@@ -19,11 +19,11 @@ labels: [fish]
 
 
 
-[![banner for leaderboard_1456x180](https://cdn.diffords.com/contrib/banners/2026/05/69f9b5460f063.jpg) ![banner pixel](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAAsSAAALEgHS3X78AAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==)](https://youtu.be/3Rk3yQQJOmk)
+[![banner for leaderboard_1456x180](https://cdn.diffords.com/contrib/banners/2026/05/69f9b5460f063.jpg) ](https://youtu.be/3Rk3yQQJOmk)
 
-[![banner for leaderboard_936x120](https://cdn.diffords.com/contrib/banners/2025/11/691c60d43e093.jpg) ![banner pixel](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAAsSAAALEgHS3X78AAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==)](https://www.diffordsguide.com/membership/premium)
+[![banner for leaderboard_936x120](https://cdn.diffords.com/contrib/banners/2025/11/691c60d43e093.jpg) ](https://www.diffordsguide.com/membership/premium)
 
-[![banner for leaderboard_600x200](https://cdn.diffords.com/contrib/banners/2025/11/691c60d43a762.jpg) ![banner pixel](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAACXBIWXMAAAsSAAALEgHS3X78AAAADUlEQVQImWP4//8/AwAI/AL+hc2rNAAAAABJRU5ErkJggg==)](https://www.diffordsguide.com/membership/premium)
+[![banner for leaderboard_600x200](https://cdn.diffords.com/contrib/banners/2025/11/691c60d43a762.jpg) ](https://www.diffordsguide.com/membership/premium)
 
 ![About](https://cdn.diffords.com/contrib/bundle-assets/1239/header.jpg)
 

@@ -43,8 +43,8 @@ Otherwise, you can make a crust from cookie or graham cracker crumbs and melted 
 
 For the best results, make sure the cream cheese is good and softened before you get started. That is key to getting the smoothest filling.
 
-![Ingredients ready to be made into no bake cheesecake.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='683'%20height='1024'%20viewBox='0%200%20683%201024'%3E%3C/svg%3E "No Bake Cheesecake With Condensed Milk 6")
-![Mixing bowl filled with condensed milk no bake cheesecake mixture ready to be put in crust.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='683'%20height='1024'%20viewBox='0%200%20683%201024'%3E%3C/svg%3E "No Bake Cheesecake With Condensed Milk 7")
+
+
 
 Make sure the cream cheese is good and smooth before you add the condensed milk. This is your chance to get really silky smooth filling.
 
@@ -60,8 +60,8 @@ Now chill your pie for several hours. It will take at least three or four hours 
 
 To make serving your cheesecake even easier and reduce the chill time, make mini cheesecakes in jars. Just layer the crumb mixture, cheesecake batter and any topping you would like in small 4 oz. jars.
 
-![Collection of no bake cheesecake jars topped with strawberry sauce.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='683'%20height='1024'%20viewBox='0%200%20683%201024'%3E%3C/svg%3E "No Bake Cheesecake With Condensed Milk 8")
-![Slice of no bake cheesecake made with sweetened condensed milk next to remaining pie.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='683'%20height='1024'%20viewBox='0%200%20683%201024'%3E%3C/svg%3E "No Bake Cheesecake With Condensed Milk 9")
+
+
 
 You get the perfect texture in a fraction of the time. Then you can easily serve the cheesecake by just passing out a jar and a spoon.
 
@@ -83,14 +83,14 @@ The pictures below are two cheesecakes made using this recipe. Both used the exa
 
 They were store brand, full fat cream cheese, and sour cream. Plus the same brand of condensed milk.
 
-![Two no baked cheesecake, one that was mixed on low and the other that was beaten on high.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1400'%20viewBox='0%200%201200%201400'%3E%3C/svg%3E "No Bake Cheesecake With Condensed Milk 10")
-![Two slices of no bake cheesecake showing how the piece of cheesecake that was beaten longer is still soft.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1400'%20viewBox='0%200%201200%201400'%3E%3C/svg%3E "No Bake Cheesecake With Condensed Milk 11")
+
+
 
 While both are delicious, you can see there are several differences between the two. The pie with the filling that was beaten on high for a longer period of time is fluffier and the crust is more full.
 
 That filling has a nice smooth texture, but it is also softer and the piece didn’t hold its shape when it was cut and served, even after chilling overnight. So if you want to beat the filling longer for that fluffier filling, I would suggest adding a teaspoon or two of lemon juice to help set the filling a little bit more.
 
-![Slice of condensed milk cheesecake on plate.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='255'%20height='255'%20viewBox='0%200%20255%20255'%3E%3C/svg%3E "No Bake Cheesecake With Condensed Milk 12")
+
 
 
 
@@ -164,7 +164,7 @@ This recipe works well with a hand mixer or the whisk attachment of a stand mixe
 
 ### Video
 
-![YouTube video](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='480'%20height='360'%20viewBox='0%200%20480%20360'%3E%3C/svg%3E)
+
 
 ### Email Me The Link
 
@@ -184,13 +184,13 @@ Don’t forget to [leave a rating below](#comments) and make sure to follow on [
 
 ### More Popular No Bake Cheesecake Recipes
 
-[![Slice of chocolate no bake cheesecake with condensed milk on plate with remaining pie in the background.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='450'%20height='450'%20viewBox='0%200%20450%20450'%3E%3C/svg%3E "No Bake Chocolate Cheesecake 1")](https://cookingwithcarlee.com/no-bake-chocolate-cheesecake-2/)
 
-[![Jars of peppermint no bake cheesecake with chocolate crust and candy cane filling ready to eat.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='450'%20height='450'%20viewBox='0%200%20450%20450'%3E%3C/svg%3E "No Bake Candy Cane Cheesecake 2")](https://cookingwithcarlee.com/no-bake-peppermint-cheesecake/)
 
-[![Piece of airy lemon jello no bake cheesecake with graham cracker crust on plate ready to eat.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='450'%20height='450'%20viewBox='0%200%20450%20450'%3E%3C/svg%3E "No Bake Woolworth Cheesecake Bars 3")](https://cookingwithcarlee.com/no-bake-woolworth-cheesecake-bars/)
 
-[![Small glass jars filled with no bake cookie butter cheesecake mixture and a Biscoff cookie crust.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='450'%20height='450'%20viewBox='0%200%20450%20450'%3E%3C/svg%3E "No Bake Biscoff Cheesecake Jars 4")](https://cookingwithcarlee.com/no-bake-biscoff-cheesecake-jars/)
+
+
+
+
 
 Categories:
 

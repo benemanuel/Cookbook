@@ -158,7 +158,7 @@ This is my recipe for sourdough pita bread. If you like the recipe please consid
 
 If you make it and post it on Instagram, please tag me as [@foodgeek.dk](https://instagram.com/foodgeek.dk) so I can see it. That would make me very happy.
 
-- [Share on Twitter](javascript:void(0) "Share on Twitter")  - [Share on Facebook](javascript:void(0) "Share on Facebook")    - [Share on Pinterest](javascript:void(0) "Share on Pinterest")      - [Share via Email](/cdn-cgi/l/email-protection#3a05494f58505f594e0769554f485e554f5d521f080a4a534e5b1f080a58485f5b5e1f080a485f59534a5f1f080a461f080a694f4a5f481f080a5f5b4943161f080a4e525f1f080a585f494e1f080a485f59534a5f1c5b574a0158555e430769554f485e554f5d521f080a4a534e5b1f080a58485f5b5e1f080a485f59534a5f1f080a461f080a694f4a5f481f080a5f5b4943161f080a4e525f1f080a585f494e1f080a485f59534a5fd8baae524e4e4a490015155c55555e5d5f5f51145355155f541549554f485e554f5d52174a534e5b1758485f5b5e17485f59534a5f17494f4a5f48175f5b4943174e525f17585f494e17485f59534a5f15 "Share via Email")
+- [Share on Twitter](javascript:void(0) "Share on Twitter")  - [Share on Facebook](javascript:void(0) "Share on Facebook")    - [Share on Pinterest](javascript:void(0) "Share on Pinterest")      - [Share via Email](/cdn-cgi/l/email-protection# "Share via Email")
 
 Cook Mode
 
@@ -190,7 +190,7 @@ Author: Sune Trudslev
 
 Pita Bread is surprisingly easy to make, and it's a delicious flatbread with a built-in pocket for all the delightful things you can come up with you want to stuff inside.
 
-[](https://foodgeek.io/en/wprm_print/sourdough-pita-bread)[](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Ffoodgeek.io%2Fen%2Fsourdough-pita-bread-recipe-super-easy-the-best-recipe%2F&media=https%3A%2F%2Ffoodgeek.io%2Fwp-content%2Fuploads%2F2020%2F09%2Frecipe-3.avif&description=Sourdough+Pita+Bread&is_video=false)[](https://www.facebook.com/share.php?u=https%3A%2F%2Ffoodgeek.io%2Fen%2Fsourdough-pita-bread-recipe-super-easy-the-best-recipe%2F)[](/cdn-cgi/l/email-protection#06397573646c6365723b456e63656d233436697372233436726e6f752334367463656f766323343720676b763d6469627f3b4f2334366069736862233436726e6f752334367463656f76632334367f69732334366b6f616e722334366a6f6d6323354723364723364755697374626973616e233436566f726723343644746367622336476e72727675233547233440233440606969626163636d286f69233440636823344075697374626973616e2b766f72672b64746367622b7463656f76632b75737663742b6367757f2b726e632b646375722b7463656f7663233440)
+[](https://foodgeek.io/en/wprm_print/sourdough-pita-bread)[](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Ffoodgeek.io%2Fen%2Fsourdough-pita-bread-recipe-super-easy-the-best-recipe%2F&media=https%3A%2F%2Ffoodgeek.io%2Fwp-content%2Fuploads%2F2020%2F09%2Frecipe-3.avif&description=Sourdough+Pita+Bread&is_video=false)[](https://www.facebook.com/share.php?u=https%3A%2F%2Ffoodgeek.io%2Fen%2Fsourdough-pita-bread-recipe-super-easy-the-best-recipe%2F)[](/cdn-cgi/l/email-protection#)
 
 ### Equipment
 

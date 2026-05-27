@@ -13,7 +13,7 @@ labels: [bread, candy]
 
 ---
 
-![Glyko Karydaki (Green Walnuts Preserve)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20546%20600'%3E%3Crect%20width='546'%20height='600'%20style='fill:%23e3e3e3'/%3E%3C/svg%3E)
+
 
 [ Jump to Recipe](#mv-creation-483-jtr)
 

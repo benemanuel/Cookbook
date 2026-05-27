@@ -21,7 +21,7 @@ March 10, 2025
 
  [JUMP TO RECIPE/TIPS](#penci-recipe-card) [PRINT RECIPE/TIPS](#)
 
-[![The Best Gluten-Free Battered Cauliflower Recipe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20585%20390'%3E%3C/svg%3E "The Best Gluten-Free Battered Cauliflower Recipe")](https://glutenfreefoodee.com/wp-content/uploads/The-Best-Gluten-Free-Battered-Cauliflower-Recipe.png)
+
 
 I love battered cauliflower. In my family, it is one of the recipes that have been passed down for generations. When I went gluten-free, I thought I’d have to give up this delicious, crispy cauliflower treat but, luckily, that is not the case. Thanks to a little trial and error, I have perfected the best gluten-free battered cauliflower recipe.
 
@@ -59,7 +59,7 @@ It’s important that the following tips are followed to ensure the success of t
 
 - Put a large pot of salted water on the stove to boil.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20208%20278'%3E%3C/svg%3E)
+
 
 - Chop cauliflower into bite sized florets. Don’t be concerned if some tiny pieces break off keep them, as they can be combined with the batter at the end to make fritters.
 - Rinse cauliflower pieces under water.
@@ -74,29 +74,29 @@ Tip: You can use frozen cauliflower. Simply cook them to package instructions an
 
 - Separate the whites and yolks of the two eggs into two separate bowls.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20270%20165'%3E%3C/svg%3E)
+
 
 - To the egg yolks, add in gluten-free flour, baking powder, xantham gum (optional), salt, granulated onion, granulated garlic, black pepper, milk, and club soda.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20480%20640'%3E%3C/svg%3E)
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20468%20340'%3E%3C/svg%3E)
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20480%20557'%3E%3C/svg%3E)
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20480%20559'%3E%3C/svg%3E)
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20480%20545'%3E%3C/svg%3E)
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20480%20640'%3E%3C/svg%3E)
+
+
+
+
+
+
 
 - Beat with a whisk until smooth and combined.
 - Know that the batter will have a thin consistency before you add in the egg whites- this is fine.
 - In other bowl, add cream of tarter to the egg whites.
 - Using a hand mixer with whisk attachment, beat egg whites to stiff peaks – glossy, thick, and they shouldn’t move when you turn the bowl over.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20151%20168'%3E%3C/svg%3E)
+
 
 - Use a silicone spatula to gently fold the whites into the batter, until there are no white streaks. Do a figure eight motion while scraping the bottom of the bowl. Each pass helps combine this delicate batter.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20480%20640'%3E%3C/svg%3E)
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20480%20640'%3E%3C/svg%3E)
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20480%20640'%3E%3C/svg%3E)
+
+
+
 
 #### Making Gluten-Free Battered Cauliflower Bites
 
@@ -105,14 +105,14 @@ Tip: You can use frozen cauliflower. Simply cook them to package instructions an
 - To test the batter, use a teaspoon and drop a bit of batter into the oil and fry until golden on both sides. Allow to cool slightly and taste. You can now adjust the seasoning after trying the batter. Once you are happy with the taste, you can proceed to the next step.
 - Drop individual florets of cauliflower into the bowl of batter
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20189%20177'%3E%3C/svg%3E)
+
 
 - Using a teaspoon scoop out florets, ensuring they are well coated with batter, but not excessively so. That is why we aren’t using a tablespoon.
 - Drop the battered cauliflower into the hot oil and cook until golden brown on all sides. We recommend using tongs to turn the cauliflower bites.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20480%20640'%3E%3C/svg%3E)
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20480%20640'%3E%3C/svg%3E)
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20470%20539'%3E%3C/svg%3E)
+
+
+
 
 - Once they are fried, place them on the parchment paper lined rimmed sheet tray or on the wire rack.
 - After all the cauliflower is fried put the pan in the oven on 200° to keep warm, if necessary.
@@ -123,7 +123,7 @@ Enjoy!
 
   
 
-**![The Best Gluten-Free Battered Cauliflower Recipe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E "The Best Gluten-Free Battered Cauliflower Recipe")
+**
 
 ### The Best Gluten-Free Battered Cauliflower Recipe
 

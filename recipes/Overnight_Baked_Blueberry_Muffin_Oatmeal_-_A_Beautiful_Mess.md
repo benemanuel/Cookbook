@@ -13,7 +13,7 @@ labels: [dairy, cake]
 
 ---
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201430%202000'%3E%3C/svg%3E)
+
 
 I love a good overnight [breakfast](https://abeautifulmess.com/category/brunch/) recipe (we’ve made them [several different ways](https://abeautifulmess.com/?s=overnight+oats)), and this overnight baked blueberry muffin oatmeal recipe fits the bill exactly! It’s easy to throw together and then you let it soak overnight in the refrigerator.
 
@@ -21,21 +21,21 @@ This overnight baked blueberry muffin oatmeal is just as good leftover—I just 
 
 **Related:** [50+ Healthy Breakfast Ideas](https://abeautifulmess.com/healthy-breakfast-recipes/) and [Date Shake](https://abeautifulmess.com/healthy-breakfast-recipes/)
 
-![Overnight baked blueberry muffin oatmeal with a fork and a bite missing](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201500%202098'%3E%3C/svg%3E)
 
-![overnight baked blueberry oatmeal](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201500%202250'%3E%3C/svg%3E)I feel like this recipe is one of those meals that doesn’t photograph nearly as well as it tastes! This is probably my favorite overnight oatmeal recipe, and I think the secret is the crumb topping that makes the whole thing feel more like a muffin.
+
+I feel like this recipe is one of those meals that doesn’t photograph nearly as well as it tastes! This is probably my favorite overnight oatmeal recipe, and I think the secret is the crumb topping that makes the whole thing feel more like a muffin.
 
 It’s crunchy and sweet and just the perfect addition to the baked oatmeal goodness underneath.
 
 Here is a quick video of how to make this recipe—so simple!
 
-![overnight baked blueberry muffin oatmeal before letting it soak overnight](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201500%201949'%3E%3C/svg%3E)Here is what the overnight baked blueberry muffin oatmeal looks like before letting it soak overnight and then adding the crumb topping. It may look soupy, but all that goodness soaks in and makes for the perfect soft and creamy oatmeal.
+Here is what the overnight baked blueberry muffin oatmeal looks like before letting it soak overnight and then adding the crumb topping. It may look soupy, but all that goodness soaks in and makes for the perfect soft and creamy oatmeal.
 
 You can make this in a[classic Pyrex pie pan](https://amzn.to/3jTq6Yb) like I did, or you can also use a [pretty pan like this](https://amzn.to/3vB9PK6) for some extra serving flair (and [a set like this](https://amzn.to/3GekkId) is handy for serving cakes and pies).
 
-![overnight baked blueberry muffin oatmeal before baking](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201500%202250'%3E%3C/svg%3E)And do not skip the crumb top! That’s what takes this from just your regular run-of-the-mill baked oatmeal to something truly delicious! It’s like a muffin without a crumb top vs. one with it. We all know which is better. Ha.
+And do not skip the crumb top! That’s what takes this from just your regular run-of-the-mill baked oatmeal to something truly delicious! It’s like a muffin without a crumb top vs. one with it. We all know which is better. Ha.
 
-![Overnight baked blueberry muffin oatmeal with a piece taken out on a plate with a fork](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201500%202154'%3E%3C/svg%3E)I love this all on its own, but it could also be paired with some soft scrambled eggs with one of our [hashbrown recipes](https://abeautifulmess.com/?s=hash), or even some bacon if you’re feeling that way.
+I love this all on its own, but it could also be paired with some soft scrambled eggs with one of our [hashbrown recipes](https://abeautifulmess.com/?s=hash), or even some bacon if you’re feeling that way.
 
 If you love overnight baked oatmeal as much as I do, then you should also try:
 
@@ -48,7 +48,7 @@ If you love overnight baked oatmeal as much as I do, then you should also try:
 
 [Get the Guide](#popup-1)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20750%20750'%3E%3C/svg%3E)
+
 
 ### Free Popular Recipe Guide
 

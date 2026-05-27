@@ -43,7 +43,7 @@ Find the ingredients listed in the printable recipe card at the bottom of this p
 - **Raisins –** Plump raisins add texture and sweetness.
 - **More brown sugar, honey or barley malt syrup to boil bagels –** Poaching them in sweetened boiling water before baking gives them a golden and chewy crust. You can also in a touch of baking soda which will make them even more deeply browned.
 
-![baked bagels.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 ## Equipment
 
@@ -55,15 +55,15 @@ This sourdough recipe can easily be made by hand or use a stand mixer with a dou
 
 1. In the morning or the evening before, feed your sourdough starter.
 
-![a glass jar of sourdough starter.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20683%201024'%3E%3C/svg%3E)
+
 
 1. Let rise until doubled in size.
 
-![sourdough starter poured onto flour.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20683%201024'%3E%3C/svg%3E)
+
 
 1. In a large bowl, add flour, cinnamon, brown sugar, salt and water. Add in the sourdough starter.
 
-![thick dough in a glass bowl.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20924%201386'%3E%3C/svg%3E)
+
 
 1. Use a fork and then your hands to mix the dough into rough and shaggy dough ball. Tip the dough onto a lightly floured surface and knead it until it is smooth.
 2. The dough should be worked and kneaded for around 6-8 minutes for optimal gluten development. Alternatively, mix the dough in a bowl of a stand mixer fitted with a dough hook attachment on low speed.
@@ -72,36 +72,36 @@ This sourdough recipe can easily be made by hand or use a stand mixer with a dou
 
 ### Shaping and adding the raisins
 
-![risen dough being pulled from a bowl.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20683%201024'%3E%3C/svg%3E)
+
 
 1. Remove the stiff dough from the refrigerator and pull it from the bowl onto a lightly floured bench.
 
-![pressing raisins on dough.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20683%201024'%3E%3C/svg%3E)
+
 
 1. Stretch the dough out into a rectangle, and press on half the raisins.
 
-![pressing raisins on dough.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20683%201024'%3E%3C/svg%3E)
+
 
 1. Fold the sides of the rectangle up like a pamphlet. Then press in the remaining raisins.
 
-![rolling dough with raisins.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20683%201024'%3E%3C/svg%3E)
+
 
 1. Roll the dough up like a sleeping bag to encapsulate the raisins.
 
-![ball of dough.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20683%201024'%3E%3C/svg%3E)
+
 
 1. Shape it into a ball, then weight it on a scale. Divide this number by 8.
 
-![balls of dough.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20683%201024'%3E%3C/svg%3E)
+
 
 1. Cut the dough into 8 equal pieces and shape them into balls. Let them rest for 5 minutes
 2. Generously dust a sheet of parchment paper with flour and set aside.
 
-![hand pressing a hole in the center of a dough ball.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 1. Take a ball of dough and use both hands’ thumb and index finger to push a hole into the center.
 
-![fingers stretching dough.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 1. Roll the dough ball around your fingers in a circular motion to widen the hole.
 
@@ -112,11 +112,11 @@ This sourdough recipe can easily be made by hand or use a stand mixer with a dou
 1. Bring a large pot of water to a boil, preheat the oven to 425°F/220°C, and line a large baking sheet with parchment paper.
 2. Once the water is boiling, stir in brown sugar or honey.
 
-![poaching bagels.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 1. Dust any excess flour off the bagels and drop them in the boiling water one at a time. Boil 1-2 bagels at a time.
 
-![poached sourdough cinnamon bagel.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 1. Let them poach in the water for 1 minute in total, flipping them after 30 seconds.
 
@@ -127,7 +127,7 @@ This sourdough recipe can easily be made by hand or use a stand mixer with a dou
 1. Bake them in the oven for 22-25 minutes until a deep golden brown. If they are baking unevenly or your oven has hot spots, turn the oven tray around after 15 minutes of baking.
 2. Remove the baked bagels from the tray and let them cool to room temperature on a cooling rack for 30 minutes before slicing and serving.
 
-![sourdough cinnamon raisin bagel halved.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 ### Serving and storing
 
@@ -140,7 +140,7 @@ Store leftover bagels in an airtight container for up to 3 days at room temperat
 - [Homemade Sesame Bagels](https://homegrownhappiness.com/homemade-sesame-bagels/)
 - [Sourdough Pumpkin Bagels](https://homegrownhappiness.com/sourdough-pumpkin-bagels/)
 
-![bitten sourdough cinnamon raisin bagel.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%20250'%3E%3C/svg%3E)
+
 
 ### Sourdough Cinnamon Raisin Bagels
 

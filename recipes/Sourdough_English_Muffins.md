@@ -28,9 +28,9 @@ December 22, 2024 | By [Amy Duska](https://littlespoonfarm.com/amy-duska/) If yo
 - [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Flittlespoonfarm.com%2Fsourdough-english-muffins-recipe%2F&t=Sourdough%20English%20Muffins%20-%20Easy%20Overnight%20Recipe%21%20-%20Little%20Spoon%20Farm "Share on Facebook")
 -  
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='180'%20height='180'%20viewBox='0%200%20180%20180'%3E%3C/svg%3E)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='180'%20height='180'%20viewBox='0%200%20180%20180'%3E%3C/svg%3E)
+
+
 
 These easy sourdough English muffins cook up light and fluffy, with a delicious sourdough flavor!
 
@@ -50,7 +50,7 @@ We even serve them as a side at dinner instead of rolls.
 
 Cook a batch to eat right away or freeze it for later!
 
-![Sourdough english muffins toasted with melted butter on top.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1440'%20height='960'%20viewBox='0%200%201440%20960'%3E%3C/svg%3E)
+
 
 **Jump to:**
 
@@ -67,33 +67,33 @@ These sourdough English muffins are simple to make, so let's dive straight into 
 
 2. In a medium-sized bowl, **mix** all of the ingredients together with your hands until they are fully combined. **Cover** the bowl and let rest for 30-60 minutes.
 
-![A woman placing a cover on a bowl of dough.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1440'%20height='960'%20viewBox='0%200%201440%20960'%3E%3C/svg%3E)
+
 
 3. **Turn** the dough out onto a floured surface and **knead** for 5 minutes with your hands. (This step can also be done in a stand mixer, using a dough hook, on low speed for 5 minutes.)
 
-![A woman kneading sourdough english muffins dough.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1440'%20height='960'%20viewBox='0%200%201440%20960'%3E%3C/svg%3E)
+
 
 4. **Place** the dough back into the bowl, **cover,** and let **rise** at room temperature for 8-12 hours at 65-70 degrees. (It will double in size.)
 
-![A bowl of fermented dough on a kitchen counter.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1440'%20height='960'%20viewBox='0%200%201440%20960'%3E%3C/svg%3E)
+
 
 5. **Turn** the dough onto a floured surface, flour the top of it, and **press** it out to a Â½" thickness, using your fingertips.
 
 6. **Cut** out 3" rounds and **place** them on a parchment-lined baking sheet that's been sprinkled with cornmeal.
 
-![A woman cutting out sourdough english muffins with a biscuit cutter.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1440'%20height='960'%20viewBox='0%200%201440%20960'%3E%3C/svg%3E)
+
 
 7. **Sprinkle** the tops with cornmeal. **Cover** with a tea towel and let **rise** at room temperature for 1 hour.
 
-![A woman covering sourdough english muffins with a tea towel.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1440'%20height='960'%20viewBox='0%200%201440%20960'%3E%3C/svg%3E)
+
 
 8. **Preheat** a non-stick skillet over **LOW** heat. **Place** 4 muffins into the skillet, making sure there is 2" of space in between each one. Cover and cook for 4 minutes per side. (No need to add oil to the pan before cooking.)
 
-![Sourdough english muffins cooking in a skillet.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1440'%20height='960'%20viewBox='0%200%201440%20960'%3E%3C/svg%3E)
+
 
 9. **Place** the muffins back onto the parchment paper to cool before slicing them in half.
 
-![Sourdough english muffins resting on a baking sheet.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1440'%20height='960'%20viewBox='0%200%201440%20960'%3E%3C/svg%3E)
+
 
 ### Tips for success
 
@@ -118,7 +118,7 @@ If you live in a very warm or humid environment, you may need to adjust the reci
 
 Make sure you try these sourdough English muffins toasted with a slab of honey butter melted on top!
 
-![A plate of english muffins on a kitchen counter with butter next to a stove.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1440'%20height='960'%20viewBox='0%200%201440%20960'%3E%3C/svg%3E)
+
 
 **Other recipes you may like:**
 
@@ -132,7 +132,7 @@ Did you make this recipe? I'd love to know how it turned out!
 
 Leave us a message in the comment section below. And don't forget to rate the recipe!
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='200'%20height='200'%20viewBox='0%200%20200%20200'%3E%3C/svg%3E)
+
 
 ### Sourdough English Muffins Recipe
 

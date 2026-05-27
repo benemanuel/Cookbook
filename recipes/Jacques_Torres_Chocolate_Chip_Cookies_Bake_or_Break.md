@@ -28,11 +28,11 @@ May 23, 2019 *(updated* Aug 7, 2024*)* *by* [Jennifer McHenry](https://bakeorbre
 
 [Jump to Recipe](#recipe)
 
-![Jacques Torres Chocolate Chip Cookies bakeorbreak.com](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20900'%3E%3C/svg%3E)
+
 
 *Filled with big puddles of chocolate and chilled for optimal texture and flavor, Jacques Torres Chocolate Chip Cookies may very well be the ultimate chocolate chip cookie!*
 
-![stack of Jacques Torres Chocolate Chip Cookies](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20667%201000'%3E%3C/svg%3E "Jacques Torres Chocolate Chip Cookies may very well be the ultimate chocolate chip cookie recipe. A must-bake for cookie lovers!")
+
 
 I’m not a fan of fussy recipes. I like to keep things as simple as possible. That is one of the reasons it has taken me years to get around to baking Jacques Torres chocolate chip cookies.
 
@@ -42,7 +42,7 @@ The other reason I had never made these famous cookies is that Jacques Torres’
 
 One of the last times I devoured one of those cookies, I decided it was high time I tried baking them myself. I got out the two kinds of flour and even got the chocolate from Jacques Torres to try to replicate those big ol’ cookies. I followed the recipe very closely in an attempt to make a fair comparison to the original.
 
-![Jacques Torres Chocolate Chip Cookies on a wire cooling rack](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20667%201000'%3E%3C/svg%3E "Jacques Torres Chocolate Chip Cookies may very well be the ultimate chocolate chip cookie recipe. A must-bake for cookie lovers!")
+
 
 ## What Makes This Jacques Torres Chocolate Chip Cookie Recipe Work
 
@@ -54,7 +54,7 @@ Here’s why this iconic recipe is so beloved among chocolate chip cookie fans:
 - **The recipe uses two different flours**. Bread flour and cake flour are unusual choices for cookies, but there’s a method to this madness—bread flour has more gluten in it, giving the cookies a chewy texture, while cake flour contributes to the softness of these cookies.
 - **There’s more brown sugar than white sugar**. This adds a note of caramel flavor, which is delightful in a chocolate chip cookie.
 
-![Jacques Torres Chocolate Chip Cookies, homemade and from Jacques Torres shop](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20667%201000'%3E%3C/svg%3E "Jacques Torres Chocolate Chip Cookies may very well be the ultimate chocolate chip cookie recipe. A must-bake for cookie lovers!")
+
 
 ### How These Homemade Jacques Torres Chocolate Chip Cookies Compare to the Original
 
@@ -79,7 +79,7 @@ While there’s some fussiness in making them, it all comes down to the cookies.
 - **Bittersweet chocolate** – I’ve made these cookies with both the Jacques Torres chocolate discs as well as Guittard. Both work well. If you don’t have access to chocolate discs, I suggest roughly chopping chocolate bars instead of using chocolate chips. Look for about 60 percent cacao percentage.
 - **Sea salt** – This is sprinkled on top of the cookies before baking to give them a salty bite. If you don’t have sea salt, another coarse salt will work. If you’re not a sweet and salty fan, you can omit it.
 
-![Jacques Torres Chocolate Chip Cookies](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20667%201000'%3E%3C/svg%3E "Jacques Torres Chocolate Chip Cookies may very well be the ultimate chocolate chip cookie recipe. A must-bake for cookie lovers!")
+
 
 ### How to Make Jacques Torres Chocolate Chip Cookies
 
@@ -112,7 +112,7 @@ Read over my [baking tips for beginners](https://bakeorbreak.com/2022/08/baking-
 - **Make sure the cookies are uniform in size**. Portion the balls of dough by weight; you’ll get more evenly baked cookies if they’re all the same size. If you don’t have a kitchen scale, use a [#14](https://amzn.to/2VHxRyB) or #16 scoop (about 1/4 cup) to get in the ballpark and then adjust from there as needed.
 - **Invest in good chocolate**. There are several brands of chocolate discs in grocery stores, with [Guittard](https://amzn.to/2VYHmP4) probably being the most available. I have also used [Jacques Torres chocolate](https://amzn.to/2Hy4f2H) for the full experience, but any good brand will do. You won’t get the same result from standard chocolate chips, so try to get chocolate discs if you can. Otherwise, I’d go with roughly chopped chocolate over chocolate chips. (Learn more: [Types of Chocolate: A Home Baker’s Guide](https://bakeorbreak.com/2023/02/types-of-chocolate/))
 
-![Jacques Torres Chocolate Chip Cookies cooling on a wire rack](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20667%201000'%3E%3C/svg%3E "Jacques Torres Chocolate Chip Cookies may very well be the ultimate chocolate chip cookie recipe. A must-bake for cookie lovers!")
+
 
 ### How to Store
 
@@ -130,7 +130,7 @@ You can freeze baked cookies for up to 3 months. Wrap them individually or place
 - [Rye Chocolate Chip Cookies](https://bakeorbreak.com/2020/09/rye-chocolate-chip-cookies/)
 - [Thick Chocolate Chip Cookies](https://bakeorbreak.com/2024/08/thick-chocolate-chip-cookies/)
 
-![Jacques Torres Chocolate Chip Cookies on a wire cooling rack](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20310%20350'%3E%3C/svg%3E)
+
 
 
 

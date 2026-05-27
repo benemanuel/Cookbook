@@ -54,13 +54,13 @@ Called Pão de Queijo, these cheese puffs are so addictive, delicious, and once 
 
 I just love all kinds of cheesy bread, such as [cheese breadsticks](https://rasamalaysia.com/cheese-breadsticks/) and [gougeres cheese puffs](https://rasamalaysia.com/cheese-puffs-gougeres/). So I made these breads, and in no time, I gobbled them up!
 
-![Easy and quick Brazilian Pão de Queijo made with Parmesan cheese.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20900'%3E%3C/svg%3E)
+
 
 ---
 
 ### Homemade Brazilian Cheese Puffs Recipe
 
-![Super easy and authentic Brazilian cheese ball bread recipe.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20900'%3E%3C/svg%3E)
+
 
 While I would love to dine out often, but Brazilian restaurants are expensive!
 
@@ -84,7 +84,7 @@ Make a bunch of these, you will finish them all in no time!
 
 This recipe is only 88 calories per serving.
 
-![Brazilian Cheese Puffs (Pão de Queijo) with Parmesan cheese, ready to be served.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20900'%3E%3C/svg%3E)
+
 
 ---
 
@@ -92,27 +92,27 @@ This recipe is only 88 calories per serving.
 
 For a wholesome meal and easy weeknight dinner, I recommend the following recipes.
 
-[![hot cross buns](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20600'%3E%3C/svg%3E)](https://rasamalaysia.com/hot-cross-buns/)
+
 
 ### [Hot Cross Buns](https://rasamalaysia.com/hot-cross-buns/)
 
-[![asparagus recipes](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20600'%3E%3C/svg%3E)](https://rasamalaysia.com/asparagus-with-lemon-parmesan-breadcrumbs/)
+
 
 ### [Asparagus with Lemon Parmesan Breadcrumbs](https://rasamalaysia.com/asparagus-with-lemon-parmesan-breadcrumbs/)
 
-[![Banana Bread](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20600'%3E%3C/svg%3E)](https://rasamalaysia.com/recipe-banana-bread-banana-cake/)
+
 
 ### [Banana Bread](https://rasamalaysia.com/recipe-banana-bread-banana-cake/)
 
-[![Ham and cheese loaf recipe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20600'%3E%3C/svg%3E)](https://rasamalaysia.com/ham-and-cheese-loaf/)
+
 
 ### [Ham And Cheese Loaf](https://rasamalaysia.com/ham-and-cheese-loaf/)
 
 I hope you enjoy this post as much as I do. If you try my recipe, please leave a comment and consider giving it a 5-star rating. For more easy and delicious recipes, explore my [Recipe Index](https://rasamalaysia.com/recipes/), and stay updated by subscribing to my [newsletter](https://rasamalaysia.com/5-secrets-to-20-minutes-dinners/) and following me on [Facebook](https://www.facebook.com/asianrecipes/), [Pinterest](https://www.pinterest.com/rasamalaysia/), and [Instagram](https://instagram.com/rasamalaysia/) for new updates.
 
-![Freshly baked cod fillet with seasonings crust on a plate, garnished with lemon slices and herbs.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
 
-![Brazilian Cheese Puffs](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
+
+
 
 [Save](https://app.grow.me)[Saved](https://app.grow.me) [Pin](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Frasamalaysia.com%2Fbrazilian-cheese-puffs%2F&media=https%3A%2F%2Frasamalaysia.com%2Fwp-content%2Fuploads%2F2017%2F04%2Fbrazilian-cheese-puffs-thumb.jpg&description=Brazilian+Cheese+Puffs+Recipe&is_video=false) [Print](https://rasamalaysia.com/wprm_print/brazilian-cheese-puffs-recipe)
 

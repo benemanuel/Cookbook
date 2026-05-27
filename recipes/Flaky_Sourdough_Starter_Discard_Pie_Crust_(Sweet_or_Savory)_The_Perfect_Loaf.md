@@ -24,7 +24,7 @@ This sourdough discard pie crust offers a delightful twist on the traditional. T
 
 I’ve been making this pie crust for over 5 years in my kitchen (and it’s even in my [sourdough cookbook](https://www.theperfectloaf.com/cookbooks/)). Often, I’ll use this recipe to make two crusts, use one in a galette (they’re so easy!), and then freeze the second crust for later. This way, I always have one in the freezer ready to use on a day’s notice.
 
-[![Sourdough pie crust filled with peaches and blueberries.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201280'%3E%3C/svg%3E)](https://www.theperfectloaf.com/wp-content/uploads/2023/09/theperfectloaf_sourdough_pie_crust-5-1.jpg)
+
 
 *Crust filled with peaches and blueberries.*
 
@@ -42,7 +42,7 @@ I use sourdough starter discard in my pie crust for three reasons:
 2. It helps create a tender and flaky crust.
 3. It’s a great way to use [sourdough starter discard](https://www.theperfectloaf.com/collections/sourdough-starter-discard-recipes/) that might otherwise go to waste.
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201080%20721'%3E%3C/svg%3E)](https://www.theperfectloaf.com/wp-content/uploads/2018/02/theperfectloaf-how-to-store-sourdough-starter-fridge-revival.jpg)
+
 
 *Ripe sourdough starter ready for feeding.*
 
@@ -62,7 +62,7 @@ Read through my [guide to creating a sourdough starter discard cache](https://ww
 
 A pie crust can be intimidating, but it doesn’t have to be. Using my tips and tricks below, we’ll ensure you have a flaky, tender crust with minimal effort.
 
-[![Cutting cold butter into flour with a pastry blender.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201280'%3E%3C/svg%3E)](https://www.theperfectloaf.com/wp-content/uploads/2023/09/theperfectloaf_sourdough_pie_crust_pastry_blender.jpg)
+
 
 *Cutting cold butter into flour with a pastry blender.*
 
@@ -82,7 +82,7 @@ Water activates gluten formation, so only add as much water as needed for the do
 
 Make this pie crust dough at least two hours, preferably overnight, before rolling it out. Letting the dough rest allows the gluten to relax, making it easier to roll out and results in a flakier crust.
 
-[![Rolling sourdough pie crust out to 12 inches.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201280'%3E%3C/svg%3E)](https://www.theperfectloaf.com/wp-content/uploads/2023/09/theperfectloaf_sourdough_pie_crust-2.jpg)
+
 
 *Rolling sourdough pie crust evenly out to 12 inches.*
 
@@ -106,7 +106,7 @@ To store the pie crust for up to a week, wrap the mixed and formed dough tightly
 
 The dough can also be stored in the freezer for up to 6 months. After wrapping tightly in plastic wrap, place the dough in a freezer bag, press out any air, and freeze. Thaw overnight in the refrigerator and use as directed in the recipe.
 
-![Rolling out sourdough pie crust](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201365%202048'%3E%3C/svg%3E)
+
 
 *Rolling out pie crust to 12 inches in diameter.*
 
@@ -132,7 +132,7 @@ Remove one piece of dough from the refrigerator, unwrap it, and place it on a li
 
 Refrigerate the galette for 30 minutes before baking.
 
-[![Sourdough pie crust used for a galette](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201717%202048'%3E%3C/svg%3E)](https://www.theperfectloaf.com/wp-content/uploads/2023/09/theperfectloaf_sourdough_pie_crust-7.jpg)
+
 
 *My go-to: pie crust used for a galette.*
 
@@ -174,15 +174,15 @@ The recipe makes two sourdough pie crusts suitable for the bottom pie crust and 
 
 1. In a large bowl, whisk together the flour, sugar, and salt. Cut the butter into small cubes. Add the butter and lightly toss to coat with flour. Using a [pastry blender](https://amzn.to/3RqzT6A) or the back of a fork, cut the butter into the flour until the butter is the size of small peas. Add the sourdough starter and water. Stir with a spatula until well combined. The dough should just come together, but add more water, one tablespoon at a time, as needed.  
 
-![Cutting cold butter into flour with a pastry blender.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20320%20240'%3E%3C/svg%3E)
+
 
 *Cutting cold butter into flour with a pastry blender.*
 
 2. Scrape the dough onto a clean work surface and knead it until it comes together. Form the dough into a disc, then using a bench scraper, divide it directly in half. Form each half into a disc, tightly wrap each in plastic wrap, and refrigerate for 2 hours (or overnight).  
-![Sourdough pie crust disc](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20320%20240'%3E%3C/svg%3E)
+
 3. To use the crust, remove one disc from the fridge, unwrap it, and place it on a lightly floured work surface. Using a rolling pin, roll the dough out into a round about 12 inches in diameter. Fit to the bottom of a pie dish and repeat for the second disc for the top of the pie crust.  
 
-![Rolling sourdough pie crust out to 12 inches.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20320%20240'%3E%3C/svg%3E)
+
 
 *Rolling sourdough pie crust out to 12 inches.*
 
@@ -228,7 +228,7 @@ Or, spice up your next pie or galette by adding cocoa for a fruity-bitterness wi
 
 Have more sourdough starter lying around? Use it in one of my [sourdough starter discard recipes](https://www.theperfectloaf.com/collections/sourdough-starter-discard-recipes/).
 
-[![Picture of Maurizio Leo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)](https://www.theperfectloaf.com/author/maurizio/)
+
 
 [Maurizio Leo](https://www.theperfectloaf.com/author/maurizio/)
 
@@ -241,6 +241,6 @@ Maurizio Leo is the creator of the independent sourdough baking website The Perf
 - Get my bakers tools & discounts
 - Get the full recipe archive in editable spreadsheets
 
-[![The Baker's Corner Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2097'%3E%3C/svg%3E "The Baker’s Corner Logo")](https://www.theperfectloaf.com/membership/?utm_source=tpl-internal&utm_content=post-footer)
+
 
 [Yes, I'll Join!](https://www.theperfectloaf.com/membership/?utm_source=tpl-internal&utm_content=post-footer)

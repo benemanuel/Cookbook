@@ -26,7 +26,7 @@ Mango Pickle is a traditional Indian condiment made with raw unripe green mangoe
 - 
 
 - 
-![mango pickle recipe made with unripe raw green mangoes](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 ## About Mango Pickle
 
@@ -71,11 +71,11 @@ You may like these [**pickle recipes**](https://www.indianhealthyrecipes.com/rec
 
 2. Dry roast half teaspoon methi seeds on a low flame till they begin to smell good. Transfer these to a plate. To the same hot pan, add 3 tablespoons oil and allow it to warm up. Set aside to cool completely. You can skip warming the oil if you intend to finish it with in 10 to 12 days. If using cold pressed oil, skip heating the oil.
 
-![roasting methi](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20670%20447'%3E%3C/svg%3E)
+
 
 3. Powder 1 tablespoon mustard seeds and ½ teaspoon roasted methi seeds in a blender to a fine or coarse powder to suit your liking. A fine powder needs less oil for the pickle.
 
-![powder mustard methi for mango pickle recipe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20670%20447'%3E%3C/svg%3E)
+
 
 ### Cut the Mango
 
@@ -83,7 +83,7 @@ You may like these [**pickle recipes**](https://www.indianhealthyrecipes.com/rec
 
 5. Chop them to slightly large cubes of 1 by 1 inch. Smaller pieces tend to turn very soft and mushy when stored for longer. Also I used up the left over pulp on the mango. I finely chopped it as well. They turn soft and add volume to the pickle gravy.
 
-![washing mango for mango pickle recipe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20670%20447'%3E%3C/svg%3E)
+
 
 ### Optional – for extra shelf-life
 
@@ -95,29 +95,29 @@ Spread the spice powders in a plate. Then garlic & chopped mangoes in a separate
 
 6. To a large mixing bowl, add 1 ¼ cup mango cubes, 3 tablespoons red chili powder, mustard methi powder from the grinder, 1 ½ teaspoon salt and 4 lightly crushed garlic cloves.
 
-![addition of spice powders](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20670%20447'%3E%3C/svg%3E)
+
 
 7. Add oil we warmed up earlier. Ensure it is cool before adding to the mixture.
 
-![warming up oil for recipe of mango pickle recipe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20670%20447'%3E%3C/svg%3E)
+
 
 8. Mix everything well. The mixture looks dark and dry at this stage.
 
-![mixing up ingredients](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20670%20447'%3E%3C/svg%3E)
+
 
 9. Cover it and set aside in a dry place for 24 hours. Avoid keeping in the kitchen as it is usually a place filled with humidity due to cooking.
 
-![standing time for mango pickle recipe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20670%20447'%3E%3C/svg%3E)
+
 
 10. After 24 to 28 hours, mango releases moisture or juices. Mix well with a dry spoon. Some kind of mangoes just don’t release any juices so it may still be dry after a day. Taste test and add more salt if needed. You will get to see this yummy hot spicy mango pickle ready.
 
-![pickle is ready after 24 hours](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20670%20447'%3E%3C/svg%3E)
+
 
 It may taste slightly pungent and bitter for a week or so. But as the pickle ages it will be just fine.
 
 Store mango pickle in a glass or ceramic jar. Do not use plastic jars for storing pickles, the taste of the pickle changes and it is unhealthy to use plastic containers for storing pickles. Serve with rice, paratha, idli , dosa and curd rice.
 
-![mango pickle recipe made in instant method](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
+
 
 ### Pro Tips
 
@@ -131,31 +131,31 @@ Store mango pickle in a glass or ceramic jar. Do not use plastic jars for storin
 
 ### [Avakaya Recipe (A...](https://www.indianhealthyrecipes.com/avakaya/)
 
-[![avakai or avakaya pachadi](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)](https://www.indianhealthyrecipes.com/avakaya/)
+
 
 ### [Lemon Pickle Reci...](https://www.indianhealthyrecipes.com/lemon-pickle/)
 
-[![Lemon pickle recipe made with lemons and spices](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)](https://www.indianhealthyrecipes.com/lemon-pickle/)
+
 
 ### [Tomato Pickle Rec...](https://www.indianhealthyrecipes.com/andhra-tomato-pickle-nilava-tomato-pachadi/)
 
-[![tomato pickle](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)](https://www.indianhealthyrecipes.com/andhra-tomato-pickle-nilava-tomato-pachadi/)
+
 
 ### [Carrot Pickle Rec...](https://www.indianhealthyrecipes.com/carrot-pickle-recipe-gajar-ka-achar/)
 
-[![carrot pickle](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)](https://www.indianhealthyrecipes.com/carrot-pickle-recipe-gajar-ka-achar/)
+
 
 ### [Allam Pachadi (Gi...](https://www.indianhealthyrecipes.com/allam-pachadi/)
 
-[![allam pachadi](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)](https://www.indianhealthyrecipes.com/allam-pachadi/)
+
 
 ### [Amla Pickle (3 Wa...](https://www.indianhealthyrecipes.com/amla-pickle-recipe/)
 
-[![amla pickle](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)](https://www.indianhealthyrecipes.com/amla-pickle-recipe/)
+
 
 ### Recipe Card
 
-![mango pickle](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+
 
 ### Mango Pickle Recipe
 

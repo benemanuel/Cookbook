@@ -43,7 +43,7 @@ Add to plan
 
 [SVG Image Unlock this recipe](/premium "A Mob member exclusive")
 
-![New VL](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
 
 
 

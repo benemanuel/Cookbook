@@ -19,7 +19,7 @@ labels: [fish, dairy, bread, cake, candy]
 
 *My sourdough pizza crust features a crisp, golden base and an open, airy crumb made with active [sourdough starter](https://www.theclevercarrot.com/2019/03/beginner-sourdough-starter-recipe/). This easy pan-baked method includes par-baking tips, a 1-minute [“no-cook” pizza sauce](https://www.theclevercarrot.com/2022/11/quick-no-cook-pizza-sauce/), and a step-by-step video to guide you.*
 
-![Sourdough pizza with crispy crust, no-cook pizza sauce, mozzarella cheese and fresh basil leaves in a 9x13-inch pan.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%201200'%3E%3C/svg%3E)
+
 
 I used to think making sourdough pizza at home required a vault of professional tools – the steel, the stone, the peel! And while helpful for Neapolitan-style pizza, there’s a faster workaround if you’re starting from scratch.
 
@@ -37,15 +37,15 @@ I’ve also included **3 key points** to elevate your game:
 - A 1-minute [no-cook pizza sauce](https://www.theclevercarrot.com/2022/11/quick-no-cook-pizza-sauce/) that tastes like it simmered all day
 - A flexible [baking schedule](#schedule)to make sourdough pizza work on *your* time
 
-![Sourdough pizza, light, crisp and chewy interior crumb ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20848'%3E%3C/svg%3E)
 
-![Sourdough pizza, pan-baked, cooling on a wire rack](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%201200'%3E%3C/svg%3E)
+
+
 
 ### How To Make Sourdough Pizza, Step-by-Step Recipe
 
 Below you’ll find clear step-by-step instructions. For a printable version with measurements, scroll to the end of this post.
 
-![Sourdough pizza dough in a large mixing bowl](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20942'%3E%3C/svg%3E)
+
 
 *Sourdough pizza dough*
 
@@ -55,7 +55,7 @@ To start, combine the [sourdough starter](https://www.theclevercarrot.com/2019/0
 
 Then fold the dough over itself several times, similar to the [stretch and fold method,](https://www.theclevercarrot.com/2020/05/how-to-stretch-and-fold-sourdough/) to create a rough ball. The dough is now ready to rise!
 
-![Sourdough pizza dough rising in a high-sided oiled dough tub](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20889'%3E%3C/svg%3E)
+
 
 *Fully risen sourdough pizza dough*
 
@@ -67,17 +67,17 @@ Transfer the dough to a lightly oiled high-sided [2 qt. dough tub.](https://www.
 
 ***Get ahead tip:*** *During the bulk rise, use this time to make the pizza sauce, grate the cheese and gather any additional toppings you will need.*
 
-![Sourdough pizza dough in a non-stick baking pan](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20600'%3E%3C/svg%3E)
+
 
 *Dough in pan*
-![Sourdough pizza dough in a non-stick baking pan](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20600'%3E%3C/svg%3E)
+
 
 *Slightly stretched dough*
 
-![Sourdough pizza dough in a non-stick baking pan](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20600'%3E%3C/svg%3E)
+
 
 *Dimpled dough*
-![Dimpled sourdough pizza dough in a non-stick baking pan](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20600'%3E%3C/svg%3E)
+
 
 *Ready to bake*
 
@@ -95,10 +95,10 @@ I use this[non-stick baking pan](https://www.amazon.com/LloydPans-Kitchenware-De
 
 ***What about glass or ceramic pans?** Any pan will work. But glass and ceramic pans conduct heat differently, which means the pizza crust won’t brown the same. Experiment as you see fit, moving the pan closer to the heat source if necessary during baking.*
 
-![Par-baked sourdough pizza crust (top)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20600'%3E%3C/svg%3E)
+
 
 *Par-baked pizza crust (top)*
-![Par-baked sourdough pizza crust (bottom)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20600'%3E%3C/svg%3E)
+
 
 *Par-baked pizza crust (bottom)*
 
@@ -108,17 +108,17 @@ Bake on the bottom rack @ 450 F for 15-18 minutes, or until the surface is set a
 
 ***Understanding the Par-Bake:*** *Par-baked pizza crust is essential to pan pizza. First, it supports the weight of heavy toppings like sausage, mushrooms, olives, caramelized onions etc. Second, because the dough is baked prior to adding the sauce and cheese, it ensures the dough is **fully cooked** before the cheese melts (a common problem, fyi). Finally, par-baked pizza crust allows you to make pizza in advance- this is key for timing. Store wrapped par-baked pizza crust at room temperature for up to 6 hours. Or keep in the freezer for up to 3 months.*
 
-![Par-baked sourdough pizza crust](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20600'%3E%3C/svg%3E)
+
 
 *Finished par-baked crust*
-![Par-baked sourdough pizza crust with no-cook pizza sauce and fresh basil](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20600'%3E%3C/svg%3E)
+
 
 *Par-baked crust with sauce*
 
-![Quick no-cook pizza sauce in a bowl](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20600'%3E%3C/svg%3E)
+
 
 *[No-cook pizza sauce](https://www.theclevercarrot.com/2022/11/quick-no-cook-pizza-sauce/)*
-![Assembled sourdough pizza in a 9x13-inch baking pan](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20600'%3E%3C/svg%3E)
+
 
 *Pizza crust with toppings*
 
@@ -126,10 +126,9 @@ Bake on the bottom rack @ 450 F for 15-18 minutes, or until the surface is set a
 
 Top the par-baked pizza crust with tomato sauce. I spread it all over the surface including the crust. Season with salt and pepper. Add the basil leaves, a fresh grating of Parmesan cheese and drizzle with olive oil. Sprinkle with mozzarella cheese taking it to the corners and sides for crispy edges. Bake @ 450 F, middle or top rack this time, until the cheese is melted and broiled in some spots, about 12-15 minutes. You can even stick it under the broiler to really crisp it up.
 
-![Sourdough pizza slice, with tomato sauce, mozzarella cheese and crispy, cheesy edges](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20826'%3E%3C/svg%3E)
 
-![Sourdough pizza slices with tomato sauce, mozzarella cheese and fresh basil
-](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%201154'%3E%3C/svg%3E)
+
+
 
 ### Sample Sourdough Pizza Baking Schedule
 

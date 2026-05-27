@@ -54,7 +54,7 @@ The lovely girl who owns the bakery greeted me a gorgeous ombre rose cake and an
 
 But then I immediately added giant, homemade oatmeal cream pies to my must-bake recipe list.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 ## Why you’ll love homemade oatmeal cream pies
 
@@ -76,7 +76,7 @@ You’ll be a potluck hero, for sure!
 
 “This worked exactly as written, thanks! I’m at high altitude as well and while this can make them slightly flatter they still taste great. I’ve made them four times now and they freeze really well.” -Sarah
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 ### How to make homemade oatmeal cream pies
 
@@ -105,7 +105,7 @@ For the cookies, you will need:
 - ½ teaspoon salt
 - 3 cups quick or old fashioned oats
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 Before you start baking, make sure you know [how to measure flour](https://www.mybakingaddiction.com/how-to-measure-flour/) correctly so your oatmeal cream pies come out perfect every time.
 
@@ -124,7 +124,7 @@ That recognizable ingredients list applies to the oatmeal cream pie filling, too
 
 Make sure your butter is soft before you start mixing the buttercream. If you forget to set yours out ahead of time, learn [how to soften butter](https://www.mybakingaddiction.com/how-to-soften-butter/) quickly.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 ### Making this recipe
 
@@ -136,8 +136,8 @@ Add the eggs and vanilla and mix until combined.
 
 In a separate bowl, whisk together the flour, baking soda, cinnamon, and salt. Slowly add this mixture to the wet ingredients and mix until just combined.
 
-![Wet ingredients for oatmeal cookies mixed in a white bowl.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
-![Dry ingredients for oatmeal cookies whisked in a white bowl.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
+
 
 Stir in the oats until thoroughly incorporated.
 
@@ -145,12 +145,12 @@ For large cookies, use a 3-tablespoon (large) cookie scoop to drop the dough ont
 
 For smaller cookies, use a 1.5-tablespoon (medium) cookie scoop and bake the cookies for 10-12 minutes.
 
-![Cookie dough for oatmeal cookies in a white bowl.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
-![Scoops of oatmeal cookie dough on a parchment-lined sheet, ready to go in the oven.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
+
 
 Let the cookies cool in the baking sheet for about 5 minutes before moving them to a wire rack to finish cooling.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 Now make the cream filling:
 
@@ -162,12 +162,12 @@ Reduce the mixer speed and slowly add the powdered sugar, followed by the vanill
 
 Turn the speed back up to medium-high and continue beating the frosting for another 3-5 minutes. If needed, add a bit more milk or half-and-half a splash at a time until you reach your desired consistency.
 
-![Butter beaten in a white bowl with an electric mixer.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
-![Cream filling for oatmeal cream pies in a white bowl.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
+
 
 Spread or pipe the filling on the flat side of half of the cookies and top with the remaining cookies to make the oatmeal cream pies.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 ### Assembly tips
 
@@ -179,7 +179,7 @@ I like to use a piping bag to add the filling to the cookies, but you could also
 
 Make sure you only pipe or spread the filling in the center of the bottom cookie, leaving ¼ to ½ an inch around the edge of the cookie. When you add the top cookie, you’ll press down slightly and the filling will come right to the edge of the oatmeal cream pie without coming out the sides!
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 ### Oatmeal cream pie storage and freezing
 
@@ -193,7 +193,7 @@ You could also freeze the them for up to a month. Wrap each cream pie in plastic
 
 Let the oatmeal cream pies thaw in the fridge overnight or at room temperature for a couple of hours.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20800'%3E%3C/svg%3E)
+
 
 ### Frequently asked questions
 
@@ -223,7 +223,7 @@ Total: 35 minutes mins
 
 Servings: 9 large sandwich cookies
 
-![Stacked homemade oatmeal cream pies on a white plate.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
+
 
 [Save](#)[Saved](#) [Pin](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fwww.mybakingaddiction.com%2Fhomemade-oatmeal-cream-pies%2F&media=https%3A%2F%2Fwww.mybakingaddiction.com%2Fwp-content%2Fuploads%2F2019%2F01%2F1.jpg&description=Soft+and+chewy+oatmeal+cookies+are+sandwiched+together+with+delicious+vanilla+buttercream+to+create+the+perfect+dessert.+Forget+Little+Debbie%3B+fresh%2C+homemade+oatmeal+cream+pies+are+where+it%E2%80%99s+at.&is_video=false) [Print](https://www.mybakingaddiction.com/wprm_print/homemade-oatmeal-cream-pies)
 
@@ -343,18 +343,18 @@ Nutrition information is automatically calculated, so should only be used as an 
 
  Like this recipe? Leave a comment below!
 
-[![Frosted carrot cake cookies set on a decorative wire rack.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20600'%3E%3C/svg%3E)](https://www.mybakingaddiction.com/carrot-cake-cookies/)
+
 
 ### [Carrot Cake Cookies](https://www.mybakingaddiction.com/carrot-cake-cookies/)
 
-[![Plate of peanut butter and jelly cookies and a glass of milk.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20600'%3E%3C/svg%3E)](https://www.mybakingaddiction.com/peanut-butter-and-jelly-cookies/)
+
 
 ### [Peanut Butter and Jelly Cookies](https://www.mybakingaddiction.com/peanut-butter-and-jelly-cookies/)
 
-[![Four apple spice cookies stacked on a countertop.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20600'%3E%3C/svg%3E)](https://www.mybakingaddiction.com/gluten-free-apple-spice-cookies/)
+
 
 ### [Apple Spice Cookies](https://www.mybakingaddiction.com/gluten-free-apple-spice-cookies/)
 
-[![White plate filled with several potato chip cookies.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20600'%3E%3C/svg%3E)](https://www.mybakingaddiction.com/potato-chip-cookies-recipe/)
+
 
 ### [Potato Chip Cookies](https://www.mybakingaddiction.com/potato-chip-cookies-recipe/)

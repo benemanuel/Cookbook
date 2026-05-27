@@ -26,7 +26,7 @@ Masala Chai also known as Masala Tea is India’s most popular drink and is love
 - 
 
 - 
-![Indian Masala Chai also known as Chai Tea served in a white cup](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 A lot of Indians love to sip their Masala Chai all-round the year along with their breakfast and evening snack. Some limit it to monsoons & cold winters because it keeps the body warm and helps break up the blocked sinus. Many different kinds of tea are made across the world and each one has its own properties so they have different health benefits.
 
@@ -81,7 +81,7 @@ Traditionally masala chai is made with loose tea leaves but now most people use 
 
 CTC tea is produced by processing tea leaves through cylindrical rollers to Crush, Tear and Curl them, the resulting processed tea is in a granular or pellet form. This CTC tea imparts bolder and robost flavors to your masala chai along with a deep brown color.
 
-![black tea to make masala chai](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 Tea dust is another kind of processed tea which is finer and is almost in powder form. Apart from these you can also make masala tea with black tea bags which contains the same tea dust.
 
@@ -103,7 +103,7 @@ If you don’t live in India, then use any strong black tea you like.
 
 **Spices** – The basic and most common spices used in masala tea are green cardamoms, cloves and cinnamon. The other optional spices are black pepper, ginger, fennel seeds, nutmeg and star anise. Each spice has its own health benefits. To know more scroll down to read my pro tips section.
 
-![Masala chai spices](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)
+
 
 **Milk** – The quantity of milk to add depends on your personal taste and the kind of milk used. Too much milk in your tea can completely alter the taste of your tea and can cause acidity.
 
@@ -111,7 +111,7 @@ Masala chai with too little milk will also not taste good and will be watery. An
 
 I have provided more details in the notes section of the recipe card.
 
-![milk, water, sugar to make masala chai](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)
+
 
 **Sweetener** – Traditionally unrefined sweetener known as jaggery is used. It is a personal choice and we love ours with cane sugar. You can also have it with any other sweetener of your choice. If using jaggery, coconut sugar or palm jaggery add them once you turn off the heat.
 
@@ -130,11 +130,11 @@ I have provided more details in the notes section of the recipe card.
 - 4 green cardamoms
 - 2 pepper corn (optional, or a pinch of ground pepper)
 
-![add spices to grinder](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)
+
 
 2. Crush them fine (or slightly coarse is okay) to bring out the flavors.
 
-![make a fine powder](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)
+
 
 ### Make Masala Tea
 
@@ -144,21 +144,21 @@ I have provided more details in the notes section of the recipe card.
 - ½ teaspoon ginger (optional, ½ inch peeled & chopped or grated)
 - 2½ to 3 teaspoons CTC loose leaf black Tea or 1¼ to 1½ teaspoon powder (dust), depending on the brand. You can use more or less depending on the kind of tea you are using. Or You can also use 3 to 4 tea bags. (Start with lower tea and if required add more after adding milk)
 
-![make tea decoction](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)
+
 
 4. Bring this to a rolling boil on a medium high flame & turn down to medium or low. Let the decoction boil for 2 to 3 mins.
 
-![simmering masala chai decoction](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)
+
 
 5. Add sugar at this stage. I use 3 to 4 teaspoons. You can use as little or as much as you prefer. Pour 1 cup full fat milk to the simmering black tea. Adjust the quantity of milk as needed. Adding milk before boiling the ginger well will more likely curdle the milk. So ensure you add the milk only after boiling the ginger well with black tea.
 
 If using tea bags, remove them from the pot and keep aside. Boiling the tea bags too long will leave a bitter taste. If your tea isn’t strong enough, you may add more tea bags.
 
-![pouring milk](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)
+
 
 6. Bring the tea to a rolling boil and simmer on a medium heat until the tea turns dark, for 2 mins. Simmering helps the tea to thicken. I usually simmer until it reduces to 1¾ cups. Fresh holy basil (tulsi) or mint leaves can also be used for variations. You can taste test and add more milk if you prefer. But simmer again for a little longer so the tea doesn’t have the milk flavor.
 
-![simmering masala chai](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)
+
 
 ### Aerate Masala Chai (optional)
 
@@ -166,29 +166,29 @@ If using tea bags, remove them from the pot and keep aside. Boiling the tea bags
 
 If you do not have a soup ladle, simply pour some of the hot tea to a measuring cup (that has a handle) and pour that back to the chai pot in a slow stream, from a height of about 1 to 1½ feet. This should break down the layer of milk cream and create some froth. Repeat this steps of pulling tea from the pot to the measuring cup a few times (4 to 5 times) until all of the cream is broken down and incorporated back into the masala chai.
 
-![pull or aerate the masala chai](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)
+
 
 8. Lastly Strain/ filter masala chai tea to serving cups.
 
-![strain the tea](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)
+
 
 Serve Masala Chai hot or warm with biscuits.
 
-![masala chai recipe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
+
 
 ### Method 2 – Make Chai Masala Powder
 
 1. This is the second method. If you drink masala tea regularly, you can make the masala chai powder in little larger quantity and store it in a glass jar. For quantities refer the recipe card below.
 
-![spices used to make chai powder](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)
+
 
 2. This will give you about 3 tsps powder.
 
-![fresh ground masala chai powder ready to store in jar](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)
+
 
 3. **To make masala tea**, fresh ginger, tea powder or tea leaves, and ground spices are simmered in water to infuse the flavors. You can use the same quantities of water and milk mentioned in the recipe card.
 
-![chopped ginger with tea powder &amp; masala to make chai](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)
+
 
 Serve masala chai hot or warm.
 
@@ -223,33 +223,33 @@ Most masala tea recipes use fresh ginger. If you use fresh ginger, always boil i
 
 ### [Ginger Milk Tea (...](https://www.indianhealthyrecipes.com/ginger-milk-tea/)
 
-[![ginger milk tea aka adrak chai](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)](https://www.indianhealthyrecipes.com/ginger-milk-tea/)
+
 
 ### [Chai (Tea) Spice ...](https://www.indianhealthyrecipes.com/chai-spice/)
 
-[![chai spice](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)](https://www.indianhealthyrecipes.com/chai-spice/)
+
 
 ### [Irani Chai Recipe...](https://www.indianhealthyrecipes.com/irani-chai/)
 
-[![irani chai](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)](https://www.indianhealthyrecipes.com/irani-chai/)
+
 
 ### [Chai Latte Recipe](https://www.indianhealthyrecipes.com/chai-latte/)
 
-[![chai latte](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)](https://www.indianhealthyrecipes.com/chai-latte/)
+
 
 ### [Ginger Tea Recipe](https://www.indianhealthyrecipes.com/ginger-tea/)
 
-[![ginger tea](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)](https://www.indianhealthyrecipes.com/ginger-tea/)
+
 
 ### [Turmeric Milk Rec...](https://www.indianhealthyrecipes.com/turmeric-milk-recipe/)
 
-[![turmeric milk](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20375'%3E%3C/svg%3E)](https://www.indianhealthyrecipes.com/turmeric-milk-recipe/)
+
 
 ### Recipe Card
 
 **Masala Chai Recipe first published in September 2014. Updated & Republished in May 2023.**
 
-![masala chai tea recipe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+
 
 ### Masala Chai Recipe (Indian Masala Tea)
 

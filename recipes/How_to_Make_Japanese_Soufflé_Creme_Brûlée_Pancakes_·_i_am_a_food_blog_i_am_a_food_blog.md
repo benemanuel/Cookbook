@@ -49,7 +49,7 @@ Do you want to eat fluffy Japanese soufflé creme brûlée pancakes but don’t 
 
 Posted June 9, 2019 by Stephanie
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202880%201922'%3E%3C/svg%3E)
+
 
 It’s no secret that I LOVE Japanese soufflé pancakes. I dream about them. I doodle them. I make them. I eat them. I look at pictures of them. I like to think that I’m one the founding members of the I heart Japanese Fluffy Pancakes Club. That’s a non-existent club, by the way. But it shouldn’t be – should I start one? Anyway, I constantly look at fluffy pancakes. I follow the hashtag on Instagram. I’m always on the look out for new flavors, new cafes, and new ideas.
 
@@ -61,19 +61,19 @@ I nailed it! I stacked up two fluffy pancakes, topped them off with creme anglai
 
 Hope you get to give this a try and don’t forget to check out the [basic soufflé pancake post](https://iamafoodblog.com/fluffy-japanese-pancakes-souffle-pancake-recipe/) and the [mini soufflé pancake post](https://iamafoodblog.com/mile-high-mini-japanese-souffle-pancakes-recipe/) for more pancake love and tips!
 
-![Do you want to eat fluffy Japanese soufflé creme brûlée pancakes but don’t want to fly to Hong Kong or wait in a line for hours? This recipe is for you! Make the fluffy pancakes of your dreams, tall and fluffy with a creme brûlée crackling sugar crust. #pancakes #japanesepancakes #soufflepancakes #recipes #brunch](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201450%201813'%3E%3C/svg%3E)
 
-![Do you want to eat fluffy Japanese soufflé creme brûlée pancakes but don’t want to fly to Hong Kong or wait in a line for hours? This recipe is for you! Make the fluffy pancakes of your dreams, tall and fluffy with a creme brûlée crackling sugar crust. #pancakes #japanesepancakes #soufflepancakes #recipes #brunch](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201450%201813'%3E%3C/svg%3E)
 
-![Do you want to eat fluffy Japanese soufflé creme brûlée pancakes but don’t want to fly to Hong Kong or wait in a line for hours? This recipe is for you! Make the fluffy pancakes of your dreams, tall and fluffy with a creme brûlée crackling sugar crust. #pancakes #japanesepancakes #soufflepancakes #recipes #brunch](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201450%201813'%3E%3C/svg%3E)
 
-![Do you want to eat fluffy Japanese soufflé creme brûlée pancakes but don’t want to fly to Hong Kong or wait in a line for hours? This recipe is for you! Make the fluffy pancakes of your dreams, tall and fluffy with a creme brûlée crackling sugar crust. #pancakes #japanesepancakes #soufflepancakes #recipes #brunch](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201450%201813'%3E%3C/svg%3E)
 
-![Do you want to eat fluffy Japanese soufflé creme brûlée pancakes but don’t want to fly to Hong Kong or wait in a line for hours? This recipe is for you! Make the fluffy pancakes of your dreams, tall and fluffy with a creme brûlée crackling sugar crust. #pancakes #japanesepancakes #soufflepancakes #recipes #brunch](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201450%201813'%3E%3C/svg%3E)
 
-![Do you want to eat fluffy Japanese soufflé creme brûlée pancakes but don’t want to fly to Hong Kong or wait in a line for hours? This recipe is for you! Make the fluffy pancakes of your dreams, tall and fluffy with a creme brûlée crackling sugar crust. #pancakes #japanesepancakes #soufflepancakes #recipes #brunch](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201450%201812'%3E%3C/svg%3E)
 
-![Do you want to eat fluffy Japanese soufflé creme brûlée pancakes but don’t want to fly to Hong Kong or wait in a line for hours? This recipe is for you! Make the fluffy pancakes of your dreams, tall and fluffy with a creme brûlée crackling sugar crust. #pancakes #japanesepancakes #soufflepancakes #recipes #brunch](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201450%201813'%3E%3C/svg%3E)
+
+
+
+
+
+
+
 > **How to Make Japanese Soufflé Creme Brûlée Pancakes**  makes 3 pancakes
 > prep time: 20 minutes
 > cook time: 30 minutes
@@ -118,7 +118,7 @@ Hope you get to give this a try and don’t forget to check out the [basic souff
 >
 > Once the pancakes are golden and cooked through, gently remove and pile onto a plate. Spoon the creme sauce on top and sprinkle generously with sugar. Use a cooking torch to brûlée and enjoy immediately.
 
-[](javascript:void(0)) [](/cdn-cgi/l/email-protection#46793533242c2325327b0e2931663229660b272d23660c273627282335236615293320202a85ef660534232b2366043485fd2a85ef236616272825272d2335602429223f7b052e23252d6629333266322e2335236627312335292b23660e2931663229660b272d23660c273627282335236615293320202a85ef660534232b2366043485fd2a85ef236616272825272d2335662034292b660f66272b6627660029292266042a29217c662e323236357c69692f272b2720292922242a29216825292b692e29316b32296b2b272d236b2c273627282335236b35293320202a236b2534232b236b2434332a23236b36272825272d233569) [](http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fiamafoodblog.com%2Ffeed%2F) [](javascript:void(0)) [](https://iamafoodblog.com/feed/)
+[](javascript:void(0)) [](/cdn-cgi/l/email-protection#) [](http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Fiamafoodblog.com%2Ffeed%2F) [](javascript:void(0)) [](https://iamafoodblog.com/feed/)
 
 ### 14 Comments
 
@@ -230,7 +230,7 @@ the ingredient amounts are the ones at the very top of the ingredient list in th
 
 ### Leave a Reply [Cancel reply](/how-to-make-japanese-souffle-creme-brulee-pancakes/#respond)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+
 
 [crème brûlée](https://iamafoodblog.com/tag/creme-brulee/)[how-to](https://iamafoodblog.com/tag/how-to/)[japan](https://iamafoodblog.com/tag/japan/)[pancakes](https://iamafoodblog.com/tag/pancakes/)[quarantine cooking](https://iamafoodblog.com/tag/quarantine-cooking/)[soufflé pancakes](https://iamafoodblog.com/tag/souffle-pancakes/)[tokyo](https://iamafoodblog.com/tag/tokyo/)
 

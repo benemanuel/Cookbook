@@ -315,4 +315,4 @@ Be sure to share with me on Instagram, Pinterest, or Youtube!
 
 - [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.bakedbyanintrovert.com%2Fpecan-pie-cheesecake%2F&t=Pecan%20Pie%20Cheesecake%20Recipe%20-%20Baked%20By%20An%20Introvert "Share on Facebook")
 - [](https://x.com/intent/tweet?text=Pecan%20Pie%20Cheesecake%20Recipe%20-%20Baked%20By%20An%20Introvert&url=https%3A%2F%2Fwww.bakedbyanintrovert.com%2Fpecan-pie-cheesecake%2F&via=introvertbaker "Share on X")
-- [](/cdn-cgi/l/email-protection#605f1315020a0503145d300503010e45525030090545525023080505130503010b054552503205030910054552504d45525022010b05044552502219455250210e455250290e14120f1605121446435053585b020f04195d08141410134553214552264552261717174e02010b05040219010e090e14120f160512144e030f0d455226100503010e4d1009054d03080505130503010b05455226 "Send over email")
+- [](/cdn-cgi/l/email-protection# "Send over email")

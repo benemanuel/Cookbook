@@ -40,7 +40,7 @@ July 14, 2017
 
 As simple as it is to make, many people still have trouble with this delicate sponge cake recipe. With only 3 ingredients, this Biskvit as the Slavic people call it, you really need to know some tricks to have successful results. Fortunately, I am here to share those to help you get the 3 ingredient Sponge Cake or Biskvit **perfect every time**.
 
-![Soft yellow sponge cake on a cooling rack next to a whisk.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20900'%3E%3C/svg%3E "A simple 3 ingredient yellow sponge cake made from scratch. ")
+
 
 ## **Troubleshooting**
 
@@ -63,7 +63,7 @@ Sponge cake (Biskvit) is very delicate. Opening the oven too early into the baki
 
 *Test the cake for doneness before removing from the oven. Do not check for doneness before 25 minutes into the baking.*
 
-![Sliced yellow sponge cake on parchment paper with a knife.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20900'%3E%3C/svg%3E "Recipe for soft and moist yellow sponge cake, a classic cake base for many cake recipes! ")
+
 
 ### **Why is my 3 Ingredient Sponge Cake’s texture dense instead of soft and tender?**
 
@@ -98,7 +98,7 @@ Properly measure your ingredients by using a spoon to fill the measuring cup, th
 
 **EXPLANATION:** this extra time will allow enough moisture to escape from the cake to still keep the cake soft and moist, but stable enough to be cut into without excessive crumbling.
 
-![Simple yellow sponge cake, biskvit on a baking sheet cut in half. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%201350'%3E%3C/svg%3E "This simple sponge cake, biskvit, is an easy full proof recipe for a basic yellow sponge cake recipe with just three simple cake ingredients. ")
+
 
 ### **3 Ingredient Sponge Cake – Biskvit**
 
@@ -114,25 +114,25 @@ Properly measure your ingredients by using a spoon to fill the measuring cup, th
 
 To a large mixing bowl, add 4 eggs and whip with a mixer on high speed for about a minute or two or until slightly foamy. Then while continuing to whip add 3/4 cups sugar slowly pouring it in. Continue whipping for 15-20 minutes.
 
-![How to make homemade yellow sponge cake with eggs, sugar and flour. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%201190'%3E%3C/svg%3E "Soft and fluffy sponge cake recipe made from scratch with just egg, sugar and flour. ")
+
 
 You really need to whip it that long, otherwise your cake will not have enough air beaten in, and therefore it will not rise in the oven. When you raise the whisk the batter ribbon should not disappear for about 2-3 seconds. If it falls and disappears right away, just continue whipping.
 
-![Sponge cake batter in a bowl with a whisk. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%201350'%3E%3C/svg%3E "Recipe for the classic yellow sponge cake made simple and quick. ")
+
 
 When the proper stage of whipping has been achieved, in 2 or 3 additions sift in the flour and carefully fold it in with a wooden spoon or a spatula. To properly fold, with a spatula or a spoon you want to go underneath and then over the top, like pictured below. Fold just until incorporated, otherwise over folded batter produces tough cake.  
-![How to sift in the flour for the sponge cake batter. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%201100'%3E%3C/svg%3E "Easy, foolproof recipe for a basic yellow sponge cake recipe. ")
+
 
 ### **How to Bake the 3 Ingredient Sponge Cake – Biskvit**
 
 For easier cleanup line a 8 inch round cake pan with foil and spray the bottom, not the sides, with cooking spray.  
 Pour the batter into the baking pan, then grab both sides of the pan and swirl the pan in circular motion back and forth several times. Wrap the baking pan with wet [baking strips](http://amzn.to/2t9b4SV) if you have them and place in preheated to 350F oven for about 30-35 minutes.  
-![How to line the baking sheet with foil and pouring in the sponge cake batter for baking. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20400'%3E%3C/svg%3E "Fluffy and moist basic sponge cake recipe made from scratch with just 3 basic ingredients. ")
+
 
 Check the cake with a toothpick or a skewer by inserting it in the middle. The toothpick should come out clean with no crumbs. Do not check sooner than 25 minutes, or the cake will deflate.  
 Remove from the oven and allow to cool inside the pan for about 30 minutes. Unpeel the foil and cool completely on a cooling rack.
 
-![Baked yellow sponge cake one a cooling rack, and how to slice the sponge cake in half. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%201000'%3E%3C/svg%3E "A basic yellow sponge cake recipe that is level, moist, and fluffy, that turns out perfect every time! ")  
+  
 For best texture, leave the cooled cake covered in plastic wrap on the table for around 8 hours. You can use the cake even if you don’t let it mature for 8 hours, but the cake will be a lot crumblier if you do not.
 
 ### If you’re looking for ways to use this sponge cake recipe, check out these **[cakes](https://letthebakingbegin.com/category/dessert/cake/)**:
@@ -151,7 +151,7 @@ Also, check out this other version of **[Simple Yellow Sponge Cake](https://lett
 
 ### 3 Ingredient Sponge Cake - Biskvit
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20450'%3E%3C/svg%3E)
+
 
 
 

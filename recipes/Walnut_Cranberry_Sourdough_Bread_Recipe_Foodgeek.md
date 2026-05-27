@@ -116,7 +116,7 @@ If you make it and post it on Instagram, please tag me as [@foodgeek.dk](https:/
 - [ Share on Twitter](javascript:void(0) "Share on Twitter")
 - [ Share on Facebook](javascript:void(0) "Share on Facebook")
 - [ Share on Pinterest](javascript:void(0) "Share on Pinterest")
-- [ Share via Email](/cdn-cgi/l/email-protection#b887cbcddad2dddbcc85efd9d4d6cdcc9d8a88fbcad9d6daddcacac19d8a88ebd7cdcadcd7cddfd09d8a88facaddd9dc9d8a88eadddbd1c8dd9d8a88c49d8a88ebcdc8ddca9d8a88fdd9cbc19d8a88d9d6dc9d8a88fcddd4d1dbd1d7cdcb9e9b888b8083dad7dcc185efd9d4d6cdcc9d8a88fbcad9d6daddcacac19d8a88ebd7cdcadcd7cddfd09d8a88facaddd9dc9d8a88eadddbd1c8dd9d8a88c49d8a88ebcdc8ddca9d8a88fdd9cbc19d8a88d9d6dc9d8a88fcddd4d1dbd1d7cdcb9ed5dcd9cbd083d0ccccc8cb829797ded7d7dcdfddddd396d1d797ddd697cfd9d4d6cdcc95dbcad9d6daddcacac195cbd7cdcadcd7cddfd095dacaddd9dc95cadddbd1c8dd95cbcdc8ddca95ddd9cbc195d9d6dc95dcddd4d1dbd1d7cdcb97 "Share via Email")
+- [ Share via Email](/cdn-cgi/l/email-protection# "Share via Email")
 
 Cook Mode
 
@@ -148,7 +148,7 @@ Keyword: bourbon, cranberry, sourdough bread, walnut
 
 Walnut Cranberry Bread is a classic American quick bread. This is a sourdough version, with cranberries soaked in bourbon and toasted walnuts. It's super delicious.
 
-[](https://foodgeek.io/en/wprm_print/walnut-cranberry-sourdough-bread) [](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Ffoodgeek.io%2Fen%2Fwalnut-cranberry-sourdough-bread-recipe-super-easy-and-delicious%2F&media=https%3A%2F%2Ffoodgeek.io%2Fwp-content%2Fuploads%2F2021%2F08%2FRecipe.avif&description=Walnut+Cranberry+Sourdough+Bread&is_video=false) [](https://www.facebook.com/share.php?u=https%3A%2F%2Ffoodgeek.io%2Fen%2Fwalnut-cranberry-sourdough-bread-recipe-super-easy-and-delicious%2F) [](/cdn-cgi/l/email-protection#1d226e687f77787e69205e75787e76382f2d726869382f2d6975746e382f2d6f787e746d78382f2c3b7c706d267f7279642054382f2d7b72687379382f2d6975746e382f2d6f787e746d78382f2d647268382f2d70747a7569382f2d71747678382e5c382d5c382d5c4a7c71736869382f2d5e6f7c737f786f6f64382f2d4e72686f7972687a75382f2d5f6f787c79382d5c7569696d6e382e5c382f5b382f5b7b7272797a787876337472382f5b7873382f5b6a7c71736869307e6f7c737f786f6f64306e72686f7972687a75307f6f787c79306f787e746d78306e686d786f30787c6e64307c737930797871747e7472686e382f5b)
+[](https://foodgeek.io/en/wprm_print/walnut-cranberry-sourdough-bread) [](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Ffoodgeek.io%2Fen%2Fwalnut-cranberry-sourdough-bread-recipe-super-easy-and-delicious%2F&media=https%3A%2F%2Ffoodgeek.io%2Fwp-content%2Fuploads%2F2021%2F08%2FRecipe.avif&description=Walnut+Cranberry+Sourdough+Bread&is_video=false) [](https://www.facebook.com/share.php?u=https%3A%2F%2Ffoodgeek.io%2Fen%2Fwalnut-cranberry-sourdough-bread-recipe-super-easy-and-delicious%2F) [](/cdn-cgi/l/email-protection#)
 
 ### Equipment
 

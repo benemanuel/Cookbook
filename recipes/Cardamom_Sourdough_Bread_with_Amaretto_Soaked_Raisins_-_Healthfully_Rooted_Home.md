@@ -20,7 +20,7 @@ Sharing is caring!
 - [ Facebook29](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhealthfullyrootedhome.com%2Fcardamom-sourdough-bread%2F&t=Cardamom%20Sourdough%20Bread%20with%20Amaretto%20Soaked%20Raisins "Share on Facebook")
 -   Pinterest85
 
-- [ Email](/cdn-cgi/l/email-protection#37084442555d5254430a74564553565a585a12050764584245535842505f1205077545525653120507405e435f120507765a5645524343581205076458565c525312050765565e445e5944111407040f0c5558534e0a5f434347441204761205711205715f52565b435f51425b5b4e4558584352535f585a521954585a12057154564553565a585a1a44584245535842505f1a5545525653120571 "Send over email")
+- [ Email](/cdn-cgi/l/email-protection# "Send over email")
 
 [ Jump to Recipe](#recipe) [ Jump to Video](#recipe-video) [ Print Recipe](https://healthfullyrootedhome.com/wprm_print/cardamom-sourdough-bread-with-soaked-amaretto-raisins)
 
@@ -345,4 +345,4 @@ Sharing is caring!
 - [ Facebook29](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fhealthfullyrootedhome.com%2Fcardamom-sourdough-bread%2F&t=Cardamom%20Sourdough%20Bread%20with%20Amaretto%20Soaked%20Raisins "Share on Facebook")
 -   Pinterest85
 
-- [ Email](/cdn-cgi/l/email-protection#754a0600171f101601483614071114181a18504745261a0007111a00121d5047453707101411504745021c011d504745341814071001011a504745261a141e101150474527141c061c1b06535645464d4e171a110c481d010105065046345047335047331d101419011d130019190c071a1a0110111d1a18105b161a185047331614071114181a1858061a0007111a00121d581707101411504733 "Send over email")
+- [ Email](/cdn-cgi/l/email-protection# "Send over email")

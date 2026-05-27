@@ -28,7 +28,7 @@ This post may contain affiliate links. Please read our [disclosure policy](https
 - **Budget Tip:** Hungarian goulash is a great way to turn a less expensive cut of meat into a tender and delicious meal. Adding potatoes and carrots will stretch the meal further.
 - **Recipe Note:** Hungarian Goulash is very different from an [American goulash recipe](https://www.spendwithpennies.com/grandmas-goulash/), which is a pasta and ground beef dish!
 
-![butter carrots , broth , tomatoes , stewing beef , salt and pepper , onions , potatoes , paprika , caraway seeds , flour , parsley with labels to make Hungarian Goulash](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E "Hungarian goulash brings together tender beef, onions, and a flavorful paprika broth for a meal that’s hearty and comforting. This simple recipe can be cooked on the stovetop or baked slowly in the oven for rich flavor that deepens as it cooks. Add potatoes and carrots for a filling one-pot dinner everyone will love. #spendwithpennies")
+
 
 ## Ingredient Notes For Goulash
 
@@ -42,8 +42,8 @@ This post may contain affiliate links. Please read our [disclosure policy](https
 
 While I simmer this on the stove, you can also slow-cook this Hungarian beef goulash in the oven at 325°F for 2.5 hours.
 
-![adding seasonings to onions with caraway seeds to make Hungarian Goulash](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E "Hungarian goulash is a classic beef recipe that’s both hearty and delicious. It features chunks of beef simmered in a tomato and paprika broth that’s rich, flavorful, and so comforting. Add carrots and potatoes for a full meal in one pot, and serve with bread or noodles to soak up every drop. Simple, warming, and perfect for family dinners. #spendwithpennies")
-![adding potatoes , carrots and tomatoes to pot to make Hungarian Goulash](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E "Hungarian goulash is the best beef stew to cozy up with on a cool night. Tender beef, onions, and paprika come together in a rich tomato-based broth for bold, comforting flavor. Add carrots and potatoes to make it even heartier, and finish with a dollop of sour cream. Whether made on the stovetop or slow cooked in the oven, it’s always satisfying. #spendwithpennies")
+
+
 
 ### How to Make Hungarian Goulash
 
@@ -57,7 +57,7 @@ Serve the goulash on its own or over [](https://www.spendwithpennies.com/egg-noo
 
 Add a side of [crusty artisan bread](https://www.spendwithpennies.com/easy-artisan-bread-recipe/) and butter, [30-minute dinner rolls](https://www.spendwithpennies.com/30-minute-dinner-rolls/), or [biscuits](https://www.spendwithpennies.com/homemade-biscuits/) to soak up any leftover gravy.
 
-![bowl of Hungarian Goulash with sour cream on top](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E "Hungarian goulash is a traditional beef recipe with a rich paprika-spiced broth that’s cozy and full of flavor. Tender beef and vegetables simmer together to create a hearty, filling dish that’s perfect for family dinners. Try it as a soup-style meal with crusty bread or serve over noodles for comfort in every bite. #spendwithpennies")
+
 
 ### Leftovers
 
@@ -65,37 +65,37 @@ Store leftovers in an airtight container in the refrigerator for up to 4 days or
 
 To reheat, warm over low to medium-low heat, stirring occasionally. Add a splash of beef broth if it is too thick. Or, reheat single servings in the microwave in short intervals, stirring occasionally, and adding liquid if needed.
 
-[![taking a spoonfull of Stuffed Pepper Soup out of the pot](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20270%20405'%3E%3C/svg%3E)](https://www.spendwithpennies.com/stuffed-pepper-soup/)
+
 
 ### [Stuffed Pepper Soup](https://www.spendwithpennies.com/stuffed-pepper-soup/)
 
 [Soups & Stews](https://www.spendwithpennies.com/category/recipes/soups-stews/)
 
-[![Overhead shot of Chicken Stew in a pot](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20270%20405'%3E%3C/svg%3E)](https://www.spendwithpennies.com/chicken-stew/)
+
 
 ### [Chicken Stew](https://www.spendwithpennies.com/chicken-stew/)
 
 [Soups & Stews](https://www.spendwithpennies.com/category/recipes/soups-stews/)
 
-[![Beef Barley Soup in a pot with a ladle](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20270%20405'%3E%3C/svg%3E)](https://www.spendwithpennies.com/beef-barley-soup/)
+
 
 ### [Beef Barley Soup](https://www.spendwithpennies.com/beef-barley-soup/)
 
 [Soups & Stews](https://www.spendwithpennies.com/category/recipes/soups-stews/)
 
-[![Crock Pot Broccoli Cheese Soup in bowls on a wood tray](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20270%20405'%3E%3C/svg%3E)](https://www.spendwithpennies.com/slow-cooker-broccoli-cheese-soup/)
+
 
 ### [Crock Pot Broccoli Cheese Soup](https://www.spendwithpennies.com/slow-cooker-broccoli-cheese-soup/)
 
 [Soups & Stews](https://www.spendwithpennies.com/category/recipes/soups-stews/)
 
-[![Beef Stroganoff Soup being served](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20270%20405'%3E%3C/svg%3E)](https://www.spendwithpennies.com/beef-stroganoff-soup/)
+
 
 ### [Beef Stroganoff Soup](https://www.spendwithpennies.com/beef-stroganoff-soup/)
 
 [Soups & Stews](https://www.spendwithpennies.com/category/recipes/soups-stews/)
 
-[![a bowl of cheesy potato soup garnished with green onion and bacon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20270%20405'%3E%3C/svg%3E)](https://www.spendwithpennies.com/cheesy-potato-soup/)
+
 
 ### [Cheesy Potato Soup](https://www.spendwithpennies.com/cheesy-potato-soup/)
 
@@ -103,9 +103,9 @@ To reheat, warm over low to medium-low heat, stirring occasionally. Add a splash
 
 ***Did you make this Hungarian Goulash? Leave a rating and comment below!***
 
-[![image of Everyday Comfort cookbook by Holly Nilsson of Spend With Pennies plus text](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201155%20463'%3E%3C/svg%3E "Everyday Comfort cookbook by Holly Nilsson of Spend With Pennies is available. Get your Copy!")](https://amzlink.to/az0VhOvQT8plT)
 
-![bowls of Hungarian Goulash with a pot full in the back and bread on a plate](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
+
+
 
 
 
@@ -113,17 +113,17 @@ To reheat, warm over low to medium-low heat, stirring occasionally. Add a splash
 
 4.97 from 790 votes
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
+
 
 Author [Holly Nilsson](https://www.spendwithpennies.com/author/holly/)
 
 ### Hungarian Goulash
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
+
 
 Author [Holly Nilsson](https://www.spendwithpennies.com/author/holly/)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
+
 
 Servings 6 servings
 
@@ -131,11 +131,11 @@ This Hungarian goulash recipe features tender beef and veggies in a tomato-based
 
 [Save](https://www.spendwithpennies.com/saved-recipes/)[Saved](https://www.spendwithpennies.com/saved-recipes/) [Rate](#commentform) [Print](https://www.spendwithpennies.com/wprm_print/hungarian-goulash)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
+
 
 Servings 6 servings
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
+
 
 Prep Time 30 minutes minutes
 
@@ -228,16 +228,16 @@ Calories: 411 | Carbohydrates: 24g | Protein: 23g | Fat: 25g | Saturated Fat: 10
 
 Nutrition information provided is an estimate and will vary based on cooking methods and brands of ingredients used.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E) Course Beef, Main Course, Soup
+ Course Beef, Main Course, Soup
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E) Cuisine Hungary
+ Cuisine Hungary
 
 © SpendWithPennies.com. Content and photographs are copyright protected. Sharing of this recipe is both encouraged and appreciated. Copying and/or pasting full recipes to any social media is strictly prohibited. [Please view my photo use policy here](https://spendwithpennies.com/recipe-photo-use-policy/).
 
-![Hungarian Goulash in a pot with a ladle and a title](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%201000'%3E%3C/svg%3E "Hungarian goulash brings together tender beef, onions, and a flavorful paprika broth for a meal that’s hearty and comforting. This simple recipe can be cooked on the stovetop or baked slowly in the oven for rich flavor that deepens as it cooks. Add potatoes and carrots for a filling one-pot dinner everyone will love. #spendwithpennies")
 
-![Hungarian Goulash in a bowl with a dollop of sour cream and a spoon with writing](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20750'%3E%3C/svg%3E "Hungarian goulash is a classic beef recipe that’s both hearty and delicious. It features chunks of beef simmered in a tomato and paprika broth that’s rich, flavorful, and so comforting. Add carrots and potatoes for a full meal in one pot, and serve with bread or noodles to soak up every drop. Simple, warming, and perfect for family dinners. #spendwithpennies")
 
-![Hungarian Goulash in a Dutch oven with a ladle and a title](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%201000'%3E%3C/svg%3E "Hungarian goulash is the best beef stew to cozy up with on a cool night. Tender beef, onions, and paprika come together in a rich tomato-based broth for bold, comforting flavor. Add carrots and potatoes to make it even heartier, and finish with a dollop of sour cream. Whether made on the stovetop or slow cooked in the oven, it’s always satisfying. #spendwithpennies")
 
-![Hungarian Goulash in a bowl with sour cream and a spoon, and Hungarian Goulash in a Dutch oven with a title](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%201500'%3E%3C/svg%3E "Hungarian goulash is a savory stew that’s perfect for slow cooking. Tender beef, sweet paprika, and a touch of tomato come together in a rich broth that’s full of flavor. Add potatoes or carrots for a heartier version, and finish with a spoonful of sour cream for creamy perfection in every bite. #spendwithpennies")
+
+
+
+

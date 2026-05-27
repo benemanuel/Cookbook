@@ -23,7 +23,7 @@ Golden crispy perfection! Have a bite of this amazing Galaktoboureko and let its
 
 After a lot of experimenting, we have distilled the essence of this delightful traditional Greek dish to a **few easy to follow steps** and **recipe** for you to make the very best Galaktoboureko on your first try! So, go ahead, read on to discover how to recreate this traditional sweet delight from scratch!
 
-![Greek Galaktoboureko assemble](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201707%202560'%3E%3C/svg%3E)
+
 
 ## All the secrets to make the perfect homemade Galaktoboureko the traditional Greek way
 
@@ -37,7 +37,7 @@ This easy to follow Galaktoboureko recipe is made in three key stages: **Prepari
 
 **Clarified butter!** Sometimes when baking the galaktoboureko some **black spots will appear on the top**. These are the milk solids caramelising in the oven. If you want to avoid that then just use **[clarified](https://en.wikipedia.org/wiki/Clarified_butter) butter or ghee**.
 
-![Custard for Greek Galaktoboureko](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201707%202560'%3E%3C/svg%3E)
+
 
 ## Prepare the Galaktoboureko custard
 
@@ -51,7 +51,7 @@ Traditionally, Greek Galaktoboureko uses use thin [semolina](https://en.wikipedi
 
 **Use some good quality cream!** There are two ways to make galaktoboureko – some recipes call for full fat milk only and others a mix of cream and milk. After plenty of experimenting I’ve found that the best custard texture and flavour comes from using a good quality double/heavy (35%+ in fat) cream. This will make your custard filling silky smooth and will taste simply divine!
 
-![Greek Galaktoboureko meringue](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20854%201280'%3E%3C/svg%3E)
+
 
 ### Prepare the syrup for the Galaktoboureko
 
@@ -63,7 +63,7 @@ Finally, I know, even though it will be really hard to do, you should **wait for
 
 So go ahead, give this traditional Galaktoboureko recipe a try and amaze your friends and family!
 
-![Traditional Greek Galaktoboureko ready to serve](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201707%202560'%3E%3C/svg%3E)
+
 
 ### Similar recipes to try
 
@@ -181,20 +181,20 @@ Scale 1x
 
 ### Recipe image gallery:
 
-   ![Galaktoboureko (Greek Custard Pie with Syrup)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20309%20231'%3E%3C/svg%3E "Galaktoboureko (Greek Custard Pie with Syrup)")
+   ")
 
-   ![Galaktoboureko (Greek Custard Pie with Syrup)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20309%20198'%3E%3C/svg%3E "Galaktoboureko (Greek Custard Pie with Syrup)")
+   ")
 
-   ![Galaktoboureko (Greek Custard Pie with Syrup)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20309%20212'%3E%3C/svg%3E "Galaktoboureko (Greek Custard Pie with Syrup)-3")
+   -3")
 
-   ![Custard for Greek Galaktoboureko](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20433%20649'%3E%3C/svg%3E "Custard for Greek Galaktoboureko")
+   
 
-   ![Greek Galaktoboureko meringue](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20246%20369'%3E%3C/svg%3E "Greek Galaktoboureko meringue")
+   
 
-   ![Greek Galaktoboureko assemble](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20246%20369'%3E%3C/svg%3E "Greek Galaktoboureko assemble")
+   
 
-   ![Greek Galaktoboureko assemble](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20246%20369'%3E%3C/svg%3E "Greek Galaktoboureko assemble")
+   
 
-   ![Custard for Greek Galaktoboureko](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20371%20556'%3E%3C/svg%3E "Custard for Greek Galaktoboureko")
+   
 
-   ![Traditional Greek Galaktoboureko ready to serve](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20371%20556'%3E%3C/svg%3E "Traditional Greek Galaktoboureko ready to serve")
+   

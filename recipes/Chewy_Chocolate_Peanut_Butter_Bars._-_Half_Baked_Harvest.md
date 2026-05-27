@@ -19,7 +19,7 @@ This post may contain affiliate links, please see our [privacy policy](https://w
 
 Chewy Chocolate Peanut Butter Bars, the bars that everyone LOVES! Think crisp, chewy, sweet, peanut krispie treat base, layered with creamy peanut butter, and topped with sweet salted chocolate. All made with simple, wholesome ingredients: brown rice krispies, honey, pure maple syrup, natural peanut butter, and dark chocolate. These bars are heavy on the peanut butter and chocolate, sweet, salty, gluten-free, vegan, and, geez…they’re even no-bake! Every last bite is truly delicious.
 
-![overhead photo of peanut bars with spoon of peanut butter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 Happy darn Friday everyone! I felt as though this week especially needed a sweet and easy chocolate peanut butter recipe. I don’t know why exactly, but it just seemed like we could all use these delicious bars this weekend.
 
@@ -49,7 +49,7 @@ Kitchen Supplies
 - microwave-safe bowl
 - airtight container
 
-![brown rice krispies and peanut butter in mixing bowl ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 ### Inspiration
 
@@ -61,7 +61,7 @@ And then, it hit me. What if I did a combination of scotcheroos and peanutty Twi
 
 More than anything they love the way these taste. The textures, the chewiness, the generous amount of peanut butter, and, of course, the thick layer of chocolate on top. But they also love knowing there are no processed sugars, funny ingredients, or artificial anything involved.
 
-![brown rice krispies mixed with peanut butter in bowl ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 ### Details – chewy peanut krispies
 
@@ -71,7 +71,7 @@ The key is to use a mix of honey and maple syrup. The honey is thicker and stick
 
 If you are strictly vegan, you can definitely use all maple syrup. The bars will still be sticky and great. Just slightly less chewy than if you were to use a mix of honey and maple.
 
-![bars after being cut ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 ### The peanutty/carmel like filling
 
@@ -81,7 +81,7 @@ Peanut butter, maple syrup, and coconut oil boiled together to thicken the mix. 
 
 Pour the peanut butter layer over the chewy krispie treats, then freeze the bars. You only need them to freeze them for 30 minutes to an hour or so. This helps the peanut butter set up quickly so you can continue on with the chocolate.
 
-![close up photo of peanut butter bars](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 When the peanut butter is chilled and stiff, pour some melted chocolate over top to finish the layers up. I like to slice the bars before the chocolatey top becomes too hard. This will make the bars much easier to cut and prevents the peanutty filling from getting squished out. Add a dash of sea salt or powdered sugar.
 
@@ -89,7 +89,7 @@ And then you’re done. No oven needed. And trust me, you might want to double t
 
 It’s the chewy, salty, sweet, chocolate, peanut butter combination – it’s magic!
 
-![close up photo of peanut bars with spoon of peanut butter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 *Looking for easy party desserts? Here are a few ideas:*
 
@@ -111,7 +111,7 @@ Lastly, if you make these Chewy Chocolate Peanut Butter Bars, be sure to leave a
 
 — <https://www.tiktok.com/@halfbakedharvest/video/7139914211563474219>
 
-![Chewy Chocolate Peanut Butter Bars | halfbakedharvest.com](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='224'%20height='224'%20viewBox='0%200%20224%20224'%3E%3C/svg%3E)
+
 
 ### Chewy Chocolate Peanut Butter Bars
 
@@ -196,6 +196,6 @@ Nutritional information is only an estimate. The accuracy of the nutritional inf
 
 [View Recipe Comments](https://www.halfbakedharvest.com/chewy-chocolate-peanut-butter-bars/#comments)
 
-![horizontal photo of peanut bars on tray ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='800'%20viewBox='0%200%201200%20800'%3E%3C/svg%3E)
+
 
 *This post was originally published on March 4, 2022*

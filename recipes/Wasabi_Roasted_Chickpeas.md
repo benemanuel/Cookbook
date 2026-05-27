@@ -41,13 +41,13 @@ My friend Liz and I kind of collaborated on this recipe. She's wanting to make h
 
 I can't vouch for the results with other wasabi powders, so let me know if you branch out!
 
-![wasabi chickpeas on a serving dish on a wooden table, text overlay](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20550%20799'%3E%3C/svg%3E)
+
 
 This recipe is adapted from one that my coworker Jeannie Moulton shared long ago on Eat Drink Better. Her recipe was for wasabi peanuts, and it used egg as the binder. I thought it would be super fun to convert her recipe to one for roasted chickpeas and use [aquafaba](https://www.glueandglitter.com/2015/04/14/aquafaba-magical-egg-replacer-for-vegan-meringue-recipes-and-beyond/) from the beans as the egg replacer. Something about that seemed super fun to me. I guess whisking aquafaba is how I party these days?
 
 ## 📖 Recipe
 
-![wasabi chickpeas on a serving dish on a wooden table](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20180%20180'%3E%3C/svg%3E)
+
 
 ### Wasabi Roasted Chickpeas
 
@@ -86,7 +86,7 @@ Prevent your screen from going dark
 - 1 teaspoon sugar
 - 2 teaspoons cornstarch or potato starch
 
-![Instacart](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2042%2052'%3E%3C/svg%3E)Get Recipe Ingredients
+Get Recipe Ingredients
 
 ### Ingredients
 

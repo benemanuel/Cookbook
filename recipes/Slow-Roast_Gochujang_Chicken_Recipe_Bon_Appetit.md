@@ -19,101 +19,101 @@ Jump To Recipe
 
 This isn’t the crisp-skinned, high-heat roast chicken you’re probably familiar with. Instead, it’s a melt-in-your-mouth tender, schmaltzy, slow-roast version that’s more similar to rotisserie chicken—except (bonus!) it gets slathered in the funky-spicy-sweet gochujang. And while the meat might be the star of the show, don't discount those buttery-soft, nearly-confited potatoes, which cook gently in the chicken fat. Makes you wonder why you haven't *always* been roasting long-cooking vegetables—carrots, cauliflower, turnips (?!), winter squash, fennel—under the bird for a built-in side, huh?
 
-- [![Image may contain Frying Pan and Wok](https://assets.bonappetit.com/photos/596d20f72b659b48a371c404/1:1/w_640%2Cc_limit/basically-equipment-cast-iron-skillet.jpg)](https://cna.st/p/5a1FMimJbzYf6PqEMtoKEo66nHzJYoZpg1xYC8aAo9Vyiv5Vd6s7SERbBoi14oqV2UuHtUAKJYBNk6HwhHw5Ro7Y8LxYBh3Utug2fhov55ohZ9gu2FCJm56RA1ybRnxBJfHrBGisq3H36jTm6bHj7YUUeQ3LxkZJUtuzL8JcEnwcAeqnptq83kHojso4cEpJtV3KsGFdTS8mCZXRV8NXBxRAGDUnideX9kkB94Hx97Qm7nmLsmiizp8bWimLKz1FNXyrgDnf3y2N7Z9Suuw4qCBt6UBYvGPzCk5TC5PWEG7FiTer8LcouSt7WdTx7gpfWbLhsKeduPt1CiyEbzDNTAM "$30 At Amazon")
+- [![Image may contain Frying Pan and Wok](https://assets.bonappetit.com/photos/596d20f72b659b48a371c404/1:1/w_640%2Cc_limit/basically-equipment-cast-iron-skillet.jpg)](https://cna. "$30 At Amazon")
 
       Cast Iron Skillet
 
-[$30 At Amazon](https://cna.st/p/5a1FMimJbzYf6PqEMtoKEo66nHzJYoZpg1xYC8aAo9Vyiv5Vd6s7SERbBoi14oqV2UuHtUAKJYBNk6HwhHw5Ro7Y8LxYBh3Utug2fhov55ohZ9gu2FCJm56RA1ybRnxBJfHrBGisq3H36jTm6bHj7YUUeQ3LxkZJUtuzL8JcEnwcAeqnptq83kHojso4cEpJtV3KsGFdTS8mCZXRV8NXBxRAGDUnideX9kkB94Hx97Qm7nmLsmiizp8bWimLKz1FNXyrgDnf3y2N7Z9Suuw4qCBt6UBYvGPzCk5TC5PWEG7FiTer8LcouSt7WdTx7gpfWbLhsKeduPt1CiyEbzDNTAM "$30 At Amazon")
+[$30 At Amazon](https://cna. "$30 At Amazon")
 
-- [![This image may contain Wristwatch Clock Tower Building Tower and Architecture](https://assets.bonappetit.com/photos/5dd456c04b10ae0009dda7f6/1:1/w_640%2Cc_limit/Basically-Giftguide-Oven-Thermometer.jpg)](https://cna.st/p/2gRdHG7pk8rK3NN6ahFJdsr2QorFdtnc2q1SuMJmVHRpL5abvNyu1bY8gEijjfb5HFR1Uze7aZTrMesgP8h8QKrATRpzmuJJfjYf3Sn51CQBYQ9L8BWp9EiqUN4mmKKhn9RzhhejeYvDCAesTZ9E6jYhHFk1vbgSnTBr1V9yiYzSKiPgnbXZabMREfE9j2XyhtHAuv4Ypn2yiyGdwU2T3vn9H2nBqMN5Jx3hAsoXtQdan1DaDPWN6APco4Uvfppt1L18jf5Qp6LykZ8FTq2bodvDmLyHrvQ2yabbASg1cJpKup3kUPZ3QkumwnqTetN33QrnEjYG3NojW3aCW9HN3xJSHMEeDYMjmB5pSNULV "$7 At Amazon")
+- [![This image may contain Wristwatch Clock Tower Building Tower and Architecture](https://assets.bonappetit.com/photos/5dd456c04b10ae0009dda7f6/1:1/w_640%2Cc_limit/Basically-Giftguide-Oven-Thermometer.jpg)](https://cna. "$7 At Amazon")
 
       Oven Thermometer
 
-[$7 At Amazon](https://cna.st/p/2gRdHG7pk8rK3NN6ahFJdsr2QorFdtnc2q1SuMJmVHRpL5abvNyu1bY8gEijjfb5HFR1Uze7aZTrMesgP8h8QKrATRpzmuJJfjYf3Sn51CQBYQ9L8BWp9EiqUN4mmKKhn9RzhhejeYvDCAesTZ9E6jYhHFk1vbgSnTBr1V9yiYzSKiPgnbXZabMREfE9j2XyhtHAuv4Ypn2yiyGdwU2T3vn9H2nBqMN5Jx3hAsoXtQdan1DaDPWN6APco4Uvfppt1L18jf5Qp6LykZ8FTq2bodvDmLyHrvQ2yabbASg1cJpKup3kUPZ3QkumwnqTetN33QrnEjYG3NojW3aCW9HN3xJSHMEeDYMjmB5pSNULV "$7 At Amazon")
+[$7 At Amazon](https://cna. "$7 At Amazon")
 
-- [![Victorinox Chef's Knife](https://assets.bonappetit.com/photos/5f3d7774b4b3538eb4dc4f93/1:1/w_640%2Cc_limit/Basically-gift-guide-2017-Victorinox-Chef.jpg)](https://cna.st/p/269d4exZpzg43VDk2C2SkseEUTgwMDgqevVAvdCuEev8upmwz4HtxXjVwQYJJGVkrTQgJTxFUVSheB5xhFxmspeGvNeQq4ze1fpWZjFkusmUkvz18X5W1RTzi68hdKquPKex7mfPqT9ZhGxUMLsY5GzDBqgSb37zYvhSsEATvUS4zXFxzthS7CU3y7RP2fT3Z3rvk2SzPFZ7WcsFyN3NSfpPBmkp2z8xX2cdnh1uwEdP94BgSom89rXKvaS9BCQAscRTV868dcHKKht1EL7tUSRqwQHQae2WVYZ25rosXpt7jpAH6xTrLBqwvjH19YvbByJbDtHt4S94jyeSTNAoafg2YESUhWpDPBAFp7KbpxAL4wwcyiifvw9bduM7en1LFtuLrjd6DKQNtagPtCSdwvdd4aSFaUjPK8RzJZXZEncqYj6eQaYZJDEnVGty4w9HRmWgaoQUmhJW1oQtF5cGAoKh6fBa5LJr7mNqozLYAbLjjirS9p75fn4Wv9XnLWDJ2mz2Tcpwae4UyNy1mGzW62mJ4yvTUHkjGg596GYFoDKUUX4Y9bwaq6KJYR7ify9MoVamVcZQ76ZoYg28mVnV "$34.53 At Amazon")
+- [![Victorinox Chef's Knife](https://assets.bonappetit.com/photos/5f3d7774b4b3538eb4dc4f93/1:1/w_640%2Cc_limit/Basically-gift-guide-2017-Victorinox-Chef.jpg)](https://cna. "$34.53 At Amazon")
 
       Chef's Knife
 
-[$34.53 At Amazon](https://cna.st/p/269d4exZpzg43VDk2C2SkseEUTgwMDgqevVAvdCuEev8upmwz4HtxXjVwQYJJGVkrTQgJTxFUVSheB5xhFxmspeGvNeQq4ze1fpWZjFkusmUkvz18X5W1RTzi68hdKquPKex7mfPqT9ZhGxUMLsY5GzDBqgSb37zYvhSsEATvUS4zXFxzthS7CU3y7RP2fT3Z3rvk2SzPFZ7WcsFyN3NSfpPBmkp2z8xX2cdnh1uwEdP94BgSom89rXKvaS9BCQAscRTV868dcHKKht1EL7tUSRqwQHQae2WVYZ25rosXpt7jpAH6xTrLBqwvjH19YvbByJbDtHt4S94jyeSTNAoafg2YESUhWpDPBAFp7KbpxAL4wwcyiifvw9bduM7en1LFtuLrjd6DKQNtagPtCSdwvdd4aSFaUjPK8RzJZXZEncqYj6eQaYZJDEnVGty4w9HRmWgaoQUmhJW1oQtF5cGAoKh6fBa5LJr7mNqozLYAbLjjirS9p75fn4Wv9XnLWDJ2mz2Tcpwae4UyNy1mGzW62mJ4yvTUHkjGg596GYFoDKUUX4Y9bwaq6KJYR7ify9MoVamVcZQ76ZoYg28mVnV "$34.53 At Amazon")
+[$34.53 At Amazon](https://cna. "$34.53 At Amazon")
 
-- [![Image may contain Tool Brush and Toothbrush](https://assets.bonappetit.com/photos/5a2adb357d4b9b484283ebd4/1:1/w_640%2Cc_limit/Basically_Pastry_Brush.jpg)](https://cna.st/p/4aHBaC1SzrSQQyxfbfm7eKZRwebuNoEe91zsdDKqceY1haEPV16kgMEfq9HxQX1guBW4i9THsjv9Q94yvNDAY3HWFcdA7KS6phYkkCpBvor332dqyoJ7piBPgyhafZS8V9A2CTotUrgpFs6LtYxaq26QaX7otTjJTsAnbj7dDjTXK7ep4Agfs9GCPoCh1mhMP3aFcYQG991jkRuRVSpemkSDSiCcHXSTomBTyBuRKWaBf9o7QPpYmM5riwc8s74JJcEAMH9xptULFdCe23tvsu9jfwVayZLtyVGunkNESAFwACVEyLuuaLcxU1k8T4edjS6gXQXZzZB3haxvnqXRoanhgUjnxvogUaQEdRs4nH5aymq5dNDobCPmAsrgTjXVYVbwvRmjchNJXbaHMfEScV6NfGrebjaYAt3RX3vDK "$6 At Amazon")
+- [![Image may contain Tool Brush and Toothbrush](https://assets.bonappetit.com/photos/5a2adb357d4b9b484283ebd4/1:1/w_640%2Cc_limit/Basically_Pastry_Brush.jpg)](https://cna. "$6 At Amazon")
 
       Pastry Brush
 
-[$6 At Amazon](https://cna.st/p/4aHBaC1SzrSQQyxfbfm7eKZRwebuNoEe91zsdDKqceY1haEPV16kgMEfq9HxQX1guBW4i9THsjv9Q94yvNDAY3HWFcdA7KS6phYkkCpBvor332dqyoJ7piBPgyhafZS8V9A2CTotUrgpFs6LtYxaq26QaX7otTjJTsAnbj7dDjTXK7ep4Agfs9GCPoCh1mhMP3aFcYQG991jkRuRVSpemkSDSiCcHXSTomBTyBuRKWaBf9o7QPpYmM5riwc8s74JJcEAMH9xptULFdCe23tvsu9jfwVayZLtyVGunkNESAFwACVEyLuuaLcxU1k8T4edjS6gXQXZzZB3haxvnqXRoanhgUjnxvogUaQEdRs4nH5aymq5dNDobCPmAsrgTjXVYVbwvRmjchNJXbaHMfEScV6NfGrebjaYAt3RX3vDK "$6 At Amazon")
+[$6 At Amazon](https://cna. "$6 At Amazon")
 
-- [![Image may contain Weapon and Weaponry](https://assets.bonappetit.com/photos/5a1eddec2479441876ab9959/1:1/w_640%2Cc_limit/Basically_Tongs.jpg)](https://cna.st/p/5a1FMimJbzYf6PqEMtoKEo66nHzJYoZpg1xYC8aAo9Vyiv5Vd6s7SERbBoi14oqV2UuHtUAEvVy75sLDPs7oQugsNUP6B4Y16BACA112ky2tmsNkFXFQppJwZ1y8TQbFYhWYitxGSDj3ywe8M1c3kU9crPkJJsXArE48qvaN7XA4owShhNNqzFmwdaSFChxGKmMRa2qR9J3TagoaVJWCbkKKbfgqNE379oHJobo5DkKHPnz2SZRvGrwbAehrGXZXx8MhkfZMqreEVwiz5Qh36wtTWNJSTd9iJxPwbVpWCWQRT8oeC7j76pq5QPUbjRMs65nXUzwSdNSj31JtfT7Ex1B "$21 At Amazon")
+- [![Image may contain Weapon and Weaponry](https://assets.bonappetit.com/photos/5a1eddec2479441876ab9959/1:1/w_640%2Cc_limit/Basically_Tongs.jpg)](https://cna. "$21 At Amazon")
 
       Tongs
 
-[$21 At Amazon](https://cna.st/p/5a1FMimJbzYf6PqEMtoKEo66nHzJYoZpg1xYC8aAo9Vyiv5Vd6s7SERbBoi14oqV2UuHtUAEvVy75sLDPs7oQugsNUP6B4Y16BACA112ky2tmsNkFXFQppJwZ1y8TQbFYhWYitxGSDj3ywe8M1c3kU9crPkJJsXArE48qvaN7XA4owShhNNqzFmwdaSFChxGKmMRa2qR9J3TagoaVJWCbkKKbfgqNE379oHJobo5DkKHPnz2SZRvGrwbAehrGXZXx8MhkfZMqreEVwiz5Qh36wtTWNJSTd9iJxPwbVpWCWQRT8oeC7j76pq5QPUbjRMs65nXUzwSdNSj31JtfT7Ex1B "$21 At Amazon")
+[$21 At Amazon](https://cna. "$21 At Amazon")
 
-- [![Image may contain Tool](https://assets.bonappetit.com/photos/6176f85dfcfe3c4f641ab096/1:1/w_640%2Cc_limit/Bamboozle_-_Measuring_Spoon_Set_1080x.jpeg)](https://cna.st/p/5a1FMimJbzYf6PqEMtoKEo66nHzJYoZpg1xYC8aAo9Vyiv5Vd6s7SERbBoi2UpG3kAUtpqSCAvJ2QbQQSC6BZfVRzgxKopC98tJcKkjuWui1Uzq1Zb1YJY3gBuFo25DJTUHMnsHx1CVNYmZzzm63KcpP5wZHPc9zXTU4FsjFc6zEteJsodJocPGWjdVrrk1xAzfqweHRPzmZ2TLkVzVBSJKSAyZvdDXhq4pXmirhG5cPLFTTjCFZstU1tk5EjhwRVKYYxpPWH8KUnYbjcH67ZeQftZbXu7gMcwrYS35eFZwgYpSvdJvQ4BkDWmdgPKSehtRij9TSBkaSkpLjYYhippd "$10 At Bon Appétit Market")
+- [![Image may contain Tool](https://assets.bonappetit.com/photos/6176f85dfcfe3c4f641ab096/1:1/w_640%2Cc_limit/Bamboozle_-_Measuring_Spoon_Set_1080x.jpeg)](https://cna. "$10 At Bon Appétit Market")
 
       Measuring Spoons
 
-[$10 At Bon Appétit Market](https://cna.st/p/5a1FMimJbzYf6PqEMtoKEo66nHzJYoZpg1xYC8aAo9Vyiv5Vd6s7SERbBoi2UpG3kAUtpqSCAvJ2QbQQSC6BZfVRzgxKopC98tJcKkjuWui1Uzq1Zb1YJY3gBuFo25DJTUHMnsHx1CVNYmZzzm63KcpP5wZHPc9zXTU4FsjFc6zEteJsodJocPGWjdVrrk1xAzfqweHRPzmZ2TLkVzVBSJKSAyZvdDXhq4pXmirhG5cPLFTTjCFZstU1tk5EjhwRVKYYxpPWH8KUnYbjcH67ZeQftZbXu7gMcwrYS35eFZwgYpSvdJvQ4BkDWmdgPKSehtRij9TSBkaSkpLjYYhippd "$10 At Bon Appétit Market")
+[$10 At Bon Appétit Market](https://cna. "$10 At Bon Appétit Market")
 
-- [![Image may contain Bowl and Cup](https://assets.bonappetit.com/photos/6176f8adfcfe3c4f641ab098/1:1/w_640%2Cc_limit/Bamboozle_-_Measuring_Cup_Set_1_900x.jpeg)](https://cna.st/p/5a1FMimJbzYf6PqEMtoKEo66nHzJYoZpg1xYC8aAo9Vyiv5Vd6s7SERbBoi2UpG3kAUtpqSGC8eHKd3HuwPWL1vth9EavpJgesQug95G3qLH3XLEsfUbLzK11fQivyymFocaDLRdhpc3rmwajWaCyKibWMgihHmdE1iPq48hsG5qiACYzh4a5HAM2U9bnhTzvP63nA4PM6AbiKvjup4ngHdP89v1pMWeocUvZRrzksKpnWpoEhQ5gBYVV8DUjGtzveYt7257b8nks9ZYTvKsqm3MDqdmJ7qSXjmmU5Pmw6fmNvsux45ZMG9MuMwqkvhM4J21jduk8YchgDUBKXMMzWy "$28 At Bon Appétit Market")
+- [![Image may contain Bowl and Cup](https://assets.bonappetit.com/photos/6176f8adfcfe3c4f641ab098/1:1/w_640%2Cc_limit/Bamboozle_-_Measuring_Cup_Set_1_900x.jpeg)](https://cna. "$28 At Bon Appétit Market")
 
       Measuring Cups
 
-[$28 At Bon Appétit Market](https://cna.st/p/5a1FMimJbzYf6PqEMtoKEo66nHzJYoZpg1xYC8aAo9Vyiv5Vd6s7SERbBoi2UpG3kAUtpqSGC8eHKd3HuwPWL1vth9EavpJgesQug95G3qLH3XLEsfUbLzK11fQivyymFocaDLRdhpc3rmwajWaCyKibWMgihHmdE1iPq48hsG5qiACYzh4a5HAM2U9bnhTzvP63nA4PM6AbiKvjup4ngHdP89v1pMWeocUvZRrzksKpnWpoEhQ5gBYVV8DUjGtzveYt7257b8nks9ZYTvKsqm3MDqdmJ7qSXjmmU5Pmw6fmNvsux45ZMG9MuMwqkvhM4J21jduk8YchgDUBKXMMzWy "$28 At Bon Appétit Market")
+[$28 At Bon Appétit Market](https://cna. "$28 At Bon Appétit Market")
 
-- [![Image may contain Paper Tape Towel Paper Towel Tissue and Toilet Paper](https://assets.bonappetit.com/photos/596fa66a34cdf71ac582558f/1:1/w_640%2Cc_limit/Basically_Paper-Towel.jpg)](https://cna.st/p/3Bp6Rjmow1PtG5jp1KCjUNNnKUXnGCEmwh2AC9mPsbdFmJzHjrinBtdVowEMz61sunwKJZBC1Nq7Cr8LMJF4NJ87ZgDoLbDHq2Qurqk1uEjScyAJbNbd5Q8KTAbwwtxHDqSqmTDA1Ay6d7QSbHgnhuHMaKedWx42vj9iyXjCfRZzbYFaz73hbtayrbTTkGztDjrrDrCoVhcuMHqY1xWvKBKkyVLEg3qgyNLXvWXDP36nauQZ3qchZhDbJDtk5rJBGYkVWW6psbQmrLVcdPE8MsCrgMMsyi6jaCgWAkt6inR91HTGcMJhh2SYEvpRQmkqdyaUytSqfUnvMaKjjZYZaKrvwxavypPBArSBQ1TkXz7D7BaS4ZfgMSEegufXR7psf7b8qNLbRv1YusVfHdC4bsFoKznNTrfP1L58hr1kH3ieyg8V5rhwiv7dobhoTobBTw7dK7gu6EobczfGUZ43QZfCndPuETVNxT4srbKfzmquKCiiUFVyC4gcMUjWL2jiNTa9v1wTnGt9d7HHd824kGURAuATFtxHSPfQmLpwFbRt4ZVU6aWjXi6ButLCxDvM1QLfF7M8y7wTb "$13.45 At Amazon")
+- [![Image may contain Paper Tape Towel Paper Towel Tissue and Toilet Paper](https://assets.bonappetit.com/photos/596fa66a34cdf71ac582558f/1:1/w_640%2Cc_limit/Basically_Paper-Towel.jpg)](https://cna. "$13.45 At Amazon")
 
       Paper Towels
 
-[$13.45 At Amazon](https://cna.st/p/3Bp6Rjmow1PtG5jp1KCjUNNnKUXnGCEmwh2AC9mPsbdFmJzHjrinBtdVowEMz61sunwKJZBC1Nq7Cr8LMJF4NJ87ZgDoLbDHq2Qurqk1uEjScyAJbNbd5Q8KTAbwwtxHDqSqmTDA1Ay6d7QSbHgnhuHMaKedWx42vj9iyXjCfRZzbYFaz73hbtayrbTTkGztDjrrDrCoVhcuMHqY1xWvKBKkyVLEg3qgyNLXvWXDP36nauQZ3qchZhDbJDtk5rJBGYkVWW6psbQmrLVcdPE8MsCrgMMsyi6jaCgWAkt6inR91HTGcMJhh2SYEvpRQmkqdyaUytSqfUnvMaKjjZYZaKrvwxavypPBArSBQ1TkXz7D7BaS4ZfgMSEegufXR7psf7b8qNLbRv1YusVfHdC4bsFoKznNTrfP1L58hr1kH3ieyg8V5rhwiv7dobhoTobBTw7dK7gu6EobczfGUZ43QZfCndPuETVNxT4srbKfzmquKCiiUFVyC4gcMUjWL2jiNTa9v1wTnGt9d7HHd824kGURAuATFtxHSPfQmLpwFbRt4ZVU6aWjXi6ButLCxDvM1QLfF7M8y7wTb "$13.45 At Amazon")
+[$13.45 At Amazon](https://cna. "$13.45 At Amazon")
 
-- [![Image may contain Tray](https://assets.bonappetit.com/photos/599350e08b35682fb649f7f1/1:1/w_640%2Cc_limit/Basically_Small-Rimmed-Baking-Sheet.jpg)](https://cna.st/p/DkGEjBhBKr5S4MmTccvTTadRG8T3zMCB9yuo8YLCExBFy265rzwUmUVz4dqQdmf8YCcAWMoNbyocLkZ2TLugxTXobKhV4gSa9T3cTLb2qPqpmj4DfMLaTGWq2SyHYaAieDx3aQV3Rai6a4FnJFCGpbuQE8VX74wZrb7Kffn2kiikzF6ForFAAPnwP9G9xfqKSkwnMjQ5ZH4CcPGjaDJptCVmXRa5ZGt72ZXF7EaJ32qdMPTpebfmCgk245JxbH7WE6odJqBSZtv2i7Z7oCfKn8iwYc626KjcmSzdL7HMSkbaTH6Dn79ykxZHRguzE1W5sxcLSS8JMo42HNxJa2ubp5Q2BoJQ24ennwd6WKqcjrWg3zxaDoJutnBryssqvt43Eqz3tdfb9V1gvsXQshKSWsMxScUkjFY3JfGropqSvfYuWJvpHH6ZzWx3mnG2tnfX2bEm "$28 At Amazon")
+- [![Image may contain Tray](https://assets.bonappetit.com/photos/599350e08b35682fb649f7f1/1:1/w_640%2Cc_limit/Basically_Small-Rimmed-Baking-Sheet.jpg)](https://cna. "$28 At Amazon")
 
       Small Rimmed Baking Sheet
 
-[$28 At Amazon](https://cna.st/p/DkGEjBhBKr5S4MmTccvTTadRG8T3zMCB9yuo8YLCExBFy265rzwUmUVz4dqQdmf8YCcAWMoNbyocLkZ2TLugxTXobKhV4gSa9T3cTLb2qPqpmj4DfMLaTGWq2SyHYaAieDx3aQV3Rai6a4FnJFCGpbuQE8VX74wZrb7Kffn2kiikzF6ForFAAPnwP9G9xfqKSkwnMjQ5ZH4CcPGjaDJptCVmXRa5ZGt72ZXF7EaJ32qdMPTpebfmCgk245JxbH7WE6odJqBSZtv2i7Z7oCfKn8iwYc626KjcmSzdL7HMSkbaTH6Dn79ykxZHRguzE1W5sxcLSS8JMo42HNxJa2ubp5Q2BoJQ24ennwd6WKqcjrWg3zxaDoJutnBryssqvt43Eqz3tdfb9V1gvsXQshKSWsMxScUkjFY3JfGropqSvfYuWJvpHH6ZzWx3mnG2tnfX2bEm "$28 At Amazon")
+[$28 At Amazon](https://cna. "$28 At Amazon")
 
-- [![Image may contain Appliance and Mixer](https://assets.bonappetit.com/photos/60a5250981b25b25c6c8d4af/1:1/w_640%2Cc_limit/product%2520whisk.jpg)](https://cna.st/p/5a1FMimJbzYf6PqEMtoKEo66nHzJYoZpg1xYC8aAo9Vyiv5Vd6s7SERbBoi14oqV2UuHtUALnHEvvntEiDnNpXjH3eim8DBJzWT88jaqsaY3K8Lz3HRs5UFkHkDkqjEaXcCKqSUjUiwXpeGGBiotJ3WjSrJwyviVrY9954geBZumUpixwTcsambCxUDkbpdrCnHthr9hRHhCF5BNg1LmskPLkfWvsLY5V24TXcVgkLZTnfLvzrqtGnNGjQ3NQCNriUT6hiFmaJPRTPYhWQneqC9hVUWb5KV9xA5KFMDs4xviW2cEoiGYd4iSkji7jM4hniJbVx4i3BjQ3WdGW1q8CA1 "$10 At Amazon")
+- [![Image may contain Appliance and Mixer](https://assets.bonappetit.com/photos/60a5250981b25b25c6c8d4af/1:1/w_640%2Cc_limit/product%2520whisk.jpg)](https://cna. "$10 At Amazon")
 
       Whisk
 
-[$10 At Amazon](https://cna.st/p/5a1FMimJbzYf6PqEMtoKEo66nHzJYoZpg1xYC8aAo9Vyiv5Vd6s7SERbBoi14oqV2UuHtUALnHEvvntEiDnNpXjH3eim8DBJzWT88jaqsaY3K8Lz3HRs5UFkHkDkqjEaXcCKqSUjUiwXpeGGBiotJ3WjSrJwyviVrY9954geBZumUpixwTcsambCxUDkbpdrCnHthr9hRHhCF5BNg1LmskPLkfWvsLY5V24TXcVgkLZTnfLvzrqtGnNGjQ3NQCNriUT6hiFmaJPRTPYhWQneqC9hVUWb5KV9xA5KFMDs4xviW2cEoiGYd4iSkji7jM4hniJbVx4i3BjQ3WdGW1q8CA1 "$10 At Amazon")
+[$10 At Amazon](https://cna. "$10 At Amazon")
 
-- [![Image may contain Bowl Art Pottery and Porcelain](https://assets.bonappetit.com/photos/596ce9902b659b48a371c381/1:1/w_640%2Cc_limit/basically-equipment-medium-bowl.jpg)](https://cna.st/p/NNEw2ziszMQLCCm6T3qjYjhqUnjdkaMHGLfcNPcykqBShAfWafK6JmpR9hepCYyDKyetUhfbJLSf24vvD5hFZYFzJs8p1Xge5tZQBVTYbkCMmbdbDgKHi3QpTNtyiSh2bTMAk3DZQwexpCwMsXVuvNunsjVG2r5bLQsAa6M3StneAE8qEqy71ufYU2ohpqHBa9hmbFCAMWCg4eF56DQJW7kk55KawcAvan3a77Tv4ukSypwQ1DxpJdEuzJEonxKeM4uR7b2ApLSUqnwJmerHoSshGWK2bx2nctSx4j4WbB6Bip5CLszMeGUieQKdn19WvLq3zKiACTPZfzt5gqvcJ7jgzbBw8Ysn6FHDi3isZKvSt3g1xYtDk7Xm8JoiCNAshwiu4tvB3BEWp8YH4Dx6wFDPyMy3hoK "$17 At Amazon")
+- [![Image may contain Bowl Art Pottery and Porcelain](https://assets.bonappetit.com/photos/596ce9902b659b48a371c381/1:1/w_640%2Cc_limit/basically-equipment-medium-bowl.jpg)](https://cna. "$17 At Amazon")
 
       Medium Bowl
 
-[$17 At Amazon](https://cna.st/p/NNEw2ziszMQLCCm6T3qjYjhqUnjdkaMHGLfcNPcykqBShAfWafK6JmpR9hepCYyDKyetUhfbJLSf24vvD5hFZYFzJs8p1Xge5tZQBVTYbkCMmbdbDgKHi3QpTNtyiSh2bTMAk3DZQwexpCwMsXVuvNunsjVG2r5bLQsAa6M3StneAE8qEqy71ufYU2ohpqHBa9hmbFCAMWCg4eF56DQJW7kk55KawcAvan3a77Tv4ukSypwQ1DxpJdEuzJEonxKeM4uR7b2ApLSUqnwJmerHoSshGWK2bx2nctSx4j4WbB6Bip5CLszMeGUieQKdn19WvLq3zKiACTPZfzt5gqvcJ7jgzbBw8Ysn6FHDi3isZKvSt3g1xYtDk7Xm8JoiCNAshwiu4tvB3BEWp8YH4Dx6wFDPyMy3hoK "$17 At Amazon")
+[$17 At Amazon](https://cna. "$17 At Amazon")
 
-- [![](https://assets.bonappetit.com/photos/5dcf0969ad1a0300083764ac/1:1/w_640%2Cc_limit/Basically-Molly-GiftGuide-Microplane.jpg)](https://cna.st/p/5a1FMimJbzYf6PqEMtoKEo66nHzJYoZpg1xYC8aAo9Vyiv5Vd6s7SERbBoi14oqV2UuHtUAL5q6vg9Avawu9miarsYo6PemXwqvqJmwd8NPMXQ6XmmRwocUv4tewiL3BCqNScgTDUu2jYhiX9gJNCeZEvD283DGr1FbYwZ1uW5qPGLLGMrJhmXoAU99LobPx2vt3M2JxqFpkSx3mYG15cok9F5R7LaxRudk1qo6Ddyxs2uriRyKuajsNAmgR8dxsQ8czMHbArCXMRRofaK3Vqftms2t1X1gwtmAh583bcComPgi3BCV78PG2LCGcfgFEgwbXCyiYT5iPrRgPmCSE8us "$18 At Amazon")
+- [![](https://assets.bonappetit.com/photos/5dcf0969ad1a0300083764ac/1:1/w_640%2Cc_limit/Basically-Molly-GiftGuide-Microplane.jpg)](https://cna. "$18 At Amazon")
 
       Microplane
 
-[$18 At Amazon](https://cna.st/p/5a1FMimJbzYf6PqEMtoKEo66nHzJYoZpg1xYC8aAo9Vyiv5Vd6s7SERbBoi14oqV2UuHtUAL5q6vg9Avawu9miarsYo6PemXwqvqJmwd8NPMXQ6XmmRwocUv4tewiL3BCqNScgTDUu2jYhiX9gJNCeZEvD283DGr1FbYwZ1uW5qPGLLGMrJhmXoAU99LobPx2vt3M2JxqFpkSx3mYG15cok9F5R7LaxRudk1qo6Ddyxs2uriRyKuajsNAmgR8dxsQ8czMHbArCXMRRofaK3Vqftms2t1X1gwtmAh583bcComPgi3BCV78PG2LCGcfgFEgwbXCyiYT5iPrRgPmCSE8us "$18 At Amazon")
+[$18 At Amazon](https://cna. "$18 At Amazon")
 
-- [![Image may contain Tool and Can Opener](https://assets.bonappetit.com/photos/59c28da2f22f014ca11e0041/1:1/w_640%2Cc_limit/Basically_Vegetable-Peeler.jpg)](https://cna.st/p/5a1FMimJbzYf6PqEMtoKEo66nHzJYoZpg1xYC8aAo9Vyiv5Vd6s7SERbBoi14oqV2UuHtUAK31ejc6S1n9GepbhxVTBRyiWq3aDAz8PkqmWBYSCSYfWRipFB5pJhmPmeA9NaSijBTjoFrz6CrscJoEYnmuuHSGW1pLdwqZKtRPmDvbZeWpT3knNh2bkPrDiuSUZpt9M3xk7ybgjDmM1KdFrqdSRrWX2okFGAgft5gdHbi5TzMRzcGUm7Y4BwaZ3325zWdFQzDq4ZQH48XbZKTx47jkmQNvKkhEuhwj1cLVFGjzm2SnXrtcQ6EjyQkkuQHqpU6G6BMs5HGiqzMtEDJm3 "$10 At Amazon")
+- [![Image may contain Tool and Can Opener](https://assets.bonappetit.com/photos/59c28da2f22f014ca11e0041/1:1/w_640%2Cc_limit/Basically_Vegetable-Peeler.jpg)](https://cna. "$10 At Amazon")
 
       Vegetable Peeler
 
-[$12 $10 At Amazon](https://cna.st/p/5a1FMimJbzYf6PqEMtoKEo66nHzJYoZpg1xYC8aAo9Vyiv5Vd6s7SERbBoi14oqV2UuHtUAK31ejc6S1n9GepbhxVTBRyiWq3aDAz8PkqmWBYSCSYfWRipFB5pJhmPmeA9NaSijBTjoFrz6CrscJoEYnmuuHSGW1pLdwqZKtRPmDvbZeWpT3knNh2bkPrDiuSUZpt9M3xk7ybgjDmM1KdFrqdSRrWX2okFGAgft5gdHbi5TzMRzcGUm7Y4BwaZ3325zWdFQzDq4ZQH48XbZKTx47jkmQNvKkhEuhwj1cLVFGjzm2SnXrtcQ6EjyQkkuQHqpU6G6BMs5HGiqzMtEDJm3 "$10 At Amazon")
+[$12 $10 At Amazon](https://cna. "$10 At Amazon")
 
-- [![Image may contain Home Decor Linen Lamp and Yarn](https://assets.bonappetit.com/photos/5d7173bc529791000898acb5/1:1/w_640%2Cc_limit/Basically_Twine.jpg)](https://cna.st/p/269d4exZpzg43VDk2C2SkseEUTgwMDgqevVAvdCuEev8upmwz4HtxXjVwQYJJGVkrTQgJTxFUVSheB5xf3fQSq9n5rxrWHFMAu76ABjnKUcQyTDgefRaAM8tvmuRMZkRap33vriZSPvC1LTiVZsJwLQx96v3TgC3ohVmA3by36bBNPvSnMQqjMT7x8rKKtsBSJxEDsGqRdVQfeoZcX56rdPqNBWdEkB9xYdsFDY6tYcEGHAgfRLCpSedQ3FUg2L3eK7C61wkhhM1wB9mbnm1Z7VNUXyUvns46yVkthzn1MjWcnV5XZ81wqDT7MtbUtbJokcmG7mqFrXmfGzFGc3vR3uRLoaJKZKEtq7nuZohc2W5mAWJgkJK4D75Wg1z4fbf7w2rzWtHi35tNEYCNrpnRcCmYCMAQ4aK6LztbDeeUUtzQ7gpDLAawibunnw1mrx6aniXRQ6c813Cqx3VkNJCur3vn55hbkU9YNdwU62CsGMcyQDz9kAAbvgs8hrw4bEPvaNUz1PqbzUvKjXaTHYCVveAkRTfrH1GYFAggbYwVQLUHiViAwt7rLkALdJ59Va8A524DyoBmNxwooTf1y2u "$4.99 At Amazon")
+- [![Image may contain Home Decor Linen Lamp and Yarn](https://assets.bonappetit.com/photos/5d7173bc529791000898acb5/1:1/w_640%2Cc_limit/Basically_Twine.jpg)](https://cna. "$4.99 At Amazon")
 
       Kitchen Twine
 
-[$4.99 At Amazon](https://cna.st/p/269d4exZpzg43VDk2C2SkseEUTgwMDgqevVAvdCuEev8upmwz4HtxXjVwQYJJGVkrTQgJTxFUVSheB5xf3fQSq9n5rxrWHFMAu76ABjnKUcQyTDgefRaAM8tvmuRMZkRap33vriZSPvC1LTiVZsJwLQx96v3TgC3ohVmA3by36bBNPvSnMQqjMT7x8rKKtsBSJxEDsGqRdVQfeoZcX56rdPqNBWdEkB9xYdsFDY6tYcEGHAgfRLCpSedQ3FUg2L3eK7C61wkhhM1wB9mbnm1Z7VNUXyUvns46yVkthzn1MjWcnV5XZ81wqDT7MtbUtbJokcmG7mqFrXmfGzFGc3vR3uRLoaJKZKEtq7nuZohc2W5mAWJgkJK4D75Wg1z4fbf7w2rzWtHi35tNEYCNrpnRcCmYCMAQ4aK6LztbDeeUUtzQ7gpDLAawibunnw1mrx6aniXRQ6c813Cqx3VkNJCur3vn55hbkU9YNdwU62CsGMcyQDz9kAAbvgs8hrw4bEPvaNUz1PqbzUvKjXaTHYCVveAkRTfrH1GYFAggbYwVQLUHiViAwt7rLkALdJ59Va8A524DyoBmNxwooTf1y2u "$4.99 At Amazon")
+[$4.99 At Amazon](https://cna. "$4.99 At Amazon")
 
-- [![Image may contain Furniture Tabletop Wood Plywood and Rug](https://assets.bonappetit.com/photos/59693b227102712b68401a8c/1:1/w_640%2Cc_limit/basically-equipment-cutting-board.jpg)](https://cna.st/p/v6nQvBesQrzeMNxFR7X93ZBZVx1uhA8F7kb5jVtXVzBtHb192CDxkja3xrq8UbCm2sEVcKoQcaqrC358BQuCWH2zR5sEsR3aXZ6w8Qr6wJPv1vLvEaiwLt5c9pFMozX15FHqBNvYoG4s6uHmV2TA3sS36TTWXAsPEcWDyo58DUfw2Caipcabav38hgs8bysJATJV91o9vHxp6vFk8UJ8YVw4pcuTUhEoozcsHxAyFNM2EWCeyK8K37X7uj9p3vzqBXpR3YQtcf5NjXLVfJ7CKjCFNJQ6E4AFL23rJKuUeAWbQJGP8xcrp5fCDs9aqE4rd37iYrYbNErRPQLSZU97g5fNntWdonQP3Xv5ewB7m4q4zvEib93nvWtyDKaLRB "$10 At IKEA")
+- [![Image may contain Furniture Tabletop Wood Plywood and Rug](https://assets.bonappetit.com/photos/59693b227102712b68401a8c/1:1/w_640%2Cc_limit/basically-equipment-cutting-board.jpg)](https://cna. "$10 At IKEA")
 
       Cutting Board
 
-[$10 At IKEA](https://cna.st/p/v6nQvBesQrzeMNxFR7X93ZBZVx1uhA8F7kb5jVtXVzBtHb192CDxkja3xrq8UbCm2sEVcKoQcaqrC358BQuCWH2zR5sEsR3aXZ6w8Qr6wJPv1vLvEaiwLt5c9pFMozX15FHqBNvYoG4s6uHmV2TA3sS36TTWXAsPEcWDyo58DUfw2Caipcabav38hgs8bysJATJV91o9vHxp6vFk8UJ8YVw4pcuTUhEoozcsHxAyFNM2EWCeyK8K37X7uj9p3vzqBXpR3YQtcf5NjXLVfJ7CKjCFNJQ6E4AFL23rJKuUeAWbQJGP8xcrp5fCDs9aqE4rd37iYrYbNErRPQLSZU97g5fNntWdonQP3Xv5ewB7m4q4zvEib93nvWtyDKaLRB "$10 At IKEA")
+[$10 At IKEA](https://cna. "$10 At IKEA")
 
-- [![Image may contain Cutlery and Fork](https://assets.bonappetit.com/photos/597901f35e52a765a32832ce/1:1/w_640%2Cc_limit/Basically_Rubber-Spatula.jpg)](https://cna.st/p/5a1FMimJbzYf6PqEMtoKEo66nHzJYoZpg1xYC8aAo9Vyiv5Vd6s7SERbBoi14oqV2UuHtUAHTjWmQqB692DBzkfQYjbdfZPpxDeyS77A821oM6V4XCS9eMfFdcgX8Y6TSmCdTyk5EDo5qvsP8SgLV4eWmpUUEwJ4uCYwpt3HaSDKf837Jy99sWsfyppWtxFWdgSWaaaH5316NTWsfGZQVwGmq5kacUhgFLQ86bgwGSykVptZU7EFTc5PRJR8qQWtBDqDprSEArvv1xb6oy7PG6xApjdKRdzsAijjJc8c7GpipaZ65ebgjNF4So7VJz8JLoHXZvJ1k8nR448n9zJKFx1 "$13 At Amazon")
+- [![Image may contain Cutlery and Fork](https://assets.bonappetit.com/photos/597901f35e52a765a32832ce/1:1/w_640%2Cc_limit/Basically_Rubber-Spatula.jpg)](https://cna. "$13 At Amazon")
 
       Rubber Spatula
 
-[$13 At Amazon](https://cna.st/p/5a1FMimJbzYf6PqEMtoKEo66nHzJYoZpg1xYC8aAo9Vyiv5Vd6s7SERbBoi14oqV2UuHtUAHTjWmQqB692DBzkfQYjbdfZPpxDeyS77A821oM6V4XCS9eMfFdcgX8Y6TSmCdTyk5EDo5qvsP8SgLV4eWmpUUEwJ4uCYwpt3HaSDKf837Jy99sWsfyppWtxFWdgSWaaaH5316NTWsfGZQVwGmq5kacUhgFLQ86bgwGSykVptZU7EFTc5PRJR8qQWtBDqDprSEArvv1xb6oy7PG6xApjdKRdzsAijjJc8c7GpipaZ65ebgjNF4So7VJz8JLoHXZvJ1k8nR448n9zJKFx1 "$13 At Amazon")
+[$13 At Amazon](https://cna. "$13 At Amazon")
 
 - [![Image may contain Cutlery and Spoon](https://assets.bonappetit.com/photos/596940a3b85671732e0d556c/1:1/w_640%2Cc_limit/basically-equipment-large-spoon.jpg)](https://www.amazon.com/J-B-Prince-U715-Sauce-Spoon/dp/B009OL3UZI "$16.37 At Amazon")
 

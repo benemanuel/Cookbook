@@ -30,7 +30,7 @@ I have been wanting to veganise my [Hokkaido milk bread](https://domesticgothess
 
 This vegan Hokkaido milk bread is dangerously good, it takes some serious willpower not to just eat the whole loaf in a day... It is seriously the softest, most flavourful bread you will ever eat!
 
-![A chunk of torn vegan milk bread on a grey background](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%201053'%3E%3C/svg%3E "Vegan Hokkaido milk bread - a vegan version of the softest, fluffiest bread ever! This eggless and dairy free milk bread has a cloud-like texture and is perfect for breakfast and snacking. #vegan #plantbased #veganbread #veganmilkbread #milkbread #hokkaidomilkbread #veganbaking #veganbreadfast #bread")
+
 
 ### What Is Hokkaido Milk Bread?:
 
@@ -50,9 +50,9 @@ Not only does the starch in the flour absorb more liquid; since heating the star
 
 Because the bread retains more water during baking, it will be softer and more moist and stay fresh for longer.
 
-![Hands tearing apart a loaf of vegan Hokkaido milk bread](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%201053'%3E%3C/svg%3E "Vegan Hokkaido milk bread - a vegan version of the softest, fluffiest bread ever! This eggless and dairy free milk bread has a cloud-like texture and is perfect for breakfast and snacking. #vegan #plantbased #veganbread #veganmilkbread #milkbread #hokkaidomilkbread #veganbaking #veganbreadfast #bread")
 
-![Hands tearing apart a loaf of vegan Hokkaido milk bread](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%201053'%3E%3C/svg%3E "Vegan Hokkaido milk bread - a vegan version of the softest, fluffiest bread ever! This eggless and dairy free milk bread has a cloud-like texture and is perfect for breakfast and snacking. #vegan #plantbased #veganbread #veganmilkbread #milkbread #hokkaidomilkbread #veganbaking #veganbreadfast #bread")
+
+
 
 ## How To Make Vegan Hokkaido Milk Bread:
 
@@ -64,13 +64,13 @@ Start by making the tangzhong - whisk together some bread flour and milk in a pa
 
 Place the pan over a medium/low heat and whisk constantly until the mixture has thickened to a paste/pudding-like consistency (think wallpaper paste...). Scrape it into a small bowl, cover with baking parchment directly on the surface to prevent a skin from forming and set aside to cool to room temperature. (This only takes half an hour or so).
 
-![The tangzhong](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201053%20700'%3E%3C/svg%3E)
+
 
 Once the tangzhong has cooled (it will become much thicker as it cools, don't worry.), mix together the yeast (either fast action/instant or dry active is fine) with the rest of the (lukewarm) soy milk and a pinch of the sugar.
 
 Set it aside for about 10 minutes until it goes foamy. This step is only necessary if you are using dry active rather than instant yeast, but I like to do it with the instant as well as it enables to to check if your yeast is still active. If the mixture doesn't go foamy then your yeast is dead and you will need to buy more.
 
-![activating the yeast](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201053%20700'%3E%3C/svg%3E)
+
 
 Mix together the rest of your bread flour and sugar, along with a teaspoon of salt, in the bowl of a stand mixer. Add the cooled tangzhong, the yeast mixture and the aquafaba and mix until it forms a rough dough.
 
@@ -82,7 +82,7 @@ If you don't have a stand mixer then you can knead it by hand instead but be pre
 
 Place the dough in a lightly oiled bowl, cover and place in the fridge to rise overnight (or in a warm spot for 1-2 hours).
 
-![Step by step of making the dough](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%201000'%3E%3C/svg%3E)
+
 
 ### How To Shape The Loaf:
 
@@ -94,9 +94,9 @@ Roll each ball out into a long oval, fold one third of the oval over the middle 
 
 Roll over the seam to flatten it, then roll it up tightly from one end to make a fat sausage. Repeat with the other balls of dough then arrange them in the loaf tin, seam side down.
 
-![step by step of shaping the dough](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%20700'%3E%3C/svg%3E)
 
-![The shaped rolls of dough](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201053%20700'%3E%3C/svg%3E)
+
+
 
 Loosely cover and leave to rise until at least doubled in size, it should rise above the top of the tin. This can take 1-2 hours (mine took 1 ½). It will be slower if the dough was refrigerated overnight, and quicker if it had it's first rise at room temperature.
 
@@ -104,7 +104,7 @@ If you press the dough gently with a finger the indentation should spring back s
 
 Once the loaf has risen, gently brush the top with a mixture of maple syrup and water, making sure that none drips down the sides as that can make the bread stick to the tin. If you don't want a sweet glaze then you can brush it with aquafaba instead.
 
-![before and after of the rising loaf](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202000%20680'%3E%3C/svg%3E)
+
 
 Place the loaf in a preheated oven and bake for 30-50 minutes, until a probe thermometer reaches 94C/201F when poked into the middle of the loaf. You may need to cover the top loosely with tin foil part way through baking if it starts to colour too much.
 
@@ -112,13 +112,13 @@ If you want the loaf to have a shinier crust, brush it with some more of the map
 
 Once the vegan Hokkaido milk bread is baked, remove it from the oven and brush with some more of the glaze. Let it cool in the tin for 10 minutes then lift it out onto a wire rack to cool completely before slicing.
 
-![Side shot of a loaf of baked milk bread](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201053%20700'%3E%3C/svg%3E)
+
 
 ### Can I Freeze Vegan Hokkaido Milk Bread?:
 
 Yes. I like to freeze this vegan Hokkaido milk bread in individual slices then pop them in the toaster or under the grill straight from frozen as needed.
 
-![A sliced loaf of milk bread](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%201053'%3E%3C/svg%3E "Vegan Hokkaido milk bread - a vegan version of the softest, fluffiest bread ever! This eggless and dairy free milk bread has a cloud-like texture and is perfect for breakfast and snacking. #vegan #plantbased #veganbread #veganmilkbread #milkbread #hokkaidomilkbread #veganbaking #veganbreadfast #bread")
+
 
 ### Vegan Ingredient Swaps:
 
@@ -132,7 +132,7 @@ I did test a loaf using coconut oil instead of butter, but found it to be a litt
 
 I also found that the vegan version needed a higher hydration level than the non-vegan one, which is why the recipe reads rather differently to my original.
 
-![Close up of the crumb of vegan Hokkaido milk bread](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%201053'%3E%3C/svg%3E)
+
 
 ### Quick Notes:
 
@@ -148,7 +148,7 @@ I also found that the vegan version needed a higher hydration level than the non
 
 ***If you tried this recipe why not tag [@domestic_gothess](https://www.instagram.com/domestic_gothess/) on Instagram and hashtag it #domesticgothess***
 
-![A sliced loaf of milk bread](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+
 
 [ Print](https://domesticgothess.com/wprm_print/vegan-hokkaido-milk-bread)
 
@@ -244,9 +244,9 @@ Vegan Hokkaido milk bread - a vegan version of the softest, fluffiest bread ever
 
 For the best results make sure that you follow the recipe closely. As always, I highly recommend using the gram measurements (with a digital scale), rather than the cup conversions. Cup measurements are simply not accurate enough for baking and I cannot guarantee the best results if you use them.
 
-![slices of milk bread on a grey background with a beige cloth.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20700%201053'%3E%3C/svg%3E "Vegan Hokkaido milk bread - a vegan version of the softest, fluffiest bread ever! This eggless and dairy free milk bread has a cloud-like texture and is perfect for breakfast and snacking. #vegan #plantbased #veganbread #veganmilkbread #milkbread #hokkaidomilkbread #veganbaking #veganbreadfast #bread")
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20680%201300'%3E%3C/svg%3E "Vegan Hokkaido milk bread - a vegan version of the softest, fluffiest bread ever! This eggless and dairy free milk bread has a cloud-like texture and is perfect for breakfast and snacking. #vegan #plantbased #veganbread #veganmilkbread #milkbread #hokkaidomilkbread #veganbaking #veganbreadfast #bread")
+
+
 
 ### More Bread, Buns and Yeasted Bakes
 

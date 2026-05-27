@@ -71,7 +71,7 @@ Readers who have made this recipe are raving about it! Here is what they had to 
 
 This sourdough brioche bread from an enriched dough with a lovely soft texture, tender crumb and subtle sourdough tang. Once you’ve got the hang of this rich dough, it can be made into many different things. Think sourdough brioche buns, [brioche cinnamon rolls](https://homegrownhappiness.com/brioche-sourdough-cinnamon-rolls/), [sourdough babka](https://homegrownhappiness.com/sourdough-cinnamon-babka/), brioche savory swirls, hamburger buns… And leftover brioche the next day makes delicious [brioche French toast](https://homegrownhappiness.com/french-toast-with-brioche-bread/). For more sourdough recipes, check out my [sourdough collection](https://homegrownhappiness.com/category/sourdough/)!
 
-![Two hands pull apart a piece of fluffy, golden-brown sourdough brioche bread from a loaf resting on a cooling rack. The texture looks soft and airy, highlighting the freshly baked, glossy crust.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 ### Ingredients and Why
 
@@ -85,7 +85,7 @@ Here’s a breakdown of the key ingredients in this sourdough brioche recipe and
 - **Salt:** Enhances flavour and also helps strengthen the gluten structure.
 - **Butter:** Adds richness and tenderness. I work the butter into the dough in stages.
 
-![A close-up of a sliced loaf of bread on a cooling rack. The bread has a golden-brown crust and a fluffy, light interior.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 
 
@@ -152,26 +152,26 @@ There are a few timings that can be used for this brioche. Here are two examples
 
 - In a mixing bowl, combine the flour, sugar, salt, eggs, sourdough starter, and milk. Mix until a rough dough forms. Add in the cubed butter, a few pieces at a time. Incorporate each cube before the next addition.
 
-![egg, starter milk in mixer.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 *Add everything except for the butter into the stand mixer bowl.*
 
-![A hand holds a piece of butter over a stand mixer containing dough. The dough appears smooth and light in color, while the mixer and bowl are metallic.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 *Knead it for 5 minutes to begin the gluten development before adding the butter.*
 
 - Gradually add room-temperature butter, a tablespoon at a time, while kneading or mixing. The butter should be firm but pliable, not melty.
 - The dough will start out sticky but will become silky and elastic as the butter is fully incorporated. This process can take around 15 minutes.
 
-![A mixing bowl filled with creamy, light tan dough being mixed by a stand mixer, with the beater partially visible on the left. The dough has a sticky texture.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 *The dough will be very sticky and fragile initially as the butter is added.*
 
-![A close-up of dough being mixed in a silver stand mixer bowl. The dough is smooth and creamy, forming a cohesive mass as it wraps around the mixing attachment. The white base of the mixer is partially visible.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 *As the mixing goes on it will gain strength and become smooth and glossy.*
 
-![dough being stretched](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20683%201024'%3E%3C/svg%3E)
+
 
 **Window pane test:** The windowpane test checks if your brioche dough has enough gluten development. Gently stretch a small piece of dough between your fingers—if it stretches thin enough to see light through without tearing, it’s ready.
 
@@ -196,11 +196,11 @@ It can seem daunting and like it’s not coming together, but it will. Here is a
 - Place the shaped dough into a prepared loaf pan or onto a baking tray. Cover and proof in a warm spot for 5-8 hours, or until doubled in size.
 - After proofing, brush with egg wash.
 
-![A loaf pan filled with eight round pieces of dough, evenly spaced and ready to rise or bake. The soft, smooth dough sits on parchment paper inside the rectangular metal pan, placed on a light gray surface.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 *The little dough balls will fit snugly in the baking time.*
 
-![Close-up of a person brushing melted butter over six unbaked bread rolls in a metal baking pan. The rolls are smooth and slightly glossy, ready for baking. The background is softly blurred.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 *Give them enough time to rise so they’re nice and puffy and doubled in size.*
 
@@ -209,9 +209,9 @@ It can seem daunting and like it’s not coming together, but it will. Here is a
 - Bake the risen brioche loaves until deep golden brown.
 - Once baked, let it cool to room temperature to slice it like bread.
 
-![Golden-brown brioche loaf in a silver baking pan on a cooling rack, showcasing a soft, fluffy texture with a well-baked top crust.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
 
-![Two slices of golden brown sourdough brioche bread are placed in front of a larger brioche loaf on a cooling rack. The bread boasts a soft, airy texture and a light crust, resting elegantly on a marble surface.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
+
 
 ### FAQS
 
@@ -239,7 +239,7 @@ If you enjoyed this sourdough brioche recipe, you might like these too!
 
 **Check out more enriched doughs**: If you want to try more soft and rich doughs, visit my[Enriched Sourdough hub](https://homegrownhappiness.com/sourdough/enriched-sourdough-recipes/). You can also browse everything in one place on the main [Sourdough hub](https://homegrownhappiness.com/sourdough/).
 
-![Close-up of freshly baked sourdough brioche slices with a golden crust and a light, airy interior. The bread rests on a cooling rack, highlighting its fluffy texture and even crumb.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%20250'%3E%3C/svg%3E)
+
 
 ### Sourdough Brioche Bread
 

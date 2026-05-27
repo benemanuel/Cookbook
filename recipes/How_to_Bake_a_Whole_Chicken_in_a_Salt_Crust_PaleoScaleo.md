@@ -31,7 +31,7 @@ I thought it sounded like a crazy kitchen experiment...so of course I had to try
 
 There's a similar technique called salt baked chicken, which has more of an Asian descent. This is a slightly different technique.
 
-![Side view of a chicken on a baking sheet covered in a salt crust](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20530'%3E%3C/svg%3E)
+
 
 ## How to make salt crusted chicken
 
@@ -45,15 +45,15 @@ If you need some detailed step-by-step instructions for your first go at it, [th
 
 This is what a fully spatchcocked chicken looks like:
 
-![Overhead view of a spatchcocked chicken on a baking sheet](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20530'%3E%3C/svg%3E)
+
 
 ### Step 2: Tuck the wings
 
 Once you've gotten it spatchcocked, make sure you grab the wings and tuck them back underneath the breasts.
 
-![Person's hand holding a chicken wing on a baking sheet](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20530'%3E%3C/svg%3E)
 
-![Person's hand tucking a chicken's wing under on a baking sheet](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20530'%3E%3C/svg%3E)
+
+
 
 ### Step 3: Make your salt crust mixture.
 
@@ -63,7 +63,7 @@ You may need to adjust your ratios - just add the water a bit at a time until yo
 
 This was 6 cups of salt and 1 ½ cups of water:
 
-![Overhead view of a bowl of salt and water mixture](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20530'%3E%3C/svg%3E)
+
 
 ### Step 4: Salt crust your chicken
 
@@ -71,7 +71,7 @@ Lastly, you just take that big bowl of salt and dump it out on top of the chicke
 
 Pat it down tight so everything is covered - remember, you're making a "crust." Try to get it so that you can't see anything except the shape of something resembling a chicken covered in salt.
 
-![Chicken covered in a salt crust before baking on a baking sheet](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20530'%3E%3C/svg%3E)
+
 
 This is a super-fun activity for kids, too - just tell them to bury the chicken!
 
@@ -81,7 +81,7 @@ You're going to bake the salt crusted chicken for *awhile*. I know it seems like
 
 The salt crust will crack a bit, and the water that pooled on the edges will brown up the salt and cook into a harder crust - that's ok. When you touch the salt, you'll find that it's no longer like sand, and instead is hard as a rock.
 
-![Overhead view of baked chicken covered in a salt crust](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20530'%3E%3C/svg%3E)
+
 
 Now here's where the "not pretty but super fun" part comes in - you have to break through that salt!
 
@@ -93,9 +93,9 @@ If you're doing this with kids, give them a mallet and have them smash open thei
 
 Here's what mine looked like when I broke it open:
 
-![Overhead view of salt crusted chicken after baking with salt crust cracked open](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20530'%3E%3C/svg%3E)
 
-![Overhead view of salt crusted chicken after baking with salt crust cracked open](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20530'%3E%3C/svg%3E)
+
+
 
 Yeah, so, like I said - not super pretty, and chicken boob skin stuck to the salt. BUT.
 

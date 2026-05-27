@@ -23,7 +23,7 @@ by [Jillian](https://abajillianrecipes.com/author/jillianhb87yahoo-com/) May 8, 
 
 written by [Jillian](https://abajillianrecipes.com/author/jillianhb87yahoo-com/) May 8, 2023
 
-[![Supremely moist chocolate cake, light and creamy layers of milk AND white chocolate mousse, and a velvety blanket of rich chocolate ganache!](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201170%201170'%3E%3C/svg%3E "Triple Chocolate Mousse Torte | A baJillian Recipes")](https://abajillianrecipes.com/wp-content/uploads/2023/04/Triple-Chocolate-Mousse-Torte-A-baJillian-Recipes-9.jpg)
+
 
 *34.7K*
 

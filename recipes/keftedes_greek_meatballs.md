@@ -28,7 +28,7 @@ So read along to discover my **traditional recipe**, **variations**, **side dish
 
 Keftedes (Greek meatballs) is a famous Greek appetizer, commonly served as part of a meze platter, with some creamy [tzatziki sauce](https://www.mygreekdish.com/recipe/tzatziki-yogurt-and-cucumber-sauce/) and [pita breads](https://www.mygreekdish.com/recipe/the-easiest-homemade-pita-bread/), and as a side to a slice of delicious [traditional Greek Moussaka](https://www.mygreekdish.com/recipe/mousakas/). Keftedes can also be served as a filling meal with some basmati rice and a nice [Greek feta salad](https://www.mygreekdish.com/recipe/greek-feta-salad/).
 
-![Greek Meatballs recipe (Keftedes - Keftethes)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201892%202560'%3E%3C/svg%3E)
+
 
 Leftovers (which is a good thing in this case!) make a delicious brand new dish, added in a tomato-based sauce with some mashed potatoes, or pasta.
 
@@ -42,7 +42,7 @@ Leftovers (which is a good thing in this case!) make a delicious brand new dish,
 - **Egg and some stale bread:** is used to bind the mixture. You can substitute the stale bread with some panko or plain breadcrumbs. However, the panko ones make your meatballs more fluffy!
 - **Olive oil** is best for frying the meatballs and you’ll want a little flour as well for dredging them just before cooking.
 
-![Greek Meatballs recipe (Keftedes - Keftethes) ingredients](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201710%202560'%3E%3C/svg%3E)
+
 
 ### Key Preparation Steps
 
@@ -51,7 +51,7 @@ There’s only really two steps involved with making meatballs:
 1. Make the meatballs by adding the ingredients together
 2. Cook the meatballs either by frying or oven cooking
 
-![Greek Meatballs recipe (Keftedes - Keftethes) meatball mixture](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201625%202560'%3E%3C/svg%3E)
+
 
 ### Make the meatballs
 
@@ -59,7 +59,7 @@ To make Greek pork meatballs (keftedes), combine all of the ingredients in a lar
 
 Turn the keftedes out of the fridge and roll them into meatballs about the size of a walnut (or bigger if you prefer). If you’re frying them, lightly flour them before frying to ensure even browning.
 
-![Greek Meatballs recipe (Keftedes - Keftethes) meatball mixture - ready to shape](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201707%202560'%3E%3C/svg%3E)
+
 
 ### Cook the meatballs
 
@@ -69,7 +69,7 @@ Instead of frying, you may bake / grill the keftedes in the oven. Preheat the ov
 
 Bake for 20 minutes, turning the meatballs upside down halfway through cooking time. Because this is grilled rather than fried, it is perfect if you want a healthier option!
 
-![Greek Meatballs recipe (Keftedes - Keftethes) meatballs shaped](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201646%202560'%3E%3C/svg%3E)
+
 
 ### What’s the difference between Greek meatballs and normal meatballs?
 
@@ -89,7 +89,7 @@ Last but not least, a very unique variation of the traditional fried Greek meatb
 
 The traditional diced beef of the giouvetsi is substituted with crispy fried meatballs (keftedes) and then baked in a rich tomato based sauce and orzo pasta or chilopites. Just too good to miss out on! Oh and you can always read this delicious recipe in Greek here [Κεφτεδάκια τηγανητά συνταγή](http://www.tastycooking.gr/recipe/syntagi-afrata-keftedakia-tiganita-keftedes/).
 
-![Greek Meatballs recipe (Keftedes - Keftethes)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202560%201938'%3E%3C/svg%3E)
+
 
 ### Making ahead of time and storing
 

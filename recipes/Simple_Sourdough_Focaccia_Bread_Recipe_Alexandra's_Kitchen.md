@@ -17,7 +17,7 @@ labels: [dairy, bread, cake]
 
 ## Simple Sourdough Focaccia: A Beginner’s Guide
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2038%2038'%3E%3C/svg%3E) By [Alexandra Stafford](https://alexandracooks.com/alexandra-stafford/ "Visit Alexandra Stafford’s website") — Last Updated: 01/22/2026
+ By [Alexandra Stafford](https://alexandracooks.com/alexandra-stafford/ "Visit Alexandra Stafford’s website") — Last Updated: 01/22/2026
 
 [Jump To Recipe](#tasty-recipes-59147)
 
@@ -33,7 +33,7 @@ This post may contain affiliate links. Please read my [disclosure policy](/updat
 
 *With its oil-crisped crust and light, bubbly crumb, sourdough focaccia is a delicious and versatile bread, perfect for sandwiches but also great as an appetizer and dinner bread. It’s also one of the easiest breads to make. Find step-by-step instructions on how to make this wildly popular bread below!*
 
-![sourdough focaccia, crumb shot](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20680%201020'%3E%3C/svg%3E)
+
 
 Adapted from my favorite yeasted, slow-rise focaccia recipe — [overnight refrigerator focaccia](https://alexandracooks.com/2018/03/02/overnight-refrigerator-focaccia-best-focaccia/) — this sourdough focaccia recipe replaces the yeast with a sourdough starter. If you are interested in getting started with sourdough, focaccia is the ideal place to start.
 
@@ -45,81 +45,81 @@ Focaccia, sourdough or otherwise, is my favorite bread for so many reasons, name
 
 First, wake up your starter by feeding it. If you don’t have a starter and don’t have a friend who can lend you one, I recommend [buying one](https://breadtopia.com/store/sourdough-starter-live/). When you are ready to feed your starter, discard most of it, down to a tablespoon or two, then add about 45 g flour…
 
-![feeding the sourdough starter with flour](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
 
 … and 45 g water. You don’t have to be exact, but when you’re getting started, I think it’s helpful to weigh both the water and flour. Depending on how long the starter has been in the fridge, it may need one or two feedings before use.
 
-![feeding the sourdough starter with water](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20680%20453'%3E%3C/svg%3E)
+
 
 If you stick a rubber band around your starter vessel, you’ll know when …
 
-![sourdough starter, beginning to rise](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20680%20453'%3E%3C/svg%3E)
+
 
 … it has doubled and is ready for use.
 
-![sourdough starter, doubled](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20680%20453'%3E%3C/svg%3E)
+
 
 If you need reassurance as to if it’s ready, you can do the float test: drop a spoonful of starter into a glass of water. If it floats, it’s ready.
 
-![sourdough, float test](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20680%20453'%3E%3C/svg%3E)
+
 
 As with all bread, when mixing sourdough doughs, it’s best to weigh everything with a **[digital scale](https://amzn.to/4qLMd0H)**. Start with 100 g starter.
 
-![weighing the starter: 100g](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20680%20453'%3E%3C/svg%3E)
+
 
 Add 10 g kosher (or other) salt.
 
-![adding the salt](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20680%20453'%3E%3C/svg%3E)
+
 
 Add 440 g water. (See recipe notes: If you live in a humid environment, you may want to use less.)
 
-![adding the water](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20680%20453'%3E%3C/svg%3E)
+
 
 Stir to combine.
 
-![stirring the starter, salt, and water together](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20680%20453'%3E%3C/svg%3E)
+
 
 Add 512 g bread flour.
 
-![adding the flour](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20680%20453'%3E%3C/svg%3E)
+
 
 Stir to form a sticky dough ball.
 
-![mixed dough](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20680%20453'%3E%3C/svg%3E)
+
 
 Cover with a towel or bowl cover, and let rise for 8 – 18 hours at room temperature (times will vary depending on the time of year and how warm your kitchen is … in the summer, this may take only 4 hours):
 
-![dough rising, Dot and Army cloth bowl cover](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20680%20453'%3E%3C/svg%3E)
+
 
 When it doubles …
 
-![sourdough focaccia after 18 hour rise](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20680%20453'%3E%3C/svg%3E)
+
 
 … drizzle it with some olive oil.
 
-![sourdough focaccia after 18 hour rise, drizzled with olive oil, ready to be punched](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20680%20453'%3E%3C/svg%3E)
+
 
 Deflate the dough by pulling the sides into the center.
 
-![sourdough focaccia dough, punch down after 18 hours](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20680%20453'%3E%3C/svg%3E)
+
 
 Dough, ready to make it’s second rise, which will take 5-6 hours. Love **[this USA Pan](https://www.amazon.com/gp/product/B0029JOC6I/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=alexandrask06-20&creative=9325&linkCode=as2&creativeASIN=B0029JOC6I&linkId=8766a67fb99a14b00ea6151c9aa67307)**.
 
-![sourdough focaccia dough, ready for second rise](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20680%20453'%3E%3C/svg%3E)
+
 
 After 5-6 hours, the dough is ready to be dimpled and stretched and salted. Bake at 425ºF for 25 minutes.
 
-![sourdough focaccia, ready for the oven](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20680%20453'%3E%3C/svg%3E)
+
 
 Just-baked sourdough focaccia:
 
-![sourdough focaccia, just baked](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20680%20453'%3E%3C/svg%3E)
 
-![Just-baked sourdough focaccia.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20680%201020'%3E%3C/svg%3E)
 
-![freshly baked sourdough focaccia, crumb shot](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20680%20453'%3E%3C/svg%3E)
 
-![freshly baked sourdough focaccia, cut](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20680%20453'%3E%3C/svg%3E)
+
+
+
+
 
  [Print](https://alexandracooks.com/2019/03/22/simple-sourdough-focaccia-a-beginners-guide/print/59147/)
 

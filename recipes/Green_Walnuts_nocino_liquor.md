@@ -37,7 +37,7 @@ Once I have a sufficient haul, I bring the nuts to [The Farm and Fisherman Taver
 
 After letting it rest for an additional month, it’s ready to be shared with restaurant guests, friends and family just in time for the holidays. Nocino is wonderful on its own as a digestivo, but it can really shine in cocktails playing a supporting role to dark spirits. Try swapping it in where vermouth or amari might otherwise be used or use it in conjunction with them as I’ve done in this Black Walnut Boulevardier below.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20678%201024'%3E%3C/svg%3E)
+
 
 **Walnut Nocino**
 
@@ -92,7 +92,7 @@ Inline Feedbacks
 
 View all comments
 
-![Jules](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3C/svg%3E)
+
 
 [Jules](http://NA)
 
@@ -112,7 +112,7 @@ Hi! So I accidentally left my green walnuts soaking for a year (oops) I’m proc
 
 View Replies (1)
 
-![Erik](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3C/svg%3E)
+
 
 Erik
 
@@ -130,7 +130,7 @@ Should I worry about adding the water too quickly? I know that whisky makers ten
 
  Reply
 
-![Elisa Smith](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3C/svg%3E)
+
 
 Elisa Smith
 
@@ -148,7 +148,7 @@ My unripe black walnuts are 7/8” in diameter in the Seattle area. Should I let
 
  Reply
 
-![Michelle pedroni](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3C/svg%3E)
+
 
 Michelle pedroni
 
@@ -177,7 +177,7 @@ Republish!
 
 Republish This Story
 
-[![Creative Commons License](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2088%2031'%3E%3C/svg%3E)](https://creativecommons.org/licenses/by-nd/4.0/)
+
 
 Republish our articles for free, online or in print, under a Creative Commons license.
 
@@ -185,7 +185,7 @@ Close window
 
 ### Republish this article
 
-[![Creative Commons Attribution-NoDerivatives 4.0 International License](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)](https://creativecommons.org/licenses/by-nd/4.0/)
+
 
 This work is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nd/4.0/).
 

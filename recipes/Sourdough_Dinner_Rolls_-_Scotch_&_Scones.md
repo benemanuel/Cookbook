@@ -58,7 +58,7 @@ If I could give this recipe 10 stars, I definitely would! I just started sourdou
 
 You'll need the following ingredients to make this sourdough dinner rolls recipe:
 
-![Sourdough Dinner Rolls ingredients portioned into glass bowls.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1200'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
+
 
 ### Ingredient Notes
 
@@ -88,7 +88,7 @@ Like most dinner roll recipes, this one takes just a little bit of action. Most 
 
 Combine the dough ingredients in a stand mixer, then knead until a slightly tacky dough forms. Shape the dough into a smooth ball and place in a lightly oiled bowl. Allow the dough to rise until it has doubled in size, about 1 to 2 hours (**photo 1**).
 
-![sourdough dinner roll dough in white bowl before &amp; after rising collage](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1200'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
+
 
 *Shape the dough into a smooth ball, then let it rest and rise*
 
@@ -96,13 +96,13 @@ Combine the dough ingredients in a stand mixer, then knead until a slightly tack
 
 This soft, silky dough is now ready to be shaped into balls. Start by portioning the dough into 16 individual pieces (**photo 2**).
 
-![sourdough dinner roll dough on pastry mat before &amp; after portioning collage](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1200'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
+
 
 *Portion the rested dough into 16 pieces*
 
 Roll each piece into a tight ball. Place 8 each into two [9-inch round cake pans](https://amzn.to/3lmHxf3) (**photo 3**). Cover with plastic wrap and allow the rolls to rise until puffy (about an hour).
 
-![shaped sourdough dinner roll dough on pastry mat and separating into round baking pans collage](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1200'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
+
 
 *Roll the pieces into balls*
 
@@ -110,7 +110,7 @@ Roll each piece into a tight ball. Place 8 each into two [9-inch round cake pans
 
 Bake the rolls at 350˚F for 20 to 25 minutes (**photo 4**).
 
-![sourdough dinner rolls before &amp; after baking collage](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1200'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
+
 
 *Sourdough dinner rolls before and after a trip to the oven*
 
@@ -152,11 +152,11 @@ Ask AI to answer for this specific recipe:
 
 Disclaimer: I am not responsible for the quality of AI information
 
-![Sourdough Dinner Rolls on a checkered towel with one split open and buttered with butter knife](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1200'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
 
-![Sourdough Dinner Rolls stacked 1](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1200'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
 
-![Tammy dressed in her culinary school chef's coat.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='720'%20height='720'%20viewBox='0%200%20720%20720'%3E%3C/svg%3E)
+
+
+
 
 I hope you like this recipe! Let me know if you have any questions, and don't forget to leave a comment and rating. Thanks!
 
@@ -177,7 +177,7 @@ Slainté! L'chaim! Cheers!
 
 ---
 
-[![Cover of How to Maintain Sourdough Starter e-book showing a crock of sourdough starter next to a small glass bowl of sourdough discard.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='600'%20height='600'%20viewBox='0%200%20600%20600'%3E%3C/svg%3E)](https://www.scotchandscones.com/shop/)
+
 
 ### Good news for sourdough bakers!
 
@@ -189,7 +189,7 @@ Plus, get my **bonus recipe** for naturally-leavened sourdough bread using unfed
 
 ### Recipe
 
-![Two sourdough dinner rolls stacked on a purple checked towel with bowl of rolls in background.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='270'%20height='270'%20viewBox='0%200%20270%20270'%3E%3C/svg%3E)
+
 
 ### Soft Sourdough Discard Dinner Rolls
 

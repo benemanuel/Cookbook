@@ -17,7 +17,7 @@ labels: [meat, dairy, cake]
 
 ## Homemade Baileys Irish Cream
 
-[![Avatar photo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2064%2064'%3E%3C/svg%3E)](https://www.averiecooks.com/about-averie/)
+
 
 [Averie Sunshine](https://www.averiecooks.com/about-averie/)
 
@@ -35,7 +35,7 @@ Updated: Oct 14, 2024
 
 **Homemade Baileys Irish Cream** — 🎉🧡🙌🏻 Homemade Baileys Irish Cream comes together 1 minute, with ingredients you likely already have on hand. Rich, creamy, and the flavor is a dead ringer for store-bought!
 
-![Homemade Baileys Irish Cream - Make in 1 minute averiecooks.com](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20650%20800'%3E%3C/svg%3E "Homemade Baileys Irish Cream - Make in 1 minute averiecooks.com")
+
 
 ## Table of Contents
 
@@ -53,7 +53,7 @@ The flavor is spot on and so very creamy. I used half-and-half rather than cream
 
 Between the sweetened condensed milk, half-and-half, and vanilla it’s no wonder I’ve always loved the stuff. Dessert in a shot glass.
 
-![Homemade Baileys Irish Cream - Make in 1 minute averiecooks.com](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20629%20800'%3E%3C/svg%3E "Homemade Baileys Irish Cream - Make in 1 minute averiecooks.com")
+
 
 I don’t think it’s any cheaper to make homemade Irish cream, but it’s also not more expensive than store-bought. With the exception of the Irish whiskey, I always have the rest of the ingredients on hand so it didn’t feel like I bought things just to make homemade Baileys from scratch.
 
@@ -61,7 +61,7 @@ I don’t think it’s any cheaper to make homemade Irish cream, but it’s also
 
 At parties, there’s always that one person who can mix a great drink, juggle shot glasses, catch peanuts in their mouth, or tie cherry stems into knots with their tongue. Now you’ll be the star of the party with this little Baileys recipe up your sleeve.
 
-![Homemade Baileys Irish Cream - Make in 1 minute averiecooks.com](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20585%20800'%3E%3C/svg%3E "Homemade Baileys Irish Cream - Make in 1 minute averiecooks.com")
+
 
 ### Recipe Ingredients
 
@@ -76,7 +76,7 @@ At parties, there’s always that one person who can mix a great drink, juggle s
 
 ***Note****: Scroll down to the recipe card section of the post for the ingredients with amounts included and for more complete directions.*
 
-![Homemade Baileys Irish Cream - Make in 1 minute averiecooks.com](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20589%20800'%3E%3C/svg%3E "Homemade Baileys Irish Cream - Make in 1 minute averiecooks.com")
+
 
 ### How to Make Baileys Irish Cream
 
@@ -88,7 +88,7 @@ If stored in an air-tight container, homemade Baileys can last up to 2 months in
 
 I also recommend shaking the homemade Baileys before enjoying it, just to mix everything back together.
 
-![Homemade Baileys Irish Cream - Make in 1 minute averiecooks.com](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20622%20800'%3E%3C/svg%3E "Homemade Baileys Irish Cream - Make in 1 minute averiecooks.com")
+
 
 ### Recipe FAQs
 
@@ -118,24 +118,24 @@ We love using Baileys in these [**Death by Chocolate No-Bake Cheesecake Bars**](
 
 Yes! The homemade Irish Cream needs to be refrigerated. The alcohol acts as a preservative, but there’s still lots of milk and cream in the mixture and you do not want it to go bad! The Baileys recipe will last about 2 months in the fridge.
 
-![Homemade Baileys Irish Cream - A homemade DIY version that takes 1 minute to blend &amp; is a dead ringer for the real thing!](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20630%201260'%3E%3C/svg%3E "Homemade Baileys Irish Cream - A homemade DIY version that takes 1 minute to blend &amp; is a dead ringer for the real thing!")
 
-[![A glass of creamy smoothie with visible specks, possibly spices or seeds, on a light fabric surface.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20378%20529'%3E%3C/svg%3E)](https://www.averiecooks.com/santas-magic-potion-eggnog-baileys/)
+
+
 
 ### [Santa’s Magic Potion {Eggnog and Baileys}](https://www.averiecooks.com/santas-magic-potion-eggnog-baileys/)
 
-[![Chocolate martini with a crushed biscuit rim served in a stemmed glass.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20378%20529'%3E%3C/svg%3E)](https://www.averiecooks.com/creamy-nutella-martini/)
+
 
 ### [Creamy Nutella Martini](https://www.averiecooks.com/creamy-nutella-martini/)
 
-[![Two Frozen Irish Mudslides.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20378%20529'%3E%3C/svg%3E)](https://www.averiecooks.com/frozen-irish-mudslide/)
+
 
 ### [Frozen Irish Mudslide](https://www.averiecooks.com/frozen-irish-mudslide/)
 
-![Two glass mugs filled with homemade Baileys Irish cream are placed on a wooden surface. The top image shows a closer view of the drink, while the bottom image provides a wider angle.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%201260'%3E%3C/svg%3E)
-![A glass of homemade Baileys Irish Cream on a wooden surface.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%201200'%3E%3C/svg%3E)
 
-![Glasses of milk on a wooden table.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20375%20485'%3E%3C/svg%3E)
+
+
+
 
 [ Remove Ads](https://www.averiecooks.com/plans/ad-free-membership/) [ Review](#commentform) [ Save](#)[ Saved](#) [ Print](https://www.averiecooks.com/wprm_print/homemade-baileys-irish-cream)
 
@@ -214,14 +214,14 @@ Consider leaving a 5 star rating if you’ve made and loved one of my recipes!
 
 [Sparkling Cranberry Orange Christmas Punch](https://www.averiecooks.com/sparkling-christmas-punch/) — Put some SPARKLE in your holidays with this EASY and FESTIVE punch that everyone loves!! Can be made in strengths ranging from non-alcoholic to knock-you-for-a-punch!!
 
-![A glass pitcher filled with red punch, garnished with cranberries and orange slices. Orange wedges and cranberries are scattered around on the white surface.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20650%20975'%3E%3C/svg%3E)
+
 
 [Sparkling Apple Cider Sangria](https://www.averiecooks.com/sparkling-apple-cider-sangria/)— Apples, oranges, pomegranate seeds, and cinnamon sticks with sparkling cider are a FUN twist on classic sangria!! So easy! Make it for your next party and everyone will want a refill!!
 
-![A clear pitcher filled with white sangria, containing sliced apples, oranges, and pomegranate seeds.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20650%20975'%3E%3C/svg%3E)
+
 
 [Manhattan Cocktail](https://www.averiecooks.com/manhattan-cocktail/) — This classic bourbon cocktail is made with vermouth, Angostura bitters, and orange peel for a sophisticated and easy drink everyone should know how to make!
 
-![Two cocktails with orange and cherry garnishes on a blue tray, surrounded by a bottle of whiskey, a bottle of vermouth, a cocktail shaker, and fresh oranges.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20650%20975'%3E%3C/svg%3E)
+
 
 *Originally posted March 14, 2013 and reposted March 17, 2021 with updated text.*

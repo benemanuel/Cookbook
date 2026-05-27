@@ -25,7 +25,7 @@ labels: [meat, dairy, cake, candy]
 
 מאת [רחלי קרוט](https://www.krutit.co.il/author/raheli/) 15 במרץ 2018
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20765%20512'%3E%3C/svg%3E "חמוצים בסגנון סוהו")](https://www.krutit.co.il/wp-content/uploads/2018/03/DSC_0381.jpg)
+
 
 *3.6K*
 
@@ -89,7 +89,7 @@ labels: [meat, dairy, cake, candy]
 -  [](whatsapp://send?text=חמוצים%20בסגנון%20סוהו%20https://www.krutit.co.il/%d7%97%d7%9e%d7%95%d7%a6%d7%99%d7%9d-%d7%91%d7%a1%d7%92%d7%a0%d7%95%d7%9f-%d7%a1%d7%95%d7%94%d7%95/ "Share on WhatsApp")
 -  [](fb-messenger://share/?link=https%3A%2F%2Fwww.krutit.co.il%2F%25d7%2597%25d7%259e%25d7%2595%25d7%25a6%25d7%2599%25d7%259d-%25d7%2591%25d7%25a1%25d7%2592%25d7%25a0%25d7%2595%25d7%259f-%25d7%25a1%25d7%2595%25d7%2594%25d7%2595%2F "Share on Facebook Messenger")
 
-30 תגובות 0[#](# "Like") [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://www.krutit.co.il/%d7%97%d7%9e%d7%95%d7%a6%d7%99%d7%9d-%d7%91%d7%a1%d7%92%d7%a0%d7%95%d7%9f-%d7%a1%d7%95%d7%94%d7%95/)[Twitter](https://x.com/intent/tweet?text=Check%20out%20this%20article:%20%D7%97%D7%9E%D7%95%D7%A6%D7%99%D7%9D%20%D7%91%D7%A1%D7%92%D7%A0%D7%95%D7%9F%20%D7%A1%D7%95%D7%94%D7%95%20-%20https://www.krutit.co.il/%d7%97%d7%9e%d7%95%d7%a6%d7%99%d7%9d-%d7%91%d7%a1%d7%92%d7%a0%d7%95%d7%9f-%d7%a1%d7%95%d7%94%d7%95/)[Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.krutit.co.il%2F%25d7%2597%25d7%259e%25d7%2595%25d7%25a6%25d7%2599%25d7%259d-%25d7%2591%25d7%25a1%25d7%2592%25d7%25a0%25d7%2595%25d7%259f-%25d7%25a1%25d7%2595%25d7%2594%25d7%2595%2F&media=https%3A%2F%2Fwww.krutit.co.il%2Fwp-content%2Fuploads%2F2018%2F03%2FDSC_0381-53x53.jpg&description=%D7%97%D7%9E%D7%95%D7%A6%D7%99%D7%9D+%D7%91%D7%A1%D7%92%D7%A0%D7%95%D7%9F+%D7%A1%D7%95%D7%94%D7%95)[אימייל](/cdn-cgi/l/email-protection#09367a7c6b636c6a7d34de9ede97de9cdeafde90de942c3b39de98dea8de9bdea9de9cde962c3b39dea8de9cde9dde9c2f2a393a31324b464d5034617d7d797a3326267e7e7e27627b7c7d607d276a66276065262c6d3e2c303e2c6d3e2c306c2c6d3e2c303c2c6d3e2c683f2c6d3e2c30302c6d3e2c306d242c6d3e2c30382c6d3e2c68382c6d3e2c303b2c6d3e2c68392c6d3e2c303c2c6d3e2c306f242c6d3e2c68382c6d3e2c303c2c6d3e2c303d2c6d3e2c303c26)[#](#)
+30 תגובות 0[#](# "Like") [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://www.krutit.co.il/%d7%97%d7%9e%d7%95%d7%a6%d7%99%d7%9d-%d7%91%d7%a1%d7%92%d7%a0%d7%95%d7%9f-%d7%a1%d7%95%d7%94%d7%95/)[Twitter](https://x.com/intent/tweet?text=Check%20out%20this%20article:%20%D7%97%D7%9E%D7%95%D7%A6%D7%99%D7%9D%20%D7%91%D7%A1%D7%92%D7%A0%D7%95%D7%9F%20%D7%A1%D7%95%D7%94%D7%95%20-%20https://www.krutit.co.il/%d7%97%d7%9e%d7%95%d7%a6%d7%99%d7%9d-%d7%91%d7%a1%d7%92%d7%a0%d7%95%d7%9f-%d7%a1%d7%95%d7%94%d7%95/)[Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.krutit.co.il%2F%25d7%2597%25d7%259e%25d7%2595%25d7%25a6%25d7%2599%25d7%259d-%25d7%2591%25d7%25a1%25d7%2592%25d7%25a0%25d7%2595%25d7%259f-%25d7%25a1%25d7%2595%25d7%2594%25d7%2595%2F&media=https%3A%2F%2Fwww.krutit.co.il%2Fwp-content%2Fuploads%2F2018%2F03%2FDSC_0381-53x53.jpg&description=%D7%97%D7%9E%D7%95%D7%A6%D7%99%D7%9D+%D7%91%D7%A1%D7%92%D7%A0%D7%95%D7%9F+%D7%A1%D7%95%D7%94%D7%95)[אימייל](/cdn-cgi/l/email-protection#)[#](#)
 
 ![](https://secure.gravatar.com/avatar/d1aa2f42037b82f3aaa495404f0ffd33271c05c742dc800a37c21dbaad58a3e6?s=100&amp;d=mm&amp;r=g)
 

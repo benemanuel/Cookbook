@@ -34,7 +34,7 @@ To get started, you’ll need some [leftover sourdough discard](https://www.thec
 - Baking powder is used to “lift” the cornbread and baking soda tames any dense cake-like qualities.
 - You can easily make this 1 day in advance. The flavor and texture will only improve.
 
-![Thick-Cut Squares of Sourdough Cornbread on a Cutting Board](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20973'%3E%3C/svg%3E)
+
 
 ### The Secret Ingredient?
 
@@ -43,16 +43,16 @@ There are *two* secret ingredients, actually:
 1. [Pure Vanilla Extract.](https://amzn.to/35vM9KX) This enhances the natural corn flavor without making it taste like birthday cake.
 2. [Coconut oil](https://amzn.to/3YBO2kK). This also adds depth of flavor. I get mine from Trader Joe’s. Coconut oil brings out a nutty flavor too, and no, the cornbread doesn’t taste like tanning lotion. This addition was inspired by a fantastic curried coconut corn soup that I make on repeat.
 
-![Sourdough cornbread batter in a pan](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20750%20996'%3E%3C/svg%3E)
 
-![Baked Sourdough Cornbread in an 8x8-inch square pan](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%201116'%3E%3C/svg%3E)
+
+
 
 ### A Few Important Tips:
 
 - I’ve made this recipe many, many times and I can tell you an [8×8-inch square pan](https://amzn.to/3nsA7rV) will create the best looking thick-cut squares. If using a [9×13-inch pan](https://amzn.to/36y5jiE) instead, the squares will be thinner and you’ll have to reduce the bake time.
 - Also, pay attention to the batter when mixing. It should create “ribbons” when it drips off a spoon. If it seems too thick (due to the type of cornmeal used, the thickness of your [sourdough starter,](https://www.theclevercarrot.com/2019/03/beginner-sourdough-starter-recipe/)or from overpacking your measuring cups) it can easily be corrected with more liquid.
 
-![Close up of sourdough cornbread thick cut squares on a cutting board with crumbs](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20956'%3E%3C/svg%3E)
+
 
 *Sourdough cornbread*
 

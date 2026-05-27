@@ -21,9 +21,9 @@ labels: [dairy]
 
 ### Ginger Snaps with Brandy Cream
 
-![Ginger Snaps with Brandy Cream](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "Ginger Snaps with Brandy Cream")
 
-[![ginger-ground-600x900](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](/products/herbs-and-spices/spices/ginger-ground)
+
+
 
 #### [Ground Ginger](/products/herbs-and-spices/spices/ginger-ground)
 

@@ -25,7 +25,7 @@ We’re carrying on this week with our love of all things sourdough. And, if you
 
 Like most naturally leavened breads, sourdough bagels take more time to make, but are 100% worth the effort. They are crisp on the outside, chewy and fluffy on the inside, and full of flavour. Combined with [roasted garlic labneh](/roasted-garlic-labneh/), these sourdough bagels will impress any bagel and cream cheese lover, we promise!
 
-![Overhead Shot of Bagels and Cream Cheese.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201478%202208'%3E%3C/svg%3E)
+
 
 ### How to make New York style sourdough bagels
 
@@ -40,13 +40,13 @@ If you don’t have a starter or are new to the process, be sure to visit [this 
 
 Like any New York style bagel, this recipe involves poaching the bagel dough before baking – poaching gives these bagels their chewy texture and super soft crust. We share exactly how to do this in the recipe card below.
 
-![Bagels on a Wire Rack](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20685'%3E%3C/svg%3E)
+
 
 ### How much longer do sourdough bagels take to make?
 
 Standard bagel recipes typically take roughly 3 hours to make from start to finish. However, if you want to make this sourdough variation, you’ll need to give yourself a generous 26 hours. The key with any sourdough is a long proofing time (12-24 hours); this allows the dough to ferment slowly and develop that classic sourdough flavour.
 
-![a collage of the bagel shaping process.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20683'%3E%3C/svg%3E)
+
 
 ### Shaping Sourdough Bagel Dough
 
@@ -58,7 +58,7 @@ There are several different ways to shape bagel dough, however, this simple 3-st
 
 Consider your bagels shaped!
 
-![Bagels Around a Jar of Cream Cheese.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20685%201024'%3E%3C/svg%3E)
+
 
 ### Labneh – and why you want it on your sourdough bagel
 
@@ -82,7 +82,7 @@ If you love bagels or sourdough bread, why not check out some of our other recip
 
 ## Recipe
 
-![Overhead closeup of a New York style bagel.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20201%20300'%3E%3C/svg%3E)
+
 
 ## New York Style Sourdough Bagels
 

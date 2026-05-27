@@ -29,7 +29,7 @@ These croissants are best made in an environment where the room temperature is n
 
 If your room temperature is above 25°C/77°F you may struggle to keep the dough and butter cool.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202000%202000'%3E%3C/svg%3E)
+
 
 Grab your copy
 
@@ -56,7 +56,7 @@ I refresh my starter very often in a clean jar. This involves adding a fairly sm
 
 At a room temperature of between 21-23°C, a ready starter will double, if not triple, easily within 6 hours at that ratio. Use your starter before it passes its peak and starts to collapse. If used after this point, it will likely be too exhausted and acidic to give good results. *Read more about [acid content in starters](https://homegrownhappiness.com/sourdough-bread-trouble-shooting-guide/).*
 
-![cut in half croissant](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20924%201357'%3E%3C/svg%3E)
+
 
 ### The pastry dough
 
@@ -82,11 +82,11 @@ If the butter is too cold and stiff, it’s going to shatter in the dough when i
 
 Now, on a floured bench, roll out yesterday’s dough into a 20x40cm(8x16inch) rectangle.
 
-![butter packet.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20924%201386'%3E%3C/svg%3E)
+
 
 Once the butter is cool again, place it in the middle of the dough. Bring the top of the dough down and the bottom of the dough up to meet in the middle and tuck in the butter.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 Turn the dough a quarter turn. Use a rolling pin to gently push on the dough to help disperse the butter.
 
@@ -100,7 +100,7 @@ Roll this dough out in front of you into a rectangle that’s around 25x50cm (10
 
 Fold the dough like a pamphlet by bringing the top third down to the middle and then bringing the bottom third up overtop.
 
-![pamphlet of dough.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20924%201386'%3E%3C/svg%3E)
+
 
 Wrap the dough up tightly or place it in an airtight container and let it rest for 30 minutes in the fridge.
 
@@ -118,15 +118,15 @@ Roll the chilled dough into a 28x60cm (11x24inch) rectangle.
 
 Mark 5cm (2inch) marks along both lengths of the dough rectangle. Use a pizza cutter or large knife to cut triangles that connect the marks from the top to the bottom. Using a ruler can really help keep your lines straight.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
 
-![cut croissants](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
+
 
 ### Shaping
 
 Stretch the cut at the bottom of each triangle out a bit. Then roll the triangles up tightly, starting from the bottom and rolling to the tip. You can bend the ends of croissants a little to make a crescent or leave them straight.
 
-![sourdough croissants being rolled](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201643%20924'%3E%3C/svg%3E)
+
 
 *You can also make [pain au Chocolat](https://bakingwithbutter.com/sourdough-pain-au-chocolat/) with croissant dough or Cruffins and [Danish pastries](https://homegrownhappiness.com/homemade-sourdough-danish-pastries/).*
 
@@ -136,9 +136,9 @@ You can brush the croissants with a little water to prevent drying out or create
 
 Really ensure the butter in the croissants doesn’t melt or it will ruin the layers.
 
-![puffy croissant](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20924%201338'%3E%3C/svg%3E)
 
-![croissant with shiny egg wash](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20924%201334'%3E%3C/svg%3E)
+
+
 
 ### Baking
 
@@ -162,7 +162,7 @@ Take the frozen croissants out of the freezer and place them on a lined tray. Le
 
 *I have a Youtube video on [sourdough croissants](https://youtu.be/WbZs2n-MagI)however it has been a few years since this video was made and my technique and methods have slightly changed.*
 
-![croissants ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20924%201386'%3E%3C/svg%3E)
+
 
 ### Related recipes
 

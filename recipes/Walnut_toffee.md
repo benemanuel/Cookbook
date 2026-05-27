@@ -45,7 +45,7 @@ SHARES
 
 When I first shared this back in 2016, I had my [Facebook](https://www.facebook.com/JoyFilledEats) followers vote on which post I should share immediately and this one won by a landslide. I’m not surprised because it is so good I hid this homemade low carb English toffee recipe in the back of the fridge. And made another dessert for a party so I didn’t have to share these.
 
-![close up of keto sugar free toffee lined up sideways](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='750'%20height='500'%20viewBox='0%200%20750%20500'%3E%3C/svg%3E)
+
 
 ## Ingredients
 
@@ -65,21 +65,21 @@ Toffee is fairly easy to make. If you’ve ever made any kind of cooked candy be
 
 **First Step:** You cook the sweetener, cream, and butter until it is thickened and golden brown. I add the nuts in the cooking stage so they get toasted right in the caramel. Pour the toffee on a greased foil lined pan.
 
-![poster image with balsamic chicken](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='750'%20height='150'%20viewBox='0%200%20750%20150'%3E%3C/svg%3E)
+
 
 Protein Made Simple Email Series
 
 *Expert Tip: Cooking the sugar free toffee to the perfect point can be tricky! I highly recommend watching the video in this post before making this. It is only 1 minute long and very helpful!*
 
-![saucepan pouring walnut toffee mixture into a aluminum lined sheet pan](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='750'%20height='500'%20viewBox='0%200%20750%20500'%3E%3C/svg%3E)
+
 
 **Second Step:** Cool the keto English toffee until it firms up, then pour on the melted chocolate.
 
-![melted chocolate being poured onto the candy in a sheet pan](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='750'%20height='500'%20viewBox='0%200%20750%20500'%3E%3C/svg%3E)
+
 
 **Third Step (optional):** If you want chocolate on both sides chill the toffee and then flip it over. Peel off the foil and cover the second side with more melted chocolate.
 
-![the firmed up toffee on foil](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='750'%20height='500'%20viewBox='0%200%20750%20500'%3E%3C/svg%3E)
+
 
 **Fourth Step:** Cut into squares and eat your toffee candy!
 
@@ -87,13 +87,13 @@ Protein Made Simple Email Series
 
 You can store sugar free toffee at room temperature for a day or two. At room temperature, it will be softer and more caramelly. For it to get crisp like a real English toffee chill it. You can see the difference between my video and photos. In the video, the toffee was room temperature. In these photos, it has been chilled first.
 
-![the toffee after removing from the pan on a cutting board](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='750'%20height='500'%20viewBox='0%200%20750%20500'%3E%3C/svg%3E)
+
 
 ### Tips for Making Sugar Free Toffee
 
 I have had readers simplify this by putting the melted sugar free chocolate in a muffin tin with aluminum liners. Chill the chocolate, put the warm toffee on top, chill again, and then top with more chocolate. You get cute little circles that way and don’t need to flip the toffee over or cut it. That method can also help with portion control.
 
-![cut pieces of the sugar free toffee on a cutting board](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='750'%20height='500'%20viewBox='0%200%20750%20500'%3E%3C/svg%3E)
+
 
 ### Substitutions & Tweaks
 
@@ -109,11 +109,11 @@ This basic combination of cream, butter, and sweetener can be used to make all v
 
 **Cranberries:** Add in some sugar-free dried cranberries with the last tablespoon of the heavy cream. They give a nice, tart contrast to the sweetness of the toffee.
 
-![stacked butter walnut toffee laying on a bronze surface](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='750'%20height='750'%20viewBox='0%200%20750%20750'%3E%3C/svg%3E)
+
 
 ### Video
 
-![close up of the keto toffee candy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='300'%20height='300'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
+
 
 ### Keto Toffee
 

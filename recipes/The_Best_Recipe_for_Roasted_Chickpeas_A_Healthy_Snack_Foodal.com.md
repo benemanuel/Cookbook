@@ -27,7 +27,7 @@ But in those moments of obsession when you really *need* something with big tast
 
 Know what I’m talking about? Then let me introduce [**the unassuming chickpea**](https://foodal.com/knowledge/paleo/get-to-know-garbanzo-beans/).
 
-![Crave crunchy, salty snacks? Step away from the bag of potato chips, and try theses oven-roasted spicy chickpeas! They are full of flavor and so good for you! Get the recipe now: https://foodal.com/recipes/grains-and-legumes/smoky-spicy-roasted-chickpeas/](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='680'%20height='1020'%20viewBox='0%200%20680%201020'%3E%3C/svg%3E)
+
 
 A guilt-free alternative to junk food or pigging out on nuts covered in salt, [**these petite pulses**](https://foodal.com/knowledge/paleo/power-pulses/) can be seasoned and roasted to a sublime, crisp texture with outstanding flavor. They’re perfect enjoyed in a big bowl, or saved for later in a [**homemade snack pack**](https://foodal.com/knowledge/how-to/make-ahead-snack-packs/).
 
@@ -37,7 +37,7 @@ In fact, they’re so good, you’ll think you’re eating the finest processed,
 
 Chickpea snacks can be made with dried garbanzos, provided you remember to soak them overnight.
 
-![Enjoy your legumes in a whole new way with our recipe for spicy roasted chickpeas! They're crunchy, healthy, and outrageously flavorful! Get the recipe now:](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='680'%20height='1020'%20viewBox='0%200%20680%201020'%3E%3C/svg%3E)
+
 
 But I recommend keeping a can or two on hand for a quick alternative – they crisp up just as well, and you don’t have to plan ahead.
 
@@ -59,13 +59,13 @@ Here are a few different flavor combos:
 
 - For heat lovers, spice them up with [**wasabi**](https://foodal.com/knowledge/herbs-spices/spicy-wasabi-rare-rhizome/), nori flakes, and black pepper.
 
-![Want a tasty snack that’s crunchy, flavorful, and healthy? Roasted chickpeas deliver the goods for guilt-free, yummy satisfaction. We share the recipe: https://foodal.com/recipes/grains-and-legumes/smoky-spicy-roasted-chickpeas/](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='680'%20height='1020'%20viewBox='0%200%20680%201020'%3E%3C/svg%3E)
+
 
 Read my recipe below to learn what I use to make my personal favorite flavor combo: smoky and spicy garbanzos!
 
 ## The Recipe
 
-![Recipe for Spicy Garbanzo Beans | Foodal.com](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='150'%20height='150'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E "Recipe for Spicy Garbanzo Beans")
+
 
 The Best Smoky and Spicy Roasted Chickpeas
 
@@ -192,7 +192,7 @@ Iron 18%
 
 ### Step 1 – Rinse and Dry Garbanzos
 
-![Rinse Beans Well | Foodal.com](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='680'%20height='454'%20viewBox='0%200%20680%20454'%3E%3C/svg%3E)
+
 
 *In a pinch, a salad spinner can double as both a drying tool AND a colander!*
 
@@ -202,13 +202,13 @@ You can also [**use a salad spinner**](https://foodal.com/kitchen/general-kitche
 
 Allow them to air dry for up to 30 minutes while the oven preheats to 425°F, and while you combine the seasonings (I’ll explain how in the next step).
 
-![Drying the Beans | Foodal.com](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='680'%20height='454'%20viewBox='0%200%20680%20454'%3E%3C/svg%3E)
+
 
 And for those looking for a vegan egg white alternative, save the juice from the canned beans for [**amazing aquafaba**](https://foodal.com/knowledge/paleo/aquafaba-egg-alternative/)!
 
 ### Step 2 – Mash and Mix
 
-![Mash and Mix All Seasoning Ingredients | Foodal.com](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='680'%20height='454'%20viewBox='0%200%20680%20454'%3E%3C/svg%3E)
+
 
 I like to use a [**mortar and pestle**](https://foodal.com/kitchen/general-kitchenware/spice-grinders/best-mortar-and-pestle-set-reviews/) rather than [**a food processor**](https://foodal.com/kitchen/kitchen-appliances/food-processors/food-processor-workhorse-kitchen/) for mixing the seasonings. No need to dirty a large appliance!
 
@@ -218,13 +218,13 @@ Mash the chipotle pepper. Mix in [**the olive oil**](https://foodal.com/knowledg
 
 ### Step 3 – Coat the Chickpeas
 
-![Toss Garbanzos with Seasonings | Foodal.com](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='680'%20height='454'%20viewBox='0%200%20680%20454'%3E%3C/svg%3E)
+
 
 In a medium bowl, combine the beans and seasoning mix. Toss lightly together until well coated.
 
 ### Step 4 – Spread Evenly
 
-![Spreading Garbanzos on a Sheet Pan | Foodal.com](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='680'%20height='454'%20viewBox='0%200%20680%20454'%3E%3C/svg%3E)
+
 
 Spread the garbanzos evenly on a [**baking sheet**](https://foodal.com/kitchen/general-kitchenware/things-that-bake/the-best-baking-and-cookie-sheet-pans-on-the-market-today/) lined with parchment paper, ensuring they have enough room to roast.
 
@@ -232,7 +232,7 @@ If they’re too crowded, they’ll steam in their own juices and never crisp.
 
 ### Step 5 – Bake and Shake
 
-![The Finished Roasted Beans after 35 Minutes of Cooking | Foodal.com](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='680'%20height='454'%20viewBox='0%200%20680%20454'%3E%3C/svg%3E)
+
 
 Bake for 30 to 40 minutes, shaking the pan to stir the beans every 10 minutes. Re-spread every time you shake for even roasting.
 
@@ -246,7 +246,7 @@ After the first 10 minutes, remove one of the beans, and cut it open, just like 
 
 ### Step 6 – Enjoy!
 
-![Roasted Beans with Limes and a Drink | Foodal.com](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='680'%20height='454'%20viewBox='0%200%20680%20454'%3E%3C/svg%3E)
+
 
 Roasted chickpea snacks can be served warm or cool.
 
@@ -258,7 +258,7 @@ Sweet, savory, or blazing-hot spicy, these little nuggets taste so good you’ll
 
 Even the kids will love them, especially if you serve them for your next movie night instead of popcorn!
 
-![Roasted Garbanzos | Foodal.com](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='680'%20height='454'%20viewBox='0%200%20680%20454'%3E%3C/svg%3E)
+
 
 For the best crunch, remember make sure your rinsed legumes are as dry as possible before mixing with the oil and seasonings, and give them plenty of room to roast. And if you double up a batch, use two baking sheets.
 
@@ -272,7 +272,7 @@ Do you readers have any favorite flavor combos you’d like to share? Drop us a 
 
  
 
-![If you’ve ever fallen off the healthy eating bandwagon because of bland snacks, we’ve got a solution you need to try. Sweet or spicy, roasted chickpeas deliver the goods for guilt-free, tasty satisfaction. Crispy, crunchy, and tasty, these bite-sized goodies also provide a premium of nutrition – get this smoky and spicy recipe right here on Foodal!](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='419'%20height='1024'%20viewBox='0%200%20419%201024'%3E%3C/svg%3E)
+
 
  563 shares
 
@@ -284,7 +284,7 @@ Do you readers have any favorite flavor combos you’d like to share? Drop us a 
 
 *Nutritional information derived from a database of known generic and branded foods and ingredients and was not compiled by a registered dietitian or submitted for lab testing. It should be viewed as an approximation.
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='100'%20height='100'%20viewBox='0%200%20100%20100'%3E%3C/svg%3E)
+
 
 ### About [Lorna Kring](https://foodal.com/author/lorna944/ "Lorna Kring")
 
@@ -294,8 +294,8 @@ Recently retired as a costume specialist in the TV and film industry, Lorna now 
 
 ### More of Our Expert Guides
 
-[![Horizontal image of a collage of various bean dip recipes, with a label in the center.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='800'%20viewBox='0%200%201200%20800'%3E%3C/svg%3E)](https://foodal.com/recipes/vegetarian-vegan/gourmet-hummus-variations/ "From Savory to Sweet, Get Creative with 7 Gourmet Hummus Recipes")
 
-[![Horizontal image of a collage of various dishes with a label in the center.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='800'%20viewBox='0%200%201200%20800'%3E%3C/svg%3E)](https://foodal.com/holidays/christmas/finger-food-appetizer-round-up/ "69 Finger Food Appetizers Perfect for Holiday Parties")
 
-[![Horizontal image of a shallow white bowl, resting on a tan towel, filled with flavored dip and a cube of sourdough resting in it.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='800'%20viewBox='0%200%201200%20800'%3E%3C/svg%3E)](https://foodal.com/recipes/dips/seasoned-olive-oil/ "Seasoned Olive Oil for Dipping Bread")
+
+
+

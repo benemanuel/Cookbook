@@ -26,27 +26,27 @@ Thank you for sharing - Save for later
 
 [ ⭳ Jump to Recipe](#recipe) [ ▶️ Watch Video](#recipe-video)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E) Prep Time 6 hours hours
+ Prep Time 6 hours hours
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E) Cook Time 55 minutes minutes
+ Cook Time 55 minutes minutes
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E) Total Time 14 hours hours 55 minutes minutes
+ Total Time 14 hours hours 55 minutes minutes
 
 [ Ingredients](#recipe-138994-ingredients)[ Method](#recipe-138994-instructions)[ Nutrition](#recipe-138994-nutrition)[ Video](#recipe-video)[ Notes](#recipe-138994-notes)
 
-![Pinterest image for brioche buns with sourdough.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![Pinterest image for brioche buns with sourdough.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![Pinterest image for brioche buns with sourdough.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![Pinterest image for brioche buns with sourdough.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![Pinterest image for brioche buns with sourdough.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+
+
+
+
 
 These sourdough brioche buns are airy, soft, and just a little sweet. Buns are a great addition to any sandwich. Made with a [sourdough starter](https://veenaazmanov.com/recipe-for-sourdough-starter/), I let the slow-rising dough rest overnight in the refrigerator, making it an easy and delicious way to start the day.
 
-![Brioche sourdough buns cooling on a wire rack. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
+
 
 *Brioche Buns with Sourdough Starter*
 
@@ -65,7 +65,7 @@ These buns have officially ruined me for all others. Once you try them, you’ll
 - Almost all the ingredients in this recipe are simple pantry staples, plus a [sourdough starter](https://veenaazmanov.com/recipe-for-sourdough-starter/).
 - I use a simple method that uses shorter fermentation time and longer proofing time after shaping the [loaf](https://veenaazmanov.com/sourdough-loaf-bread/). In fact, this method makes shaping so much easier! Try it.
 
-![Buns made with sourdough starter.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
+
 
 *Brioche Buns with Sourdough Starter*
 
@@ -80,7 +80,7 @@ These buns have officially ruined me for all others. Once you try them, you’ll
 - Of course, we can’t forget about the star of the show – the **sourdough starter**. This magical ingredient adds tanginess and depth of flavor to the buns and also aids in fermentation and leavening. If you don’t have a sourdough starter, you can create one by mixing equal parts of flour and water and letting it ferment for a few days until it becomes bubbly and active.
 - Lastly, **salt** is the unsung hero that balances the dough’s sweetness and enhances all the flavors. Its presence ensures that each component harmonizes perfectly, creating a well-rounded and satisfying eating experience.
 
-![Ingredients for making brioche sourdough buns.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
+
 
 *Brioche Buns with Sourdough Starter*
 
@@ -91,7 +91,7 @@ These buns have officially ruined me for all others. Once you try them, you’ll
 - Refresh your starter – In a medium [bowl](https://amzn.to/2RD3cUR), combine 50g of sourdough starter, 50g of water, and 50g of flour. Stir well to combine. Cover and leave to rise for 3 to 5 hours at room temperature. Once your starter is ready, you can proceed with making the dough below.  
 ***Pro tip** – You can also make the levain up to 5 days in advance and leave it in the fridge.*
 
-![Progress pictures for making sourdough brioche buns.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
+
 
 *Brioche Buns with Sourdough Starter*
 
@@ -104,7 +104,7 @@ These buns have officially ruined me for all others. Once you try them, you’ll
 - **Bulk ferment** – Transfer the dough to an oiled bowl and cover it with [plastic wrap](https://amzn.to/2ESOhyF). Leave the dough to rise in the refrigerator (38°F / 3°C) for 6 to 8 hours.  
 ***Pro tip** – The dough can be kept in the fridge for up to 24 hours. The highly enriched dough will rise very slowly.*
 
-![Progress pictures kneading and proofing the sourdough buns.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
+
 
 *Brioche Buns with Sourdough Starter*
 
@@ -119,7 +119,7 @@ These buns have officially ruined me for all others. Once you try them, you’ll
 - **Proof** – Cover with plastic wrap or a clean [kitchen towel](https://amzn.to/2KS0M17) and let them proof until doubled in size. These can be kept for 3 hours on the counter or for 8 to 10 hours in the fridge.  
 ***Pro tip** – Spray the plastic wrap with oil to prevent it from sticking to the rolls.*
 
-![Progress pictures shaping the brioche buns.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
+
 
 *Brioche Buns with Sourdough Starter*
 
@@ -133,13 +133,13 @@ These buns have officially ruined me for all others. Once you try them, you’ll
 - **Keeping them soft** – As soon as you take the buns out of the oven, cover them with a clean kitchen cloth to keep them soft.  
 ***Pro tip** – Do not leave the buns on the tray for too long; transfer them to a cooling rack. Otherwise, the steam will make the bread soggy on the bottom. Covering the buns with a cloth will help them retain moisture and prevent them from drying out.*
 
-![Progress pictures baking the brioche buns.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
+
 
 *Brioche Buns with Sourdough Starter*
 
 ---
 
-![Buns on the wire rack made with sourdough.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
+
 
 *Brioche Buns with Sourdough Starter*
 
@@ -151,7 +151,7 @@ These buns have officially ruined me for all others. Once you try them, you’ll
 - On the other hand, if your brioche buns **turn out too dark or even burnt**, it might be time to reassess your baking temperature and time. Each oven is unique, so it’s important to know your oven’s quirks. Consider lowering the temperature slightly or reducing the baking time to prevent over-browning. Keep a close eye on the buns as they bake to avoid any mishaps.
 - Lastly, if your brioche **buns have a sticky or gooey texture on the inside**, it could be due to under-baking or insufficient proofing. Make sure to proof the dough for the recommended amount of time, allowing it to rise adequately. Additionally, be sure to bake the buns until they are fully cooked through, with an internal temperature of around 200°F (93°C).
 
-![Sliced buns on a wire rack.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
+
 
 *Brioche Buns with Sourdough Starter*
 
@@ -161,13 +161,13 @@ These buns have officially ruined me for all others. Once you try them, you’ll
 - [Sourdough Loaf Bread](https://veenaazmanov.com/sourdough-loaf-bread/)
 - See [all bread recipes](https://veenaazmanov.com/bread-recipes/) or [sourdough bread recipes](https://veenaazmanov.com/bread-recipes/sourdough-bread-recipes/)
 
-[![A basket with challah dinner rolls.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E)](https://veenaazmanov.com/sourdough-mini-challah-dinner-rolls/)
 
-[![A baked challah with sesame seeds.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E)](https://veenaazmanov.com/sourdough-challah-bread/)
 
-[![Slices of square sourdough sandwich bread.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E)](https://veenaazmanov.com/sourdough-pullman-sandwich-bread/)
 
-[![Bagels with sourdough and different toppings.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E)](https://veenaazmanov.com/sourdough-bagel/)
+
+
+
+
 
 ---
 
@@ -191,7 +191,7 @@ Absolutely! This dough is a basic sourdough brioche dough.
 **Sourdough brioche loaf** – If you don’t want to make buns, you can also shape the dough into loaves and bake them in a loaf pan. This dough will make 2 x 8-inch sourdough loaves.  
 You can also make a classic sourdough brioche à tête by shaping the dough into a classic brioche, as shown in my classic brioche recipe.  
 
-![Buns on the wire rack made with sourdough.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
+
 
 [Veena Azmanov](https://veenaazmanov.com/about-this-blog/)
 
@@ -303,7 +303,7 @@ Did you LIKE this recipe? **[Save it](https://www.pinterest.com/Veenaazmanov/)**
 Follow on [YouTube](https://www.youtube.com/@Veena_Azmanov), **[Facebook](https://www.facebook.com/veenaazmanovkitchen), [Twitter](https://twitter.com/VeenaAzmanov),** **[Instagram](https://www.instagram.com/veenaazmanov_kitchen/)** or [**TikTok**](https://www.tiktok.com/@veenaazmanov_kitchen)  
 [Subscribe](https://veena-azmanov.kit.com/15c1243a5a) to receive new recipes right to your inbox.
 
-![Pinterest image for brioche buns with sourdough.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%201500'%3E%3C/svg%3E)
+
 
 *Brioche Buns with Sourdough Starter*
 

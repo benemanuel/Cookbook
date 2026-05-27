@@ -45,7 +45,7 @@ What sets this recipe apart is the combination of proper searing technique, opti
 
 Trust me, there is nothing like smelling my delicious beef chuck recipe cooking all day long, then sitting down to enjoy it with your family. Let me tell you, this is the best Sunday pot roast recipe you will ever make. It is so flavorful, moist, and fall-apart tender! *Every bite melts in your mouth!*
 
-![pouring sauce onto a beef chuck roast with a football game on TV in the background](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 ## Ingredients to Make Beef Chuck Roast
 
@@ -67,7 +67,7 @@ Trust me, there is nothing like smelling my delicious beef chuck recipe cooking 
 
 The only seasoning you need to make a great chuck roast is salt and pepper. Pat the beef dry, then season it generously on all sides. If you want to try something new, you could also use my [seasoning for roast beef](https://sundaysuppermovement.com/roast-beef-rub-recipe/) or my [rosemary and salt seasoning](https://sundaysuppermovement.com/rosemary-salt/).
 
-![Beautifully marbled beef chuck roast on a cutting board](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201600'%3E%3C/svg%3E)
+
 
 Chuck roast comes from the shoulder area of the beef, which means it's a well-exercised muscle with plenty of connective tissue. This might sound tough, but it's actually what makes chuck roast perfect for braising. When cooked low and slow, that connective tissue breaks down into gelatin, creating the signature fall-apart texture we're after.
 
@@ -77,7 +77,7 @@ Chuck roast comes from the shoulder area of the beef, which means it's a well-ex
 
 1. **Temperature Matters:** Remove roast from refrigerator 30 minutes to 1 hour before cooking to reach room temperature. This ensures even cooking throughout.
 2. **Season Generously:** Pat the roast completely dry with paper towels. Season all sides with kosher salt and freshly cracked black pepper, giving it a good coating. You need about 1 Tablespoon total seasoning for a 4-pound roast.  
-![Seasoned chuck roast on a cutting board](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20633'%3E%3C/svg%3E)
+
 3. **Prep Vegetables:** Cut all vegetables into uniform 2-inch pieces for even cooking.
 
 ### Braising Chuck Roast from Start to Finish
@@ -85,15 +85,15 @@ Chuck roast comes from the shoulder area of the beef, which means it's a well-ex
 1. **Preheat oven to 350°F**.
 2. Heat butter and oil in a heavy Dutch oven over medium-high heat until the butter stops foaming.
 3. Sear the roast on all sides, about 3-4 minutes per side, until deep golden brown. **Don't move it too soon** - let it develop that crucial caramelized crust.
-4. Transfer roast to a plate and set aside.![Searing beef in a dutch oven](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20633'%3E%3C/svg%3E)
+4. Transfer roast to a plate and set aside.
 5. Add vegetables to the same Dutch oven with the rendered fat. Cook, stirring occasionally, until edges begin to brown (about 5 minutes).
 6. Add tomato paste and cook for 2-3 minutes until it darkens slightly and becomes fragrant.  
-![Seasoned vegetables in the dutch oven with tomato paste](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20633'%3E%3C/svg%3E)
+
 7. Pour in red wine and scrape up all the browned bits from the bottom - this is liquid gold for flavor! Continue to cook for another 2-3 minutes.  
-![Pouring red wine into the dutch oven](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20633'%3E%3C/svg%3E)
+
 8. Return the seared roast to the pot and add beef stock until it comes about two-thirds up the sides of the roast.
 9. Add rosemary and bay leaves. Cover tightly and transfer to the preheated oven.
-10. **Cook for approximately 4 hours**, but start checking at 3 hours. All oven times vary, and yours may cook more quickly! The roast is done when it shreds easily with a fork.![Beef chuck roast cooked over vegetables in the dutch oven](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20633'%3E%3C/svg%3E)
+10. **Cook for approximately 4 hours**, but start checking at 3 hours. All oven times vary, and yours may cook more quickly! The roast is done when it shreds easily with a fork.
 11. **Season with more salt and pepper if needed. Remove the bay leaves before serving. Serve hot with desired sides. Enjoy!**
 
 ### Roasting Pan Instructions
@@ -102,7 +102,7 @@ If you don't have a dutch oven, you can use a roasting pan to make my chuck roas
 
 Cover the roasting pan tightly in aluminum foil and transfer to the oven. Cook at 350°F (175°C) for 4 hours or until the beef is fall-apart tender.
 
-![Overhead shot of the beef chuck roast recipe in a blue dutch oven with fresh herbs on top](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
+
 
 ### Professional Tips for Perfect Results
 
@@ -127,7 +127,7 @@ They come from the same area, but the beef shoulder cut is leaner than Chuck bee
 **Chuck Roast** – so, so tender, shreds apart and melts in your mouth.  
 Bottom round or top round beef – leaner cut and good to use to slice your beef. **Beef Brisket** – a fattier choice that gets very tender, but can still be sliced for serving. Try my [Easy Brisket Recipe](https://sundaysuppermovement.com/slow-cooker-brisket-recipe/) (slow cooker or Instant Pot).
 
-![Chuck roast up close with vegetables and gravy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201200'%3E%3C/svg%3E)
+
 
 ### Top Reviews
 
@@ -169,7 +169,7 @@ This chuck roast recipe was AMAZING! I have never made a chuck roast and searche
 
 Have you tried another variation? [Let me know in the comments!](#comments)
 
-![Shredded beef chuck roast with vegetables on a white platter next to the dutch oven lid](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 ### How to Store Leftover Chuck Roast
 
@@ -191,11 +191,11 @@ My chuck roast recipe represents years of refinement and testing, resulting in a
 
 The key is patience and proper technique. Let the low, slow heat work its magic, and you'll be rewarded with the most tender, flavorful chuck roast you've ever made. **Share your roast with me on social media - I'd love to see it!**
 
-![Overhead shot of beef chuck roast recipe on a white platter with carrots and fresh herbs](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20920%20920'%3E%3C/svg%3E)
+
 
 ### Beef Chuck Roast Recipe
 
-Recipe Author: ![Isabel, AKA Family Foodie](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)[Isabel Laessig](https://sundaysuppermovement.com/isabel-laessig/)
+Recipe Author: [Isabel Laessig](https://sundaysuppermovement.com/isabel-laessig/)
 
 My Beef Chuck Roast is braised slowly to create a wonderfully tender and flavorful beef dinner your family will devour!
 

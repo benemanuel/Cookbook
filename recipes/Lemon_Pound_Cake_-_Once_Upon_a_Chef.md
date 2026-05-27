@@ -28,7 +28,7 @@ The recipe yields two ultra-moist loaves that stay fresh for days on the counter
 
 ## What You’ll Need To Make Lemon Pound Cake
 
-![ingredients for lemon pound cake](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='662'%20viewBox='0%200%201000%20662'%3E%3C/svg%3E)
+
 
 - **All-Purpose Flour:** Forms the base of the batter and gives the cake structure. Be sure to spoon and level for an accurate measure; excess flour can make the cake dry.
 - **Baking Soda:** Helps the cake rise for a light, tender crumb.
@@ -44,59 +44,59 @@ The recipe yields two ultra-moist loaves that stay fresh for days on the counter
 
 **Step 1: Mix the dry ingredients.** In a medium bowl, combine the flour, salt, and baking soda. Whisk until evenly combined.
 
-![whisking dry ingredients](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='662'%20viewBox='0%200%201000%20662'%3E%3C/svg%3E)
+
 
 **Step 2: Mix the buttermilk and lemon.** In another bowl or liquid measuring cup, whisk the buttermilk with the lemon zest and lemon juice. Set it aside.
 
-![buttermilk, lemon juice, and lemon zest in bowl](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='662'%20viewBox='0%200%201000%20662'%3E%3C/svg%3E)
+
 
 **Step 3: Cream the butter and sugar.** In the bowl of a stand mixer fitted with the paddle attachment (or using beaters), cream the butter and sugar on medium speed until light and fluffy. This creaming step incorporates air into the batter, which helps the cake rise and gives it a fine, tender crumb.
 
-![creaming butter and sugar](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='662'%20viewBox='0%200%201000%20662'%3E%3C/svg%3E)
+
 
 **Step 4: Beat in the eggs.** Scrape down the sides of the bowl, then add the eggs one at a time, beating well after each one. Adding the eggs gradually helps them emulsify into the batter, creating a stable, smooth mixture that won’t split or curdle.
 
-![beating in the eggs](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='662'%20viewBox='0%200%201000%20662'%3E%3C/svg%3E)
+
 
 **Step 5: Add the dry and wet ingredients.** With the mixer on low, alternate adding the flour and buttermilk mixtures, beginning and ending with the flour. (These gradual additions keep the batter from becoming over-mixed, which helps maintain a tender texture.) Scrape down the sides of the bowl, and give a quick mix to make sure all of the ingredients are well-incorporated.
 
-![mixed lemon pound cake batter in mixer](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='662'%20viewBox='0%200%201000%20662'%3E%3C/svg%3E)
+
 
 **Step 6: Fill the pans.** Transfer the cake batter to the loaf pans lined with parchment slings and smooth the tops with a rubber spatula. (The parchment slings help prevent the cake from sticking to the pan and make it easy to lift out cleanly—no need to invert or risk breaking the crust.)
 
-![Loaf pan full of lemon pound cake batter.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='760'%20height='533'%20viewBox='0%200%20760%20533'%3E%3C/svg%3E)
+
 
 **Step 7: Bake and cool.** Bake the cakes in a 350°F oven for 55 to 65 minutes, or until a tester comes out clean. Let the cakes cool in the pans on a wire rack for 10 minutes, then lift them out using the parchment slings and cool for about an hour more.
 
-![Two loaf pans of lemon pound cake.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='760'%20height='503'%20viewBox='0%200%20760%20503'%3E%3C/svg%3E)
+
 
 **Step 8: Make the syrup.** Combine the water and sugar in a small saucepan and bring to a boil. Remove from heat and stir in the lemon juice. Adding lemon juice after boiling keeps the flavor bright and fresh rather than cooked or muted.
 
-![making lemon glaze](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='740'%20viewBox='0%200%201000%20740'%3E%3C/svg%3E)
+
 
 **Step 9: Make the glaze.** In a medium bowl, whisk together the confectioners’ sugar and lemon juice until smooth. Adjust with more sugar or juice if needed for your preferred consistency—for a thicker glaze, use less juice; for a thinner drizzle, add a tiny splash more.
 
-![glaze for lemon pound cake in mixing bowl with spoon.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='942'%20viewBox='0%200%201200%20942'%3E%3C/svg%3E)
+
 
 **Step 10: Top the cakes with syrup and glaze.** Once the cakes are cool, brush the warm syrup all over—don’t forget the sides—and let it soak in. Make sure the cakes are completely cool; applying the syrup to a fully cooled cake helps it soak in evenly without making the crumb gummy. Last, spoon the glaze over the top, letting it drip down the sides. The cake will keep nicely for a few days; freeze without the glaze for up to 3 months.
 
-![Partially-sliced loaf of lemon pound cake.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='760'%20height='587'%20viewBox='0%200%20760%20587'%3E%3C/svg%3E)
+
 
 ### You May Also Like
 
-- ![Lemon Bars dusted with powdered sugar.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='227'%20height='307'%20viewBox='0%200%20227%20307'%3E%3C/svg%3E)
+- 
 
   [Lemon Bars](https://www.onceuponachef.com/recipes/luscious-lemon-bars.html)
 
-- ![Kentucky butter cake missing a slice.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='227'%20height='307'%20viewBox='0%200%20227%20307'%3E%3C/svg%3E)
+- 
 
   [Kentucky Butter Cake](https://www.onceuponachef.com/recipes/kentucky-butter-cake.html)
 
-- ![lemon muffins on platter with yellow and white stripe napkin](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='227'%20height='307'%20viewBox='0%200%20227%20307'%3E%3C/svg%3E)
+- 
 
   [Lemon Poppy Seed Muffins](https://www.onceuponachef.com/recipes/lemon-poppy-seed-muffins.html)
 
-- ![Partially-sliced run cake on a plate.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='227'%20height='307'%20viewBox='0%200%20227%20307'%3E%3C/svg%3E)
+- 
 
   [Rum Cake](https://www.onceuponachef.com/recipes/rum-cake.html)
 
@@ -104,7 +104,7 @@ The recipe yields two ultra-moist loaves that stay fresh for days on the counter
 
 ### Lemon Pound Cake
 
-![Partially sliced lemon pound cake on a plate.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='160'%20height='160'%20viewBox='0%200%20160%20160'%3E%3C/svg%3E)
+
 
 
 
@@ -214,7 +214,7 @@ This site uses Akismet to reduce spam. [Learn how your comment data is processed
 
 ### 2,099 Comments
 
-- ![5 stars](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='80'%20height='16'%20viewBox='0%200%2080%2016'%3E%3C/svg%3E)  
+-   
 Delicious  
 
   * — Marta on May 7, 2026
@@ -230,25 +230,25 @@ Delicious
     + — [Jennifer Segal](https://www.onceuponachef.com/about-jenn-segal) on May 4, 2026
     + [Reply](#comment-1087333)
 
-- ![5 stars](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='80'%20height='16'%20viewBox='0%200%2080%2016'%3E%3C/svg%3E)  
+-   
 Made as cupcakes because I couldn’t find my loaf pans! Baked 29 min – perfectly fluffy but flat tops which is great for decorating! Did not stick to parchment tulip cupcake liners. I used syrup and glaze but next time will use for my lemon meringue cupcakes. Great recipe!  
 
   * — Caroline Johannes on May 1, 2026
   * [Reply](#comment-1087131)
 
-- ![5 stars](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='80'%20height='16'%20viewBox='0%200%2080%2016'%3E%3C/svg%3E)  
+-   
 Lovely textured pound cake. Mild lemon flavor. Might increase zest next time. Used syrup but not glaze. Made four mini loaves. Baked 40 minutes.  
 
   * — Jacqueline S. on April 25, 2026
   * [Reply](#comment-1086693)
 
-- ![5 stars](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='80'%20height='16'%20viewBox='0%200%2080%2016'%3E%3C/svg%3E)  
+-   
 This is the third time I’ve made this cake. So so good! Cold lemons with a thick rind seem best.  
 
   * — Dr. Sway on April 19, 2026
   * [Reply](#comment-1086257)
 
-- ![5 stars](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='80'%20height='16'%20viewBox='0%200%2080%2016'%3E%3C/svg%3E)  
+-   
 I made your cake yesterday for Easter! The cake was delicious on day one! I baked bundt pan and I noticed a slight difference in the moisture on day two. Do I add more eggs and make adjustments in the ingredients when using a bundt? Thanks for sharing.  
 
   * — Kiki on April 6, 2026
@@ -274,7 +274,7 @@ I made your cake yesterday for Easter! The cake was delicious on day one! I bake
       - — [Jennifer Segal](https://www.onceuponachef.com/about-jenn-segal) on May 5, 2026
       - [Reply](#comment-1087403)
 
-- ![5 stars](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='80'%20height='16'%20viewBox='0%200%2080%2016'%3E%3C/svg%3E)  
+-   
 I’ve been making this recipe for two years now and I still get asked for it. I always double the syrup and add a pinch of zest to it since my friends like it a bit extra tart, and I always glaze one cake with blueberry icing. 1 1/2 cups frozen blueberries cooked down with 1Tbsp of lemon juice and 1/2 Cup of sugar, blended and strained for the seeds and skins, then cooked again until its thick and cooled into a gel. Mix 3 or so tablespoons of the gel into the glaze from this recipe and you get this awesome purple very blueberry-tasting glaze which is my favourite!
 
   * — Jana Matthews on April 5, 2026

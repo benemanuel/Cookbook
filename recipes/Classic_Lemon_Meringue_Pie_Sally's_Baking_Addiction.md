@@ -39,7 +39,7 @@ Over the years and especially the past few months, I learned that lemon meringue
 
 Now that you have a general idea of the process, let’s learn why this lemon meringue pie recipe works and what mistakes to avoid.
 
-![Lemon meringue pie in a glass pie dish](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 ## Here’s Why This Recipe Works
 
@@ -49,7 +49,7 @@ There are 3 main roadblocks when making lemon meringue pie: a soggy pie crust, a
 2. **Let’s avoid a watery lemon filling:** This is where I always had the most trouble. Lemon meringue pie filling is basically a thinner version of [lemon curd](https://sallysbakingaddiction.com/how-to-make-lemon-curd/). You’ll temper egg yolks. And before you run away screaming, watch me do this in the video below. Promise it’s not scary. While lemon meringue pie filling should be blissfully creamy, we also want it to be stable enough to slice somewhat neatly. (Think: a slightly firmer version of pudding, but not as firm as jello.) There was a lot of back and forth with the water vs lemon juice vs cornstarch vs sugar amounts. Follow my lemon meringue pie filling below. It’s not too tart, not too sweet, and has the silkiest, yet not-too-watery texture.
 3. **Let’s avoid a weeping meringue:** There are many different types of meringue topping, but let’s use a French meringue. Beat egg whites into soft peaks, add sugar, then beat into stiff peaks. Unless you want to waste a bunch of egg whites in failed meringue attempts, read these tips: Make sure you begin with just egg whites. Not even a drip of egg yolks. Make sure the bowl you’re using is completely wiped clean. No oil or water residue. Make sure you add cream of tartar. This will stabilize your meringue. Make sure you add the sugar *after* soft peaks are formed. If added before that, the egg whites could stretch too much which prevents a stiff peak altogether. (These tips apply for my [chocolate swirled meringue cookies](https://sallysbakingaddiction.com/chocolate-swirled-meringue-cookies/), too.) Make sure you spread the meringue topping so it touches the pie crust. This seals the lemon filling underneath and allows the crust to grip onto the meringue so the two do not separate. And, finally, don’t make lemon meringue pie on a humid day.
 
-![meringue topping for lemon meringue pie in a glass stand mixer bowl](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 ### How to Make Lemon Meringue Pie Topping
 
@@ -60,7 +60,7 @@ The meringue toasts in the oven. A lot of recipes call for putting the whole pie
 
 Meringue can be tricky, but you’re a baker and you can absolutely handle this.
 
-![Lemon meringue pie slice on a silver plate](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 **Craving something smaller?** Here is my [lemon bars](https://sallysbakingaddiction.com/lemon-bars-recipe/) recipe. Or, if you’re a lemon dessert lover, check out our top favorites in the [The Lemon Dessert Collection](https://sallysbakingaddiction.com/lemon-desserts/).
 
@@ -122,7 +122,7 @@ Cook Mode Prevent your screen from going dark
 
 ### You Might Also Like...
 
-[![warm chocolate chip cookies on black plate](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='600'%20height='900'%20viewBox='0%200%20600%20900'%3E%3C/svg%3E)](https://sallysbakingaddiction.com/chocolate-chip-cookies/)
+
 
 [Cookies](https://sallysbakingaddiction.com/category/desserts/cookies/")
 
@@ -130,7 +130,7 @@ Cook Mode Prevent your screen from going dark
 
 [802 Comments](https://sallysbakingaddiction.com/chocolate-chip-cookies/#comments)
 
-[![peach muffins with streusel crumb topping.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='600'%20height='900'%20viewBox='0%200%20600%20900'%3E%3C/svg%3E)](https://sallysbakingaddiction.com/peach-streusel-muffins/)
+
 
 [Muffins](https://sallysbakingaddiction.com/category/breakfast-treats/muffins/")
 
@@ -138,7 +138,7 @@ Cook Mode Prevent your screen from going dark
 
 [457 Comments](https://sallysbakingaddiction.com/peach-streusel-muffins/#comments)
 
-[![black bean burger with a bun, onions, cheese, lettuce, and avocado](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='600'%20height='900'%20viewBox='0%200%20600%20900'%3E%3C/svg%3E)](https://sallysbakingaddiction.com/best-black-bean-burgers/)
+
 
 [Dinner & Sides](https://sallysbakingaddiction.com/category/savory-recipes/dinner/")
 
@@ -146,7 +146,7 @@ Cook Mode Prevent your screen from going dark
 
 [1,719 Comments](https://sallysbakingaddiction.com/best-black-bean-burgers/#comments)
 
-[![plate of homemade cruffins.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='600'%20height='900'%20viewBox='0%200%20600%20900'%3E%3C/svg%3E)](https://sallysbakingaddiction.com/homemade-cruffins/)
+
 
 [Pastries](https://sallysbakingaddiction.com/category/pastries/")
 

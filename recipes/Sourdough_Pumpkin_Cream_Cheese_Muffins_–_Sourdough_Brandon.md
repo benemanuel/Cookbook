@@ -62,7 +62,7 @@ View moreView less
   * I only use butter in this recipe as the fat, and don’t use vegetable oil, like my [Sourdough Zucchini Bread](https://sourdoughbrandon.com/sourdough-zucchini-bread/ "Sourdough Zucchini Bread") and [Sourdough Banana Bread](https://sourdoughbrandon.com/sourdough-banana-bread/ "Sourdough Banana Bread with Chai Spices") recipes.
   * Instead, the melted butter adds richness, tenderness, and so much flavor to these muffins like in my [Sourdough Chocolate Muffins](https://sourdoughbrandon.com/sourdough-chocolate-muffins/ "Sourdough Chocolate Muffins").
 
-![A baked sourdough pumpkin cream cheese muffin in a muffin pan](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 ---
 
@@ -80,13 +80,13 @@ View moreView less
 - **Grease the muffin liners**
   * It’s best to grease or spray your muffin liners with non-stick spray before adding the batter. That way, the muffins won’t stick too as much to the liners once they cool.
 
-![Sourdough pumpkin muffin batter in bowl with a whisk.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 ---
 
 ### 🛠 Tools Needed
 
-![Tools needed for sourdough pumpkin muffins including a muffin pan, muffin liners, a whisk, spatula, and cookie scoop.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1463'%20viewBox='0%200%201200%201463'%3E%3C/svg%3E)
+
 
 - Baking Scale
   * Weighing ingredients will provide the most accurate and consistent results.
@@ -104,7 +104,7 @@ View moreView less
 
 ### 🛒 Ingredients Needed
 
-![Labeled ingredients needed for sourdough pumpkin cream cheese muffins bowls of all-purpose flour, sourdough discard, light brown sugar, granulated sugar, eggs, unsalted melted butter, pumpkin seeds, pumpkin puree, salt, baking soda, baking powder, vanilla extract, cream cheese, and pumpkin pie spices.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 ### Sourdough Pumpkin Muffins
 
@@ -149,7 +149,7 @@ Whisk the dry ingredients together in a small bowl.
 
 Set aside.
 
-![Dry ingredients for sourdough pumpkin muffins in bowl with a whisk.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 ### 2. Mix the Wet Ingredients
 
@@ -157,7 +157,7 @@ In a large mixing bowl, whisk together the wet ingredients followed by the melte
 
 The mixture will be bright orange and shiny.
 
-![Whisked wet ingredients for sourdough pumpkin muffins in bowl with whisk](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 ### 3. Mix the Batter
 
@@ -167,7 +167,7 @@ To avoid overmixing, mix only until you can’t see any white floury specks.
 
 Then, set the batter aside or refrigerate it while you prepare the cream cheese filling.
 
-![Whisking dry ingredients and wet ingredients for pumpkin muffins together in bowl with a whisk](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 ### 4. Make the Cream Cheese Filling
 
@@ -197,10 +197,10 @@ Lastly, sprinkle raw pumpkin seeds on top of the muffins around the cream cheese
 
 **Note:** If you want to skip the cream cheese filling, fill the muffin pans ¾ of the way and bake as directed.
 
-![Sourdough pumpkin muffin batter in muffin tins](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
-![Piping cream cheese filling to the sourdough pumpkin muffin batter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
-![Twelve sourdough pumpkin cream cheese muffins in a muffin pan with a bowl of pumpkin seeds to the side.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
-![A sourdough pumpkin cream cheese muffin with pumpkin seeds in a muffin pan before baking.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
+
+
+
 
 ### 6. Bake
 
@@ -208,8 +208,8 @@ Bake the muffins at 350°F (177 °C) for 17-20 minutes, or until a toothpick ins
 
 Finally, cool on a wire rack before serving for a quick [breakfast](https://sourdoughbrandon.com/category/recipes/breakfast/ "Sourdough Breakfast Recipes"), as a snack, or even a fall [dessert](https://sourdoughbrandon.com/category/recipes/desserts/ "Sourdough Desserts").
 
-![Baked sourdough pumpkin cream cheese muffins in a muffin pan.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
-![Baked sourdough pumpkin cream cheese muffins in muffin pan with a bowl of pumpkin seeds and an orange towel.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
+
 
 ---
 
@@ -231,7 +231,7 @@ However, if you leave out the cream cheese filling, you can freeze the baked muf
 
 Then, you can spoon some room temperature cream cheese on top of them if you’d like or serve on the side!
 
-![Sourdough pumpkin cream cheese muffins with one in the middle with a bite taken out of it.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1800'%20height='1200'%20viewBox='0%200%201800%201200'%3E%3C/svg%3E)
+
 
 ---
 
@@ -265,7 +265,7 @@ You can usually bake muffin batter in a bread loaf pan to make pumpkin bread! To
 
 I used almost this exact same batter to make my [Sourdough Pumpkin Chocolate Chip Bread](https://sourdoughbrandon.com/sourdough-pumpkin-chocolate-chip-bread/)!
 
-![Sourdough pumpkin muffins with cream cheese centers and pumpkin seeds.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1200'%20height='1800'%20viewBox='0%200%201200%201800'%3E%3C/svg%3E)
+
 
 ---
 
@@ -274,7 +274,7 @@ I used almost this exact same batter to make my [Sourdough Pumpkin Chocolate Chi
 
 Please leave a rating, comment or question below! Tag me on Instagram or Facebook @SourdoughBrandon or PIN this recipe on Pinterest to come back to it later!
 
-![Sourdough pumpkin cream cheese muffins with pumpkin seeds on top](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='200'%20height='300'%20viewBox='0%200%20200%20300'%3E%3C/svg%3E)
+
 
 [ Print Recipe (Email Required)](https://sourdoughbrandon.com/wprm_print/sourdough-pumpkin-cream-cheese-muffins) [ Pin Recipe](https://www.pinterest.com/pin/create/bookmarklet/?url=https%3A%2F%2Fsourdoughbrandon.com%2Fsourdough-pumpkin-cream-cheese-muffins%2F&media=https%3A%2F%2Fsourdoughbrandon.com%2Fwp-content%2Fuploads%2F2023%2F08%2FSourdough-Pumpkin-Cream-Cheese-Muffins-with-pumpkin-seeds.jpg&description=Sourdough+Pumpkin+Cream+Cheese+Muffins&is_video=false) [Save this Recipe](https://app.grow.me)[ Saved!](https://app.grow.me)
 
