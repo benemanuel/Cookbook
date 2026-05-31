@@ -26,6 +26,7 @@ steps:
   - Mix dry ingredients into the wet mixture alternately with milk.
   - Use a dessert spoon to portion cookies onto a baking tray.
   - Bake for 10 to 11 minutes until golden.
+labels: [dairy]
 ---
 
 # Murder Cookies

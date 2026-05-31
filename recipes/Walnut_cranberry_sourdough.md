@@ -40,6 +40,7 @@ steps:
   - Remove the lid, turn down the oven to 230°C/450°F, and bake for another 25 minutes until golden and crispy.
   - Remove the bread from the oven and cool on a wire rack for a couple of hours until it reaches room temperature.
   - Bake the second loaf the same way.
+labels: [bread]
 ---
 
 # Walnut Cranberry Sourdough

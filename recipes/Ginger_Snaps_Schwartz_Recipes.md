@@ -1,3 +1,8 @@
+---
+labels: []
+labels: []
+---
+
 I apologize, but the text provided does not contain actual recipe ingredients or instructions—only navigation elements, sign-up prompts, and product links from the Schwartz website. There is no extractable recipe content (no ingredient list or cooking steps) to process.
 
 To extract this recipe properly, I would need the full recipe content including:

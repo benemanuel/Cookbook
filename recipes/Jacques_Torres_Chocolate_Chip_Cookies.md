@@ -36,6 +36,7 @@ steps:
   - Bake for 18 to 20 minutes, or until golden brown but still soft.
   - Cool the cookies on the pans on a wire rack for 10 minutes.
   - Transfer the cookies to a rack to cool completely.
+labels: [dairy, bread, cake]
 ---
 
 # Jacques Torres Chocolate Chip Cookies

@@ -21,6 +21,7 @@ steps:
   - Add the vanilla extract and nuts to the mixture and continue beating until the mixture is thick and glossy.
   - Spread the mixture evenly into a greased 8x8-inch baking dish and let the nougat cool completely before cutting it into squares.
   - Serve the nougat as is, or use it as a filling for chocolate bars or other sweets.
+labels: [candy]
 ---
 
 # Nougat

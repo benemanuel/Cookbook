@@ -28,6 +28,7 @@ steps:
   - Flip the naan one more time and watch for the dough to puff up with air.
   - Once puffed, remove it from the skillet and repeat with the remaining dough.
   - Serve hot or at room temperature.
+labels: [dairy, bread]
 ---
 
 # Sourdough Naan Flatbread

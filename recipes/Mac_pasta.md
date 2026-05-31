@@ -31,6 +31,7 @@ steps:
   - Add cooked pasta to the sauce and stir so all pasta is evenly coated.
   - Stir in butter and red pepper flakes.
   - Serve with lots of chopped fresh basil.
+labels: [dairy, bread, candy]
 ---
 
 # Mac Pasta

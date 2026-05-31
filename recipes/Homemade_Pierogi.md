@@ -32,6 +32,7 @@ steps:
   - Sauté the shallots or onion in the butter in a large skillet until the onion begins to brown.
   - Add the drained pierogi and cook until browned and crisped.
   - Serve hot with additional sour cream, applesauce, or other condiments.
+labels: [dairy, bread]
 ---
 
 # Homemade Pierogi

@@ -28,6 +28,7 @@ steps:
   - Fry the battered cauliflower until golden and crispy.
   - Combine the buffalo sauce, melted butter, and diced garlic in a bowl.
   - Toss the fried cauliflower bites in the buffalo sauce mixture until well coated.
+labels: [dairy, cake]
 ---
 
 # Vegetarian Cauliflower Buffalo Bites

@@ -51,6 +51,7 @@ steps:
   - Transfer fried donuts to paper towels and toss in sugar.
   - Whisk 150g of cold whipping cream to soft peaks and combine with the cooled pastry cream.
   - Fill the donuts with the diplomat cream and serve.
+labels: [dairy, bread, cake]
 ---
 
 # Saffron Vanilla Donuts

@@ -21,6 +21,7 @@ steps:
   - Pour the mixture into a container and cover with plastic wrap.
   - Freeze for at least 4 hours or overnight.
   - Once frozen, scoop and enjoy.
+labels: [dairy]
 ---
 
 # Mascarpone and Sweet Cream Ice Cream

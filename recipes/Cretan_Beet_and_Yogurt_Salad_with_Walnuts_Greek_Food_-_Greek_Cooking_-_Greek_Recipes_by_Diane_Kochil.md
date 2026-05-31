@@ -22,6 +22,7 @@ steps:
   - Toss the walnuts in a nonstick skillet over medium heat until lightly toasted, then remove and set aside to cool slightly before chopping or pulsing in a food processor until coarsely ground.
   - In a medium bowl, whisk together the olive oil, vinegar, yogurt, and garlic, then add salt to taste and dilute the dressing with about 2-3 tablespoons of water while whisking, then mix in the walnuts.
   - Pour the dressing over the beets, adjust seasoning with salt, and serve at room temperature or chilled.
+labels: [dairy]
 ---
 
 # Cretan Beet and Yogurt Salad with Walnuts

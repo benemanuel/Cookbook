@@ -27,6 +27,7 @@ steps:
   - Continue microwaving and folding in 30-second bursts until the curds reach 57°C.
   - Sprinkle the cheese salt over the curds and stretch and fold them repeatedly until the mozzarella becomes firm and glossy on top.
   - Store in a container with salt and whey to keep fresh for up to a week if desired.
+labels: [dairy, bread]
 ---
 
 # Homemade Mozzarella

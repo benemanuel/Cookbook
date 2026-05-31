@@ -27,6 +27,7 @@ steps:
   - Take the dough out of the refrigerator and using a spoon or an ice cream scoop, make small balls of cookie dough on the baking sheets.
   - Bake the cookies for 16 minutes until their bottoms are light brown.
   - Let cool completely before serving.
+labels: [dairy]
 ---
 
 # Chewy Oatmeal Raisin Cookies Without Butter

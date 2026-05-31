@@ -49,6 +49,7 @@ steps:
   - "Place semi-sweet chocolate into a medium bowl. Pour heavy cream into a small saucepan on the stove and heat over medium-high heat until it begins to boil. Immediately pour hot cream over the chocolate, cover bowl in plastic wrap, then allow to sit for 4-5 minutes. Remove plastic wrap and stir until smooth. Set aside to cool and thicken slightly."
   - Pour ganache over the cake, using an offset spatula to evenly smooth out the top. Refrigerate for 20 minutes to allow ganache layer to set up.
   - "If desired, sprinkle chocolate curls along the border of the cake. Slice, serve and enjoy! Cake will keep covered in the refrigerator for up to 5 days."
+labels: [dairy, cake]
 ---
 
 # Triple Chocolate Mousse Torte

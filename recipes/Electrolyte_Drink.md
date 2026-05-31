@@ -21,6 +21,7 @@ steps:
   - Add the lemon juice, vinegar, and honey or stevia.
   - Pour in the water and whisk or shake vigorously to mix.
   - Drink immediately or chill briefly for better flavor.
+labels: [dairy]
 ---
 
 # Electrolyte Drink

@@ -1,3 +1,8 @@
+---
+labels: [cake]
+labels: [cake]
+---
+
 I cannot extract recipe data from this text. The provided content is only a Google Drive file-sharing notification email, not the actual recipe content. It contains:
 
 - A file share notification header

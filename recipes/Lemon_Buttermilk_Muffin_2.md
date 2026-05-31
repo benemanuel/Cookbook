@@ -32,6 +32,7 @@ steps:
   - Let the muffins cool in the tray for 5 minutes, then remove and cool completely on a rack.
   - In a small bowl, mix Greek yogurt with honey until smooth.
   - Spoon or pipe a little of the topping on top of each muffin before serving.
+labels: [dairy, cake]
 ---
 
 # Lemon Buttermilk Muffins with Greek Yogurt & Honey

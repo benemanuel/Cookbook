@@ -14,6 +14,7 @@ ingredients:
   - 2 sticks (1 cup) unsalted butter, softened
   - 2¼ cups (about 250 grams) powdered sugar
 steps: null
+labels: [dairy, cake]
 ---
 
 # Scotch Cookies

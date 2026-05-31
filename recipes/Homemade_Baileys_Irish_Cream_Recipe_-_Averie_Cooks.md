@@ -19,6 +19,7 @@ steps:
   - Combine all ingredients in the canister of a blender and blend on high speed until smooth, 30 to 60 seconds.
   - "Transfer mixture to a glass bottle or airtight container with a tight-fitting lid and store in the refrigerator for up to 2 months (I have read anywhere between 1 to 2 months; the alcohol helps preserve it, but always use the sniff test and common sense)."
   - Shake well before using.
+labels: [dairy]
 ---
 
 # Homemade Baileys Irish Cream

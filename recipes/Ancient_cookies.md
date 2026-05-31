@@ -31,6 +31,7 @@ steps:
   - Gently press a whole pistachio onto the top of each cookie for decoration.
   - Bake in the preheated oven for 16–18 minutes, or until the cookies are lightly golden on the bottom and just set on top.
   - Allow the cookies to cool on the baking sheet for 5 minutes before transferring them to a wire rack to cool completely.
+labels: [dairy]
 ---
 
 # Ancient Cookies

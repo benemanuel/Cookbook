@@ -26,6 +26,7 @@ steps:
   - Add 45 g butter in pieces during the first fold, then perform 2-3 more folds every 30 minutes and bulk until approximately 40-50% rise.
   - Divide dough into 15 portions of approximately 120 g each, shape into balls, and refrigerate overnight covered.
   - Bake at 200°C for 15-18 minutes, optionally brushing with egg wash before baking and butter after baking.
+labels: [dairy, bread]
 ---
 
 # Soft Sourdough Rolls with Tangzhong

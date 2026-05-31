@@ -257,4 +257,4 @@ for label, count in sorted(counts.items()):
     print(f"  {label}: {count}")
 print(f"\nStill unlabeled ({len(unlabeled)}):")
 for f in unlabeled:
-    print(f"  {f}")
+    print(f"  {f.encode('ascii', errors='replace').decode('ascii')}")

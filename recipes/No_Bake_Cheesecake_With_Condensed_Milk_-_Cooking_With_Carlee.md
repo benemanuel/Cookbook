@@ -20,6 +20,7 @@ steps:
   - Mix in ⅓ cup sour cream until incorporated. If using 2 teaspoons lemon juice, add now.
   - Spoon the cream cheese mixture into the prepared Graham cracker crust.
   - Chill for at least 4 hours, though longer is better, before serving.
+labels: [dairy, cake]
 ---
 
 # No Bake Cheesecake With Condensed Milk

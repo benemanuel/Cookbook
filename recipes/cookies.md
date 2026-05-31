@@ -28,6 +28,7 @@ steps:
   - Drop mixture by the tablespoonful onto a baking sheet.
   - Press down with fingers.
   - Bake at 350 degrees for 13 minutes.
+labels: [dairy, cake]
 ---
 
 # Cookies

@@ -23,6 +23,7 @@ steps:
   - "Salt the butter (optional): Sprinkle the salt over the butter and knead in. Again, your hands may be the best tool here."
   - Store the butter. Pack the butter into a jar with a cover, or roll it into a log using waxed paper or parchment paper. The butter will keep in the refrigerator for about three weeks or can be frozen for several months.
   - "Notes on culturing: Many factors will influence how long the cream takes to culture: ambient room temperature, how your cream was processed and pasteurized, how your yogurt was processed and pasteurized, etc. If the cream cultures too quickly and you&#x27;re not ready to make the butter yet, simply put it into the refrigerator until you are ready. Just be sure you remove it about an hour before churning so that it can warm up a bit.Cultured cream will be thickened and slightly foamy, and it will have a somewhat tangy, almost yogurt-like smell. Trust your senses! If you feel it is too strong and has gone bad, just throw it away. But remember that the yogurt is introducing beneficial cultures that help prevent spoilage, so the likelihood of this happening is small.Unplugged butter: You can skip the electric mixer/processor and simply shake your cream in a covered canning jar or well-sealed container until it forms into the butter mass. This can take a while, up to 20 minutes or more, so be prepared for a work-out or solicit some help.Recipe can easily be doubled."
+labels: [dairy, bread]
 ---
 
 # How To Make Butter

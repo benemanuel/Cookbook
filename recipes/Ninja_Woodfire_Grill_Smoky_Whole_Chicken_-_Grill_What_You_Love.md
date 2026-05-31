@@ -25,6 +25,7 @@ steps:
   - Flip the chicken back to skin-side down and continue cooking until the internal temperature reaches 160°F.
   - Remove the chicken from the grill and let it rest for a few minutes so the juices can redistribute.
   - Carve and serve.
+labels: [meat]
 ---
 
 # Ninja Woodfire Grill Smoky Whole Chicken

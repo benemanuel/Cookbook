@@ -30,6 +30,7 @@ steps:
   - Place the onions in a wide, shallow pot or deep frying pan and cook over low heat with a little salt until they begin to soften. Add the olive oil and continue cooking until translucent, about 8 minutes. Stir in the garlic, then add the eggplant pieces and stir gently. Add the potatoes and peppers, then gently stir in the zucchini strips. Season lightly with salt and pepper.
   - Add the tomatoes cut into small chunks and the wine to the pot. When it steams up, stir in the bay leaves. Lower heat to low, cover the pot and let the vegetables simmer for about 25 minutes, or until tender.
   - Stir in the petimezi if using. Add the basil, parsley, oregano, and thyme, cover and continue cooking over low heat another 10 minutes. Taste and adjust seasoning with additional salt and pepper. Serve hot, warm or at room temperature.
+labels: []
 ---
 
 # Soufico, One-pot Vegetable Stew

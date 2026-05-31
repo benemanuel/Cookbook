@@ -35,6 +35,7 @@ steps:
   - Bake for 12-14 minutes until they are golden.
   - Remove the scones from the oven and let them rest briefly before transferring them to a cooling rack.
   - Serve warm, preferably with quince jelly.
+labels: [dairy, cake]
 ---
 
 # Pumpkin Scones

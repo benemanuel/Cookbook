@@ -30,6 +30,7 @@ steps:
   - Spoon the spinach filling into the lined pan and spread evenly.
   - Fold overhanging filo back over the filling, layer remaining filo sheets on top brushing each with oil, tuck edges in neatly, score the top lightly with a knife, and sprinkle with sesame seeds.
   - Bake for 45 minutes until golden and crisp, rest 10 minutes before slicing, and serve with lemon wedges.
+labels: [dairy, cake]
 ---
 
 # Spanakopita (Greek Spinach Pie)

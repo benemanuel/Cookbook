@@ -36,6 +36,7 @@ steps:
   - Leave the babkas to rise until approximately doubled in volume, which may take 4–7 hours depending on temperature.
   - Preheat the oven to 220°C/428°F and bake the babkas for 10 minutes at this temperature, then decrease to 200°C/392°F and bake for another 30–40 minutes until nicely baked.
   - Remove the babkas from the tins and leave them to cool on a cooling rack before serving.
+labels: [dairy, bread, cake]
 ---
 
 # Sourdough Chocolate Babka

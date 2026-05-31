@@ -43,6 +43,7 @@ steps:
   - "When the monkey bread is cooked, take it out of the oven and let it sit for around 15 minutes. Be very careful as the sugar sauce will be very bubbly and hot!"
   - Place a wire rack on the base of the bundt pan and carefully invert the sourdough monkey bread. If you want to catch all of the caramelised sauce, use a plate instead of a wire rack.
   - Mix together the sugar, milk and vanilla until it forms a thick paste. Drizzle this all over the sourdough monkey bread.
+labels: [dairy, bread, cake, candy]
 ---
 
 # Sourdough Discard Monkey Bread Recipe

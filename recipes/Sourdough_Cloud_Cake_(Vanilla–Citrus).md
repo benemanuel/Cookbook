@@ -29,6 +29,7 @@ steps:
   - Gently fold egg whites into the yolk batter in 3 additions using a spatula to keep as much air as possible.
   - Pour batter into the tube pan and bake 45–55 minutes until golden and springy to the touch, or until a skewer comes out clean.
   - Immediately invert the pan on a bottle or cooling rack so it hangs upside down and let cool completely before loosening the sides with a knife.
+labels: [dairy, bread, cake]
 ---
 
 # Sourdough Cloud Cake (Vanilla–Citrus)

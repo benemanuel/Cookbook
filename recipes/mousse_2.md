@@ -16,6 +16,7 @@ ingredients:
   - 14 grams gelatin powder
   - 946 milliliters heavy cream
 steps: null
+labels: [dairy]
 ---
 
 # Dark Chocolate Mousse

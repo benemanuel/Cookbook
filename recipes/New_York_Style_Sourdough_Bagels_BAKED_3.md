@@ -34,6 +34,7 @@ steps:
   - Return the bagels to the baking sheet and repeat with the remaining bagels.
   - Place the baking sheet in the center of the oven and reduce temperature to 400°F, then bake for 18 to 22 minutes until golden on top.
   - Cool on a wire rack until ready to serve.
+labels: [bread, cake]
 ---
 
 # New York Style Sourdough Bagels

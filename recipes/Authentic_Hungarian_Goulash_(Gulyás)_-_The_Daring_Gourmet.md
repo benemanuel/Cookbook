@@ -26,6 +26,7 @@ ingredients:
   - 1/2 teaspoon crushed caraway seeds ((optional, not traditional in all regions))
 steps:
   - "Melt the pork lard or butter/oil in a Dutch oven or other heavy soup pot over medium high heat and cook the onions until beginning to brown, about 7-10 minutes. Add the beef and cook until the beef is just starting to brown, 7-10 minutes.  Add the bell peppers, tomatoes, and garlic and cook for another 6-8 minutes.  Remove the pot from the heat and stir in the paprika, salt, pepper and caraway (if using) (note: paprika becomes bitter if at all scorched).  Add the beef broth, bay leaf, return to the stove and bring to a boil.  Reduce the heat to medium-low, cover and simmer for 40 minutes.  Add the carrots and potatoes.  Return to a boil, reduce the heat to medium-low, cover, and simmer for another 30-40 minutes or until the beef is nice and tender.  Add salt to taste.  Remove the bay leaf."
+labels: [meat, dairy, bread]
 ---
 
 # Authentic Hungarian Goulash (Gulyás)

@@ -28,6 +28,7 @@ steps:
   - Cover the shaped rolls and let them rise until they're puffy, about 1 hour, while adjusting the oven rack to a lower third placement and preheating the oven to 350°F.
   - Bake the rolls for 20 to 25 minutes or until they're golden brown on top, rotating the pan halfway through, and loosely cover the pans with aluminum foil if the tops are browning too quickly.
   - Remove the pans from the oven and allow the rolls to cool for a few minutes before serving.
+labels: [dairy, bread]
 ---
 
 # Soft Sourdough Discard Dinner Rolls

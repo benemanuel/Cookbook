@@ -35,6 +35,7 @@ steps:
   - Braise low and slow until the roast is very tender and falls apart easily.
   - Add the potatoes during the final portion of cooking until they are tender.
   - Remove the bay leaves and rosemary sprig before serving.
+labels: [meat, dairy, cake]
 ---
 
 # Chuck Roast

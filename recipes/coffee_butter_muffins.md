@@ -34,6 +34,7 @@ steps:
   - Bake for 15-17 minutes until the crumbly tops are golden and a toothpick inserted in the middle comes out clean.
   - Remove from oven and allow muffins to cool to room temperature in the pan, then transfer to a wire rack.
   - Once cooled, drizzle a little glaze over the cooled muffins.
+labels: [dairy, cake]
 ---
 
 # Coffee Butter Muffins

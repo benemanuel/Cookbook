@@ -10,6 +10,7 @@ cook_minutes: null
 imported_at: 2026-05-31
 ingredients: null
 steps: null
+labels: [bread]
 ---
 
 # Walnut Cranberry Sourdough Bread Recipe | Super Easy and Delicious

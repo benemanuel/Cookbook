@@ -22,6 +22,7 @@ steps:
   - Lower heat to simmer, cover the pan, and cook for 20 minutes, stirring every few minutes.
   - Remove the lid from the pan and add brown sugar, then cook while reducing the liquid and stirring every few minutes, being careful not to scorch the mixture.
   - Mash the mixture with a wooden spoon until the prunes are soft and broken up and the consistency resembles oatmeal, about 20 more minutes, then allow to cool as it will thicken further.
+labels: [dairy]
 ---
 
 # Lekvar (Prune Filling or Prune Butter)

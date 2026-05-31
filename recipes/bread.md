@@ -1,3 +1,8 @@
+---
+labels: [bread]
+labels: [bread]
+---
+
 ```markdown
 ---
 schema_version: 1

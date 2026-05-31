@@ -25,6 +25,7 @@ steps:
   - Ladle 1/3 cup of batter onto the hot griddle and cook until the batter starts bubbling on top, then gently flip the pancake.
   - Cook for an additional 1-2 minutes on the second side until the pancake is cooked through and golden brown.
   - Serve warm with butter and maple syrup.
+labels: [dairy, bread, cake]
 ---
 
 # Sourdough Pancakes & Waffles

@@ -27,6 +27,7 @@ steps:
   - Add the batter to the prepared pan, and smooth out the top with a spatula.
   - "Bake in the hot oven for 35 to 40 minutes, or until the top is golden-brown and the middle is cooked through. A toothpick inserted into the center should come out clean."
   - Remove from the oven, and allow to cool for 10 minutes before slicing and serving hot with additional butter and honey to taste.
+labels: [dairy, bread, cake]
 ---
 
 # Fluffy Sourdough Cornbread

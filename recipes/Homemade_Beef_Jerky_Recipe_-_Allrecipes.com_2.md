@@ -1,3 +1,8 @@
+---
+labels: [meat]
+labels: [meat]
+---
+
 ```markdown
 ---
 schema_version: 1

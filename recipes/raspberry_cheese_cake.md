@@ -34,6 +34,7 @@ steps:
   - Make a level crater in the batter and add the filling.
   - Sprinkle the reserved batter mixture with additional sugar and crumble it over the filling to cover as much as possible, adding sugar to any uncovered spaces.
   - Bake at 375°F until a toothpick inserted in the cake portion comes out clean.
+labels: [dairy, cake]
 ---
 
 # Raspberry Cheesecake Coffee Cake

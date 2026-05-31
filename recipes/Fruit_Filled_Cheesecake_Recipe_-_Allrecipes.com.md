@@ -35,6 +35,7 @@ steps:
   - Fill the roasting pan with water to the 1 inch mark.
   - Bake at 350 degrees F (175 degrees C) for 55 minutes.
   - Remove cake from oven, cool to room temperature and refrigerate overnight.
+labels: [dairy, cake]
 ---
 
 # Fruit Filled Cheesecake

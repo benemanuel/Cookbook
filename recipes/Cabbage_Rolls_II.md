@@ -27,6 +27,7 @@ steps:
   - Bring one end of the cabbage leaf over the mixture, rolling and tucking in the ends to prevent filling from falling out, and arrange rolls in a single layer in the slow cooker.
   - Mix tomato sauce, brown sugar, lemon juice, and Worcestershire sauce together in a small bowl until combined and pour over cabbage rolls.
   - Cover and cook on Low for 8 to 9 hours.
+labels: [meat, dairy]
 ---
 
 # Cabbage Rolls II

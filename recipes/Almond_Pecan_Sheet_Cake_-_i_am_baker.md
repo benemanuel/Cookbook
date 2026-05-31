@@ -33,6 +33,7 @@ steps:
   - "Add in sugar 1 cup at a time making sure to whisk after each addition.&nbsp;"
   - "Add in 1/2 teaspoon almond extract. Whisk well. It will be similar to a gravy consistency.&nbsp;"
   - Stir in pecans. Spread frosting over warm cake.
+labels: [dairy, cake]
 ---
 
 # Almond Pecan Sheet Cake

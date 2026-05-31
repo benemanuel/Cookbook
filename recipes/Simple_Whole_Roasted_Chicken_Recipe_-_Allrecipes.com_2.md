@@ -28,6 +28,7 @@ steps:
   - Reduce heat to 450 degrees F (230 degrees C) and continue roasting 15 minutes.
   - Baste chicken with pan drippings, reduce heat to 425 degrees F (220 degrees C), and continue roasting 30 minutes to an internal temperature of 180 degrees F (85 degrees C).
   - Let stand 20 minutes before serving.
+labels: [meat]
 ---
 
 # Simple Whole Roasted Chicken

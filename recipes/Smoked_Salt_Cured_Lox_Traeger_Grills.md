@@ -24,6 +24,7 @@ steps:
   - Set your smoker to 180°F and place a tray of ice on the grill grate to keep the salmon cold while smoking.
   - Lay the salmon on the ice tray and smoke for 30 minutes until lightly smoked on the outside but still silky and cured inside.
   - Slice thinly on the bias and serve, refrigerating leftovers for up to 1 week.
+labels: [fish]
 ---
 
 # Smoked Salt Cured Lox

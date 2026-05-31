@@ -29,6 +29,7 @@ steps:
   - "Toast the whole spices over medium heat in a dry skillet for a few minutes until very fragrant.&nbsp; Be careful not to scorch the spices or they will become bitter.&nbsp; Set aside."
   - "Place all the ingredients in a medium saucepan and bring it to an extremely low simmer.&nbsp; Continue to simmer over low for at least one hour or up to 90 minutes.&nbsp; BE VERY CAREFUL NOT TO BURN THE BUTTER.&nbsp; If it burns it will be bitter and there is no salvaging it."
   - "Pour everything through a fine-mesh cheesecloth.  (No need to skim off the foam, everything will be removed during straining.) Pour the niter kibbeh into a jar, let it cool, and cover so that it is airtight.  It will keep at room temperature for several weeks, in the fridge for a few months, and even longer in the freezer (it will be hard in the fridge and freezer, let it come to room temp for easy scooping).  Makes about 2 cups."
+labels: [dairy]
 ---
 
 # Authentic Niter Kibbeh (Ethiopian Spiced Clarified Butter)

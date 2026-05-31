@@ -45,6 +45,7 @@ steps:
   - Preheat the oven to 375°F.
   - Bake for 35 to 40 minutes until golden brown.
   - Enjoy your avocado brioche sourdough loaf.
+labels: [dairy, bread]
 ---
 
 # Avocado Brioche Sourdough Bread

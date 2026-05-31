@@ -12,6 +12,7 @@ ingredients: null
 steps:
   - Hang the meat in the refrigerator for 2 months with a spice layer and cheese cloth.
   - Place the meat in a smoker or dehydrator set to 40°C in air fry mode for 4.5 hours.
+labels: [meat]
 ---
 
 # Cured Meat Basturma

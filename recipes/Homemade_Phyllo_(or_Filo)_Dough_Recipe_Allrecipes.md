@@ -27,6 +27,7 @@ steps:
   - Roll out the 5-circle stack to a larger circle about double in size, turning as you go to maintain a round shape, then separate each layer and lay out the circles, reapplying more cornstarch mixture where needed and restacking them.
   - Roll again until the 5-layer stack is paper-thin, about 10 to 12 inches in diameter, then place on a sheet of parchment paper, top with another piece of parchment, gently roll up the dough, wrap it in plastic wrap, and refrigerate.
   - Repeat with the remaining 15 balls of dough in batches of 5.
+labels: [bread]
 ---
 
 # Homemade Phyllo (or Filo) Dough

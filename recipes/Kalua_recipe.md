@@ -23,6 +23,7 @@ steps:
   - Return the infused strained vodka mixture to a clean jar and add the simple syrup.
   - Cover and gently shake to combine.
   - Store in a cool, dark place for up to 1 year, shaking gently before using.
+labels: []
 ---
 
 # Coffee Liqueur

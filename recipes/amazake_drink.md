@@ -36,6 +36,7 @@ steps:
   - Once dissolved, add 50 g sugar and 1 pinch Diamond Crystal kosher salt.
   - Let the mixture cook and reduce for approximately 15 minutes to your preferred consistency.
   - Serve the amazake hot or warm and enjoy.
+labels: []
 ---
 
 # Amazake Drink

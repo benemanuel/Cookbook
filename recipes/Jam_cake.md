@@ -22,6 +22,7 @@ ingredients:
   - Lemon peel
   - Salt to taste
 steps: null
+labels: [dairy, cake]
 ---
 
 # Jam Cake

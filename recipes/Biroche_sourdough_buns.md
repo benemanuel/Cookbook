@@ -39,6 +39,7 @@ steps:
   - Preheat oven to 360°F.
   - Brush the tops with egg wash.
   - Bake for 15–20 minutes until golden brown and cool completely on a rack before slicing.
+labels: [dairy, bread, cake]
 ---
 
 # Brioche Sourdough Buns

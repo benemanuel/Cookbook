@@ -30,6 +30,7 @@ steps:
   - Bake the crackers for 30 minutes at 350°F.
   - Turn the oven off and crack the door. I use a baking mitt between the door and oven frame to keep it from closing completely. Let the crackers cool and continue drying out in the oven.
   - Once cool, store the crackers in an airtight container.
+labels: [dairy, bread]
 ---
 
 # Sourdough Cheddar Crackers

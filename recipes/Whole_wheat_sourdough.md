@@ -24,6 +24,7 @@ steps:
   - Add an ice cube to the stone and spritz with water a few more times throughout baking.
   - Lower heat to 450°F, remove the steam catcher system, and bake for 25 minutes more.
   - Rest the loaf for at least 6 hours before slicing.
+labels: [bread, cake]
 ---
 
 # Whole Wheat Sourdough

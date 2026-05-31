@@ -22,6 +22,7 @@ ingredients:
   - 1 egg plus equal weight of flour
   - mixed seeds such as sesame, pumpkin, chia, poppy, and sunflower seeds
 steps: null
+labels: [dairy, bread]
 ---
 
 # Sandwich Sourdough

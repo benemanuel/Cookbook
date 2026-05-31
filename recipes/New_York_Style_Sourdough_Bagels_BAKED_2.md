@@ -15,6 +15,7 @@ ingredients:
   - 650 grams all-purpose and whole wheat flour
   - 10 grams sea salt
 steps: null
+labels: [bread]
 ---
 
 # New York Style Sourdough Bagels

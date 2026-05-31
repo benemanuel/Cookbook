@@ -27,6 +27,7 @@ steps:
   - Pour the filling into the unbaked pastry shell.
   - Bake for 40–50 minutes, until the center is set and the top is golden, with a toothpick coming out mostly clean.
   - Cool completely before slicing.
+labels: [dairy, cake, candy]
 ---
 
 # White House Pecan Pie

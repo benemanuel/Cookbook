@@ -35,6 +35,7 @@ steps:
   - "Preheat your oven to 500°F/260°C 30-45 minutes before you plan to bake the focaccia."
   - "When the focaccia has doubled in size: drizzle a generous amount of olive oil over the dough&#39;s surface. Use your fingers to poke dents all over the dough. Add thinly sliced apples, fresh rosemary, and flaky sea salt on top."
   - "Bake for 10 minutes with the lid on, then take the lid off, turn down the heat to 430°F/220°C, and bake for another 10-15 minutes until deep golden brown. Remove from the oven, drizzle honey on top, and let it cool for about 15 minutes before serving."
+labels: [bread]
 ---
 
 # Cast Iron Sourdough Focaccia w/ Apples and Rosemary

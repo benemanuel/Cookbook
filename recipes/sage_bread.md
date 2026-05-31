@@ -28,6 +28,7 @@ steps:
   - Cut cooled bread into 1-1.5 inch slices.
   - Melt butter in a non-stick pan and thoroughly coat each slice on both sides with butter.
   - Brown each slice on both sides until golden.
+labels: [dairy, bread, cake]
 ---
 
 # Sage Bread

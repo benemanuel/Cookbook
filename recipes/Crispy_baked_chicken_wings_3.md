@@ -11,6 +11,7 @@ imported_at: 2026-05-31
 ingredients: null
 steps:
   - Cook chicken wings in a Ninja air fryer with smoke setting at 200 degrees for 20 minutes.
+labels: [meat]
 ---
 
 # Crispy Baked Chicken Wings

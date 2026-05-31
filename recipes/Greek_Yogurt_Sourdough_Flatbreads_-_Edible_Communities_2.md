@@ -13,6 +13,7 @@ ingredients:
   - 150 g pukacha flour
   - 150 g 80% sourdough starter
 steps: null
+labels: [dairy, bread]
 ---
 
 # Greek Yogurt Sourdough Flatbreads

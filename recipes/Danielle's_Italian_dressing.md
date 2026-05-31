@@ -24,6 +24,7 @@ steps:
   - Juice half a lemon and add salt to the jar.
   - Shake well to combine.
   - Pour onto the salad and enjoy.
+labels: []
 ---
 
 # Danielle's Italian Dressing

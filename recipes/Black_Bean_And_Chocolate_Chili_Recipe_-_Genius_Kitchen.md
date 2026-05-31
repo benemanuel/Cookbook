@@ -10,6 +10,7 @@ cook_minutes: null
 imported_at: 2026-05-31
 ingredients: null
 steps: null
+labels: []
 ---
 
 # Black Bean And Chocolate Chili

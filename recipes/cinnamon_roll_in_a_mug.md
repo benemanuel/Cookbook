@@ -22,6 +22,7 @@ steps:
   - Swirl the cinnamon sugar mixture into the dough.
   - Place the mixture in a mug and microwave on high for about 50 seconds at 750W, being careful not to overcook as the dough will become chewy.
   - Mix the powdered sugar with milk to create a glaze and drizzle over the warm cinnamon roll.
+labels: [dairy, cake]
 ---
 
 # Cinnamon Roll in a Mug

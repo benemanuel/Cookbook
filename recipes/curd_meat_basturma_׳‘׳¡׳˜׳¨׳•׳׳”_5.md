@@ -16,6 +16,7 @@ ingredients:
   - 0.5 gr thyme
   - 0.5 gr juniper
 steps: null
+labels: [meat]
 ---
 
 # Cured Meat Basturma

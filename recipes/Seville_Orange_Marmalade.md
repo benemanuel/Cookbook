@@ -40,6 +40,7 @@ steps:
   - Optionally process the jars in a hot water bath for 5 minutes to help get a better seal and prevent mold.
   - Allow the jars to seal on the kitchen counter as the marmalade cools, turning upside down every 30 minutes to prevent the peels from floating to the top.
   - Refrigerate any jars that did not seal and use the marmalade within a few months.
+labels: [candy]
 ---
 
 # Seville Orange Marmalade

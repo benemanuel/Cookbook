@@ -8,8 +8,8 @@ attachments:
   - filename: Screenshot_20210119-224352.jpg
     type: image/jpeg
     size: 396837
-labels:
   - fish
+labels: [meat, fish]
 ---
 
 # ׃tuna steak

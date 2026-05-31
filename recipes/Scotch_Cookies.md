@@ -25,6 +25,7 @@ steps:
   - Drop by tablespoon onto greased sheets.
   - Press down lightly with floured glass.
   - Bake at 175°C for a maximum of 14 minutes, being careful not to overbake.
+labels: [dairy, cake]
 ---
 
 # Scotch Cookies

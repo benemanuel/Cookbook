@@ -31,6 +31,7 @@ steps:
   - Bake in a greased 8x8x2 inch pan in a moderate oven at 350°F for 50 minutes.
   - Make molasses whipped cream by folding 2 tablespoons molasses into 1/2 cup whipped cream.
   - Serve cake in squares with molasses whipped cream.
+labels: [dairy, cake]
 ---
 
 # Spice Squares with Molasses Whipped Cream

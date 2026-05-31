@@ -30,6 +30,7 @@ steps:
   - Pour the peanut mixture over the krispies layer and freeze for 30 minutes until firm.
   - Melt together the chocolate and 1 tablespoon coconut oil in the microwave, let cool for 5 minutes, and spread over the peanut butter layer.
   - Return to the fridge to set for about 10 minutes, then slice and keep in the fridge.
+labels: [dairy]
 ---
 
 # Chewy Chocolate Peanut Butter Bars

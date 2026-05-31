@@ -34,6 +34,7 @@ steps:
   - Take the dish out of the freezer and pour the batter on top of the sauce. Level out the batter and bake for about 30 minutes until just firm to the touch in the centre. Reheat the remaining sauce in the pan towards the end of cooking.
   - Heat the grill to medium. Poke small holes across the top of the baked pudding with a skewer, then pour the sauce over the top. Put the dish under the grill until the top is molten and bubbling, watching carefully so the sugar doesn't burn.
   - Serve immediately with ice-cream, custard, crème fraîche or Greek yoghurt. Alternatively, bake the pudding ahead of time without the remaining sauce, cover with foil, reheat in a 180C (160C fan)/350F/gas 4 oven for about 20 minutes, then continue with the grilling step.
+labels: [dairy, cake, candy]
 ---
 
 # Sticky Toffee Pudding

@@ -22,6 +22,7 @@ steps:
   - Preheat oven to 500 degrees F (260 degrees C).
   - Stuff the chicken cavity with the garlic and place the chicken, breast side down, on a rack in a roasting pan.
   - Roast 15 minutes in the preheated oven, then reduce heat to 450 degrees F (230 degrees C) and continue roasting 15 minutes, baste chicken with pan drippings, reduce heat to 425 degrees F (220 degrees C), and continue roasting 30 minutes to an internal temperature of 180 degrees F (85 degrees C), then let stand 20 minutes before serving.
+labels: [meat]
 ---
 
 # Simple Whole Roasted Chicken

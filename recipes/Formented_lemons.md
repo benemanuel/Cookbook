@@ -17,6 +17,7 @@ steps:
   - Mix the lemon quarters with coarse salt, approximately 60g.
   - Squeeze the lemons to release their juices.
   - Layer the squeezed lemons and salt mixture in a jar with mint or other herbs of your choice.
+labels: []
 ---
 
 # Fermented Lemons

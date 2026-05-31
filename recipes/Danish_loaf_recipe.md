@@ -50,6 +50,7 @@ steps:
   - Put the cover on the pullman tin and let proof for another 10 to 20 minutes
   - Bake for 35 to 40 minutes until crust is golden brown
   - Take danish loaf immediately out of tin and place on wire rack to cool completely before slicing
+labels: [dairy, bread, cake]
 ---
 
 # Danish Loaf Bread - 3 Ways (Cocoa/Matcha/Ube)

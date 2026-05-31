@@ -1,3 +1,8 @@
+---
+labels: [dairy, candy]
+labels: [dairy, candy]
+---
+
 ```markdown
 ---
 schema_version: 1

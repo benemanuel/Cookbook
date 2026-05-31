@@ -42,6 +42,7 @@ steps:
   - Transfer the pizza to a hot preheated oven with the top heat set to 250 degrees Celsius for 5 minutes.
   - Check frequently to ensure the pizza does not burn while the cheese melts and turns golden brown.
   - Serve the pizza while hot.
+labels: [dairy, bread, cake]
 ---
 
 # Bim's Sourdough Pizza

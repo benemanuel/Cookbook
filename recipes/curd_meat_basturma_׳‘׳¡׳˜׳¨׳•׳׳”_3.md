@@ -17,6 +17,7 @@ steps:
   - Keep the smoking chamber's temperature low to avoid cooking the meat while infusing it with smoke.
   - Ensure the meat hangs freely with good air circulation on all sides throughout the process.
   - Monitor the meat's weight before and after curing to check for moisture loss, aiming for about a 30% weight reduction.
+labels: [meat]
 ---
 
 # Curd Meat Basturma

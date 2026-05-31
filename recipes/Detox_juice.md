@@ -16,6 +16,7 @@ ingredients:
   - 4cm-piece fresh ginger, washed, unpeeled
   - Ice cubes, to serve
 steps: null
+labels: []
 ---
 
 # Detox Juice

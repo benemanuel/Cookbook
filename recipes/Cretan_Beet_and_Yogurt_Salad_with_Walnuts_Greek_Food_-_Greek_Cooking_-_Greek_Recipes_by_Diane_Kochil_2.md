@@ -1,3 +1,8 @@
+---
+labels: [fish, dairy]
+labels: [fish, dairy]
+---
+
 I appreciate your caution, but I need to let you know that the text you've provided only contains:
 
 1. A recipe title: "Cretan Beet and Yogurt Salad with Walnuts"

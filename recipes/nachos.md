@@ -22,6 +22,7 @@ ingredients:
   - 4 tablespoons olive slices
   - 1 package shredded cheese (Gouda or Mozzarella)
 steps: null
+labels: [meat, dairy]
 ---
 
 # Nachos

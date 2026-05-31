@@ -24,6 +24,7 @@ steps:
   - Pour cream over the apples.
   - Sprinkle with remaining brown sugar mixture.
   - Bake at 400° for 10 minutes, then reduce heat to 350° and bake until the apples are tender, 45 to 60 minutes.
+labels: [dairy]
 ---
 
 # Apple Cream Pie

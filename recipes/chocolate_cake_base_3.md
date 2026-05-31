@@ -24,6 +24,7 @@ ingredients:
   - ¼ cup vegetable oil
   - 1 teaspoon vanilla
 steps: null
+labels: [dairy, cake]
 ---
 
 # Chocolate Cake Base

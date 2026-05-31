@@ -38,6 +38,7 @@ steps:
   - Add the leftover lemon juice and remove from the heat.
   - When it cools, store in clean and sterilized jars.
   - Store in a cupboard.
+labels: [bread, candy]
 ---
 
 # Glyko Karydaki (Green Walnuts Preserve)

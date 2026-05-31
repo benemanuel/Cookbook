@@ -32,6 +32,7 @@ steps:
   - Remove from the flame, cool completely, and store in a sterilized glass jar.
   - Store the garlic pickle in a cool dry place and stir it with a clean and dry spoon once a day after storing in the glass jar.
   - The garlic pickle is ready to serve after 1 week, though it tastes better the longer it is preserved.
+labels: []
 ---
 
 # Garlic Pickle (Lahsun Achar)

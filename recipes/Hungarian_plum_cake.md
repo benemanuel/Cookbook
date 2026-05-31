@@ -29,6 +29,7 @@ steps:
   - Bake in a preheated oven at 180 degrees C for 40-45 minutes until a skewer inserted into the centre comes out clean, covering the top with foil halfway through to prevent over-browning.
   - While the cake bakes, prepare the praline by melting the sugar in a pot over heat, stirring constantly until it becomes light brown, then add the walnuts and stir.
   - Pour the hot praline onto an oiled board, roll it thinly with an oiled rolling pin, cut it into pieces, and sprinkle over the baked cake brushed with plum jam.
+labels: [dairy, bread, cake, candy]
 ---
 
 # Hungarian Plum Cake

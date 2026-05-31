@@ -25,6 +25,7 @@ steps:
   - Refrigerate for 30 minutes.
   - Using the paper or plastic lining the pan, lift the bar mixture from the pan and transfer it to a cutting board, then discard the paper and cut the rectangle into 6 bars.
   - Tightly wrap each bar in plastic wrap and store at room temperature for up to 3 days, in the refrigerator for up to 3 weeks, or in the freezer for up to 3 months.
+labels: [bread]
 ---
 
 # Homemade Larabars Recipe

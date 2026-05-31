@@ -30,6 +30,7 @@ steps:
   - Whip 1 cup heavy cream with confectioner's sugar to soft peaks, then drizzle in the gelatin mixture and continue whipping to medium-firm peaks.
   - Whisk the chilled pastry cream until smooth and gently fold in the whipped cream in thirds until fully incorporated and fluffy.
   - Use immediately or refrigerate up to 2 days.
+labels: [dairy, cake]
 ---
 
 # Vanilla Diplomat Cream

@@ -12,6 +12,7 @@ ingredients:
   - 225g water
   - 150g sourdough
 steps: null
+labels: [bread]
 ---
 
 # Turkish Pitta

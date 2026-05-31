@@ -26,6 +26,7 @@ steps:
   - Divide the dough into two portions and pour it into two bread pans, cover with plastic wrap or a damp dishtowel, and let the dough rise for about 1-2 hours or until the bread pan is full of dough.
   - Bake the rye breads at 180°C (360°F) for about 1 hour.
   - Remove the breads from the pans and let them cool off, then keep them in an airtight container or plastic bag.
+labels: [bread]
 ---
 
 # Danish Rye Bread

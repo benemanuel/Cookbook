@@ -21,6 +21,7 @@ steps:
   - Squeeze the cloth tightly to extract as much moisture as possible out of the seeds and discard the seeds.
   - Add the sugar and orange blossom water to the milky liquid and refrigerate in a pitcher.
   - Serve chilled.
+labels: [dairy]
 ---
 
 # Pipitada (Melon Seed Drink)

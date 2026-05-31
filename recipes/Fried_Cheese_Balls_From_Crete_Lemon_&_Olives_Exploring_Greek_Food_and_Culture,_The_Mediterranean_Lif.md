@@ -30,6 +30,7 @@ steps:
   - Remove and place on a paper towel.
   - Repeat with the remaining cheese mixture.
   - Serve warm.
+labels: [dairy]
 ---
 
 # Fried Cheese Balls From Crete

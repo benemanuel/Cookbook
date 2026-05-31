@@ -30,6 +30,7 @@ steps:
   - Working in batches, boil pretzels in the baking soda bath for 30 seconds per side and transfer to prepared baking sheets.
   - Brush each pretzel with egg wash and sprinkle with flaky sea salt.
   - Bake for 13–15 minutes until deep mahogany brown.
+labels: [dairy, bread, cake]
 ---
 
 # Pretzel

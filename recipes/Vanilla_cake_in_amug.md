@@ -22,6 +22,7 @@ steps:
   - Stir in the melted butter, milk, and vanilla extract until just combined.
   - Top with sprinkles.
   - Microwave for about 3 minutes until a toothpick inserted in the center comes out clean.
+labels: [dairy, cake]
 ---
 
 # Vanilla Cake in a Mug

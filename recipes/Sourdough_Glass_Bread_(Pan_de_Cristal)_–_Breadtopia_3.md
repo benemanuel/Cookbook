@@ -25,6 +25,7 @@ steps:
   - Preheat oven to 500°F (260°C) with a steam source such as a covered Dutch oven or baking stone with steam.
   - Bake with steam for 10 minutes, then reduce heat to 410°F (210°C), remove the steam source, and bake for another 20 minutes until deep golden.
   - Turn off oven, crack door open, and let the bread rest inside for 10 minutes before removing.
+labels: [bread]
 ---
 
 # Sourdough Glass Bread (Pan de Cristal)

@@ -24,6 +24,7 @@ steps:
   - With a knife dipped in hot water, cut the pastila into three identical rectangles and use the reserved puree as glue to stack the three pieces on top of each other, patching any holes or pits.
   - Return the stacked pastila to the oven on a parchment-lined baking sheet for an hour and a half until the layers have molded together, then remove and allow to cool.
   - Rub the cooled pastila all over with powdered sugar and carefully slice through the layers in inch-long increments, then store in a sealed container.
+labels: [cake]
 ---
 
 # Pastila

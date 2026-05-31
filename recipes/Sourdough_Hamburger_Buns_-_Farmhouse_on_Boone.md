@@ -29,6 +29,7 @@ steps:
   - Beat the egg yolk and water and brush the tops of the buns with the mixture.
   - Sprinkle with sesame seeds. (optional)
   - "Bake the buns for 25-30 minutes at 350 degrees. You want them to be golden on top."
+labels: [dairy, bread]
 ---
 
 # Sourdough Buns

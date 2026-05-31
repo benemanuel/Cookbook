@@ -24,6 +24,7 @@ steps:
   - How to Grill a Pizza
   - Grilled BLT Pizza Recipe
   - Tarte Flambée Recipe
+labels: [bread]
 ---
 
 # Best Basic Pizza Dough Recipe

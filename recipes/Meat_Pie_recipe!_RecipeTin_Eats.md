@@ -46,6 +46,7 @@ steps:
   - "Brush lids with egg, then cut a 1cm / 0.5\" incision in the middle using a small knife."
   - Bake 30 minutes or until deep golden and puffed.
   - "Devour hot and fresh, topped with tomato sauce or ketchup if desired!"
+labels: [meat]
 ---
 
 # Aussie Meat Pie recipe

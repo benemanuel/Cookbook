@@ -27,6 +27,7 @@ steps:
   - Mix the chocolate into the egg and gelatin mixture.
   - Fold the cream into the overall mixture.
   - Add alcohol if desired and mix to combine.
+labels: [dairy]
 ---
 
 # Chocolate Mousse

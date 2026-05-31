@@ -10,6 +10,7 @@ cook_minutes: null
 imported_at: 2026-05-31
 ingredients: null
 steps: null
+labels: [bread]
 ---
 
 # How To Bake Fresh Bread Without An Oven

@@ -26,6 +26,7 @@ steps:
   - Stir baking soda, salt, and lemon juice into the cooled syrup.
   - Fill a glass with ice, add 2–3 Tbsp syrup, and top with seltzer water.
   - Stir gently before serving.
+labels: [cake]
 ---
 
 # Georgian Tarragon Soda

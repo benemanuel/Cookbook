@@ -42,6 +42,7 @@ steps:
   - Proof for 3–5 hours.
   - Bake at 175°C for 25–30 minutes.
   - Frost the warm rolls with the cream cheese mixture.
+labels: [dairy, bread, cake]
 ---
 
 # Sweet Potato Sourdough Cinnamon Rolls

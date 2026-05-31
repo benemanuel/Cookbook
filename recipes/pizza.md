@@ -16,6 +16,7 @@ ingredients:
   - 25ml olive oil
   - Pizza toppings of your choice
 steps: null
+labels: [bread]
 ---
 
 # Pizza

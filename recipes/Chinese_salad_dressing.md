@@ -24,6 +24,7 @@ steps:
   - If using a food processor, leave it running while you drizzle in the oil.
   - When the dressing is well combined, add sesame seeds and scallions.
   - Serve immediately or refrigerate and use within a week.
+labels: []
 ---
 
 # Asian Vinaigrette Salad Dressing

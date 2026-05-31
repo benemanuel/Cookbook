@@ -25,6 +25,7 @@ steps:
   - Allow to cool completely.
   - Bottle and keep refrigerated.
   - To drink, mix 3:1 or 4:1 with soda or sparkling water.
+labels: []
 ---
 
 # Quinine-free Tonic Water

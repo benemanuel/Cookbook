@@ -13,6 +13,7 @@ ingredients:
   - 1/4 cup ginger wart
 steps:
   - Add sugar and ginger wart into a 750cc bottle.
+labels: []
 ---
 
 # Quinine-free Tonic Water Recipe

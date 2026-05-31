@@ -28,6 +28,7 @@ steps:
   - Brush each bun with egg wash and optionally sprinkle with sesame seeds or sugar pearls.
   - Bake for 15 to 20 minutes for small buns or 20 to 25 minutes for larger buns until golden brown.
   - Remove the buns from the oven and immediately cover with a clean kitchen cloth to keep them soft, then transfer to a cooling rack.
+labels: [dairy, bread]
 ---
 
 # Sourdough Brioche Buns

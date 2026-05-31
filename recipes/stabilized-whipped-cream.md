@@ -17,6 +17,7 @@ steps:
   - Pour heavy cream into a large mixing bowl and using the whisk attachment of your stand or hand mixer, beat the whipped cream on medium-high speed until it begins to thicken.
   - Add sugar, vanilla extract, and cream of tartar, increase to high speed, and continue to beat until soft peaks form.
   - Use immediately, or cover and store in the refrigerator for up to 3 days.
+labels: [dairy]
 ---
 
 # Stabilized Whipped Cream
