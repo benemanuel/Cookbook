@@ -1,90 +1,70 @@
 ---
-subject: "Naturally Leavened Bomboloni (Doughnuts) \u05e1\u05d5\u05e4\u05d2\u05e0\u05d9\u05d5\u05ea"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Sun, 14 Dec 2025 07:43:44 +0200"
-date_parsed: 2025-12-14T07:43:44+02:00
-attachments:
-  - filename: "Naturally Leavened Bomboloni (Doughnuts) _ The Perfect Loaf.pdf"
-    type: "application/pdf"
-    size: 2250560
-    local_path: "attachments\\2025-12-14_07-43-44_Naturally_Leavened_Bomboloni_(Doughnuts)_\u05e1\u05d5\u05e4\u05d2\u05e0\u05d9\u05d5\u05ea_1\\Naturally_Leavened_Bomboloni_(Doughnuts)_The_Perfect_Loaf.pdf"
-labels: [dairy, bread]
+schema_version: 1
+title: Naturally Leavened Bomboloni (Doughnuts)
+url: https://www.theperfectloaf.com/naturally-leavened-bomboloni-doughnuts/
+source: theperfectloaf.com
+image: null
+servings: 18
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 45g mature 100% hydration starter
+  - 90g all-purpose white flour
+  - 90g water
+  - 253g all-purpose white flour
+  - 253g high-protein bread flour
+  - 187g eggs (about 3 large plus 1 yolk, cold)
+  - 101g unsalted European butter
+  - 101g fine white sugar
+  - 91g water
+  - 10g salt
+  - 203g mature 100% hydration levain
+  - 2g ground cinnamon
+  - 200g sugar
+  - 365g whole milk
+  - 30g all-purpose flour
+  - 100g fine sugar
+  - 4 large egg yolks
+  - 1g salt
+  - 4g vanilla extract
+  - zest of 1 lemon (optional)
+steps:
+  - Build levain with 45g mature starter, 90g all-purpose flour, and 90g water in the morning. Store at 78°F until ripe, approximately 5 hours.
+  - Soften butter and cut into half-inch cubes. Bring eggs to weight and keep cold.
+  - Add flour, sugar, eggs, levain, salt, and water to mixer with paddle attachment. Stir 1 minute, then mix on speed two for 5 minutes and rest 10 minutes.
+  - Mix on speed three for 9-10 minutes, adding butter chunk by chunk, until dough almost passes the windowpane test.
+  - Perform 4 sets of stretch and folds every 30 minutes over 2 hours. Rest for 4 hours after final fold, aiming for at least 30% rise. Cover and refrigerate overnight.
+  - Allow flexible cold fermentation overnight.
+  - Dump cold dough on unfloured surface and divide into 18 pieces of 65g each. Preshape into tight rounds with taut surface.
+  - Place on floured trays, 8 per tray. Proof at 78°F for approximately 12 hours until nearly doubled and very puffy. Bomboloni should feel air-filled when poked.
+  - Heat oil to 360-370°F in a heavy pot. Fry bomboloni smooth-side down first, up to 3 at a time, for 2.5 minutes per side until golden brown.
+  - Drain fried bomboloni, then toss in cinnamon-sugar mixture while warm.
+  - For crema pasticcera, heat milk until bubbles form on sides. Whisk together flour, salt, and sugar, then add egg yolks to form a thick paste.
+  - Slowly pour warm milk over yolk mixture while whisking constantly. Return to pot on medium heat and whisk until large bubbles pop.
+  - Strain crema through fine mesh. Stir in vanilla extract and lemon zest if desired.
+  - Cover with plastic wrap on surface and refrigerate until firm. Pipe into bomboloni just before serving.
 ---
 
-# Naturally Leavened Bomboloni (Doughnuts) סופגניות
+# Naturally Leavened Bomboloni (Doughnuts)
 
-<https://www.theperfectloaf.com/naturally-leavened-bomboloni-doughnuts/>
+*Source: theperfectloaf.com*
 
+## Ingredients
 
----
-
-## Naturally Leavened Bomboloni (Doughnuts)
-
-## Levain Build
 - 45g mature 100% hydration starter
 - 90g all-purpose white flour
 - 90g water
-
-Build in morning, store at 78°F (25°C) until ripe (~5h).
-
-### Dough Formula
-**Target dough temp:** 76-78°F (24-25°C) | **Yield:** 18 × 65g | **Total:** 1200g
-
-- 253g all-purpose white flour (50%)
-- 253g high-protein bread flour (50%)
-- 187g eggs (~3 large + 1 yolk, cold) (37%)
-- 101g unsalted European butter (20%)
-- 101g fine white sugar (20%)
-- 91g water (18%)
-- 10g salt (2%)
-- 203g mature 100% hydration levain (40%)
-
-### Ingredients
-
-### Instructions
-
-### 1. Levain (9:30 AM)
-Build and ferment at 78°F for ~5h.
-
-### 2. Mix (2:00 PM)
-- Soften butter, cut to ½" cubes; cold eggs to weight
-- Add flour, sugar, eggs, levain, salt, water to mixer with paddle
-- STIR 1 min; SPEED TWO 5 min; rest 10 min
-- SPEED THREE 9-10 min, adding butter chunk by chunk
-- Mix until almost passes windowpane
-
-### 3. Warm Bulk (2:30-8:30 PM)
-- 78°F
-- 4 sets stretch & fold every 30 min
-- Rest 4h after final fold; rise ≥30%
-- Cover and refrigerate overnight
-
-### 4. Cold Bulk (8:30 PM-8:00 AM)
-Flexible cold ferment.
-
-### 5. Divide & Shape (8:00 AM)
-Dump cold dough on unfloured surface. Divide into 18 × 65g pieces. Preshape into tight rounds with taut surface.
-
-### 6. Proof (8:15 AM-7:30 PM, ~12h)
-Floured trays, 8/tray, 78°F. Proof until nearly doubled, very puffy. Should feel air-filled when poked.
-
-*Optional:* refrigerate when fully proofed, fry next morning.
-
-### 7. Fry (7:30 PM)
-- Heat oil to 360-370°F (182-187°C) in heavy pot
-- Set timer 2.5 min
-- Smooth-side down first; up to 3 at a time
-- 2.5 min per side, golden brown
-- Drain, then toss in cinnamon-sugar while warm
-
-### Cinnamon-Sugar Coating
-- 2g (1 tsp) ground cinnamon
-- 200g (1 cup) sugar
-
-Mix; toss warm bomboloni several times.
-
-### Crema Pasticcera
+- 253g all-purpose white flour
+- 253g high-protein bread flour
+- 187g eggs (about 3 large plus 1 yolk, cold)
+- 101g unsalted European butter
+- 101g fine white sugar
+- 91g water
+- 10g salt
+- 203g mature 100% hydration levain
+- 2g ground cinnamon
+- 200g sugar
 - 365g whole milk
 - 30g all-purpose flour
 - 100g fine sugar
@@ -93,17 +73,19 @@ Mix; toss warm bomboloni several times.
 - 4g vanilla extract
 - zest of 1 lemon (optional)
 
-1. Heat milk until bubbles form on sides (don't boil)
-2. Whisk flour, salt, sugar; add yolks to thick paste
-3. Slowly pour warm milk over yolks while whisking
-4. Return to pot on medium, whisk constantly until large bubbles pop
-5. Strain through fine mesh
-6. Stir in vanilla and zest
-7. Cover with plastic on surface, refrigerate until firm
+## Instructions
 
-Keeps 3-4 days. Pipe into bomboloni just before serving.
-
-### Key Notes
-- Strong fermentation is critical
-- Lengthy warm bulk and final proof; temp control essential
-- Handle gently when transferring to oil
+1. Build levain with 45g mature starter, 90g all-purpose flour, and 90g water in the morning. Store at 78°F until ripe, approximately 5 hours.
+2. Soften butter and cut into half-inch cubes. Bring eggs to weight and keep cold.
+3. Add flour, sugar, eggs, levain, salt, and water to mixer with paddle attachment. Stir 1 minute, then mix on speed two for 5 minutes and rest 10 minutes.
+4. Mix on speed three for 9-10 minutes, adding butter chunk by chunk, until dough almost passes the windowpane test.
+5. Perform 4 sets of stretch and folds every 30 minutes over 2 hours. Rest for 4 hours after final fold, aiming for at least 30% rise. Cover and refrigerate overnight.
+6. Allow flexible cold fermentation overnight.
+7. Dump cold dough on unfloured surface and divide into 18 pieces of 65g each. Preshape into tight rounds with taut surface.
+8. Place on floured trays, 8 per tray. Proof at 78°F for approximately 12 hours until nearly doubled and very puffy. Bomboloni should feel air-filled when poked.
+9. Heat oil to 360-370°F in a heavy pot. Fry bomboloni smooth-side down first, up to 3 at a time, for 2.5 minutes per side until golden brown.
+10. Drain fried bomboloni, then toss in cinnamon-sugar mixture while warm.
+11. For crema pasticcera, heat milk until bubbles form on sides. Whisk together flour, salt, and sugar, then add egg yolks to form a thick paste.
+12. Slowly pour warm milk over yolk mixture while whisking constantly. Return to pot on medium heat and whisk until large bubbles pop.
+13. Strain crema through fine mesh. Stir in vanilla extract and lemon zest if desired.
+14. Cover with plastic wrap on surface and refrigerate until firm. Pipe into bomboloni just before serving.

@@ -1,16 +1,59 @@
 ---
-subject: "Sourdough Rye Bread Recipe [hearty + rustic] - The Pantry Mama"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Sun, 30 Apr 2023 07:20:58 +0300"
-date_parsed: 2023-04-30T07:20:58+03:00
-labels: [bread]
+schema_version: 1
+title: Sourdough Rye Bread Recipe
+url: "https://www.pantrymama.com/sourdough-rye-bread-recipe/#recipe"
+source: pantrymama.com
+image: "http://web.archive.org/web/20260312090450/https://pantrymama.com/wp-content/uploads/2023/01/SOURDOUGH-RYE-BREAD-RECIPE.jpg"
+servings: 1
+prep_minutes: 240
+cook_minutes: 45
+imported_at: 2026-05-31
+ingredients:
+  - 100 g Sourdough Starter ((fed and bubbly) see notes for using levain)
+  - 250 g Bread Flour
+  - 200 g  Rye Flour ((darker or light rye is fine))
+  - 350 g Water
+  - 25 g Molasses
+  - 10 g Salt
+  - 15 g Caraway Seeds ((approx. 2 tablespoons))
+steps:
+  - "Autolyse:Weigh out your sourdough starter, water and molasses into a large ceramic or glass bowl. Mix them together briefly. Then add your rye flour, bread flour and salt and mix altogether with the end of a wooden spoon.The dough will be fairly shaggy and only just brought together. Cover your bowl with cling film or a damp tea towel and let it sit for around 1 hour. It&#39;s ok if it&#39;s a little bit longer, it&#39;s not going to matter too much.This process is called the &quot;autolyse&quot; and allows your flour to soak in all the water and become hydrated."
+  - "Forming Up Your Dough:After the dough has been through autolyse you need to bring it together into a ball. You&#39;ll notice that the dough is fully hydrated after soaking all the water up. Work your way around the bowl, grabbing the dough from the outside, stretching it up and over itself until a rough ball is formed. You shouldn&#39;t need more than about 20-25 folds to form the ball (and remember that rye flour will make the dough stickier than you&#39;re used to).Once the dough has formed into a rough ball, pop the plastic wrap back on and let it rest for 30 minutes."
+  - "Stretch &amp; Folds:Over the next few hours you need to create some structure for your dough by &quot;stretching and folding&quot;. Aim to do around 4-6 sets of stretches and folds. For each set, stretch the dough up and over itself 4 times. Leave around 15 minutes in between each set. Again you do not have to be exact with time, but you need to do at least 4 sets over 2 hours.You will need to really work the dough to develop the gluten - because rye flour has a lower gluten content.*if you want to add caraway seeds, add them during the second stretch and fold*"
+  - "Bulk Ferment:Once you&#39;ve finished your stretch and folds, place the plastic wrap or damp towel back over your dough and let it rest and ferment (see notes)."
+  - "Shaping Your Dough:Once your dough has finished it&#39;s first ferment, it&#39;s time to form it back into a ball and give it some shape and surface tension. You&#39;ll need to flour your counter top with rice flour for this (we use rice flour because it has no gluten). Try to be quite sparing with the rice flour, you only need a very light dusting.Use a silicone dough scraper to gently ease the dough out of the bowl. You want it to land upside down on your counter so that the smooth top of the dough is on the countertop and the sticky underside is facing up. This will make it easier to shape.You can shape into whatever you like. I prefer this one as a boule but it also works well as a batard or even in a loaf pan."
+  - "Once the dough is shaped into a tight ball, place it into your banneton smooth side down, so your seam is on the top - this way the top of your dough will get the pretty lines from the banneton. If you&#039;re using a cloth or tea towel in a bowl it&#039;s ok to put your dough with the smooth side up. Just make sure the dough is tight.Lift your dough around the edges to pop a little more rice flour if you feel it needs it. Just try to handle the dough as little as possible and be really gentle as you really want to preserve all the gases and air bubbles that have formed during your bulk ferment."
+  - "You will need a banneton to put your dough into. If you do not have a banneton, then a bowl or basket lined with a floured tea towel is perfectly fine. Make sure your bowl isn&#039;t too big though, you want your dough to retain some shape.Whatever you&#039;re using needs to be liberally floured with your rice flour. If you&#039;re using a banneton - liberally sprinkle it with rice flour. If you&#039;re using a cloth or tea towel, rub the flour into it to ensure it becomes non stick."
+  - "Cold Ferment:Now your dough is in it&#039;s &quot;shaping container&quot; cover it loosely with a plastic bag or damp tea towel and place into the fridge. I use a large plastic bag to cover it - I just reuse it each time. It&#039;s not totally essential to cover it - you can place it in the fridge uncovered if you&#039;d prefer.Try to leave it in the fridge for a minimum 5 hours up to a maximum of around 36 hours. The longer you leave it the better your bread will be! A longer cold ferment creates beautiful blisters on your crust and a deeper sourdough flavour. It will also ensure your dough forms a skin which makes it easier to score."
+  - "Preparing to Bake Your Sourdough:Once you&#039;re ready to bake your sourdough, you&#039;ll need to preheat your oven to 230C/450F. Place your Dutch Oven into the oven when you turn it on so it gets hot. Try to preheat for around 1 hour to ensure your oven is super hot - but you know your oven so just adjust this time if you need to.Leave your dough in the fridge until the very last minute - placing a cold dough into a hot oven will give you a great &quot;spring&quot;."
+  - "Baking Your Sourdough:When your oven is at temperature. Take your sourdough out of the fridge. Gently place it onto a piece of baking paper. Make sure that you make the baking paper big enough to use the edges as a handle to lower to dough into your Dutch Oven.Gently score your bread with a lame, clean razor blade or knife. Carefully take your dutch oven out of the oven. Place the sourdough into the pot using the baking paper as a handle. Put the lid on and place into the hot oven. If you want to you can spritz your dough with extra water before you put the lid on.BAKE TIME:30 Minutes with the lid on at 230C/450F plus10-15 Minutes with the lid off at 210C/410F"
+  - "Finishing Your Bake:When you remove your dough from the oven, carefully remove it from the dutch oven as soon as possible and place on a wire rack to cool. You&#39;ll need to allow this bread a bit longer to cool due to its higher moisture content. It will take up to 12 hours for it to cool completely."
 ---
 
-# Sourdough Rye Bread Recipe [hearty + rustic] - The Pantry Mama
+# Sourdough Rye Bread Recipe
 
-<https://www.pantrymama.com/sourdough-rye-bread-recipe/#recipe>
+*Source: pantrymama.com*
 
 ## Ingredients
 
+- 100 g Sourdough Starter ((fed and bubbly) see notes for using levain)
+- 250 g Bread Flour
+- 200 g  Rye Flour ((darker or light rye is fine))
+- 350 g Water
+- 25 g Molasses
+- 10 g Salt
+- 15 g Caraway Seeds ((approx. 2 tablespoons))
+
 ## Instructions
+
+1. Autolyse:Weigh out your sourdough starter, water and molasses into a large ceramic or glass bowl. Mix them together briefly. Then add your rye flour, bread flour and salt and mix altogether with the end of a wooden spoon.The dough will be fairly shaggy and only just brought together. Cover your bowl with cling film or a damp tea towel and let it sit for around 1 hour. It&#39;s ok if it&#39;s a little bit longer, it&#39;s not going to matter too much.This process is called the &quot;autolyse&quot; and allows your flour to soak in all the water and become hydrated.
+2. Forming Up Your Dough:After the dough has been through autolyse you need to bring it together into a ball. You&#39;ll notice that the dough is fully hydrated after soaking all the water up. Work your way around the bowl, grabbing the dough from the outside, stretching it up and over itself until a rough ball is formed. You shouldn&#39;t need more than about 20-25 folds to form the ball (and remember that rye flour will make the dough stickier than you&#39;re used to).Once the dough has formed into a rough ball, pop the plastic wrap back on and let it rest for 30 minutes.
+3. Stretch &amp; Folds:Over the next few hours you need to create some structure for your dough by &quot;stretching and folding&quot;. Aim to do around 4-6 sets of stretches and folds. For each set, stretch the dough up and over itself 4 times. Leave around 15 minutes in between each set. Again you do not have to be exact with time, but you need to do at least 4 sets over 2 hours.You will need to really work the dough to develop the gluten - because rye flour has a lower gluten content.*if you want to add caraway seeds, add them during the second stretch and fold*
+4. Bulk Ferment:Once you&#39;ve finished your stretch and folds, place the plastic wrap or damp towel back over your dough and let it rest and ferment (see notes).
+5. Shaping Your Dough:Once your dough has finished it&#39;s first ferment, it&#39;s time to form it back into a ball and give it some shape and surface tension. You&#39;ll need to flour your counter top with rice flour for this (we use rice flour because it has no gluten). Try to be quite sparing with the rice flour, you only need a very light dusting.Use a silicone dough scraper to gently ease the dough out of the bowl. You want it to land upside down on your counter so that the smooth top of the dough is on the countertop and the sticky underside is facing up. This will make it easier to shape.You can shape into whatever you like. I prefer this one as a boule but it also works well as a batard or even in a loaf pan.
+6. Once the dough is shaped into a tight ball, place it into your banneton smooth side down, so your seam is on the top - this way the top of your dough will get the pretty lines from the banneton. If you&#039;re using a cloth or tea towel in a bowl it&#039;s ok to put your dough with the smooth side up. Just make sure the dough is tight.Lift your dough around the edges to pop a little more rice flour if you feel it needs it. Just try to handle the dough as little as possible and be really gentle as you really want to preserve all the gases and air bubbles that have formed during your bulk ferment.
+7. You will need a banneton to put your dough into. If you do not have a banneton, then a bowl or basket lined with a floured tea towel is perfectly fine. Make sure your bowl isn&#039;t too big though, you want your dough to retain some shape.Whatever you&#039;re using needs to be liberally floured with your rice flour. If you&#039;re using a banneton - liberally sprinkle it with rice flour. If you&#039;re using a cloth or tea towel, rub the flour into it to ensure it becomes non stick.
+8. Cold Ferment:Now your dough is in it&#039;s &quot;shaping container&quot; cover it loosely with a plastic bag or damp tea towel and place into the fridge. I use a large plastic bag to cover it - I just reuse it each time. It&#039;s not totally essential to cover it - you can place it in the fridge uncovered if you&#039;d prefer.Try to leave it in the fridge for a minimum 5 hours up to a maximum of around 36 hours. The longer you leave it the better your bread will be! A longer cold ferment creates beautiful blisters on your crust and a deeper sourdough flavour. It will also ensure your dough forms a skin which makes it easier to score.
+9. Preparing to Bake Your Sourdough:Once you&#039;re ready to bake your sourdough, you&#039;ll need to preheat your oven to 230C/450F. Place your Dutch Oven into the oven when you turn it on so it gets hot. Try to preheat for around 1 hour to ensure your oven is super hot - but you know your oven so just adjust this time if you need to.Leave your dough in the fridge until the very last minute - placing a cold dough into a hot oven will give you a great &quot;spring&quot;.
+10. Baking Your Sourdough:When your oven is at temperature. Take your sourdough out of the fridge. Gently place it onto a piece of baking paper. Make sure that you make the baking paper big enough to use the edges as a handle to lower to dough into your Dutch Oven.Gently score your bread with a lame, clean razor blade or knife. Carefully take your dutch oven out of the oven. Place the sourdough into the pot using the baking paper as a handle. Put the lid on and place into the hot oven. If you want to you can spritz your dough with extra water before you put the lid on.BAKE TIME:30 Minutes with the lid on at 230C/450F plus10-15 Minutes with the lid off at 210C/410F
+11. Finishing Your Bake:When you remove your dough from the oven, carefully remove it from the dutch oven as soon as possible and place on a wire rack to cool. You&#39;ll need to allow this bread a bit longer to cool due to its higher moisture content. It will take up to 12 hours for it to cool completely.

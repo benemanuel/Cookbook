@@ -1,16 +1,17 @@
 ---
-subject: "Tomato jam, keeping sunshine in a jar - Eat Yourself Greek"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Thu, 11 Jul 2024 21:34:34 +0300"
-date_parsed: 2024-07-11T21:34:34+03:00
-labels: []
+schema_version: 1
+title: Tomato jam
+url: "https://eatyourselfgreek.com/tomato-jam-keeping-sunshine-in-a-jar/"
+source: eatyourselfgreek.com
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients: null
+steps: null
 ---
 
-# Tomato jam, keeping sunshine in a jar - Eat Yourself Greek
+# Tomato jam
 
-<https://eatyourselfgreek.com/tomato-jam-keeping-sunshine-in-a-jar/>
-
-## Ingredients
-
-## Instructions
+*Source: eatyourselfgreek.com*

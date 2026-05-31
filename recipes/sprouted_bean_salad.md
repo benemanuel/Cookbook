@@ -1,22 +1,61 @@
 ---
-subject: "sprouted bean salad"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Wed, 8 Mar 2023 10:48:53 +0200"
-date_parsed: 2023-03-08T10:48:53+02:00
-labels: []
+schema_version: 1
+title: Sprouted Bean Salad
+url: https://aprettylifeinthesuburbs.com/summer-salads-sprouted-bean-salad/
+source: aprettylifeinthesuburbs.com
+image: null
+servings: 6
+prep_minutes: 15
+cook_minutes: 15
+imported_at: 2026-05-31
+ingredients:
+  - 1 cup dry sprouted beans or lentils
+  - 4 cups water
+  - 4 tbsp olive oil
+  - 3 tbsp fresh lemon juice
+  - 1/2 tsp cumin
+  - salt and pepper to taste
+  - 2/3 cup chopped fresh parsley
+  - 1/4 cup chopped fresh mint
+  - 3 green onions, chopped
+  - 2/3 cup chopped purple cabbage
+  - 2 medium tomatoes, chopped
+  - 1 small cucumber, cut into chunks
+  - 1/2 red or yellow pepper, chopped
+steps:
+  - Cook the sprouted beans or lentils in 4 cups of water. Simmer for about 15-20 minutes or until the beans are soft.
+  - When the beans are cooked, drain and rinse with cold water.
+  - While the beans are simmering, make the dressing by whisking together the olive oil, lemon juice, cumin, salt and pepper.
+  - Once the beans are cooked, drain well.
+  - Combine the cooked beans, vegetables and dressing. Mix well.
+  - Serve and enjoy.
 ---
 
-# sprouted bean salad
+# Sprouted Bean Salad
 
-## sprouted bean salad
+*Source: aprettylifeinthesuburbs.com*
 
-## Sprouted Bean SaladThis Sprouted Bean Salad is a hearty and delicious dish. This salad is perfect served as a side dish, but is hearty enough it could stand alone as a meal. * Author: [Jo\-Anna Rooney](https://aprettylifeinthesuburbs.com/about-me-page/)  * Prep Time: 15 minutes  * Cook Time: 15 minutes  * Total Time: 30 minutes  * Yield: 6 servings 1x  * Category: Salad
+## Ingredients
 
-### Ingredients
+- 1 cup dry sprouted beans or lentils
+- 4 cups water
+- 4 tbsp olive oil
+- 3 tbsp fresh lemon juice
+- 1/2 tsp cumin
+- salt and pepper to taste
+- 2/3 cup chopped fresh parsley
+- 1/4 cup chopped fresh mint
+- 3 green onions, chopped
+- 2/3 cup chopped purple cabbage
+- 2 medium tomatoes, chopped
+- 1 small cucumber, cut into chunks
+- 1/2 red or yellow pepper, chopped
 
-### UNITS USMSCALE1x2x3xSprouted Beans/Lentils: * 1 cup dry sprouted beans or lentils * 4 cup waterDressing: * 4 tbsp olive oil * 3 tbsp fresh lemon juice * 1/2 tsp cumin (more if you like it…I used 1 tsp) * salt and pepper to tasteSalad Additions: * 2/3 cup chopped fresh parsley * 1/4 cup chopped fresh mint * 3 green onions, chopped * 2/3 cup chopped purple cabbage * 2 medium tomatoes, chopped * 1 small cucumber, cut into chunks * 1/2 red or yellow pepper, chopped
+## Instructions
 
-### Instructions
-
-### 1. Cook the sprouted beans/lentils in the 4 cups of water. Simmer for about 15\-20 minutes or until the beans are soft. 2. When the beans are cooked, drain and rinse with cold water. 3. While the beans are simmering make the dressing by whisking the olive oil, lemon juice, cumin, salt and pepper together. 4. Once the beans are cooked, drain, then rinse with cold water. Drain well. 5. Combine the cooked beans, vegetables and dressing. Mix well. 6. Enjoy!Find it online: <https://aprettylifeinthesuburbs.com/summer-salads-sprouted-bean-salad/>
+1. Cook the sprouted beans or lentils in 4 cups of water. Simmer for about 15-20 minutes or until the beans are soft.
+2. When the beans are cooked, drain and rinse with cold water.
+3. While the beans are simmering, make the dressing by whisking together the olive oil, lemon juice, cumin, salt and pepper.
+4. Once the beans are cooked, drain well.
+5. Combine the cooked beans, vegetables and dressing. Mix well.
+6. Serve and enjoy.

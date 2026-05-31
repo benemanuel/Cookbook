@@ -1,241 +1,77 @@
 ---
-subject: "Chai masala tea"
-from: "benemanuel family <benemanuel.family@gmail.com>"
-to: "benemanuel family <benemanuel.family@gmail.com>"
-date: "Sun, 29 Mar 2026 21:26:15 +0300"
-date_parsed: 2026-03-29T21:26:15+03:00
-labels: [dairy]
+schema_version: 1
+title: Masala Chai Recipe (Indian Masala Tea)
+url: "https://www.indianhealthyrecipes.com/masala-tea-chai/#wprm-recipe-container-38384"
+source: indianhealthyrecipes.com
+image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/05/masala-chai-tea-recipe.jpg"
+servings: 2
+prep_minutes: 2
+cook_minutes: 8
+imported_at: 2026-05-31
+ingredients:
+  - 4   green cardamoms ((elaichi or ¼ teaspoon ground))
+  - 2    cloves ((3 for stronger flavor or ⅛ teaspoon ground))
+  - ½ to ¾ inch cinnamon piece ((cassia or Ceylon or ⅛ teaspoon ground cinnamon))
+  - 2  pepper corn ((or a pinch of ground pepper, optional))
+  - 1½ cups water
+  - 1 cup full fat milk ((adjust to taste, Refer notes))
+  - 2½ to 3 teaspoons black tea leaves (or 1¼ to 1½ teaspoon tea powder (dust) (or 3 to 4 tea bags, Refer notes))
+  - 2 to 3 teaspoons sugar (or as needed)
+  - ½ teaspoon  (½ inch)  ginger ( chopped or crushed (optional))
+  - 1 teaspoon green cardamoms ((5 grams skinned) (elaichi))
+  - ½ teaspoon cloves ((2 grams) )
+  - 2½ to 3 grams cinnamon  ((cassia or Ceylon))
+  - ¼ teaspoon fennel seeds ((1½ grams) (saunf))
+  - ¼ to ½ teaspoon black pepper corn  ((½ tsp ground pepper))
+  - ½ teaspoon nutmeg  (grated or ⅓ of large nutmeg)
+  - 2 petals star flower ((star anise) (chakri phool))
+steps:
+  - "Add cloves, cardamom, cinnamon stick &amp; black pepper to a mortar pestle or a spice grinder. Crush or grind them to a powder."
+  - Heat water in a pot. Add the ground spices, crushed/chopped ginger and tea. (Start with lower amount of tea and if required you may add more after adding milk)
+  - Bring this to a rolling boil and reduce the heat to medium. Boil for 3 mins until the decoction turns dark.
+  - Pour milk and add sugar. Bring it to a boil on a medium high heat. (If using tea bags remove them at this stage and keep aside.)
+  - Reduce the heat and simmer until the chai (tea) becomes dark, for about 2 mins.
+  - When the masala tea is ready, you will see a layer of cream on top and also the milk flavor is gone.
+  - Optionally aerate or pull your masala chai for the same Chaiwallah taste. Take a soup ladle and aerate the masala chai or simply pour some chai to a measuring cup. Pour the hot tea in a slow stream, back to the chai pot from a height of 1 to 1½ feet.
+  - Repeat this step of pulling hot masala chai from the pot to the cup, a few times (4 to 5 times). This breaks down the layer of cream and incorporates it back to the masala chai making it more tasty and thick.
+  - "Strain the masala chai to serving cups &amp; serve with any breakfast, snack or biscuits."
+  - Clean all the spices and add to a blender jar. Powder finely. Store it in an airtight glass jar.
+  - Use about ½ to ¾ tsp or more to make 2 servings of tea. For stronger tea you can use about ¾ tsp.
 ---
 
-# Fwd: Chai masala tea
-
-Masala Chai (Indian Masala Tea)
-
-## Overview
-
-Masala Chai is a traditional Indian beverage made by brewing black tea with spices, milk, and sugar.  
-It is known for its rich, aromatic, and warming flavor.
-
-* “Masala” \= spices
-
-* “Chai” \= tea
-
-This drink is enjoyed year\-round in India, often with breakfast or snacks.
-
----
-
-
-## Key Characteristics
-
-* Flavor: Sweet, spicy, and aromatic
-
-* Texture: Rich and slightly creamy
-
-* Serving: Hot
-
----
-
-### Ingredients
-
-### Basic Spices (Essential)
-
-* Green cardamom
-
-* Cloves
-
-* Cinnamon
-
-### Optional Spices
-
-* Black pepper
-
-* Ginger
-
-* Fennel seeds
-
-* Nutmeg
-
-* Star anise
-
-### Other Ingredients
-
-* Black tea (loose leaf, powder, or tea bags)
-
-* Milk
-
-* Water
-
-* Sweetener (sugar, jaggery, or alternatives)
-
----
-
-
-### Tea Selection
-
-### Types of Black Tea
-
-* **Assam** – strong, bold, deep color
-
-* **Darjeeling** – light, fruity flavor
-
-* **Nilgiri** – balanced, less bitter when over\-boiled
-
-### Forms
-
-* CTC (granular, strong flavor)
-
-* Tea dust (fine powder, stronger extraction)
-
-* Tea bags (convenient, usually tea dust)
-
----
-
-
-### Milk \& Water Ratio
-
-Depends on milk type:
-
-* Full\-fat milk: up to 3:1 (water:milk)
-
-* Low\-fat milk: \~1:1
-
----
-
-
-### Method 1: Instant Masala Chai
-
-### Step 1 – Prepare Spices
-
-Crush:
-
-* 4 cardamoms
-
-* 2–3 cloves
-
-* ½–¾ inch cinnamon
-
-* 2 peppercorns (optional)
-
-### Step 2 – Make Tea Base
-
-In a pot:
-
-* 1½ cups water
-
-* Crushed spices
-
-* ½ tsp ginger (optional)
-
-* 2½–3 tsp black tea
-
-Bring to a boil, then simmer for 2–3 minutes.
-
-### Step 3 – Add Milk \& Sugar
-
-* Add 1 cup milk
-
-* Add 2–3 tsp sugar
-
-Bring to boil again.
-
-### Step 4 – Simmer
-
-Simmer for \~2 minutes until:
-
-* Color deepens
-
-* Flavor becomes rich
-
-### Step 5 – Aerate (Optional)
-
-Pour tea back and forth between vessels to:
-
-* Break cream layer
-
-* Improve texture
-
-### Step 6 – Strain \& Serve
-
-Serve hot.
-
----
-
-
-### Method 2: Chai Masala Powder
-
-### Spice Mix (for storage)
-
-Grind:
-
-* 1 tsp cardamom
-
-* ½ tsp cloves
-
-* Cinnamon
-
-* ¼ tsp fennel seeds
-
-* ¼–½ tsp black pepper
-
-* ½ tsp nutmeg
-
-* Star anise
-
-Store in airtight jar.
-
-### Use
-
-* Add ½–¾ tsp per 2 cups tea
-
-* Prepare tea as usual with milk, water, and tea
-
----
-
-
-### Masala Chai vs Chai Latte
-
-| Feature | Masala Chai | Chai Latte |
-| --- | --- | --- |
-| Preparation | Boiled together | Milk added after |
-| Flavor | Strong, bold | Mild, milky |
-| Texture | Integrated | Layered |
-| Milk ratio | Balanced | Higher milk |
-
----
-
-
-### Tips
-
-* Do not overboil → can turn bitter
-
-* Add milk after ginger boils → prevents curdling
-
-* Adjust spices to taste
-
-* Remove tea bags before long boiling
-
----
-
-
-### Common Issues
-
-### Watery Tea
-
-* Too much water
-
-* Too little milk
-
-### Bitter Tea
-
-* Too much tea leaves
-
-* Overboiling
-
-### Curdled Milk
-
-* Milk added before ginger fully boils
-
-
-<https://www.indianhealthyrecipes.com/masala-tea-chai/#wprm-recipe-container-38384>
-
-### Instructions
+# Masala Chai Recipe (Indian Masala Tea)
+
+*Source: indianhealthyrecipes.com*
+
+## Ingredients
+
+- 4   green cardamoms ((elaichi or ¼ teaspoon ground))
+- 2    cloves ((3 for stronger flavor or ⅛ teaspoon ground))
+- ½ to ¾ inch cinnamon piece ((cassia or Ceylon or ⅛ teaspoon ground cinnamon))
+- 2  pepper corn ((or a pinch of ground pepper, optional))
+- 1½ cups water
+- 1 cup full fat milk ((adjust to taste, Refer notes))
+- 2½ to 3 teaspoons black tea leaves (or 1¼ to 1½ teaspoon tea powder (dust) (or 3 to 4 tea bags, Refer notes))
+- 2 to 3 teaspoons sugar (or as needed)
+- ½ teaspoon  (½ inch)  ginger ( chopped or crushed (optional))
+- 1 teaspoon green cardamoms ((5 grams skinned) (elaichi))
+- ½ teaspoon cloves ((2 grams) )
+- 2½ to 3 grams cinnamon  ((cassia or Ceylon))
+- ¼ teaspoon fennel seeds ((1½ grams) (saunf))
+- ¼ to ½ teaspoon black pepper corn  ((½ tsp ground pepper))
+- ½ teaspoon nutmeg  (grated or ⅓ of large nutmeg)
+- 2 petals star flower ((star anise) (chakri phool))
+
+## Instructions
+
+1. Add cloves, cardamom, cinnamon stick &amp; black pepper to a mortar pestle or a spice grinder. Crush or grind them to a powder.
+2. Heat water in a pot. Add the ground spices, crushed/chopped ginger and tea. (Start with lower amount of tea and if required you may add more after adding milk)
+3. Bring this to a rolling boil and reduce the heat to medium. Boil for 3 mins until the decoction turns dark.
+4. Pour milk and add sugar. Bring it to a boil on a medium high heat. (If using tea bags remove them at this stage and keep aside.)
+5. Reduce the heat and simmer until the chai (tea) becomes dark, for about 2 mins.
+6. When the masala tea is ready, you will see a layer of cream on top and also the milk flavor is gone.
+7. Optionally aerate or pull your masala chai for the same Chaiwallah taste. Take a soup ladle and aerate the masala chai or simply pour some chai to a measuring cup. Pour the hot tea in a slow stream, back to the chai pot from a height of 1 to 1½ feet.
+8. Repeat this step of pulling hot masala chai from the pot to the cup, a few times (4 to 5 times). This breaks down the layer of cream and incorporates it back to the masala chai making it more tasty and thick.
+9. Strain the masala chai to serving cups &amp; serve with any breakfast, snack or biscuits.
+10. Clean all the spices and add to a blender jar. Powder finely. Store it in an airtight glass jar.
+11. Use about ½ to ¾ tsp or more to make 2 servings of tea. For stronger tea you can use about ¾ tsp.
