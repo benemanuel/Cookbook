@@ -28,7 +28,7 @@ steps:
   - Arrange beef slices in a single layer on the prepared wire rack on the baking sheet.
   - Bake in the preheated oven until dry and leathery, 3 to 4 hours.
   - Cut jerky with scissors into bite-sized pieces.
-labels: [vegetables]
+labels: [sauce, vegetables]
 ---
 
 # Homemade Beef Jerky

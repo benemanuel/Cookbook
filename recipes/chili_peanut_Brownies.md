@@ -33,7 +33,7 @@ steps:
   - Bake for 25 minutes until the brownies develop a very thin crust with a slight wobble.
   - Transfer the brownies to a cooling rack and leave to cool to room temperature, then chill in the fridge overnight or in the freezer for a couple of hours.
   - Serve with a generous handful of lime zest, salt, and chilli flakes for the ultimate flavour kick.
-labels: [dairy, cake]
+labels: [dairy, cake, sauce]
 ---
 
 # Chilli Peanut Brownies

@@ -24,7 +24,7 @@ steps:
   - Make the brine by combining vinegar, olive oil, juice of remaining 2 lemons, garlic, dried chiles, juniper berries, bay leaf, and sea salt in a large saucepan and bringing to a boil.
   - Drain the artichokes and add to the boiling brine, then cook for 5–7 minutes until just tender but not mushy.
   - Pack artichokes into sterilized mason jars, ladle brine over them, and seal, then process in a water bath for 15 minutes for shelf-stable storage or refrigerate immediately.
-labels: [drinks, vegetables, fermentation, pickles]
+labels: [sauce, drinks, vegetables, fermentation, pickles]
 ---
 
 # Pickled Artichokes

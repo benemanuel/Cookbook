@@ -55,7 +55,7 @@ steps:
   - Freeze the cheesecake for 1 to 2 hours before slicing for neater slices.
   - Run a sharp knife under hot water and carefully dry the blade, then make a cut in the cheesecake, repeating this process for each slice.
   - If you froze the cheesecake before slicing, let the slices sit at room temperature for 30 minutes before serving.
-labels: [dairy, cake, candy, drinks, vegetables]
+labels: [dairy, cake, candy, sauce, drinks, vegetables]
 ---
 
 # Pecan Pie Cheesecake

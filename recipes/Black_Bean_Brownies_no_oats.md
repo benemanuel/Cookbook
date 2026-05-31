@@ -37,7 +37,7 @@ steps:
   - Pour the batter into the prepared pan and sprinkle with remaining chocolate chips.
   - Bake for 18–22 minutes until the edges look set but the center is still slightly soft.
   - Let cool for at least 30 minutes before slicing.
-labels: [dairy, cake]
+labels: [dairy, cake, soup]
 ---
 
 # Black Bean Brownies

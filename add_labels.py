@@ -92,6 +92,31 @@ CONTENT_KEYWORDS = {
         'קרמל': 2, 'טופי': 3, 'נוגט': 3, 'מרציפן': 3, 'חלבה': 3,
         'כדורי אנרגיה': 3, 'ממתק': 2,
     },
+    'soup': {
+        'soup': 2, 'stew': 2, 'broth': 2, 'stock': 2, 'chowder': 3,
+        'bisque': 3, 'gazpacho': 3, 'minestrone': 3, 'bouillabaisse': 3,
+        'consomme': 3, 'velouté': 3, 'potage': 3,
+        'slow cooker': 2, 'dutch oven': 2, 'simmer': 2,
+        'bone broth': 3, 'chicken stock': 3, 'beef stock': 3,
+        'lentil soup': 3, 'bean soup': 3, 'tomato soup': 3,
+        'goulash': 3, 'borscht': 3, 'ramen': 3, 'pho': 3,
+        # Hebrew
+        'מרק': 2, 'נזיד': 2, 'תבשיל': 2, 'ציר': 2,
+    },
+    'sauce': {
+        'sauce': 2, 'gravy': 3, 'dressing': 2, 'marinade': 2,
+        'vinaigrette': 3, 'aioli': 3, 'mayonnaise': 3,
+        'pesto': 3, 'salsa': 3, 'tapenade': 3,
+        'béchamel': 3, 'bechamel': 3, 'hollandaise': 3,
+        'chimichurri': 3, 'tahini sauce': 3, 'hummus': 3,
+        'tomato sauce': 3, 'pasta sauce': 3, 'meat sauce': 3,
+        'teriyaki': 3, 'soy sauce': 2, 'hot sauce': 3,
+        'garlic sauce': 3, 'toum': 3, 'tzatziki': 3,
+        'butter sauce': 3, 'cream sauce': 3,
+        # Hebrew
+        'רוטב': 2, 'טחינה': 2, 'חומוס': 2, 'פסטו': 3,
+        'מיונז': 3, 'וינגרט': 3, 'מרינדה': 2,
+    },
     'drinks': {
         'vodka': 3, 'whiskey': 3, 'whisky': 3, 'bourbon': 3, 'rum': 3,
         'gin': 3, 'tequila': 3, 'brandy': 3, 'cognac': 3, 'armagnac': 3,
@@ -275,6 +300,26 @@ SLUG_PATTERNS = {
         'brine_calculator', 'formented_lemons', 'fire_cider',
         # Hebrew
         'מחמצת', 'תסיסה', 'כבוש',
+    ],
+    'soup': [
+        'soup', 'stew', 'broth', 'stock', 'chowder', 'bisque', 'goulash',
+        'borscht', 'minestrone', 'ramen', 'pho', 'gazpacho', 'bouillabaisse',
+        'slow_cooker_beef', 'bone_broth', 'chicken_stock', 'cream_of_mushroom',
+        'mushroom_soup', 'pumpkin_soup', 'beet_soup', 'kohlrabi_soup',
+        'butternut_squash_soup', 'latvian_cold_beet', 'tourlou', 'dhal',
+        'hungarian_goulash', 'hungarian_kohlrabi',
+        # Hebrew
+        'מרק', 'נזיד', 'תבשיל', 'ציר',
+    ],
+    'sauce': [
+        'sauce', 'gravy', 'dressing', 'marinade', 'vinaigrette',
+        'pesto', 'salsa', 'tapenade', 'aioli', 'bechamel', 'hollandaise',
+        'chimichurri', 'hummus', 'tahini', 'toum', 'tzatziki',
+        'tomato_sauce', 'pasta_sauce', 'garlic_sauce', 'harissa',
+        'italian_dressing', 'chinese_salad_dressing', 'garlic_sauce',
+        'fresh_basil_pesto', 'marcella_hazan', 'meat_sauce',
+        # Hebrew
+        'רוטב', 'טחינה', 'חומוס', 'פסטו', 'מיונז',
     ],
     'pickles': [
         'pickle', 'pickled', 'ferment', 'brine', 'sauerkraut', 'kimchi',

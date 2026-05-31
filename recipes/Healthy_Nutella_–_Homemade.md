@@ -4,7 +4,7 @@ from: "Avi Benemanuel <avi@jct.ac.il>"
 to: "\"benemanuel.family@gmail.com\" <benemanuel.family@gmail.com>"
 date: "Sun, 16 Dec 2018 10:58:15 +0000"
 date_parsed: 2018-12-16T10:58:15+00:00
-labels: [dairy, cake, drinks]
+labels: [dairy, cake, soup, sauce, drinks]
 ---
 
 # Healthy Nutella – Homemade

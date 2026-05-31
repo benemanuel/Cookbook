@@ -30,7 +30,7 @@ steps:
   - Stir the mixture for 5 minutes on medium heat.
   - Add the vanilla and combine well.
   - Store in a well-sealed container in the refrigerator or freezer.
-labels: [candy, drinks]
+labels: [candy, soup, sauce, drinks]
 ---
 
 # Chestnut Paste

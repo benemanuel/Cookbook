@@ -25,7 +25,7 @@ steps:
   - Taste for flavor and notice the texture.
   - If it seems too thick to use easily, add the third teaspoon of the prune water.
   - If using nuts, place the mixture in a bowl and mix in nuts, adding about half and adjusting to taste.
-labels: [dairy]
+labels: [dairy, soup]
 ---
 
 # Lekvar (Prune Butter)

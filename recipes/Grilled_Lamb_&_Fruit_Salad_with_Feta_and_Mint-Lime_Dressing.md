@@ -32,7 +32,7 @@ steps:
   - In a large bowl or platter, arrange the romaine, cherry tomatoes, cantaloupe, mango, and banana.
   - Top with the grilled lamb and sprinkle over the feta cheese.
   - Drizzle with the mint-lime dressing just before serving and toss gently if desired, or serve with dressing on the side.
-labels: [meat, dairy, drinks, vegetables]
+labels: [meat, dairy, sauce, drinks, vegetables]
 ---
 
 # Grilled Lamb & Fruit Salad with Feta and Mint-Lime Dressing

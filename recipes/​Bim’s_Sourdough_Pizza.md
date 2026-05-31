@@ -4,7 +4,7 @@ from: "Avi BenEmanuel <avi.wollman@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
 date: "Sat, 26 Oct 2024 15:53:01 +0300"
 date_parsed: 2024-10-26T15:53:01+03:00
-labels: [dairy, bread]
+labels: [dairy, bread, sauce]
 ---
 
 # ​Bim’s Sourdough Pizza

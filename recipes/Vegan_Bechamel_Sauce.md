@@ -23,7 +23,7 @@ steps:
   - Stir until all the milk is incorporated and a silky smooth sauce forms.
   - Add the nutmeg and stir thoroughly.
   - Season to taste with salt and pepper, then remove from heat and set aside.
-labels: [dairy, bread]
+labels: [dairy, bread, sauce]
 ---
 
 # Vegan Bechamel Sauce

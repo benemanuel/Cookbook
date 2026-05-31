@@ -44,7 +44,7 @@ steps:
   - Brush the remaining 2 tablespoons of butter over the partially baked bread.
   - Sprinkle the parmesan mixture over the bread.
   - Bake for an additional 10 to 15 minutes or until golden brown, then serve warm or cool.
-labels: [dairy, bread]
+labels: [dairy, bread, sauce]
 ---
 
 # Cheesy Italian Oatmeal Pan Bread

@@ -28,7 +28,7 @@ steps:
   - Slowly add ¼ cup of beef broth while scraping up any brown bits from the bottom of the pan, then add the remaining broth and diced tomatoes, and add potatoes and carrots if using, and season with salt and black pepper.
   - Bring to a boil over medium-high heat, then reduce the heat to a low simmer, cover, and cook for about 1½ to 2 hours or until the beef is fork-tender.
   - Garnish with parsley if desired and serve with a dollop of sour cream.
-labels: [meat, dairy, bread, vegetables]
+labels: [meat, dairy, bread, soup, vegetables]
 ---
 
 # Hungarian Goulash

@@ -4,7 +4,7 @@ from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
 date: "Tue, 18 Jul 2023 15:09:10 +0300"
 date_parsed: 2023-07-18T15:09:10+03:00
-labels: [meat, dairy, cake, drinks, spice, vegetables, pickles]
+labels: [meat, dairy, cake, soup, sauce, drinks, spice, vegetables, pickles]
 ---
 
 # The Guardian: Nigel Slater’s recipes for raspberry and apricot shortcake, and apricot and harissa chutney

@@ -27,7 +27,7 @@ steps:
   - "Squash time! Add the roasted butternut squash to your pan and stir to combine (leave the oven on for your garlic bread). Pour in the vegetable stock and season with a few cracks of pepper. Leave to simmer for 15 minutes. Blitz the soup in the pan with a stick blender until silky smooth, or your desired consistency."
   - Now for the garlic bread. Slice your ciabatta in half down the middle and place on a baking tray. Finely chop a large handful of parsley, leaving a third for later. In a bowl, mix together 3 tbsp of olive oil, the chopped garlic, two thirds of the parsley, a pinch of salt, and a few grinds of pepper. Give it a mix and spread over the ciabatta. Pop in the oven for 20 minutes.
   - "Serve the soup with a drizzle of olive oil, a pinch of parsley, a crack of black pepper and your garlic bread. Dig in and enjoy!"
-labels: [dairy, drinks, vegetables]
+labels: [dairy, soup, drinks, vegetables]
 ---
 
 # Butternut Squash Soup with Garlic Bread

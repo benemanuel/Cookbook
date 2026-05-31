@@ -9,7 +9,7 @@ attachments:
     type: "application/pdf"
     size: 104386
     local_path: "attachments\\2025-01-16_17-50-10_Sourdough_Glass_Bread_(Pan_de_Cristal)_\u2013_Breadtopia_1\\glass.pdf"
-labels: [bread, drinks, vegetables, fermentation, pickles]
+labels: [bread, soup, drinks, vegetables, fermentation, pickles]
 ---
 
 # Sourdough Glass Bread (Pan de Cristal) – Breadtopia

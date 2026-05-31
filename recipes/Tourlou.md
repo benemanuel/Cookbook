@@ -29,7 +29,7 @@ steps:
   - Bake at 180C fan forced for 40 minutes or until potatoes are cooked.
   - Uncover and cook for an additional 15-20 minutes to develop colour.
   - Once ready, drizzle extra olive oil over the top, sprinkle with feta cheese, and garnish with fresh parsley.
-labels: [dairy, drinks, vegetables]
+labels: [dairy, sauce, drinks, vegetables]
 ---
 
 # Tourlou Briam

@@ -38,7 +38,7 @@ steps:
   - In a medium bowl, whisk together the confectioners' sugar and lemon juice until smooth, adjusting with more sugar or juice as needed for your preferred consistency.
   - Brush the warm syrup all over the cooled cakes, including the sides, letting it soak in as you go.
   - Spoon the glaze over the top of the cakes, letting it drip down the sides, and let sit for about 1 hour to allow the glaze to set before serving.
-labels: [dairy, bread, cake, drinks]
+labels: [dairy, bread, cake, sauce, drinks]
 ---
 
 # Lemon Pound Cake

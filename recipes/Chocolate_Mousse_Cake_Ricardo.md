@@ -35,7 +35,7 @@ steps:
   - Place the chocolate in a bowl. Set aside.
   - In the microwave oven or in a small saucepan, bring the cream to a boil. Add to the chocolate and let melt for 
 1 minute. With a spatula, stir the ganache until smooth. Pour over the cake, letting it run over the sides.
-labels: [dairy, cake, pickles]
+labels: [dairy, cake, soup, sauce, pickles]
 ---
 
 # Chocolate Mousse Cake

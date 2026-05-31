@@ -18,7 +18,7 @@ steps:
   - With the processor running, very slowly drizzle in a thin stream of canola oil, alternating with small additions of lemon juice, and continue adding oil and lemon juice slowly over 8–10 minutes.
   - The sauce will emulsify and turn white, thick, and creamy; if it looks oily or broken, slow down the oil additions.
   - Taste and adjust salt and lemon juice as desired, then serve immediately or refrigerate in an airtight container for up to 3 weeks.
-labels: [dairy]
+labels: [dairy, sauce]
 ---
 
 # Garlic Sauce

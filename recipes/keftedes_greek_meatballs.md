@@ -30,7 +30,7 @@ steps:
   - "The traditional way of cooking Greek meatballs (keftedes) is frying them. Fry the keftedes in batches of 10-15 at a time, until nicely browned on all sides."
   - "Instead of frying you can bake / grill the keftedes in the oven. Preheat the oven at 200C, place the un-floured keftedes on greased baking sheet about an inch apart. Bake for about 20 minutes, turning the meatballs upside down midway through cooking time. The grilled version is much lighter than the fried so theres not excuse to not trying it now!"
   - "Keftedes (Greek meatballs) are ideally served as an appetizer (meze) with some creamy tzatziki sauce and pita breads or as a main course with some basmati rice and a Greek salad. Enjoy!"
-labels: [meat, dairy, drinks, vegetables, pickles]
+labels: [meat, dairy, sauce, drinks, vegetables, pickles]
 ---
 
 # Greek Meatballs recipe (Keftedes/ Keftethes)

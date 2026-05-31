@@ -28,7 +28,7 @@ steps:
   - Boil sweet potato and potatoes separately until tender, drain and mash each separately, then combine with fried onions, salt, and pepper.
   - Spread the mashed potato mixture over the meat layer in each pan.
   - Bake for 40 minutes until the meat is cooked through and the top is golden.
-labels: [bread, vegetables]
+labels: [bread, sauce, vegetables]
 ---
 
 # Shepherd's Pie

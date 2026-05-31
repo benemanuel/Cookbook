@@ -48,7 +48,7 @@ steps:
   - Return to a low simmer while scraping up any browned bits from the bottom of the pan with a wooden spoon, then cover and barely simmer for about 20 minutes.
   - Strain the stock through cheesecloth or paper towel-lined large sieve, discarding solids and removing the large pieces of bone with a slotted spoon first.
   - Pour the strained stock into jars and cool completely before refrigerating or freezing, where it will last about a week in the refrigerator or several months in the freezer.
-labels: [meat, drinks, vegetables]
+labels: [meat, soup, drinks, vegetables]
 ---
 
 # How to Make Chicken Stock

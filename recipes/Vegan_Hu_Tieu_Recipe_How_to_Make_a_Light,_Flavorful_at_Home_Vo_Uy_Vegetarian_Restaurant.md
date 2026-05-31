@@ -35,7 +35,7 @@ steps:
   - Soak noodles for 30 minutes, blanch them for 30-40 seconds, rinse with cold water, and toss with 1 teaspoon olive oil.
   - Layer noodles, tofu, bean curd, vegan ham, sprouts, and chives in a bowl, then ladle hot broth over the top.
   - Garnish with fried shallots, cilantro, and pepper, and serve with soy sauce and chili sate on the side.
-labels: [vegetables]
+labels: [soup, sauce, vegetables]
 ---
 
 # Vegan Hu Tieu Recipe

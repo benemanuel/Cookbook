@@ -1,6 +1,6 @@
 ---
 labels: [meat]
-labels: [meat, vegetables]
+labels: [meat, sauce, vegetables]
 ---
 
 ```markdown

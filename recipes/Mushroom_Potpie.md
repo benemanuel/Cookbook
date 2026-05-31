@@ -50,7 +50,7 @@ steps:
   - Crimp the edges using the tines of a fork if desired.
   - Set the skillet on top of an aluminum foil-lined baking sheet and transfer to the middle rack of the oven.
   - Bake until the puff pastry is puffed and golden, about 30 minutes, then let sit 10 minutes before serving.
-labels: [dairy, drinks, vegetables]
+labels: [dairy, soup, drinks, vegetables]
 ---
 
 # Mushroom Potpie

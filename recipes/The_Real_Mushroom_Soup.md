@@ -34,7 +34,7 @@ steps:
   - Remove half the soup from the pan and whizz it up to a purée, then pour it back in.
   - Add the parsley and mascarpone, and season carefully to taste.
   - Mix together a pinch of salt and pepper with the zest of one lemon and the juice of half of it, then spoon a little of this into the middle of the soup when serving.
-labels: [dairy, candy, vegetables]
+labels: [dairy, candy, soup, vegetables]
 ---
 
 # The Real Mushroom Soup

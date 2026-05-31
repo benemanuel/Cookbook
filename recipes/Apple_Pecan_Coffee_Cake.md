@@ -37,7 +37,7 @@ steps:
   - Combine all streusel ingredients in a small bowl and mix until crumbly.
   - Sprinkle streusel evenly over the batter.
   - Bake for 45–50 minutes, or until a toothpick inserted in the center comes out clean, then cool before serving.
-labels: [dairy, cake, drinks]
+labels: [dairy, cake, sauce, drinks]
 ---
 
 # Apple Pecan Coffee Cake

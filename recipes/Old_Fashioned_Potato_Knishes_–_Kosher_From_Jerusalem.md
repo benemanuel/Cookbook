@@ -4,7 +4,7 @@ from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
 date: "Wed, 2 Jul 2025 20:41:33 +0300"
 date_parsed: 2025-07-02T20:41:33+03:00
-labels: [meat, dairy, bread, cake, drinks, vegetables, pickles]
+labels: [meat, dairy, bread, cake, soup, drinks, vegetables, pickles]
 ---
 
 # Old Fashioned Potato Knishes – Kosher From Jerusalem

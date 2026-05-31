@@ -21,7 +21,7 @@ steps:
   - With the mixer on medium speed, add the eggs to the dough one at a time, waiting until the first egg is fully incorporated before adding the second. Scrape down the sides of the bowl, then beat in the cheese until the dough becomes very sticky.
   - Scoop the dough with a small ice cream scoop, spacing the dough 2 inches apart (12 per baking sheet). Dip the scoop in water between scoops to prevent sticking.
   - Bake for 15 minutes, then rotate the baking sheets from front to back. Continue baking for another 10 to 15 minutes, until the puffs have puffed up and the bottoms turn golden brown.
-labels: [dairy]
+labels: [dairy, sauce]
 ---
 
 # Brazilian Cheese Puffs Recipe
