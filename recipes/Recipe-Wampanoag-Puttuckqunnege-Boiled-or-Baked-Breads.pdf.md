@@ -1,22 +1,45 @@
 ---
-subject: "Recipe-Wampanoag-Puttuckqunnege-Boiled-or-Baked-Breads.pdf"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Fri, 18 Oct 2024 19:41:34 +0300"
-date_parsed: 2024-10-18T19:41:34+03:00
-attachments:
-  - filename: "Recipe-Wampanoag-Puttuckqunnege-Boiled-or-Baked-Breads.pdf"
-    type: "application/pdf"
-    size: 85120
-    local_path: "attachments\\2024-10-18_19-41-34_Recipe-Wampanoag-Puttuckqunnege-Boiled-or-Baked-Breads.pdf_1\\Recipe-Wampanoag-Puttuckqunnege-Boiled-or-Baked-Breads.pdf"
-labels: [bread]
+schema_version: 1
+title: Boiled Corn Bread (Puttuckqunnege)
+url: null
+source: Wampanoag
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 1 quart slightly boiled water (this water can be a broth from boiled greens)
+  - 1/2 cup cornmeal
+  - 1/2 cup corn flour
+  - 1/2 cup dried cranberries, blueberries, and/or currants
+  - 1/2 cup crushed nuts or seeds (walnuts, hazelnuts, or sunflower seeds)
+  - Maple syrup or sugar to taste (optional)
+steps:
+  - Combine all ingredients in large bowl and mix thoroughly.
+  - After mixing, slowly add a spoonful at a time of slightly boiled water.
+  - When the mix is thick enough to be sticky, shape round patties (about 3 inches in diameter and 1/2 inch thick).
+  - Return water to slight rolling boil and drop in 1 or 2 patties, carefully making sure they do not stick to the bottom.
+  - Remove breads when they begin to float.
 ---
 
-# Recipe-Wampanoag-Puttuckqunnege-Boiled-or-Baked-Breads.pdf
+# Boiled Corn Bread (Puttuckqunnege)
+
+*Source: Wampanoag*
 
 ## Ingredients
 
+- 1 quart slightly boiled water (this water can be a broth from boiled greens)
+- 1/2 cup cornmeal
+- 1/2 cup corn flour
+- 1/2 cup dried cranberries, blueberries, and/or currants
+- 1/2 cup crushed nuts or seeds (walnuts, hazelnuts, or sunflower seeds)
+- Maple syrup or sugar to taste (optional)
+
 ## Instructions
 
-Shared by PDF Reader. It's so easy and convenient to view \& edit PDFs.  
-Download for free now:<https://st.simpledesign.ltd/2AFfEz>
+1. Combine all ingredients in large bowl and mix thoroughly.
+2. After mixing, slowly add a spoonful at a time of slightly boiled water.
+3. When the mix is thick enough to be sticky, shape round patties (about 3 inches in diameter and 1/2 inch thick).
+4. Return water to slight rolling boil and drop in 1 or 2 patties, carefully making sure they do not stick to the bottom.
+5. Remove breads when they begin to float.
