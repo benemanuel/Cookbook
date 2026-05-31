@@ -27,7 +27,7 @@ steps:
   - Pour wet ingredients into dry ingredients and stir until just combined, being careful not to overmix.
   - Pour batter into the hot buttered pan and drizzle remaining 2 Tbsp honey over the top.
   - Bake for 25–30 minutes, until golden and a toothpick comes out clean.
-labels: [dairy, cake]
+labels: [dairy, cake, vegetables]
 ---
 
 # How To Make the Very Best Sweet Cornbread

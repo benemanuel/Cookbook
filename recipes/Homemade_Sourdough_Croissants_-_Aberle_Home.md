@@ -98,7 +98,7 @@ steps:
   - "Bake one pan at a time on the center rack for 15-20 minutes, or until deeply golden brown. (Hold second pan in the fridge until you're ready to egg wash and bake if done proofing.)"
   - 7
   - "Place croissants on a cooling rack, and serve or store once they've cooled completely."
-labels: [dairy, bread, alcohol]
+labels: [dairy, bread, drinks, vegetables]
 ---
 
 # Sourdough Croissants

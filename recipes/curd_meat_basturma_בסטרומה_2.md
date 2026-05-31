@@ -4,7 +4,7 @@ from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "benemanuel family <benemanuel.family@gmail.com>"
 date: "Sun, 10 Nov 2024 12:46:36 +0200"
 date_parsed: 2024-11-10T12:46:36+02:00
-labels: [meat, alcohol]
+labels: [meat, drinks, vegetables]
 ---
 
 # Re: curd meat basturma בסטרומה

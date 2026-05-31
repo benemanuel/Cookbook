@@ -16,7 +16,7 @@ ingredients:
   - 9 g garlic, minced
   - 30-60 ml water
 steps: null
-labels: [meat]
+labels: [vegetables]
 ---
 
 # Slow-Roast Gochujang Chicken

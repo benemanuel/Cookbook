@@ -29,7 +29,7 @@ steps:
   - "Heat oven to 350°F. Grease bottom and sides of square pan, 8x8x2 or 9x9x2 inches, with shortening. Toss 1 tablespoon flour and the ginger to coat; set aside. In large bowl, beat all remaining Carrot Cake ingredients with electric mixer on low speed 30 seconds. Beat on medium speed 3 minutes. Stir in carrots and ginger-flour mixture. Pour into pan."
   - Bake 30 to 35 minutes or until toothpick inserted in center of cake comes out clean. Cool completely on wire rack, about 1 hour.
   - Meanwhile, in medium bowl, beat cream cheese and butter on medium speed until smooth. Gradually stir in powdered sugar and 1 teaspoon vanilla until smooth and spreadable. Spread Cream Cheese Frosting on cake. Store covered in refrigerator.
-labels: [dairy, cake, alcohol]
+labels: [dairy, cake, drinks, vegetables]
 ---
 
 # Ginger Carrot Cake

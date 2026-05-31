@@ -22,7 +22,7 @@ steps:
   - Combine wine, whiskey, rum, honey, cinnamon stick, star anise, cloves, and orange peel in a shallow baking dish and stir well until combined.
   - Place the dish directly on the grill grate and smoke for one hour until the mixture is warm.
   - Remove from grill and ladle into mugs, leaving the mulling spices behind, then garnish with fresh cinnamon sticks, anise, orange zest, or a combination and enjoy.
-labels: [alcohol, spice]
+labels: [drinks, spice]
 ---
 
 # Smoked Mulled Wine

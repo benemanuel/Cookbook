@@ -43,7 +43,7 @@ steps:
   - Spread half the cake batter in the pan, scatter cinnamon filling, spread cheesecake layer, add remaining cake batter, and top with streusel.
   - Bake for 45–50 minutes until a toothpick comes out clean and cool completely.
   - Whisk together powdered sugar, milk, and vanilla extract and drizzle the glaze over the cooled cake.
-labels: [dairy, cake, alcohol]
+labels: [dairy, cake, drinks]
 ---
 
 # Cream Cheese Coffee Cake

@@ -43,7 +43,7 @@ steps:
   - Once the pancakes are golden and cooked through, gently remove and pile onto a plate.
   - Spoon the creme sauce on top and sprinkle generously with sugar.
   - Use a cooking torch to brûlée the sugar and serve immediately.
-labels: [dairy, cake, alcohol]
+labels: [dairy, cake, drinks]
 ---
 
 # Japanese Soufflé Creme Brûlée Pancakes

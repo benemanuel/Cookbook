@@ -45,7 +45,7 @@ steps:
   - Mix well and cook until the sauce turns glossy.
   - Add fried cabbage balls and 2 tbsp spring onion and mix gently coating the sauce uniformly.
   - Serve cabbage manchurian with tomato sauce.
-labels: [alcohol, pickles]
+labels: [drinks, vegetables, pickles]
 ---
 
 # Cabbage Manchurian

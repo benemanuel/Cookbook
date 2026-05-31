@@ -20,7 +20,7 @@ ingredients:
   - משקה "ברענדי"
 steps:
   - עיין בסרטון ההכנה לפרטים מלאים.
-labels: [meat, alcohol, pickles]
+labels: [meat, drinks, vegetables, pickles]
 ---
 
 # בשר כבוש נקבשתי - בסטורומה

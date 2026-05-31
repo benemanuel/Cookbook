@@ -46,7 +46,7 @@ steps:
   - Pour the béchamel sauce over the top, spreading it evenly.
   - Bake in the preheated oven for 45-50 minutes until the top is golden and bubbly.
   - Let it cool for about 10-15 minutes before serving.
-labels: [meat, dairy, alcohol]
+labels: [meat, dairy, drinks, vegetables]
 ---
 
 # Classic Moussaka Without Potatoes

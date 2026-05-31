@@ -33,7 +33,7 @@ steps:
   - Carefully scoop the liqueur into a glass measuring cup, avoiding any sediment at the bottom.
   - Pour the liqueur into sterilized bottles through a funnel, wipe the lids, and seal quickly.
   - Serve chilled straight up, mix one-to-one with vodka for a pomegranate martini, or add an ounce to champagne for a festive drink.
-labels: [alcohol, pickles]
+labels: [drinks, pickles]
 ---
 
 # Homemade Pomegranate Liqueur

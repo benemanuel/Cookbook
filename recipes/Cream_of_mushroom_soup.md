@@ -26,7 +26,7 @@ steps:
   - Add the chicken broth and heat until slightly thickened while stirring frequently.
   - Stir cream with an additional 1 tablespoon of flour and seasonings, then add the cream to the soup and heat to thicken while stirring frequently.
   - Serve and enjoy.
-labels: [meat, dairy]
+labels: [meat, dairy, vegetables]
 ---
 
 # Homemade Cream of Mushroom Soup

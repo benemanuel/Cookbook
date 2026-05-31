@@ -20,7 +20,7 @@ ingredients:
   - 2 tablespoons soy sauce
   - 0.5 tablespoon Worcestershire sauce
 steps: null
-labels: [meat]
+labels: [meat, vegetables]
 ---
 
 # Ground Beef Jerky

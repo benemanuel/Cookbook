@@ -4,7 +4,7 @@ from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "benemanuel.family@gmail.com"
 date: "Tue, 9 Jan 2018 19:37:51 +0200"
 date_parsed: 2018-01-09T19:37:51+02:00
-labels: [meat, dairy, pickles]
+labels: [meat, dairy, vegetables, pickles]
 ---
 
 # World’s Best Pumpkin Soup

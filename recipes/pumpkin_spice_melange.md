@@ -17,7 +17,7 @@ ingredients:
   - 20 g nutmeg, ground
   - 10 g cloves, ground
 steps: null
-labels: [alcohol, spice]
+labels: [drinks, spice, vegetables]
 ---
 
 # Pumpkin Spice Melange

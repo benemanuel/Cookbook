@@ -37,7 +37,7 @@ steps:
   - For oven method: preheat oven to 300°F, transfer beef and vegetables to a Dutch oven, stir in 1 teaspoon salt, tuck in thyme and bay leaf, pour stock and remaining wine so liquid does not quite cover the ingredients, cover and cook for 2 hours then check every 15 minutes until meat falls apart easily with a fork.
   - Once the meat is cooked, stir in the reserved bacon and mushrooms and continue cooking on high or simmering until the mushrooms are warmed through, about 10 minutes.
   - Serve in bowls over noodles or with crusty bread on the side and sprinkle with parsley before serving.
-labels: [meat, bread, cake, alcohol]
+labels: [meat, bread, cake, drinks, vegetables]
 ---
 
 # Slow-Cooked Beef Bourguignon

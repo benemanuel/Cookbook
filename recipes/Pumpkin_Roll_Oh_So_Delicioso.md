@@ -33,7 +33,7 @@ steps:
   - Place on large platter and sprinkle with powder sugar.
   - Refrigerate and serve chilled.
   - Cream together butter and cream cheese at room temp, add in vanilla and powder sugar. Beat all ingredients till creamy and smooth.
-labels: [dairy, cake, alcohol]
+labels: [dairy, cake, drinks, vegetables]
 ---
 
 # Pumpkin Roll

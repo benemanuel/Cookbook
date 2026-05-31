@@ -9,7 +9,7 @@ attachments:
     type: "application/pdf"
     size: 235246
     local_path: "attachments\\2025-01-26_20-45-31_fish_jerky_1\\Homemade_Jerk_Flavored_Fish_Jerky_Recipe_--_Paleo,_Frugal,_and_Easy.pdf"
-labels: [alcohol, spice]
+labels: [drinks, spice, vegetables]
 ---
 
 # fish jerky

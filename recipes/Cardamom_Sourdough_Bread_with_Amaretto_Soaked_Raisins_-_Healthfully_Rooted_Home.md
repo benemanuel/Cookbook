@@ -39,7 +39,7 @@ steps:
   - Bake the bread for 40 to 45 minutes, tenting it lightly with foil after 15 to 20 minutes to prevent burning.
   - Remove the bread from the oven, gently loosen the edges, turn it out of the pan, and brush the top surface with butter.
   - Allow the bread to cool completely before slicing.
-labels: [dairy, bread, cake, alcohol]
+labels: [dairy, bread, cake, drinks]
 ---
 
 # Cardamom Sourdough Bread with Amaretto Soaked Raisins

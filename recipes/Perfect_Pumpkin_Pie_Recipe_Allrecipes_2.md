@@ -12,7 +12,7 @@ ingredients:
   - 1 liter milk
   - 1⅓ cups sugar
 steps: null
-labels: [dairy]
+labels: [dairy, vegetables]
 ---
 
 # Perfect Pumpkin Pie

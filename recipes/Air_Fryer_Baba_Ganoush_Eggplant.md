@@ -27,7 +27,7 @@ steps:
   - Cook in the preheated air fryer until eggplant and garlic are tender and eggplant is deep golden brown, 15 to 20 minutes, then remove and allow to cool for about 10 minutes.
   - Scoop flesh from eggplant and place into the bowl of a food processor, add tahini, lemon juice, 4 cloves of roasted garlic, remaining 4 tablespoons olive oil, cumin, and paprika, and pulse to a moderately smooth consistency.
   - Top with feta cheese, parsley, and lemon zest before serving.
-labels: [dairy, alcohol]
+labels: [dairy, drinks, vegetables]
 ---
 
 # Air Fryer Baba Ganoush Eggplant

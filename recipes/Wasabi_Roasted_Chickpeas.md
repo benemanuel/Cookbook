@@ -22,7 +22,7 @@ steps:
   - Stir together wasabi powder, salt, sugar, and cornstarch in a small bowl.
   - Transfer the chickpeas back to the large bowl, and toss to coat with the wasabi mixture.
   - Spread chickpeas on baking sheet in a single layer, and bake for 20 more minutes.
-labels: []
+labels: [vegetables]
 ---
 
 # Wasabi Roasted Chickpeas

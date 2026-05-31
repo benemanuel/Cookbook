@@ -37,7 +37,7 @@ steps:
   - "Strain the masala chai to serving cups &amp; serve with any breakfast, snack or biscuits."
   - Clean all the spices and add to a blender jar. Powder finely. Store it in an airtight glass jar.
   - Use about ½ to ¾ tsp or more to make 2 servings of tea. For stronger tea you can use about ¾ tsp.
-labels: [dairy, alcohol, spice]
+labels: [dairy, drinks, spice, vegetables]
 ---
 
 # Masala Chai Recipe (Indian Masala Tea)

@@ -9,7 +9,7 @@ attachments:
     type: "application/pdf"
     size: 211212
     local_path: "attachments\\2021-04-08_14-22-02_Re_Soft_and_Fluffy_Overnight_Sourdough_Rolls_\u2022_Heartbeet_Kitchen\\Soft_and_Fluffy_Overnight_Sourdough_Rolls_-_Heartbeet_Kitchen.pdf"
-labels: [bread]
+labels: [vegetables]
 ---
 
 # Re: Soft and Fluffy Overnight Sourdough Rolls • Heartbeet Kitchen

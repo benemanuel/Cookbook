@@ -16,7 +16,7 @@ ingredients:
   - 118 milliliters brandy
   - 118 milliliters Simple Syrup
 steps: null
-labels: [alcohol]
+labels: [drinks]
 ---
 
 # Coffee Liqueur

@@ -15,7 +15,7 @@ ingredients:
   - 60 ml tamari sauce
   - 9 g minced garlic
 steps: null
-labels: [meat]
+labels: [vegetables]
 ---
 
 # Slow-Roast Gochujang Chicken

@@ -4,7 +4,7 @@ from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "benemanuel.family@gmail.com"
 date: "Sat, 7 Oct 2017 03:05:02 -0700"
 date_parsed: 2017-10-07T03:05:02-07:00
-labels: []
+labels: [vegetables]
 ---
 
 # This German Potato Salad Is Even Better on Day 2

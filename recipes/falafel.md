@@ -30,7 +30,7 @@ steps:
   - Remove falafel mixture from the fridge and using wet hands shape into 1-inch balls.
   - Fry the falafels in batches of 4-6 at a time until golden brown and crispy, about 3-4 minutes, then transfer to a paper towel.
   - Serve as is or in a pita bread with salad and tahini sauce.
-labels: [cake, alcohol]
+labels: [cake, drinks, vegetables]
 ---
 
 # Falafel

@@ -92,7 +92,7 @@ CONTENT_KEYWORDS = {
         'קרמל': 2, 'טופי': 3, 'נוגט': 3, 'מרציפן': 3, 'חלבה': 3,
         'כדורי אנרגיה': 3, 'ממתק': 2,
     },
-    'alcohol': {
+    'drinks': {
         'vodka': 3, 'whiskey': 3, 'whisky': 3, 'bourbon': 3, 'rum': 3,
         'gin': 3, 'tequila': 3, 'brandy': 3, 'cognac': 3, 'armagnac': 3,
         'wine': 2, 'red wine': 3, 'white wine': 3, 'champagne': 3, 'prosecco': 3,
@@ -120,6 +120,26 @@ CONTENT_KEYWORDS = {
         # Hebrew
         'תבלין': 2, 'תערובת תבלינים': 3, 'זעתר': 3, 'בהרט': 3,
         'חריסה': 3, 'שוג': 3, 'קארי': 2,
+    },
+    'vegetables': {
+        'eggplant': 2, 'aubergine': 2, 'zucchini': 2, 'courgette': 2,
+        'carrot': 2, 'cauliflower': 2, 'broccoli': 2, 'spinach': 2,
+        'kale': 2, 'cabbage': 2, 'brussels sprout': 3, 'leek': 2,
+        'fennel': 2, 'celery': 2, 'parsnip': 2, 'turnip': 2,
+        'sweet potato': 2, 'butternut squash': 3, 'pumpkin': 2,
+        'beet': 2, 'beetroot': 2, 'kohlrabi': 3, 'radish': 2,
+        'artichoke': 2, 'asparagus': 2, 'green bean': 2, 'snap pea': 2,
+        'corn': 2, 'mushroom': 2, 'onion': 1, 'shallot': 2,
+        'tomato': 1, 'pepper': 1, 'bell pepper': 2, 'chili': 1,
+        'garlic': 1, 'potato': 1, 'sweet potato': 2,
+        'roasted vegetable': 3, 'vegetable soup': 3, 'vegetable stew': 3,
+        'vegetable gratin': 3, 'ratatouille': 3, 'gratin': 2,
+        'salad': 2, 'slaw': 2, 'coleslaw': 3,
+        # Hebrew
+        'חצילים': 2, 'קישואים': 2, 'גזר': 2, 'כרובית': 2, 'תרד': 2,
+        'כרוב': 2, 'סלק': 2, 'עגבניות': 1, 'פלפל': 1, 'בצל': 1,
+        'תפוחי אדמה': 2, 'בטטה': 2, 'פטריות': 2, 'מלפפון': 1,
+        'ירקות': 2, 'סלט': 2,
     },
     'pickles': {
         'brine': 2, 'pickling': 3, 'pickled': 2, 'pickle': 2,
@@ -198,7 +218,7 @@ SLUG_PATTERNS = {
         # Hebrew
         'חלבה', 'נוגט', 'מרציפן', 'קרמל', 'ממתק', 'חטיף_תמרים', 'חטיף תמרים',
     ],
-    'alcohol': [
+    'drinks': [
         'cocktail', 'liqueur', 'bitters', 'kombucha', 'ginger_beer',
         'vodka', 'whiskey', 'whisky', 'bourbon', 'rum', 'gin', 'tequila',
         'brandy', 'wine', 'beer', 'mead', 'cider', 'bloody_mary',
@@ -218,6 +238,20 @@ SLUG_PATTERNS = {
         'make_your_own_herbes', 'sage_oil', 'garlic_sauce',
         # Hebrew
         'תבלין', 'זעתר', 'בהרט', 'חריסה',
+    ],
+    'vegetables': [
+        'vegetable', 'salad', 'eggplant', 'baba_ganoush', 'zucchini',
+        'cauliflower', 'broccoli', 'spinach', 'kale', 'cabbage',
+        'carrot', 'beet', 'beetroot', 'kohlrabi', 'radish', 'fennel',
+        'artichoke', 'asparagus', 'mushroom', 'sweet_potato', 'pumpkin',
+        'butternut', 'squash', 'ratatouille', 'gratin', 'slaw',
+        'potato', 'latke', 'knish', 'tourlou', 'soufico', 'briam',
+        'roasted_root', 'honey_roasted', 'roasted_chickpea',
+        'bean_salad', 'sprouted_bean', 'chickpea', 'falafel',
+        'tarka_dhal', 'dhal', 'lentil',
+        # Hebrew
+        'ירקות', 'סלט', 'חצילים', 'קישואים', 'כרובית', 'סלק', 'כרוב',
+        'בטטה', 'פטריות', 'תפוחי_אדמה', 'קולרבי',
     ],
     'pickles': [
         'pickle', 'pickled', 'ferment', 'brine', 'sauerkraut', 'kimchi',

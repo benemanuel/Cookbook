@@ -27,7 +27,7 @@ steps:
   - Pour into pressure safe bottles, filling to within 2 inches of top but no higher.
   - Cap and set aside at room temperature to let ferment for 2 to 3 days.
   - Check fermentation and then chill or store in refrigerator.
-labels: [bread, alcohol]
+labels: [bread, drinks]
 ---
 
 # Root Beer Recipe From Scratch

@@ -31,7 +31,7 @@ steps:
   - In another small mixing bowl (or using a stand mixer or a hand mixer), whisk the softened cream cheese and 2 TBS of sugar together until the cream cheese is light and airy, but not totally whipped.
   - Scoop the pumpkin muffin batter into the prepared muffin liners in the pan about ¾ of the way full.Spoon about a tablespoon of the cream cheese on top. Alternatively, use a piping bag to fill the center and top of the muffins with about a tablespoon of cream cheese.Sprinkle the tops of the muffins with raw pumpkin seeds.
   - "Bake at 350ºF (177ºC) for 17-20 minutes, or until a toothpick inserted into the middle comes out clean.Cool on a wire rack."
-labels: [dairy, bread, cake]
+labels: [dairy, bread, cake, vegetables]
 ---
 
 # Sourdough Pumpkin Cream Cheese Muffins

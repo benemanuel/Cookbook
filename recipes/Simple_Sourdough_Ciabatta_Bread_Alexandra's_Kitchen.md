@@ -14,7 +14,7 @@ ingredients:
   - 100 grams active sourdough starter
   - 450 grams bread flour
 steps: null
-labels: [bread, alcohol]
+labels: [bread, drinks]
 ---
 
 # Simple Sourdough Ciabatta Bread

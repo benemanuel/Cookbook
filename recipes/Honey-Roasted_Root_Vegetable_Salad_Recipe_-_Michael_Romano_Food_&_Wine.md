@@ -32,7 +32,7 @@ steps:
   - Meanwhile, divide the carrots, parsnips and turnips between 2 large rimmed baking sheets. Toss the vegetables in each pan with 1 tablespoon of the vegetable oil. Arrange the onion wedges on the baking sheets, keeping them intact. Brush the onion wedges all over with the remaining 1 tablespoon of vegetable oil. Generously season the vegetables with salt and pepper. Roast the vegetables for 40 minutes. Brush the vegetables with the warm honey and sprinkle with the sage. Continue to roast the vegetables for 25 minutes longer, or until they are tender and glazed. Loosen the vegetables with a spatula and let them cool to room temperature in the pans.
   - In a small bowl, mix the goat cheese with the herbs and olive oil and season with salt and pepper.
   - In a small bowl, combine the olive oil with the vinegar, garlic and herbs; season with salt and pepper. In a large bowl, toss the arugula with 1 tablespoon of the vinaigrette and arrange on plates. Add the roasted vegetables to the bowl and toss with the remaining vinaigrette. Top the arugula with the vegetables, dot each plate with small spoonfuls of the herbed goat cheese and serve.
-labels: [cake, alcohol, pickles]
+labels: [cake, drinks, vegetables, pickles]
 ---
 
 # Honey-Roasted Root Vegetable Salad

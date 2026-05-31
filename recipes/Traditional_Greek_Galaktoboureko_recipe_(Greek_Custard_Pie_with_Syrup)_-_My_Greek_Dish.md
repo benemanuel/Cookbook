@@ -42,7 +42,7 @@ steps:
   - until the phyllo is crisp and golden.
   - As soon as the Galaktoboureko is ready, ladle slowly the cold syrup over the pastry. (Hot galaktoboureko, cold syrup)
   - "Serve after the syrup is absorbed. Enjoy!"
-labels: [dairy, alcohol]
+labels: [dairy, drinks]
 ---
 
 # Traditional Greek Galaktoboureko recipe (Greek Custard Pie with Syrup)

@@ -1,6 +1,6 @@
 ---
 labels: []
-labels: [alcohol, spice]
+labels: [drinks, spice, vegetables]
 ---
 
 ```markdown

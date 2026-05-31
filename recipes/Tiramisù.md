@@ -23,7 +23,7 @@ steps:
   - Spread half the mascarpone mixture over the layer of dipped ladyfingers and smooth it, then repeat with another layer of dipped ladyfingers and the remaining mascarpone mixture.
   - Cover and refrigerate at least 6 hours or overnight.
   - Just before serving, sift cocoa powder generously over the top and optionally garnish with chocolate shavings.
-labels: [dairy, cake, alcohol]
+labels: [dairy, cake, drinks]
 ---
 
 # Tiramisu

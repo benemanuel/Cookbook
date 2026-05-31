@@ -47,7 +47,7 @@ steps:
   - Pour the salted caramel sauce into the baking pan and sprinkle with toasted nuts.
   - Place the sliced rolls on top before the final rise.
   - Bake at 175°C for 22 minutes.
-labels: [dairy, bread, candy, alcohol]
+labels: [dairy, bread, candy, drinks]
 ---
 
 # Sourdough Cinnamon Rolls

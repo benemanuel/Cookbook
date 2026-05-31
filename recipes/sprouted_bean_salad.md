@@ -29,7 +29,7 @@ steps:
   - Once the beans are cooked, drain well.
   - Combine the cooked beans, vegetables and dressing. Mix well.
   - Serve and enjoy.
-labels: []
+labels: [vegetables]
 ---
 
 # Sprouted Bean Salad

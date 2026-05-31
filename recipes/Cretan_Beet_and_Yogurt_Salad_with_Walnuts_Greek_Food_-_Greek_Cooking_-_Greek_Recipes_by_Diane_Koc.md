@@ -23,7 +23,7 @@ steps:
   - Dissolve the Greek yogurt into the dressing mixture.
   - Crush the hazelnuts with a knife.
   - Place salad on a plate, pour some dressing over it, and sprinkle nuts on top.
-labels: [dairy]
+labels: [dairy, vegetables]
 ---
 
 # Beetroot and Apple Salad with Yogurt Dressing and Hazelnuts

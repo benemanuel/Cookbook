@@ -35,7 +35,7 @@ steps:
   - Season with salt and pepper, add fresh basil leaves, a fresh grating of Parmesan cheese, and drizzle with olive oil.
   - Sprinkle with mozzarella cheese, taking it to the corners and sides for crispy edges, and tuck any remaining cheese cubes into the corners.
   - Bake at 450 F on the middle or top rack until the cheese is melted and broiled in some spots, about 12-15 minutes, or place under the broiler to crisp it up further.
-labels: [dairy, bread]
+labels: [dairy, bread, vegetables]
 ---
 
 # Best Sourdough Pizza Crust (No Steel or Stone!)

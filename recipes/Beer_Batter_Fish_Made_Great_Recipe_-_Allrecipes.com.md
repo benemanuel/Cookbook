@@ -28,7 +28,7 @@ steps:
   - Carefully lower fillets one at a time into the hot oil, frying several at a time without crowding the vessel.
   - Fry the fillets, turning once, until cooked through and golden brown, about 2 minutes per side.
   - Drain the fried fillets on paper towels and serve warm.
-labels: [fish, alcohol]
+labels: [fish, drinks, vegetables]
 ---
 
 # Beer Batter Fish Made Great

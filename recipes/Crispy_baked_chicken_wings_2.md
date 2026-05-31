@@ -16,7 +16,7 @@ steps:
   - Mix chicken wings with cornstarch and chicken soup mix.
   - Toss wings a second time to ensure even coating.
   - Bake for 20-30 minutes until crispy.
-labels: [meat]
+labels: [meat, vegetables]
 ---
 
 # Crispy Baked Chicken Wings

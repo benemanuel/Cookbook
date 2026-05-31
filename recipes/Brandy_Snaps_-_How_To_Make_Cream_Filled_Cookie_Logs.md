@@ -25,7 +25,7 @@ steps:
   - Bake for approximately 12 to 13 minutes on a Silpat- or parchment paper-lined cookie sheet.
   - When the cookies have cooled enough that you can touch them but they are still warm (about 5 minutes), use a spatula to pull them from the sheet and quickly roll them around a pencil to form tubes, using rubber gloves to prevent your fingers from burning.
   - If desired and serving immediately, whip up some heavy whipping cream and dot each end of the rolled cookies with it.
-labels: [dairy, alcohol]
+labels: [dairy, drinks]
 ---
 
 # Brandy Snaps

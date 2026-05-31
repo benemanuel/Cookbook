@@ -23,7 +23,7 @@ steps:
   - Store in refrigerator until ready to serve.
   - Pour into chilled glass.
   - Grate fresh nutmeg over the top.
-labels: [dairy, alcohol]
+labels: [dairy, drinks]
 ---
 
 # Pro Eggnog

@@ -42,7 +42,7 @@ steps:
   - Let the dough sit 1–2 hours at room temperature the next day until visibly puffy and airy.
   - Bake in a preheated 190°C oven for 18–25 minutes until internal temperature reaches 93–94°C, tenting loosely with foil and reducing heat to 170–175°C if tops darken early.
   - Boil 100g sugar and 100g water together, then brush immediately after baking.
-labels: [dairy, bread, alcohol]
+labels: [dairy, bread, drinks]
 ---
 
 # Sourdough Cardamom Rolls

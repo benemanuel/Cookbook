@@ -36,7 +36,7 @@ steps:
   - Taste the fire cider and add more honey if needed until desired sweetness is reached.
   - Store in a sealed container in the refrigerator or in a cold, dark place.
   - Drink 1-2 tablespoons when needed.
-labels: [alcohol, pickles]
+labels: [drinks, vegetables, pickles]
 ---
 
 # Fire Cider

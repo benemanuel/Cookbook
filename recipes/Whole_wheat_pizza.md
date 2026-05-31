@@ -21,7 +21,7 @@ steps:
   - Chill overnight for 14 hours.
   - Allow the dough to rise at room temperature for 5 hours.
   - Bake at 550°F for 7 minutes.
-labels: [bread, alcohol]
+labels: [bread, drinks]
 ---
 
 # Whole Wheat Pizza

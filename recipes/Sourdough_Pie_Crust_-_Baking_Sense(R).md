@@ -21,7 +21,7 @@ steps:
   - Using your fingers, work the vegetable shortening into the flour mixture until it resembles coarse corn meal, then toss in the sliced butter and allow the slices to break into slightly smaller pieces while working quickly so the butter doesn't get warm, leaving some large flakes remaining.
   - Pour the sourdough discard onto the flour all at once and toss to combine, then gently press the dough just until it comes together.
   - Wrap the dough and refrigerate for at least 2-3 hours before using.
-labels: [dairy, cake]
+labels: [dairy, cake, vegetables]
 ---
 
 # Sourdough Pie Crust

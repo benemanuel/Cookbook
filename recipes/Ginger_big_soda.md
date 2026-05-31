@@ -14,7 +14,7 @@ ingredients:
   - 250mL water
 steps:
   - Feed ginger bug with extra ginger and sugar daily until bubbly.
-labels: [alcohol]
+labels: [drinks]
 ---
 
 # Ginger Bug Soda

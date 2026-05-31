@@ -29,7 +29,7 @@ steps:
   - Sprinkle the tops with cornmeal, cover with a tea towel, and allow to rise for 1 hour at room temperature.
   - Preheat a non-stick skillet over low heat and place 4 muffins into the skillet spaced 2 inches apart.
   - Cover and cook the first side for 4 minutes, then turn the muffins over and cook for an additional 4 minutes until the center registers about 200 degrees Fahrenheit on an instant-read thermometer.
-labels: [dairy, bread, cake, alcohol]
+labels: [dairy, bread, cake, drinks, vegetables]
 ---
 
 # Sourdough English Muffins

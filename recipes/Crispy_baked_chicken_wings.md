@@ -34,7 +34,7 @@ steps:
   - Whilst the wings are baking, place all barbecue sauce ingredients in a saucepan and mix together.
   - Heat over a medium-high heat until boiling, then simmer for 5 minutes and turn off the heat.
   - Toss the barbecue sauce with the wings and serve straightaway.
-labels: [meat, cake, alcohol, pickles]
+labels: [meat, cake, drinks, vegetables, pickles]
 ---
 
 # Crispy Baked Chicken Wings

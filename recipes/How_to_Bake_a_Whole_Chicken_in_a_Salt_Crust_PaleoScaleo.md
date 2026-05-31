@@ -22,7 +22,7 @@ steps:
   - "Remove from oven, and using a knife or mallet, break open the 'crust' the salt has formed over the chicken and discard. Use a pastry brush to brush off any loose salt."
   - Peel the skin off the chicken to reveal the juicy, tender, and perfectly cooked meat underneath. The skin will be very salty, but the meat underneath will not be.
   - Serve immediately.
-labels: [meat, alcohol]
+labels: [meat, drinks]
 ---
 
 # Salt Crusted Chicken

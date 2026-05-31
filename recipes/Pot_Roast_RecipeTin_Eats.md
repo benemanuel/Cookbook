@@ -35,7 +35,7 @@ steps:
   - Remove beef. Rest for 5 minutes, then slice thickly.
   - Adjust salt and pepper of Sauce to taste.
   - "Serve beef with vegetables and plenty of sauce! Bread also terrific for mopping up sauce - try these No Knead Dinner Rolls, No Yeast Irish Soda Bread or these fabulous Cheese Muffins."
-labels: [meat, bread, cake, alcohol]
+labels: [meat, bread, cake, drinks, vegetables]
 ---
 
 # Pot Roast

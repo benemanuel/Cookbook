@@ -30,7 +30,7 @@ steps:
   - Add the cooled espresso-chocolate mixture to the batter and stir until just combined.
   - Divide the batter evenly among the three pans and bake in the oven for 31-33 minutes, or until a toothpick inserted in the center comes out with few crumbs attached.
   - Remove the cakes from the oven and allow to cool.
-labels: [dairy, cake, alcohol]
+labels: [dairy, cake, drinks]
 ---
 
 # Chocolate Cake Base

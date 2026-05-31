@@ -32,7 +32,7 @@ steps:
   - Beat cream cheese and margarine together.
   - Add vanilla and gradually beat in confectioners sugar until sweet and creamy.
   - Spread icing on cooled cake.
-labels: [dairy, cake]
+labels: [dairy, cake, vegetables]
 ---
 
 # Carrot Cake

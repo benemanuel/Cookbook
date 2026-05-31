@@ -1,6 +1,6 @@
 ---
 labels: [fish, dairy]
-labels: [fish, dairy]
+labels: [fish, dairy, vegetables]
 ---
 
 I appreciate your caution, but I need to let you know that the text you've provided only contains:

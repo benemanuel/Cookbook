@@ -21,7 +21,7 @@ steps:
   - Lower the heat to maintain a gentle simmer and cook, stirring and crushing the tomatoes lightly with the back of a spoon occasionally, until droplets of fat appear on the surface of the tomatoes, about 45 minutes. Remove and discard the onion.
   - Serve over hot pasta with grated Parmesan cheese and ground black pepper if desired.
   - "Storage: Leftovers can be refrigerated in an airtight container for up to 4 days or frozen for up to 3 months.Adapted in my own words from Marcella Hazan&#x27;s &quot;Essentials of Classic Italian Cooking.&quot;"
-labels: [dairy]
+labels: [dairy, vegetables]
 ---
 
 # Marcella Hazan&#8217;s Legendary Tomato Sauce

@@ -24,7 +24,7 @@ ingredients:
 steps:
   - "Plain Roasted Sweet Potatoes: Preheat oven to 425°F. Peel and cube sweet potatoes into 1/2-inch pieces. Add to your largest sheet pan and add the melted coconut oil, salt, and brown sugar on top. Toss to coat all the sweet potatoes, then spread out in an even layer. You don’t want any potatoes overlapping or you’ll end up with steamed potatoes instead of roasted potatoes. Flip every 10–15 minutes, cooking for a total of 27–35 minutes. (I flip every 10 minutes and bake around 30 minutes.)"
   - "Seasoned Roasted Sweet Potatoes: Preheat oven to 425°F. Peel and cube sweet potatoes into 1/2-inch pieces. Add to your largest sheet pan and add the olive oil, salt, pepper, chili powder, paprika, cumin, and garlic powder on top. Toss to coat all the sweet potatoes, then spread out in an even layer. You don’t want any potatoes overlapping or you’ll end up with steamed potatoes instead of roasted potatoes. Flip every 10–15 minutes, cooking for a total of 27–35 minutes. (I flip every 10 minutes and bake around 30 minutes.)"
-labels: [spice]
+labels: [spice, vegetables]
 ---
 
 # Roasted Sweet Potatoes

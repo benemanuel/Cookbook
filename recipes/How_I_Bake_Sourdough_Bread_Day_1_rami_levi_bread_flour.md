@@ -29,7 +29,7 @@ steps:
   - Pop the dough into the fridge uncovered to ferment overnight.
   - The next morning, preheat your oven to 220°C (430°F) with a baking stone, then score the dough and bake covered with a large pot for the first 20 minutes.
   - Uncover and bake for a final 30 minutes without steam until the bread is golden brown.
-labels: [bread, alcohol]
+labels: [bread, drinks]
 ---
 
 # How I Bake Sourdough Bread Every Day in Less Than 30 Minutes

@@ -43,7 +43,7 @@ steps:
   - Preheat oven to 190°C and bake for 18–25 minutes depending on pan size, until internal temperature reaches 93–94°C.
   - If tops darken early, tent loosely with foil and reduce oven temperature to 170–175°C, then continue baking until internal temperature reaches 93–94°C.
   - Optional: boil sugar, water, and cardamom together, then brush the syrup immediately after baking.
-labels: [dairy, bread, alcohol]
+labels: [dairy, bread, drinks]
 ---
 
 # Sourdough Cardamom Rolls

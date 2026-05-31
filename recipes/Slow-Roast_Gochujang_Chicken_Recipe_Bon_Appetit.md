@@ -41,7 +41,7 @@ steps:
   - Stir the honey and juice of the remaining lime half into the potatoes, taste, and season with more salt if needed.
   - Scatter the sliced scallions over the potatoes.
   - Carve the chicken and arrange the pieces over the potatoes and scallions, then serve right out of the skillet with the lime wedges alongside.
-labels: [meat, alcohol]
+labels: [meat, drinks, vegetables]
 ---
 
 # Slow-Roast Gochujang Chicken

@@ -40,7 +40,7 @@ steps:
   - Cover the pan with foil and bake for 40 minutes.
   - Uncover and bake for another 20 minutes until the vegetables are softened.
   - Serve hot as a main dish or side, or cover with foil and reheat in a 350°F (180°C) oven for 15 minutes the next day.
-labels: []
+labels: [vegetables]
 ---
 
 # Ratatouille
