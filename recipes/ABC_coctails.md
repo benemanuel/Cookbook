@@ -10,7 +10,7 @@ attachments:
     size: 7646719
     local_path: attachments\2020-11-01_11-09-14_ABC_coctails\Collectif1806-1950s_HARRY_S_ABC_OF_MIXING_COCKTAILS_FR.pdf
   - alcohol
-labels: []
+labels: [drinks]
 ---
 
 # ABC coctails

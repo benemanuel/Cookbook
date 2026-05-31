@@ -9,7 +9,7 @@ attachments:
     type: "application/pdf"
     size: 2033258
     local_path: "attachments\\2021-04-09_10-55-52_kamucha\\Simple_Guide_to_Kickass_Kombucha_Printable.pdf"
-labels: []
+labels: [fermentation]
 ---
 
 # kamucha

@@ -141,6 +141,20 @@ CONTENT_KEYWORDS = {
         'תפוחי אדמה': 2, 'בטטה': 2, 'פטריות': 2, 'מלפפון': 1,
         'ירקות': 2, 'סלט': 2,
     },
+    'fermentation': {
+        'sourdough starter': 3, 'levain': 3, 'wild yeast': 3,
+        'kombucha': 3, 'kefir': 3, 'jun': 3,
+        'lacto-ferment': 3, 'lacto ferment': 3, 'lacto fermentation': 3,
+        'scoby': 3, 'second ferment': 3,
+        'fermented': 2, 'fermentation': 3, 'ferment': 2,
+        'kimchi': 3, 'sauerkraut': 3, 'miso': 3, 'tempeh': 3,
+        'natto': 3, 'kvass': 3, 'tepache': 3, 'amazake': 3,
+        'ginger bug': 3, 'ginger beer': 3, 'water kefir': 3,
+        'milk kefir': 3, 'rejuvelac': 3, 'brine': 2,
+        'culture': 2, 'starter culture': 3,
+        # Hebrew
+        'מחמצת': 3, 'תסיסה': 3, 'קומבוצ\'ה': 3, 'כבוש': 2,
+    },
     'pickles': {
         'brine': 2, 'pickling': 3, 'pickled': 2, 'pickle': 2,
         'fermented': 2, 'lacto-ferment': 3, 'lacto ferment': 3,
@@ -219,7 +233,7 @@ SLUG_PATTERNS = {
         'חלבה', 'נוגט', 'מרציפן', 'קרמל', 'ממתק', 'חטיף_תמרים', 'חטיף תמרים',
     ],
     'drinks': [
-        'cocktail', 'liqueur', 'bitters', 'kombucha', 'ginger_beer',
+        'cocktail', 'coctail', 'liqueur', 'bitters', 'kombucha', 'ginger_beer',
         'vodka', 'whiskey', 'whisky', 'bourbon', 'rum', 'gin', 'tequila',
         'brandy', 'wine', 'beer', 'mead', 'cider', 'bloody_mary',
         'margarita', 'kalua', 'baileys', 'drambuie', 'coffee_liqueur',
@@ -240,7 +254,8 @@ SLUG_PATTERNS = {
         'תבלין', 'זעתר', 'בהרט', 'חריסה',
     ],
     'vegetables': [
-        'vegetable', 'salad', 'eggplant', 'baba_ganoush', 'zucchini',
+        'vegetable', 'vegtable', 'salad', 'eggplant', 'baba_ganoush', 'zucchini',
+        'chili', 'black_bean',
         'cauliflower', 'broccoli', 'spinach', 'kale', 'cabbage',
         'carrot', 'beet', 'beetroot', 'kohlrabi', 'radish', 'fennel',
         'artichoke', 'asparagus', 'mushroom', 'sweet_potato', 'pumpkin',
@@ -252,6 +267,14 @@ SLUG_PATTERNS = {
         # Hebrew
         'ירקות', 'סלט', 'חצילים', 'קישואים', 'כרובית', 'סלק', 'כרוב',
         'בטטה', 'פטריות', 'תפוחי_אדמה', 'קולרבי',
+    ],
+    'fermentation': [
+        'kombucha', 'kamucha', 'kefir', 'kimchi', 'sauerkraut', 'kvass',
+        'tepache', 'amazake', 'ginger_beer', 'ginger_bug', 'scoby',
+        'sourdough', 'levain', 'lacto', 'ferment', 'miso', 'tempeh',
+        'brine_calculator', 'formented_lemons', 'fire_cider',
+        # Hebrew
+        'מחמצת', 'תסיסה', 'כבוש',
     ],
     'pickles': [
         'pickle', 'pickled', 'ferment', 'brine', 'sauerkraut', 'kimchi',

@@ -18,7 +18,7 @@ ingredients:
   - 130g wholemeal flour
   - 270g strong white flour
 steps: null
-labels: [bread, vegetables]
+labels: [bread, vegetables, fermentation]
 ---
 
 # Seeded Sourdough Bread

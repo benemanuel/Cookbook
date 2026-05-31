@@ -30,7 +30,7 @@ steps:
   - Rub your hands lightly with oil and use all ten fingers to press gently into the dough to dimple and stretch it to nearly fit the pan.
   - Sprinkle generously with sea salt and rosemary.
   - Transfer the pan to the oven and bake for about 25 minutes until golden all around.
-labels: [bread]
+labels: [bread, fermentation]
 ---
 
 # Focaccia

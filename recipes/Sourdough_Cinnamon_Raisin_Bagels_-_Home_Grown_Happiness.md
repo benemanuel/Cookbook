@@ -44,7 +44,7 @@ steps:
   - Using a slotted. spoon, drain the bagels from thece them on a baking sheet lined with parchment paper. Continue with the rest.
   - "Bake them in the oven for 22-25 minutes until a deep golden brown. If they are baking unevenly or your oven has hot spots, turn the oven tray around after 15 minutes of baking."
   - Remove the baked bagels from the tray and let them cool to room temperature on a cooling rack for 30 minutes before slicing and serving.
-labels: [bread, cake, drinks]
+labels: [bread, cake, drinks, fermentation]
 ---
 
 # Sourdough Cinnamon Raisin Bagels

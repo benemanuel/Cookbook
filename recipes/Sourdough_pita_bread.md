@@ -24,7 +24,7 @@ steps:
   - Rest the flattened dough for 30 minutes to 1 hour.
   - Pan bake on medium-low heat for 3 minutes until the pita puffs up.
   - Remove from pan and cover with kitchen towels to prevent drying out and keep the bread soft.
-labels: [bread]
+labels: [bread, fermentation]
 ---
 
 # Sourdough Pita Bread

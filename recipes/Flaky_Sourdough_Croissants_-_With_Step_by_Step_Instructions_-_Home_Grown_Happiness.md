@@ -42,7 +42,7 @@ steps:
   - Brush the proofed croissants with egg wash.
   - Bake at 205°C / 400°F for around 20 minutes, until deeply browned. If they brown too quickly, turn the oven down a little.
   - Let them cool to room temperature before slicing, so the layers stay nice and distinct.
-labels: [dairy, bread, cake, drinks]
+labels: [dairy, bread, cake, drinks, fermentation]
 ---
 
 # Step by Step Sourdough Croissants

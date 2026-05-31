@@ -40,7 +40,7 @@ steps:
   - Gently brush the top of the risen loaf with the maple syrup mixture, ensuring none drips down the sides.
   - Place the loaf in the preheated oven and bake for 30-50 minutes until a probe thermometer reaches 94°C when poked into the middle, covering the top loosely with foil if it browns too quickly.
   - Brush the baked bread with more of the glaze, let it cool in the tin for 10 minutes, then lift it onto a wire rack to cool completely before slicing and store in an airtight container.
-labels: [dairy, bread, cake]
+labels: [dairy, bread, cake, fermentation]
 ---
 
 # Sourdough Vegan Hokkaido Milk Bread

@@ -4,7 +4,7 @@ from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
 date: "Sun, 14 Dec 2025 07:52:39 +0200"
 date_parsed: 2025-12-14T07:52:39+02:00
-labels: [dairy, bread, cake, vegetables]
+labels: [dairy, bread, cake, vegetables, fermentation]
 ---
 
 # Cream סופגניות

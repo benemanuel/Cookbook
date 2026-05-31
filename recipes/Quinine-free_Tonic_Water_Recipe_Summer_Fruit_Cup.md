@@ -23,7 +23,7 @@ steps:
   - Strain the mixture and stir in the sugar, ensuring it dissolves completely.
   - Allow the syrup to cool completely, then bottle and keep refrigerated.
   - To drink, mix 3:1 or 4:1 with soda or sparkling water.
-labels: [drinks]
+labels: [fermentation]
 ---
 
 # Quinine-free Tonic Water Recipe

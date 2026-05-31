@@ -24,7 +24,7 @@ steps:
   - In a small saucepan, combine vinegar, water, sugar, spice mix, salt, and red pepper flakes, and bring to a boil while stirring until sugar and salt dissolve.
   - Pour the hot brine over the vegetables in the jar, making sure they are fully submerged.
   - Let cool to room temperature, then seal and refrigerate until ready after 24 hours.
-labels: [spice, vegetables, pickles]
+labels: [spice, vegetables, fermentation, pickles]
 ---
 
 # Kohlrabi Pickles

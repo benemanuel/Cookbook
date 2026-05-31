@@ -51,7 +51,7 @@ steps:
   - Alternatively, after smoking, transfer the brisket to a steamer and steam it for 2-3 hours until tender.
   - Let the finished brisket rest for at least 30 minutes.
   - Slice the brisket by hand into thin slices about 1/8 inch (3.2 mm) thick, cutting perpendicular to the grain.
-labels: [meat, drinks, spice, vegetables, pickles]
+labels: [meat, drinks, spice, vegetables, fermentation, pickles]
 ---
 
 # Corned Beef & Pastrami

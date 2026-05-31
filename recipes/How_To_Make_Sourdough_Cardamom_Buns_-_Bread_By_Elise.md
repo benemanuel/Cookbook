@@ -47,7 +47,7 @@ steps:
   - "Preheat your oven to 355°F/180°C and bake the cardamom buns for 18-20 minutes until golden brown. Meanwhile, you can make the brown sugar glaze:"
   - While the buns are baking, you can make the glaze. Add the ingredients to a small pot and heat up over medium heat until all the sugar is dissolved.
   - "When the buns are out of the oven, immediately brush over the syrup using a pastry brush. Transfer to a cooling rack and cool for 20-30 minutes before serving."
-labels: [dairy, bread, cake]
+labels: [dairy, bread, cake, fermentation]
 ---
 
 # How To Make Sourdough Cardamom Buns

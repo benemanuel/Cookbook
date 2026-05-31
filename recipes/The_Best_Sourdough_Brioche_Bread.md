@@ -37,7 +37,7 @@ steps:
   - Preheat the oven to 200°C (400°F).
   - Brush the tops of the loaves with egg wash. Bake for around 25 to 30 minutes, until deep golden brown. If the tops are darkening too quickly, loosely cover with foil.
   - Let the loaves cool in the tin for 10 minutes, then turn out onto a wire rack to cool to room temperature before slicing.
-labels: [dairy, bread, cake]
+labels: [dairy, bread, cake, fermentation]
 ---
 
 # Sourdough Brioche Bread

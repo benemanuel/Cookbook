@@ -30,7 +30,7 @@ steps:
   - Heat a cast iron skillet on low to medium heat.
   - Dust the cast iron skillet with semolina or corn meal.
   - Bake each muffin 3-4 minutes per side.
-labels: [bread, cake, drinks, vegetables]
+labels: [bread, cake, drinks, vegetables, fermentation]
 ---
 
 # English Muffins

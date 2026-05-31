@@ -4,7 +4,7 @@ from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
 date: "Wed, 6 Nov 2024 20:20:38 +0200"
 date_parsed: 2024-11-06T20:20:38+02:00
-labels: [meat]
+labels: [meat, fermentation]
 ---
 
 # Re: curd meat basturma בסטרומה

@@ -9,7 +9,7 @@ attachments:
     type: "image/jpeg"
     size: 2190653
     local_path: "attachments\\2023-06-19_17-10-23_Re_Sourdough_Brioche_Buns_with_Sourdough_Starter_-_Veena_Azmanov_1\\PXL_20230619_140929448.jpg"
-labels: [bread]
+labels: [bread, fermentation]
 ---
 
 # Re: Sourdough Brioche Buns with Sourdough Starter - Veena Azmanov

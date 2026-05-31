@@ -22,7 +22,7 @@ steps:
   - In late November or early December, strain out the black walnuts and reserve the liquid (should yield around four cups).
   - Add four cups of water, two tablespoons of Angostura bitters and one cup of rich demerara syrup to the reserved liquid.
   - It will keep indefinitely at room temperature.
-labels: [drinks]
+labels: [drinks, fermentation]
 ---
 
 # Walnut Nocino

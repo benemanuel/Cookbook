@@ -28,7 +28,7 @@ steps:
   - Loosely cover the loaves with foil and bake for thirty-five minutes.
   - Remove the foil, reduce the oven temperature to 175°C, and bake for another fifteen minutes until the internal temperature reaches 93°C.
   - Allow the loaves to cool before serving.
-labels: [bread]
+labels: [bread, fermentation]
 ---
 
 # Soft Sourdough Sandwich Bread

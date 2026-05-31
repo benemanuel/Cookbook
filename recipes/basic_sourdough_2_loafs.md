@@ -23,7 +23,7 @@ steps:
   - Bulk ferment outside for 5 hours.
   - Place in the refrigerator overnight.
   - Shape the dough and bake in a hot oven, optionally allowing an additional hour rise before baking if desired.
-labels: [bread, drinks, vegetables]
+labels: [bread, drinks, vegetables, fermentation]
 ---
 
 # Basic Sourdough

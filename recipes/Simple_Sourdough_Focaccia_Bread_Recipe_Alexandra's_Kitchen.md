@@ -23,7 +23,7 @@ steps:
   - "Drizzle dough with a tablespoon of olive oil. Use your hand to gently deflate the dough and release it from the sides of the bowl. Gently scoop the dough into the center of the pool of oil in your prepared pan. Fold dough envelope style from top to bottom and side to side to create a rough rectangle. Turn dough over so seam-side is down.  Video guidance here."
   - Rub top of dough with oil. Leave alone for 4 to 6 hours, uncovered, or until puffy and nearly doubled.
   - Heat oven to 425ºF. Rub hands lightly with oil, and using all ten fingers, press gently into the dough to dimple and stretch the dough to nearly fit the pan. Sprinkle generously with sea salt. Transfer pan to the oven and bake for about 25 minutes or until golden all around. Remove pan from oven and transfer bread to a cooling rack. Cool at least 20 minutes before slicing.
-labels: [dairy, bread, cake, drinks]
+labels: [dairy, bread, cake, drinks, fermentation]
 ---
 
 # Simple Sourdough Focaccia

@@ -4,7 +4,7 @@ from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
 date: "Fri, 20 Feb 2026 09:53:06 +0200"
 date_parsed: 2026-02-20T09:53:06+02:00
-labels: []
+labels: [vegetables]
 ---
 
 # Crete slow baked vegtables

@@ -1,6 +1,6 @@
 ---
 labels: [dairy]
-labels: [dairy]
+labels: [dairy, fermentation]
 ---
 
 ```markdown

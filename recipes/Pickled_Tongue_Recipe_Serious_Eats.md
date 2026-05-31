@@ -31,7 +31,7 @@ steps:
   - Bring to a boil, then reduce the heat to low and simmer for 3.5 to 5 hours, depending on the kind of tongue and the size.
   - Peel away the rubbery lining when the tongue is very soft.
   - Serve the tongue, both hot and cold, with horseradish and mustard.
-labels: [meat, vegetables, pickles]
+labels: [meat, vegetables, fermentation, pickles]
 ---
 
 # Pickled Tongue Recipe

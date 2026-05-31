@@ -24,7 +24,7 @@ steps:
   - Add the egg mixture to the sponge and stir gently until just combined.
   - For waffles, pour batter into a preheated, greased waffle iron and cook according to manufacturer's instructions until golden and crisp.
   - Serve immediately and keep finished waffles warm in a 200°F oven while cooking remaining batches.
-labels: [dairy, bread, cake]
+labels: [dairy, bread, cake, fermentation]
 ---
 
 # Overnight Waffle

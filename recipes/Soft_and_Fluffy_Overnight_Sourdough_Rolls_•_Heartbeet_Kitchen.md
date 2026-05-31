@@ -32,7 +32,7 @@ steps:
   - "Cover the rolls with a damp tea towel and set them aside to rise at room temperature for 2ish hours, or until risen another 50%, puffy and light to the poke. The dough balls should be touching other."
   - Preheat oven to 400 degrees F. Brush rolls with milk or egg wash, and when oven is preheated add pan to oven. Bake for 23 to 26 minutes, until rolls are golden brown. Brush generously with about 2 tablespoons of melted butter when rolls are done, and serve warm.
   - "Best eaten day of making. If you have leftovers, store in a plastic bag on counter. You must warm up the roll in microwave before eating, for 10-12 seconds to soften it."
-labels: [dairy, bread, drinks, vegetables]
+labels: [dairy, bread, drinks, vegetables, fermentation]
 ---
 
 # Soft &amp; Buttery Sourdough Dinner Rolls

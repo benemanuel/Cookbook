@@ -28,7 +28,7 @@ steps:
   - At 13:30, shape for the basket, quick roll in rice flour, and place it in a dusted banneton.
   - At 15:00, once dough is expanding and feels springy, pop it into the fridge.
   - Wash and dry the bowl and prepare 55 gr flour and 55 ml water.
-labels: [bread]
+labels: [bread, fermentation]
 ---
 
 # How I Bake Sourdough Bread

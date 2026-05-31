@@ -49,7 +49,7 @@ steps:
   - Drain on a rack with paper towels and toss in sugar while warm.
   - Stir cooled pastry cream, pierce doughnut centers, and pipe filling generously.
   - Serve the same day as frying.
-labels: [dairy, bread, cake, vegetables]
+labels: [dairy, bread, cake, vegetables, fermentation]
 ---
 
 # Cream Sufganiyot

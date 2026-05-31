@@ -9,7 +9,7 @@ attachments:
     type: "application/pdf"
     size: 83885
     local_path: "attachments\\2023-04-15_14-19-14_Fwd_The_Best_Sourdough_Cinnamon_Rolls\\The_Best_Sourdough_Cinnamon_Rolls.pdf"
-labels: [bread]
+labels: [bread, fermentation]
 ---
 
 # Fwd: The Best Sourdough Cinnamon Rolls

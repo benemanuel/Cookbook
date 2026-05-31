@@ -39,7 +39,7 @@ steps:
   - Bake the cinnamon rolls for 35-40 minutes or until the tops are golden brown.
   - Mix the glaze ingredients in a small bowl while the cinnamon rolls are baking.
   - Remove the rolls from the oven and glaze while hot.
-labels: [dairy, bread, cake]
+labels: [dairy, bread, cake, fermentation]
 ---
 
 # Sourdough Cinnamon Rolls

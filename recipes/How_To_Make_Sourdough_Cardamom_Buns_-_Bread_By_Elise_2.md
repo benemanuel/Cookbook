@@ -50,7 +50,7 @@ steps:
   - While the buns are baking, add brown sugar, water, and ground cardamom to a small pot and heat over medium heat until all the sugar is dissolved.
   - When the buns are out of the oven, immediately brush over the syrup using a pastry brush.
   - Transfer to a cooling rack and cool for 20-30 minutes before serving.
-labels: [dairy, bread, cake]
+labels: [dairy, bread, cake, fermentation]
 ---
 
 # Sourdough Cardamom Buns

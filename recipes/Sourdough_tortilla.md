@@ -26,7 +26,7 @@ steps:
   - Roll each piece of dough into a thin circle using a rolling pin or wine bottle, about 1/4 inch thickness.
   - Cook each tortilla individually on high heat for about 1 minute on each side, flipping as soon as bubbles appear and the edges look firm.
   - Allow the tortillas to cool before storing in an airtight container and serve warm.
-labels: [dairy, bread, drinks]
+labels: [dairy, bread, drinks, fermentation]
 ---
 
 # Sourdough Tortillas

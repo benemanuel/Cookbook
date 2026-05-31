@@ -23,7 +23,7 @@ steps:
   - In a large bowl, whisk together eggs, milk, starter, and melted butter until well combined.
   - Add dry mixture to wet mixture and whisk until just combined, adjusting batter consistency with milk if necessary to reach pancake batter consistency.
   - Cook in waffle iron according to the manufacturer's directions and serve right away with butter and maple syrup.
-labels: [dairy, bread, cake]
+labels: [dairy, bread, cake, fermentation]
 ---
 
 # Sourdough Waffles
