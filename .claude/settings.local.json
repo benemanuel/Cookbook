@@ -16,7 +16,8 @@
       "mcp__plugin_chrome-devtools-mcp_chrome-devtools__list_console_messages",
       "Bash(git add *)",
       "Bash(git push *)",
-      "Bash(grep -E '[\\\\\\\\/:*?\"<>|]')"
+      "Bash(grep -E *)",
+      "Skill(commit-commands:commit)"
     ]
   }
 }
