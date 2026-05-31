@@ -1,16 +1,25 @@
 ---
-subject: "Shepard\u2019s Pie"
-from: "Avi BenEmanuel <avi.wollman@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Thu, 9 Apr 2020 09:04:15 +0300"
-date_parsed: 2020-04-09T09:04:15+03:00
-labels: [cake, meat]
+schema_version: 1
+title: Shepard's Pie
+url: https://imgur.com/gallery/Qn5xq4U
+source: imgur.com
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients: null
+steps: null
 ---
 
-# Shepard’s Pie
+# Shepard's Pie
+
+*Source: imgur.com*
 
 ## Ingredients
 
+No ingredients found in the provided text.
+
 ## Instructions
 
-Food Every Day: Day 63 (Shepard’s Pie) <https://imgur.com/gallery/Qn5xq4U>
+No instructions found in the provided text.

@@ -1,18 +1,35 @@
 ---
-subject: "Sourdough Glass Bread (Pan de Cristal) – Breadtopia"
-from: "benemanuel family <benemanuel.family@gmail.com>"
-to: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-date: "Thu, 16 Jan 2025 16:25:22 +0200"
-date_parsed: 2025-01-16T16:25:22+02:00
-attachments:
-  - filename: "glass.pdf"
-    type: "application/pdf"
-    size: 104386
-    local_path: "attachments\\2025-01-16_16-25-22_Re_Sourdough_Glass_Bread_(Pan_de_Cristal)_–_Breadtopia\\glass.pdf"
-labels: [bread]
+schema_version: 1
+title: Sourdough Glass Bread (Pan de Cristal)
+url: null
+source: Breadtopia
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: 30
+imported_at: 2026-05-31
+ingredients:
+  - 400g bread flour
+  - 360g water (90% hydration)
+  - 120g ripe sourdough starter
+  - 14g olive oil
+  - 11g salt
+steps:
+  - Mix flour and water together until no dry flour remains, then cover and rest for 30 minutes.
+  - Add the ripe starter, salt, and olive oil to the autolysed dough and mix well using the Rubaud method (scoop, stretch, and fold) for 5–7 minutes until the dough is cohesive.
+  - Cover and rest for 30 minutes, then perform the first set of coil folds.
+  - Repeat coil folds every 30 minutes for a total of 4 sets.
+  - After the last set of folds, allow the dough to bulk ferment at room temperature until it has grown 70–80% in volume.
+  - Gently transfer the dough to a parchment-lined surface and stretch and fold it into 2 long strips without pre-shaping tightly.
+  - Cover and proof at room temperature for 1 hour.
+  - Preheat oven to 500°F (260°C) with a steam source such as a covered Dutch oven or baking stone with steam.
+  - Bake with steam for 10 minutes, then reduce heat to 410°F (210°C), remove the steam source, and bake for another 20 minutes until deep golden.
+  - Turn off oven, crack door open, and let the bread rest inside for 10 minutes before removing.
 ---
 
-# Re: Sourdough Glass Bread (Pan de Cristal) – Breadtopia
+# Sourdough Glass Bread (Pan de Cristal)
+
+*Source: Breadtopia*
 
 ## Ingredients
 
@@ -24,13 +41,13 @@ labels: [bread]
 
 ## Instructions
 
-1. Autolyse: mix flour and water together until no dry flour remains. Cover and rest 30 minutes.
-2. Add the ripe starter, salt, and olive oil to the autolysed dough. Mix well using the Rubaud method (scoop, stretch, and fold) for 5–7 minutes until the dough is cohesive.
-3. Cover and rest 30 minutes. Perform the first set of coil folds.
+1. Mix flour and water together until no dry flour remains, then cover and rest for 30 minutes.
+2. Add the ripe starter, salt, and olive oil to the autolysed dough and mix well using the Rubaud method (scoop, stretch, and fold) for 5–7 minutes until the dough is cohesive.
+3. Cover and rest for 30 minutes, then perform the first set of coil folds.
 4. Repeat coil folds every 30 minutes for a total of 4 sets.
 5. After the last set of folds, allow the dough to bulk ferment at room temperature until it has grown 70–80% in volume.
-6. Gently transfer the dough to a parchment-lined surface. Stretch and fold it into 2 long strips (do not pre-shape tightly — this bread is shaped loosely).
+6. Gently transfer the dough to a parchment-lined surface and stretch and fold it into 2 long strips without pre-shaping tightly.
 7. Cover and proof at room temperature for 1 hour.
-8. Meanwhile, preheat oven to 500°F (260°C) with a steam source (covered Dutch oven or baking stone with steam).
-9. Bake with steam for 10 minutes. Reduce heat to 410°F (210°C), remove steam source, and bake for another 20 minutes until deep golden.
+8. Preheat oven to 500°F (260°C) with a steam source such as a covered Dutch oven or baking stone with steam.
+9. Bake with steam for 10 minutes, then reduce heat to 410°F (210°C), remove the steam source, and bake for another 20 minutes until deep golden.
 10. Turn off oven, crack door open, and let the bread rest inside for 10 minutes before removing.
