@@ -1,91 +1,105 @@
 ---
-subject: "Corned Beef & Pastrami"
-from: "benemanuel family <benemanuel.family@gmail.com>"
-to: "benemanuel family <benemanuel.family@gmail.com>"
-date: "Mon, 30 Sep 2024 12:42:35 +0300"
-date_parsed: 2024-09-30T12:42:35+03:00
-labels: [meat]
+schema_version: 1
+title: Corned Beef & Pastrami
+url: https://amazingribs.com/tested-recipes/beef-and-bison-recipes/home-made-pastrami-thats-close-katzs-recipe/
+source: amazingribs.com
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - Beef brisket (preferably the flat cut)
+  - Kosher salt (5-6% of total water weight)
+  - Sugar (2-3% of total water weight)
+  - Pink curing salt (0.25% of total weight)
+  - Whole allspice berries (1 tablespoon)
+  - Whole mustard seeds brown or yellow (1 tablespoon)
+  - Coriander seeds (1 tablespoon)
+  - Red pepper flakes (1 tablespoon)
+  - Whole black peppercorns (1 tablespoon)
+  - Whole cloves (2 teaspoons)
+  - Whole cardamom pods (9 pods)
+  - Bay leaves (6 large, crumbled)
+  - Ground ginger (2 teaspoons)
+  - Cinnamon stick (1/2 stick)
+  - Juniper berries (9 berries)
+  - Fresh coarsely ground black pepper (1 tablespoon per 1/2 kg meat)
+  - Coriander powder (1 tablespoon per 1/2 kg meat)
+  - Brown sugar (1 tablespoon per 1/2 kg meat)
+  - Paprika (1 tablespoon per 1/2 kg meat)
+  - Garlic powder (2 teaspoons per 1/2 kg meat)
+  - Onion powder (2 teaspoons per 1/2 kg meat)
+  - Yellow mustard seeds (1/2 teaspoon per 1/2 kg meat)
+  - Mustard powder (1/2 teaspoon per 1/2 kg meat)
+  - Water
+  - Apple juice (for wrapping)
+steps:
+  - Toast and crush the allspice berries, mustard seeds, coriander seeds, red pepper flakes, peppercorns, cloves, and cardamom pods in a small frying pan on medium heat until fragrant, being careful not to burn them.
+  - Remove the toasted spices from heat and place in a small bowl, then crush them lightly with a mortar and pestle or the back of a spoon.
+  - Stir the crumbled bay leaves and ground ginger into the crushed spices.
+  - Add about 3 tablespoons of the spice mix, the half stick of cinnamon, kosher salt, pink salt, and brown sugar to a gallon of water in a large pot.
+  - Bring the brine to a boil, then remove from heat and let cool to room temperature before refrigerating until well chilled.
+  - Place the brisket in a large container and cover completely with the chilled brine, weighing it down with a plate if it floats.
+  - Cure the brisket in the refrigerator for at least 5 days.
+  - Desalinate the cured brisket by covering it with cold water in the refrigerator for at least 8 hours, changing the water at least once.
+  - For corned beef, place the desalted brisket in a large pot covered with at least one inch of water.
+  - Add a tablespoon of the pickling spices to the pot and bring to a boil, then reduce to a very low simmer and cook for 3-4 hours until fork tender.
+  - For pastrami, rinse the desalted meat and apply the dry rub, then refrigerate for at least overnight, preferably a day or two.
+  - Smoke the rubbed brisket at 120°C until it reaches an internal temperature of 71°C and the crust is brown.
+  - Wrap the smoked brisket tightly in foil, add a bit of apple juice or water, and roast until the internal temperature reaches 95°C.
+  - Alternatively, after smoking, transfer the brisket to a steamer and steam it for 2-3 hours until tender.
+  - Let the finished brisket rest for at least 30 minutes.
+  - Slice the brisket by hand into thin slices about 1/8 inch (3.2 mm) thick, cutting perpendicular to the grain.
 ---
 
 # Corned Beef & Pastrami
 
+*Source: amazingribs.com*
+
 ## Ingredients
+
+- Beef brisket (preferably the flat cut)
+- Kosher salt (5-6% of total water weight)
+- Sugar (2-3% of total water weight)
+- Pink curing salt (0.25% of total weight)
+- Whole allspice berries (1 tablespoon)
+- Whole mustard seeds brown or yellow (1 tablespoon)
+- Coriander seeds (1 tablespoon)
+- Red pepper flakes (1 tablespoon)
+- Whole black peppercorns (1 tablespoon)
+- Whole cloves (2 teaspoons)
+- Whole cardamom pods (9 pods)
+- Bay leaves (6 large, crumbled)
+- Ground ginger (2 teaspoons)
+- Cinnamon stick (1/2 stick)
+- Juniper berries (9 berries)
+- Fresh coarsely ground black pepper (1 tablespoon per 1/2 kg meat)
+- Coriander powder (1 tablespoon per 1/2 kg meat)
+- Brown sugar (1 tablespoon per 1/2 kg meat)
+- Paprika (1 tablespoon per 1/2 kg meat)
+- Garlic powder (2 teaspoons per 1/2 kg meat)
+- Onion powder (2 teaspoons per 1/2 kg meat)
+- Yellow mustard seeds (1/2 teaspoon per 1/2 kg meat)
+- Mustard powder (1/2 teaspoon per 1/2 kg meat)
+- Water
+- Apple juice (for wrapping)
 
 ## Instructions
 
-* **Beef brisket** (preferably the flat cut)
-* **Brine** percentagesof the total weight of the water used. :
-  + **Salt**: 5\-6%
-  + **Sugar**: 2\-3%
-  + **pink curing salt:** 0\.25%\* Curing salt \#1 is recommended to be used at 0\.25% of total weight of brine and meat. So 5lbs of meat (2270gms), 1 gallon of water (3785gms), and \~400gms salt, sugar, spices \= 6455gms. That times 0\.0025 equals approximately 16gms curing salt  
-  + **pickling spices: 3** tbsp  
-1 Tbsp whole allspice berries  
-1 Tbsp whole mustard seeds (brown or yellow)  
-1 Tbsp coriander seeds  
-1 Tbsp red pepper flakes  
-1 Tbsp whole black peppercorns  
-2 teaspoons whole cloves  
-9 whole cardamom pods  
-6 large bay leaves, crumbled  
-2 teaspoons ground ginger  
-1/2 stick cinnamon  
-9 juniper berries
-  +  
-  - Toast and crush spices: allspice berries, mustard seeds, coriander seeds, red pepper flakes, peppercorns, cloves, and cardamom pods in a small frying pan on medium heat until  
-fragrant. Note that it is pretty easy to burn spices; you want enough heat to release their flavors, not so much that they get burned.
-  - Remove from heat and place in a small bowl. Use a mortar and pestle to crush the spices a little (or the back of a spoon or the side of a knife on a hard surface). Add to a small bowl and stir in the crumbled bay leaves and ground ginger.
-  - Make curing brine with spices, salts, sugar, water: Add about 3 Tbsp of the spice mix (reserve the rest for cooking the corned beef after it has cured), plus the half stick of cinnamon, to a gallon of water in a large pot, along with the Kosher salt, pink salt (if using), and brown sugar. Bring to a boil, then remove from heat and let cool to room temperature. Then refrigerate until well chilled.
-  - Cover brisket with brine, chill: Place the brisket in a large container or pan, and cover with the brine. The brine should cover the meat. The meat may float in which case you may want to weigh it down with a plate.
-* **Rub**:
-
-  tbsp per 1/2 kg meat
-
-
-2 tablespoons whole black peppercorns
-
-1 tablespoons fresh coarsely ground black pepper
-
-1 tablespoon whole coriander seeds
-
-1 tablespoon coriander powder
-
-1 tablespoon brown sugar
-
-1 tablespoon paprika
-
-2 teaspoons garlic powder
-
-2 teaspoons onion powder
-
-½ teaspoon whole yellow (white) mustard seeds
-
-½ teaspoon mustard powder
-
-
-1 tablespoons per 1/2 kg
-
-
-Desalinate. cover it with cold water in the fridge for at least 8 hours. Change the water at least once.
-
-**for corned beef** Place the brisket in a large
-
-pot that just sits around the brisket and is covered with at least one inch of water. If you want your brisket less salty, add another inch of water to the pot.  
-Add a tablespoon of the pickling spices to the pot. Bring to a boil, reduce to a very low simmer (barely bubbling), and cook 3\-4 hours, until the corned beef is fork tender. (At this point you can store it in the fridge for up to a week.)
-
-**for pastrami**  
-
-
-Rub. Rinse the meat and rub (let it refrigerated for at least overnight, best a day or two)
-
-Fire up. smoking to 120°C until 71°C internal and the crust is brown.
-
-Then wrap it tightly in foil, add a bit of liquid \- apple juice, water and roast it up to \*95°C internal.
-
-Let rest for at least 30 minutes,  
-
-\*Alternative until 88°C then steam the brisket: Transfer the smoked brisket to a steamer or a pot with a rack and steam it for 2\-3 hours until it is tender.
-
-Cut it by hand in thin slices, about 1/8" (3\.2 mm) thick, perpendicular to the grain.
-
-
-[A Homemade Smoked Pastrami Recipe That's Close To Katz's (amazingribs.com)](https://amazingribs.com/tested-recipes/beef-and-bison-recipes/home-made-pastrami-thats-close-katzs-recipe/)
+1. Toast and crush the allspice berries, mustard seeds, coriander seeds, red pepper flakes, peppercorns, cloves, and cardamom pods in a small frying pan on medium heat until fragrant, being careful not to burn them.
+2. Remove the toasted spices from heat and place in a small bowl, then crush them lightly with a mortar and pestle or the back of a spoon.
+3. Stir the crumbled bay leaves and ground ginger into the crushed spices.
+4. Add about 3 tablespoons of the spice mix, the half stick of cinnamon, kosher salt, pink salt, and brown sugar to a gallon of water in a large pot.
+5. Bring the brine to a boil, then remove from heat and let cool to room temperature before refrigerating until well chilled.
+6. Place the brisket in a large container and cover completely with the chilled brine, weighing it down with a plate if it floats.
+7. Cure the brisket in the refrigerator for at least 5 days.
+8. Desalinate the cured brisket by covering it with cold water in the refrigerator for at least 8 hours, changing the water at least once.
+9. For corned beef, place the desalted brisket in a large pot covered with at least one inch of water.
+10. Add a tablespoon of the pickling spices to the pot and bring to a boil, then reduce to a very low simmer and cook for 3-4 hours until fork tender.
+11. For pastrami, rinse the desalted meat and apply the dry rub, then refrigerate for at least overnight, preferably a day or two.
+12. Smoke the rubbed brisket at 120°C until it reaches an internal temperature of 71°C and the crust is brown.
+13. Wrap the smoked brisket tightly in foil, add a bit of apple juice or water, and roast until the internal temperature reaches 95°C.
+14. Alternatively, after smoking, transfer the brisket to a steamer and steam it for 2-3 hours until tender.
+15. Let the finished brisket rest for at least 30 minutes.
+16. Slice the brisket by hand into thin slices about 1/8 inch (3.2 mm) thick, cutting perpendicular to the grain.

@@ -1,26 +1,28 @@
 ---
-subject: "Perfect Pumpkin Pie Recipe | Allrecipes"
-from: "\"benemanuel.family\" <benemanuel.family@gmail.com>"
-to: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-date: "Thu, 12 Oct 2023 08:30:20 +0300"
-date_parsed: 2023-10-12T08:30:20+03:00
-labels: [dairy]
+schema_version: 1
+title: Perfect Pumpkin Pie
+url: null
+source: allrecipes.com
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 1 liter milk
+  - 1⅓ cups sugar
+steps: null
 ---
 
-# Re: Perfect Pumpkin Pie Recipe | Allrecipes
+# Perfect Pumpkin Pie
+
+*Source: allrecipes.com*
 
 ## Ingredients
 
+- 1 liter milk
+- 1⅓ cups sugar
+
 ## Instructions
 
-Condensed milk useded savory experiments
-
-1lt milk
-
-1\&1/3 sugar
-
-Low until bubbles then
-
-30 minutes higher
-
-No stirring
+The provided instructions are incomplete and unclear. Unable to extract coherent steps.

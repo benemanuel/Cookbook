@@ -1,22 +1,25 @@
 ---
-subject: "Sourdough Pizza Crust (step by step) | Vanilla And Bean"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Fri, 5 Feb 2021 13:01:40 +0200"
-date_parsed: 2021-02-05T13:01:40+02:00
-attachments:
-  - filename: "Sourdough Pizza Crust (step by step) _ Vanilla And Bean.pdf"
-    type: "application/pdf"
-    size: 1060496
-    local_path: "attachments\\2021-02-05_13-01-40_Re_Sourdough_Pizza_Crust_(step_by_step)_Vanilla_And_Bean\\Sourdough_Pizza_Crust_(step_by_step)_Vanilla_And_Bean.pdf"
-labels: [bread]
+schema_version: 1
+title: Sourdough Pizza Crust
+url: https://vanillaandbean.com/sourdough-pizza-crust/
+source: vanillaandbean.com
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients: null
+steps: null
 ---
 
-# Re: Sourdough Pizza Crust (step by step) | Vanilla And Bean
+# Sourdough Pizza Crust
+
+*Source: vanillaandbean.com*
 
 ## Ingredients
 
+Unable to extract ingredients from provided text.
+
 ## Instructions
 
-On Fri, 5 Feb 2021, 12:57 Avraham Ben Emanuel, \<\> wrote:  
-> <https://vanillaandbean.com/sourdough-pizza-crust/>
+Unable to extract instructions from provided text.

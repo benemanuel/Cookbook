@@ -1,35 +1,35 @@
 ---
-subject: "Brandy Snaps - How To Make Cream Filled Cookie Logs"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Mon, 4 Oct 2021 13:37:54 +0300"
-date_parsed: 2021-10-04T13:37:54+03:00
-attachments:
-  - filename: "snaps.pdf"
-    type: "application/pdf"
-    size: 857028
-    local_path: "attachments\\2021-10-04_13-37-54_Brandy_Snaps_-_How_To_Make_Cream_Filled_Cookie_Logs_1\\snaps.pdf"
-labels: [dairy, candy]
+schema_version: 1
+title: Brandy Snaps
+url: null
+source: Food52
+image: null
+servings: null
+prep_minutes: 20
+cook_minutes: 13
+imported_at: 2026-05-31
+ingredients:
+  - 1 cup butter
+  - 1 cup granulated sugar
+  - 2/3 cup dark molasses
+  - 1 teaspoon cinnamon
+  - 1/2 teaspoon ginger
+  - 2 cups all-purpose flour
+  - 4 teaspoons brandy
+  - Heavy whipping cream (optional)
+steps:
+  - Preheat oven to 325°F.
+  - Stir butter, sugar, molasses, cinnamon, and ginger together over low heat until melted.
+  - Remove from heat and add flour and brandy, then chill the dough until firm enough to shape, about 20 minutes.
+  - Roll dough into 3/4-inch balls and place on a baking sheet, leaving room for them to spread.
+  - Bake for approximately 12 to 13 minutes on a Silpat- or parchment paper-lined cookie sheet.
+  - When the cookies have cooled enough that you can touch them but they are still warm (about 5 minutes), use a spatula to pull them from the sheet and quickly roll them around a pencil to form tubes, using rubber gloves to prevent your fingers from burning.
+  - If desired and serving immediately, whip up some heavy whipping cream and dot each end of the rolled cookies with it.
 ---
 
-# Brandy Snaps - How To Make Cream Filled Cookie Logs
+# Brandy Snaps
 
-<https://food52.com/recipes/39440-brandy-snaps>
-
----
-
-![Brandy Snaps](https://images.food52.com/9N5kHg4RsWXYV5YU_OEaqsQrRYY=/f9767407-5fe4-43c9-aaa4-65b264bd46d5--2015-1119_brandy-snaps_linda-xiao-169.jpg?w=3840&amp;q=75)
-
-Photo by Linda Xiao
-
-Print
-
-Serves
-60 to 70 cookies (feel free to halve the recipe)
-
-My grandmother made brandy snaps and put them in pretty tin boxes for friends around the holidays. To make the hollow logs, she wrapped the just-baked dough around pencils. According to my mother, my grandmother would have cleaned her out of her #2 pencils for school by mid-December. I never had the chance to taste the originals, but I've certainly enjoyed the recipe since it was passed down to me!
-
----
+*Source: Food52*
 
 ## Ingredients
 
@@ -38,35 +38,16 @@ My grandmother made brandy snaps and put them in pretty tin boxes for friends ar
 - 2/3 cup dark molasses
 - 1 teaspoon cinnamon
 - 1/2 teaspoon ginger
-- 2 cup all-purpose flour
-- 4 teaspoon brandy
+- 2 cups all-purpose flour
+- 4 teaspoons brandy
 - Heavy whipping cream (optional)
-
-Featured Video
-
-[See all Food52 videos](/watch)
-
----
 
 ## Instructions
 
-- Step 1
-      Preheat oven to 325° F.
-
-- Step 2
-      Stir butter, sugar, molasses, cinnamon, and ginger together over low heat until melted.
-
-- Step 3
-      Remove from heat and add flour and brandy. Chill the dough until firm enough to shape, about 20 minutes.
-
-- Step 4
-      Roll into 3/4-inch balls and place on the baking sheet. Leave room for them to spread.
-
-- Step 5
-      Bake for approximately 12 to 13 minutes on Silpat- or parchment paper-lined cookie sheet.
-
-- Step 6
-      When the cookies have cooled enough that you can touch them but they are still warm (about 5 minutes), use a spatula to pull them from the sheet and quickly roll them around a pencil to form tubes (rubber gloves recommended to prevent your fingers from burning). When the cookies are flat, they should look almost like a lace cookie. They are very fragile, so if you over bake, they'll break and be too brittle to roll; under-baking just a smudge is good.
-
-- Step 7
-      If you'd like (and are serving immediately), whip up some heavy whipping cream and dot each end of the rolled cookies with it.
+1. Preheat oven to 325°F.
+2. Stir butter, sugar, molasses, cinnamon, and ginger together over low heat until melted.
+3. Remove from heat and add flour and brandy, then chill the dough until firm enough to shape, about 20 minutes.
+4. Roll dough into 3/4-inch balls and place on a baking sheet, leaving room for them to spread.
+5. Bake for approximately 12 to 13 minutes on a Silpat- or parchment paper-lined cookie sheet.
+6. When the cookies have cooled enough that you can touch them but they are still warm (about 5 minutes), use a spatula to pull them from the sheet and quickly roll them around a pencil to form tubes, using rubber gloves to prevent your fingers from burning.
+7. If desired and serving immediately, whip up some heavy whipping cream and dot each end of the rolled cookies with it.

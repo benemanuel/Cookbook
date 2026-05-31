@@ -1,19 +1,35 @@
 ---
-subject: "Formented lemons"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Sun, 25 Jun 2023 18:54:47 +0300"
-date_parsed: 2023-06-25T18:54:47+03:00
-labels: []
+schema_version: 1
+title: Fermented Lemons
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 850g lemons
+  - 60g coarse salt
+  - Mint (or other herbs like lavender)
+steps:
+  - Chop off the ends of the lemons and quarter them.
+  - Mix the lemon quarters with coarse salt, approximately 60g.
+  - Squeeze the lemons to release their juices.
+  - Layer the squeezed lemons and salt mixture in a jar with mint or other herbs of your choice.
 ---
 
-# Formented lemons
+# Fermented Lemons
 
 ## Ingredients
 
+- 850g lemons
+- 60g coarse salt
+- Mint (or other herbs like lavender)
+
 ## Instructions
 
-Approximately 850g of lemon, chop off the ends and then quarter. Mix with approx 60g course salt, squeeze to release the juices and then layer up in the jar with the mint, but works great with other herbs too \- lavender etc!
-
-
-You can also substitute the lemon with any other citrus fruit. Limes with Indian spices is great for chili con carne, oranges goes great with North African cuisine etc
+1. Chop off the ends of the lemons and quarter them.
+2. Mix the lemon quarters with coarse salt, approximately 60g.
+3. Squeeze the lemons to release their juices.
+4. Layer the squeezed lemons and salt mixture in a jar with mint or other herbs of your choice.

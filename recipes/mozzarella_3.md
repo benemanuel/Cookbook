@@ -1,56 +1,55 @@
 ---
-subject: "mozzarella"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Wed, 16 Sep 2020 14:06:12 +0300"
-date_parsed: 2020-09-16T14:06:12+03:00
-labels: [dairy, bread]
+schema_version: 1
+title: Homemade Mozzarella
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 4L fresh whole milk
+  - 1 1/2 tsp citric acid
+  - 1 tsp cheese salt
+  - 1/2 tsp rennet
+steps:
+  - Measure out 250ml of warm water and stir in the citric acid until dissolved.
+  - Measure out 60ml of warm water in a separate bowl and stir in the rennet until dissolved.
+  - Pour the milk into a saucepan and stir in the citric acid solution.
+  - Put the saucepan over medium-high heat, stirring gently until it reaches 32°C.
+  - Remove from the heat and stir in the rennet solution for around 30 seconds.
+  - Cover the saucepan and leave to rest for 5-10 minutes until the milk sets and feels like soft silken tofu.
+  - Cut the set milk in a grid formation in the pan to create uniformly sized cheese curds.
+  - Put the pan back onto medium-high heat and stir gently until the curds reach 41°C, then remove from heat and continue stirring until combined.
+  - Use a slotted spoon to remove the curds and place them into a microwave-safe bowl.
+  - Microwave the curds for 1 minute, then drain away any additional whey and fold the curds over on themselves a few times.
+  - Continue microwaving and folding in 30-second bursts until the curds reach 57°C.
+  - Sprinkle the cheese salt over the curds and stretch and fold them repeatedly until the mozzarella becomes firm and glossy on top.
+  - Store in a container with salt and whey to keep fresh for up to a week if desired.
 ---
 
-# mozzarella
-
-This was my first attempt at making any cheese ever so i was pretty pleased with the results. This recipe made a pretty large ball!
+# Homemade Mozzarella
 
 ## Ingredients
 
-4L fresh whole milk.
-
-1 1/2 tsp citric acid
-
-1 tsp cheese salt
-
-1/2 tsp rennet
-
-
-This is definitely not the traditional method but it worked.
+- 4L fresh whole milk
+- 1 1/2 tsp citric acid
+- 1 tsp cheese salt
+- 1/2 tsp rennet
 
 ## Instructions
 
-Measure out 250ml (1cup) of warm water and stir in the citric acid until dissolved. Measure out 60ml (1/4 cup) of warm water in a separate bowl and stir until dissolved.
-
-
-Pour the milk into a saucepan and stir in the citric acid. Put saucepan over medium\-high heat, stirring gently until it gets to a temperature of 32•C (90•F)
-
-
-Remove from the heat and stir in rennet solution for around 30 seconds. Cover the saucepan and leave to rest for 5\-10 minutes.
-
-
-After the resting period is over, the milk should’ve set and feel like soft silken tofu if not, let it rest a while longer. Mine had set by this point. Cut it whilst still in the pan in a grid formation so you have uniformed size cheese curds.
-
-
-Put the pan back onto medium\-high heat, stirring gently until it reaches 41•C (106•F) The curds should start to combine and separate from the whey. Remove from the heat and continue stirring until it’s combined.
-
-
-Use a slotted spoon to remove the curds and place into a microwave\-safe bowl. (This is where the Italians will send hunting pack for me) microwave for 1 minute and drain away any additional whey and fold the curds over on themselves a few times.
-
-
-Continue microwaving and folding in 30 second burst (ensuring not to burn them) until you reach a temperature of 57•C (135•F)
-
-
-Sprinkle over the cheese salt. Proceed to stretch and fold the curds repeatedly until it has become firm and glossy on top.
-
-
-If you want to store it, you can keep in a container, sprinkle some salt and pour over the whey to keep fresh for up to a week tops but I doubt it will sit there that long. ;)
-
-
-I’ll definitely be trying it again to try and get a smoother finish. Happy cheese making friends!
+1. Measure out 250ml of warm water and stir in the citric acid until dissolved.
+2. Measure out 60ml of warm water in a separate bowl and stir in the rennet until dissolved.
+3. Pour the milk into a saucepan and stir in the citric acid solution.
+4. Put the saucepan over medium-high heat, stirring gently until it reaches 32°C.
+5. Remove from the heat and stir in the rennet solution for around 30 seconds.
+6. Cover the saucepan and leave to rest for 5-10 minutes until the milk sets and feels like soft silken tofu.
+7. Cut the set milk in a grid formation in the pan to create uniformly sized cheese curds.
+8. Put the pan back onto medium-high heat and stir gently until the curds reach 41°C, then remove from heat and continue stirring until combined.
+9. Use a slotted spoon to remove the curds and place them into a microwave-safe bowl.
+10. Microwave the curds for 1 minute, then drain away any additional whey and fold the curds over on themselves a few times.
+11. Continue microwaving and folding in 30-second bursts until the curds reach 57°C.
+12. Sprinkle the cheese salt over the curds and stretch and fold them repeatedly until the mozzarella becomes firm and glossy on top.
+13. Store in a container with salt and whey to keep fresh for up to a week if desired.

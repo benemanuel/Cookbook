@@ -1,88 +1,78 @@
 ---
-subject: "khachapuri-georgian-cheese-bread"
-from: "benemanuel family <benemanuel.family@gmail.com>"
-to: "benemanuel family <benemanuel.family@gmail.com>"
-date: "Thu, 14 Mar 2024 15:40:59 +0200"
-date_parsed: 2024-03-14T15:40:59+02:00
-labels: [dairy, bread]
+schema_version: 1
+title: Khachapuri Georgian Cheese Bread
+url: null
+source: null
+image: null
+servings: 4
+prep_minutes: 120
+cook_minutes: 21
+imported_at: 2026-05-31
+ingredients:
+  - 1 tsp salt
+  - 1 tsp dry active yeast
+  - 1 tbsp granulated sugar
+  - 3 1/2 cups all-purpose flour
+  - 1 cup water
+  - 1/2 cup milk
+  - 1 tbsp olive oil
+  - 1 1/2 cups Farmers cheese
+  - 1 1/2 cups shredded mozzarella
+  - 1 1/2 cups Feta cheese
+  - 5 eggs
+  - unsalted butter (optional)
+steps:
+  - In the bowl of a stand mixer, combine the salt, yeast, sugar, and flour.
+  - Heat water and milk to about 115 degrees Fahrenheit, then pour it into the bowl of dry ingredients.
+  - Begin kneading the dough with the hook attachment until it is close to being smooth and elastic.
+  - Add the oil into the dough and knead for another minute.
+  - Drizzle a little bit of olive oil onto the bottom and sides of a deep bowl, place the dough inside, and cover with plastic wrap.
+  - Set the bowl in a warm place until the dough doubles in size, about 1 hour.
+  - Remove the plastic wrap and press into the dough a few times with your hands, then cover with plastic wrap once more and let it sit in a warm place for another 30 minutes.
+  - Meanwhile, combine the farmers cheese, feta, and mozzarella in a bowl.
+  - Remove the dough from the bowl and place it onto a floured surface, then cut it into 4 equal pieces.
+  - Spread each piece of the dough into a circle about 9 inches in diameter, then roll 2 opposite sides of the circle towards the center so it ends up in a boat-like shape and pinch the corners together.
+  - Transfer the khachapuri onto a baking sheet lined with greased parchment paper.
+  - Stuff each khachapuri with the cheese mixture, beat 1 egg with a teaspoon of water, then brush the dough with egg wash.
+  - Bake in a preheated 450 degrees oven for about 15 minutes or until the crust becomes golden brown.
+  - Make a well in the center of each khachapuri with the back of a spoon (about 3 inches in diameter) and drop 1 egg into each well, then stick a few small pieces of butter into the cheese.
+  - Return the khachapuri back into the oven and bake for another 5-6 minutes, then serve immediately with the cheese and egg mixed together with a fork.
 ---
 
-# Re: khachapuri-georgian-cheese-bread
+# Khachapuri Georgian Cheese Bread
 
 ## Ingredients
 
-- [ ] ▢
+**For the dough:**
+- 1 tsp salt
+- 1 tsp dry active yeast
+- 1 tbsp granulated sugar
+- 3 1/2 cups all-purpose flour
+- 1 cup water
+- 1/2 cup milk
+- 1 tbsp olive oil
 
-For the dough:
-- [ ] ▢
-
-1 tsp [salt](https://assoc-redirect.amazon.com/g/r/https://amzn.to/3h1Igjt)
-- [ ] ▢
-
-1 tsp [dry active yeast](https://assoc-redirect.amazon.com/g/r/https://amzn.to/3dF6a3n)
-- [ ] ▢
-
-1 tbsp [granulated sugar](https://assoc-redirect.amazon.com/g/r/https://amzn.to/2HfEh6q)
-- [ ] ▢
-
-3 1/2 cup [all\-purpose flour](https://assoc-redirect.amazon.com/g/r/https://amzn.to/2Eu0WLu)
-- [ ] ▢
-
-1 cup water
-- [ ] ▢
-
-1/2 cup milk
-- [ ] ▢
-
-1 tbsp [olive oil](https://assoc-redirect.amazon.com/g/r/https://amzn.to/3mdtaKB)
-- [ ] ▢
-
-For the filling:
-- [ ] ▢
-
-1 1/2 cup Farmers cheese
-- [ ] ▢
-
-1 1/2 cup Shredded mozzarella
-
-- [ ] ▢
-
-1 1/2 cup Feta cheese
-- [ ] ▢
-
-4 eggs \+ 1 for egg wash
-- [ ] ▢
-
-unsalted butter optional
+**For the filling:**
+- 1 1/2 cups Farmers cheese
+- 1 1/2 cups shredded mozzarella
+- 1 1/2 cups Feta cheese
+- 5 eggs
+- unsalted butter (optional)
 
 ## Instructions
 
-* In the bowl of a stand mixer combine the
-
-* salt, yeast, sugar, and flour.
-
-* Heat water and milk to about 115 degrees Fahrenheit. Then pour it into the bowl of dry ingredients.
-
-* Begin kneading the dough with the hook attachment until it's close to being smooth and elastic.
-
-* Add the oil into the dough and knead for another minute.
-
-* Drizzle a little bit of olive oil onto the bottom and sides of a deep bowl. Place the dough inside the bowl and cover with plastic wrap. Set the bowl in a warm place until the dough doubles in size, about 1 hour.
-
-* Remove the plastic wrap and press into the dough a few times with your hands. Cover with plastic wrap once more and let it sit in a warm place for another 30 minutes.
-
-* Meanwhile, combine the farmers cheese, feta, and mozzarella in a bowl.
-
-* Remove the dough from the bowl and place it onto a floured surface. Then cut it into 4 equal pieces.
-
-* Spread each piece of the dough into a circle about 9 inches in diameter. Then roll 2 opposite sides of the circle towards the center so it ends up have a boat like shape. Then pinch the corners together.
-
-* Transfer the khachapuri onto a baking sheet lined with greased parchment paper.
-
-* Stuff each khachapuri with the cheese mixture. Beat 1 egg with a teaspoon of water, then brush the dough with egg wash.
-
-* Bake in a preheated 450 degrees oven for about 15 minutes or until the crust becomes golden brown.
-
-* Make a well in the center of each khachapuri with the back of a spoon (about 3 inches in diameter) and drop 1 egg into each well. Then stick a few small pieces of butter into the cheese.
-
-* Return the khachapuri back into the oven and bake for another 5\-6 minutes. Cooking time may vary depending on your oven. The egg white should be white but still pretty runny. It will cook further as it sits in the hot cheese. When serving, mix the cheese and egg with a fork and serve immediately.
+1. In the bowl of a stand mixer, combine the salt, yeast, sugar, and flour.
+2. Heat water and milk to about 115 degrees Fahrenheit, then pour it into the bowl of dry ingredients.
+3. Begin kneading the dough with the hook attachment until it is close to being smooth and elastic.
+4. Add the oil into the dough and knead for another minute.
+5. Drizzle a little bit of olive oil onto the bottom and sides of a deep bowl, place the dough inside, and cover with plastic wrap.
+6. Set the bowl in a warm place until the dough doubles in size, about 1 hour.
+7. Remove the plastic wrap and press into the dough a few times with your hands, then cover with plastic wrap once more and let it sit in a warm place for another 30 minutes.
+8. Meanwhile, combine the farmers cheese, feta, and mozzarella in a bowl.
+9. Remove the dough from the bowl and place it onto a floured surface, then cut it into 4 equal pieces.
+10. Spread each piece of the dough into a circle about 9 inches in diameter, then roll 2 opposite sides of the circle towards the center so it ends up in a boat-like shape and pinch the corners together.
+11. Transfer the khachapuri onto a baking sheet lined with greased parchment paper.
+12. Stuff each khachapuri with the cheese mixture, beat 1 egg with a teaspoon of water, then brush the dough with egg wash.
+13. Bake in a preheated 450 degrees oven for about 15 minutes or until the crust becomes golden brown.
+14. Make a well in the center of each khachapuri with the back of a spoon (about 3 inches in diameter) and drop 1 egg into each well, then stick a few small pieces of butter into the cheese.
+15. Return the khachapuri back into the oven and bake for another 5-6 minutes, then serve immediately with the cheese and egg mixed together with a fork.

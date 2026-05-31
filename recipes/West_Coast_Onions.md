@@ -1,46 +1,41 @@
 ---
-subject: "West Coast Onions"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Sat, 1 May 2021 22:24:19 +0300"
-date_parsed: 2021-05-01T22:24:19+03:00
-labels: [dairy]
+schema_version: 1
+title: West Coast Onions
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 1 cup water
+  - 1 cup white vinegar
+  - 1 tablespoon sugar
+  - 2 large onions, sliced
+  - 1 cup mayo
+  - 2 tablespoons sour cream
+  - 1 tablespoon celery salt
+steps:
+  - Combine water, white vinegar, sugar, and sliced onions in a jar and let sit overnight.
+  - Drain the onions.
+  - Mix the drained onions with mayo, sour cream, and celery salt.
 ---
 
 # West Coast Onions
 
 ## Ingredients
 
+- 1 cup water
+- 1 cup white vinegar
+- 1 tablespoon sugar
+- 2 large onions, sliced
+- 1 cup mayo
+- 2 tablespoons sour cream
+- 1 tablespoon celery salt
+
 ## Instructions
 
-West Coast Onions  
-
-
-1 cup water
-
-
-1 cup white vinegar
-
-
-1 tablespoon sugar
-
-
-2 large onions, sliced
-
-
-Put these in a jar overnight
-
-
-Drain
-
-
-Mix in
-
-
-1 cup mayo
-
-
-2 tablespoons sour cream
-
-
-1 tablespoon celery salt.
+1. Combine water, white vinegar, sugar, and sliced onions in a jar and let sit overnight.
+2. Drain the onions.
+3. Mix the drained onions with mayo, sour cream, and celery salt.

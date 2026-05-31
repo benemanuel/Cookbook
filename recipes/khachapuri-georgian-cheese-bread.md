@@ -1,27 +1,25 @@
 ---
-subject: "khachapuri-georgian-cheese-bread"
-from: "Avi Ben Emanuel <avi@jct.ac.il>"
-to: "benemanuel.family@gmail.com"
-date: "Tue, 21 Nov 2017 14:02:10 +0200"
-date_parsed: 2017-11-21T14:02:10+02:00
-labels: [bread, dairy]
+schema_version: 1
+title: Khachapuri Georgian Cheese Bread
+url: http://simplyhomecooked.com/khachapuri-georgian-cheese-bread/
+source: simplyhomecooked.com
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients: null
+steps: null
 ---
 
-# khachapuri-georgian-cheese-bread
+# Khachapuri Georgian Cheese Bread
+
+*Source: simplyhomecooked.com*
 
 ## Ingredients
 
+Unable to extract ingredients from provided text.
+
 ## Instructions
 
-**<http://simplyhomecooked.com/khachapuri-georgian-cheese-bread/>**  
-
-
-\-\-  
-
-
-**אבי בן עמנואל** מנהל
-מערכות ארגוניות  הוועד הלאומי 21 ת.ד. 16031, ירושלים 9116001
-
-טל. T. 02\-6751036 פקס. F. 02\-6751151 נייד. M. 052\-3809107
-
-[www.jct.ac.il](http://www.jct.ac.il/)
+Unable to extract instructions from provided text.

@@ -1,41 +1,61 @@
 ---
-subject: "SourDough Kulchas"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Sat, 28 Sep 2024 17:53:31 +0300"
-date_parsed: 2024-09-28T17:53:31+03:00
-labels: [dairy, bread]
+schema_version: 1
+title: Sourdough Kulchas
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: 4
+imported_at: 2026-05-31
+ingredients:
+  - 20g sourdough starter
+  - 100g white bread flour (for levain)
+  - 125ml water (for levain)
+  - 500g bread flour
+  - 130ml water
+  - 75g yogurt
+  - 20g olive oil
+  - 12g salt
+  - 15g sugar
+  - Dried fenugreek leaves for garnish
+  - Fresh coriander leaves for garnish
+steps:
+  - Make levain the night before by mixing 20g starter, 100g white bread flour, and 125ml water, then proof at 18°C overnight.
+  - Mix all of the levain with 500g bread flour, 130ml water, 75g yogurt, 20g olive oil, 12g salt, and 15g sugar.
+  - Divide the dough into 70g balls and shape like U-shape buns, oiling your hands as the dough is wet and loose.
+  - Place the shaped dough on a well-oiled baking tray about 4-5 inches apart.
+  - Bulk ferment until the dough increases by 60-70% in volume.
+  - Press and flatten the dough to give it a round shape.
+  - Final proof for 3-4 hours until the size doubles.
+  - Garnish with dried fenugreek leaves and fresh coriander leaves before baking.
+  - Bake for 4 minutes at 180°C in a combi oven.
 ---
 
-# SourDough Kulchas
+# Sourdough Kulchas
 
 ## Ingredients
 
+- 20g sourdough starter
+- 100g white bread flour (for levain)
+- 125ml water (for levain)
+- 500g bread flour
+- 130ml water
+- 75g yogurt
+- 20g olive oil
+- 12g salt
+- 15g sugar
+- Dried fenugreek leaves for garnish
+- Fresh coriander leaves for garnish
+
 ## Instructions
 
-Usually this bread is consumed with a thick puree made with dried green Peas and indian spices…
-
-Made levain a night before 20g starter 100g white bread flour and 125 ml water. Proofed at 18C overnight
-
-For the dough
-
-All of the levain
-
-500gm bread flour
-
-130 ML water
-
-75 gm yogurt
-
-20gm olive oil
-
-12gm salt
-
-15 gm sugar.
-
-Garnished with dried fenugreek leaves and fresh coriander leaves before baking.
-
-Bake time 4 mins at 180 C in a combi
-
-
-mix … divide to 70gm dough balls shape like u shape buns … oil ur hands as its a wet and loose dough … place it on a well oil baking tray about 4\-5 inchs apart … let it bulk ferment upto 60\-70% increase in volume … press and flatten it to give a round shape final proof is again around 3\-4 hrs until the size doubles … then bake
+1. Make levain the night before by mixing 20g starter, 100g white bread flour, and 125ml water, then proof at 18°C overnight.
+2. Mix all of the levain with 500g bread flour, 130ml water, 75g yogurt, 20g olive oil, 12g salt, and 15g sugar.
+3. Divide the dough into 70g balls and shape like U-shape buns, oiling your hands as the dough is wet and loose.
+4. Place the shaped dough on a well-oiled baking tray about 4-5 inches apart.
+5. Bulk ferment until the dough increases by 60-70% in volume.
+6. Press and flatten the dough to give it a round shape.
+7. Final proof for 3-4 hours until the size doubles.
+8. Garnish with dried fenugreek leaves and fresh coriander leaves before baking.
+9. Bake for 4 minutes at 180°C in a combi oven.

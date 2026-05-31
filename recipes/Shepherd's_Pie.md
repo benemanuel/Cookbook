@@ -1,17 +1,25 @@
 ---
-subject: "Shepherd's Pie"
-from: "Avi BenEmanuel <avi.wollman@gmail.com>"
-to: "benemanuel.family@gmail.com"
-cc: "Ella <eseltz90@gmail.com>"
-date: "Fri, 13 Jan 2017 14:42:49 +0200"
-date_parsed: 2017-01-13T14:42:49+02:00
-labels: [cake, meat]
+schema_version: 1
+title: Traditional Irish Shepherd's Pie
+url: http://www.food.com/recipe/traditional-irish-shepherds-pie-302120
+source: food.com
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients: null
+steps: null
 ---
 
-# Shepherd's Pie
+# Traditional Irish Shepherd's Pie
+
+*Source: food.com*
 
 ## Ingredients
 
+Recipe content not provided in source text.
+
 ## Instructions
 
-Here's a recipe for Traditional Irish Shepherd's Pie from Food.com: <http://www.food.com/recipe/traditional-irish-shepherds-pie-302120>
+Recipe content not provided in source text.

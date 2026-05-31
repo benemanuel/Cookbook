@@ -1,20 +1,33 @@
 ---
-subject: "Crispy baked chicken wings"
-from: "benemanuel family <benemanuel.family@gmail.com>"
-to: "\"benemanuel.family\" <benemanuel.family@gmail.com>"
-date: "Mon, 10 Jun 2024 15:56:49 +0300"
-date_parsed: 2024-06-10T15:56:49+03:00
-labels: [meat]
+schema_version: 1
+title: Crispy Baked Chicken Wings
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: 25
+imported_at: 2026-05-31
+ingredients:
+  - Chicken wings
+  - Cornstarch
+  - Chicken soup mix
+steps:
+  - Mix chicken wings with cornstarch and chicken soup mix.
+  - Toss wings a second time to ensure even coating.
+  - Bake for 20-30 minutes until crispy.
 ---
 
-# Re: Crispy baked chicken wings
+# Crispy Baked Chicken Wings
 
 ## Ingredients
 
+- Chicken wings
+- Cornstarch
+- Chicken soup mix
+
 ## Instructions
 
-20\-30 minutes
-
-added cornstarch and chicken soup mix
-
-mixed wings twice
+1. Mix chicken wings with cornstarch and chicken soup mix.
+2. Toss wings a second time to ensure even coating.
+3. Bake for 20-30 minutes until crispy.

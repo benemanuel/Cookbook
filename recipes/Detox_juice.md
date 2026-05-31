@@ -1,26 +1,34 @@
 ---
-subject: "Detox juice"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Sun, 10 Oct 2021 20:06:15 +0300"
-date_parsed: 2021-10-10T20:06:15+03:00
-labels: []
+schema_version: 1
+title: Detox Juice
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 4 large carrots, unpeeled, ends trimmed
+  - 4 celery sticks, leaves attached, washed
+  - 1/2 beetroot, scrubbed
+  - 6 sprigs fresh continental parsley
+  - 4cm-piece fresh ginger, washed, unpeeled
+  - Ice cubes, to serve
+steps: null
 ---
 
-# Detox juice
+# Detox Juice
 
 ## Ingredients
 
+- 4 large carrots, unpeeled, ends trimmed
+- 4 celery sticks, leaves attached, washed
+- 1/2 beetroot, scrubbed
+- 6 sprigs fresh continental parsley
+- 4cm-piece fresh ginger, washed, unpeeled
+- Ice cubes, to serve
+
 ## Instructions
 
-4 large carrots, unpeeled, ends trimmed
-
-4 celery sticks, leaves attached, washed
-
-1/2 beetroot, scrubbed
-
-6 sprigs fresh continental parsley
-
-4cm\-piece fresh ginger, washed, unpeeled
-
-Ice cubes, to serve
+No instructions provided.

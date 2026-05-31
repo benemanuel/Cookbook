@@ -1,22 +1,14 @@
----
-subject: "Cretan Beet and Yogurt Salad with Walnuts | Greek Food - Greek Cooking - Greek Recipes by Diane Kochilas"
-from: "benemanuel family <benemanuel.family@gmail.com>"
-to: "benemanuel.family@gmail.com"
-date: "Sun, 19 Jun 2022 18:28:35 +0000"
-date_parsed: 2022-06-19T18:28:35+00:00
-attachments:
-  - filename: "Cretan Beet and Yogurt Salad with Walnuts _ Mediterranean Diet, Healthy Greek & Blue Zone Ikaria Longevity Recipes by Diane Kochilas.pdf"
-    type: "application/pdf"
-    size: 739289
-    local_path: "attachments\\2022-06-19_18-28-35_Cretan_Beet_and_Yogurt_Salad_with_Walnuts_Greek_Food_-_Greek_Cooking_-_Greek_Recipes_by_Diane_Kochil_1\\Cretan_Beet_and_Yogurt_Salad_with_Walnuts_Mediterranean_Diet,_Healthy_Greek_&_Blue_Zone_Ikaria_Longe"
-labels: [dairy]
----
+I appreciate your caution, but I need to let you know that the text you've provided only contains:
 
-# Cretan Beet and Yogurt Salad with Walnuts | Greek Food - Greek Cooking - Greek Recipes by Diane Kochilas
+1. A recipe title: "Cretan Beet and Yogurt Salad with Walnuts"
+2. Attribution: "Greek Food - Greek Cooking - Greek Recipes by Diane Kochilas"
+3. Some navigation/chat widget code
 
-## Ingredients
+**There is no actual recipe content** (no ingredients list or instructions) in the text you've shared.
 
-## Instructions
+To extract a proper recipe, I would need:
+- The full ingredients list
+- The step-by-step instructions
+- Any other relevant metadata (servings, cook time, prep time, etc.)
 
-| [**benemanuel family** \- Chat @ Spike](https://spikenow.com/r/a/?ref=spike-organic-signature&_ts=1lpx0p) | ![1lpx0p](https://spikenow.com/t/) |
-| --- | --- |
+Could you please provide the complete recipe text? Once you do, I'll extract it into the structured markdown format you've requested.

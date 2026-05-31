@@ -1,33 +1,40 @@
 ---
-subject: "Bread newsletter no.12 - by Mary Grace Quigley"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Tue, 5 Nov 2024 19:18:59 +0200"
-date_parsed: 2024-11-05T19:18:59+02:00
-labels: [bread]
+schema_version: 1
+title: Seeded Sourdough Bread
+url: https://marygracebread.substack.com/p/bread-newsletter-no12
+source: marygracebread.substack.com
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 70g sourdough starter
+  - 8g salt
+  - 40g sunflower seeds
+  - 20g flax seeds, plus more for the crust
+  - 30g pumpkin seeds
+  - 300g filtered water
+  - 130g wholemeal flour
+  - 270g strong white flour
+steps: null
 ---
 
-# Bread newsletter no.12 - by Mary Grace Quigley
+# Seeded Sourdough Bread
+
+*Source: marygracebread.substack.com*
 
 ## Ingredients
 
+- 70g sourdough starter
+- 8g salt
+- 40g sunflower seeds
+- 20g flax seeds, plus more for the crust
+- 30g pumpkin seeds
+- 300g filtered water
+- 130g wholemeal flour
+- 270g strong white flour
+
 ## Instructions
 
-<https://marygracebread.substack.com/p/bread-newsletter-no12> 
-
-
-70g sourdough starter
-
-8g salt
-
-40g sunflower seeds
-
-20g flax seeds (plus more for the crust)
-
-30g pumpkin seeds
-
-300g filtered water
-
-130g wholemeal flour
-
-270g strong white flour
+No instructions provided in source material.

@@ -1,34 +1,37 @@
 ---
-subject: "MARGARITA"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Thu, 10 Sep 2020 16:37:23 +0300"
-date_parsed: 2020-09-10T16:37:23+03:00
-labels: []
+schema_version: 1
+title: Margarita
+url: null
+source: null
+image: null
+servings: 1
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 50 cc Blanco tequila
+  - 30 cc Lime juice
+  - 20 cc Triple Sec
+steps:
+  - Combine all ingredients in shaker tin.
+  - Add ice to small shaker tin.
+  - Shake vigorously.
+  - Strain into chilled rocks glass with a salt rim over fresh ice.
+  - Garnish with lime and enjoy.
 ---
 
-# MARGARITA
+# Margarita
 
 ## Ingredients
 
+- 50 cc Blanco tequila
+- 30 cc Lime juice
+- 20 cc Triple Sec
+
 ## Instructions
 
-INGREDIENTS IN THE BEST MARGARITA RECIPE
-
-50 cc Blanco tequila
-
-30 cc Lime juice
-
-20 cc Triple Sec
-
-MARGARITA DIRECTIONS
-
-Combine all ingredients in shaker tin.
-
-Add ice to small shaker tin.
-
-Shake vigorously.
-
-Strain into chilled rocks glass with a salt rim over fresh ice
-
-Garnish with lime and enjoy.
+1. Combine all ingredients in shaker tin.
+2. Add ice to small shaker tin.
+3. Shake vigorously.
+4. Strain into chilled rocks glass with a salt rim over fresh ice.
+5. Garnish with lime and enjoy.

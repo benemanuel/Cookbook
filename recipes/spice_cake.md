@@ -1,61 +1,65 @@
 ---
-subject: "spice cake"
-from: "Avi Ben Emanuel <avi@jct.ac.il>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Tue, 17 Mar 2020 19:29:15 +0200"
-date_parsed: 2020-03-17T19:29:15+02:00
-labels: [dairy, cake]
+schema_version: 1
+title: Spice Cake
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: 23
+imported_at: 2026-05-31
+ingredients:
+  - 1/4 cup butter or margarine
+  - 1 cup light brown sugar
+  - 3 egg yolks, well beaten
+  - 1/2 cup maple syrup or molasses
+  - 2 cups sifted all purpose flour
+  - 1 teaspoon baking soda
+  - 1/4 teaspoon allspice
+  - Few grains salt
+  - 1 teaspoon baking powder
+  - 1/2 teaspoon ground cloves
+  - 1/4 teaspoon nutmeg
+  - 3/4 cup sour milk
+  - 1 teaspoon pure vanilla extract
+  - 1 egg white, stiffly beaten
+steps:
+  - Cream butter or margarine and sugar together until smooth.
+  - Add well beaten egg yolks and maple syrup and blend well.
+  - Sift flour, measure, and sift twice with the dry ingredients.
+  - Add the flour mixture to the creamed mixture alternately with sour milk, beating only until smooth.
+  - Add vanilla extract and fold in the stiffly beaten egg white.
+  - Divide the batter between two 9-inch pans.
+  - Bake in a moderate oven at 350 degrees for 20 to 25 minutes.
+  - Cool the cake and put the layers together, then frost with Seven Minute Frosting.
 ---
 
-# spice cake
+# Spice Cake
 
 ## Ingredients
 
+- 1/4 cup butter or margarine
+- 1 cup light brown sugar
+- 3 egg yolks, well beaten
+- 1/2 cup maple syrup or molasses
+- 2 cups sifted all purpose flour
+- 1 teaspoon baking soda
+- 1/4 teaspoon allspice
+- Few grains salt
+- 1 teaspoon baking powder
+- 1/2 teaspoon ground cloves
+- 1/4 teaspoon nutmeg
+- 3/4 cup sour milk
+- 1 teaspoon pure vanilla extract
+- 1 egg white, stiffly beaten
+
 ## Instructions
 
-\*\*Spice Cake\*\*
-
-
-1/4 c. butter or margarine
-
-
-1 c. light brown sugar
-
-
-3 egg yolks, well beaten
-
-
-1/2 cup maple syrup or molasses
-
-
-2 c. sifted all purpose flour
-
-
-1 tsp soda
-
-
-1/4 tsp allspice
-
-
-Few grains salt
-
-
-1 tsp baking powder
-
-
-1/2 tsp ground cloves
-
-
-1/4 tsp nutmeg
-
-
-3/4 c. sour milk
-
-
-1 tsp pure vanilla extract
-
-
-1 egg white, stiffly beaten
-
-
-Cream butter or margarine and sugar together until smooth. Add egg yolks well beaten and maple syrup. Blend well. Sift flour, measure, sift twice with dry ingredients. Add to creamed mixture alternately with sour milk. Beat only until smooth. Add flavoring. Fold in egg white, stiffly beaten. Divide between 2 9\-inch pans and bake in moderate oven (350 degrees) for 20\-25 minutes. Cool and put layers together and frost with Seven Minute Frosting.
+1. Cream butter or margarine and sugar together until smooth.
+2. Add well beaten egg yolks and maple syrup and blend well.
+3. Sift flour, measure, and sift twice with the dry ingredients.
+4. Add the flour mixture to the creamed mixture alternately with sour milk, beating only until smooth.
+5. Add vanilla extract and fold in the stiffly beaten egg white.
+6. Divide the batter between two 9-inch pans.
+7. Bake in a moderate oven at 350 degrees for 20 to 25 minutes.
+8. Cool the cake and put the layers together, then frost with Seven Minute Frosting.

@@ -1,43 +1,49 @@
 ---
-subject: "basic sourdough 2 loafs"
-from: "benemanuel family <benemanuel.family@gmail.com>"
-to: "benemanuel family <benemanuel.family@gmail.com>"
-date: "Thu, 24 Apr 2025 07:37:53 +0300"
-date_parsed: 2025-04-24T07:37:53+03:00
-labels: [bread]
+schema_version: 1
+title: Basic Sourdough
+url: null
+source: null
+image: null
+servings: 2
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 530g water
+  - 160g rustic flour
+  - 160g all grain flour
+  - 400g bread flour
+  - 40g mixed grains (flax, sesame, pumpkin, sunflower)
+  - 220g 100% levin (sourdough starter)
+  - 16g salt
+steps:
+  - Perform a 30-minute autolyse with water and flour.
+  - Add the remaining ingredients and mix for 5 minutes.
+  - Perform lamination and let rest for 30 minutes.
+  - Bulk ferment outside for 5 hours.
+  - Place in the refrigerator overnight.
+  - Shape the dough and bake in a hot oven, optionally allowing an additional hour rise before baking if desired.
 ---
 
-# basic sourdough 2 loafs
+# Basic Sourdough
+
+*Source: null*
 
 ## Ingredients
 
-530 water
+- 530g water
+- 160g rustic flour
+- 160g all grain flour
+- 400g bread flour
+- 40g mixed grains (flax, sesame, pumpkin, sunflower)
+- 220g 100% levin (sourdough starter)
+- 16g salt
 
-720 flour total mix of
-
-	160 rustic
-
-	160 all grain
-
-	400 bread
-
-40 mixed grains (flax sesame pumpkin sunflower)
-
-220 100% levin
-
-16 salt
 ## Instructions
 
-
-first part 30min autoanelys
-
-add rest mix 5 minutes
-
-30min laminate
-
-
-5 hour outside
-
-overnight fridge
-
-shape and put it hot oven (no need to rise more, but can an hour\+)
+1. Perform a 30-minute autolyse with water and flour.
+2. Add the remaining ingredients and mix for 5 minutes.
+3. Perform lamination and let rest for 30 minutes.
+4. Bulk ferment outside for 5 hours.
+5. Place in the refrigerator overnight.
+6. Shape the dough and bake in a hot oven, optionally allowing an additional hour rise before baking if desired.

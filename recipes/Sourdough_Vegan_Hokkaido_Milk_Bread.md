@@ -1,91 +1,83 @@
 ---
-subject: "Sourdough Vegan Hokkaido Milk Bread"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Sun, 17 Oct 2021 17:55:04 +0300"
-date_parsed: 2021-10-17T17:55:04+03:00
-labels: [dairy, bread, cake]
+schema_version: 1
+title: Sourdough Vegan Hokkaido Milk Bread
+url: https://breadbyelise.com/sourdough-milk-bread
+source: breadbyelise.com
+image: null
+servings: 1
+prep_minutes: null
+cook_minutes: 40
+imported_at: 2026-05-31
+ingredients:
+  - 40 g white sourdough starter
+  - 40 g whole milk cold
+  - 40 g bread flour
+  - 10 g sugar
+  - 30 g bread flour
+  - 150 ml unsweetened soy milk
+  - 380 g white bread flour
+  - 1 tsp salt
+  - 20 g sugar
+  - 50 g whole milk cold
+  - 70 g eggs
+  - 40 g vegan block butter softened
+  - ½ Tbsp maple syrup
+  - 1 Tbsp water
+steps:
+  - Mix active sourdough starter, flour, sugar, and cold milk in a bowl, cover and rise in a warm spot for 4 hours until the levain is active but not overly sour and liquid.
+  - Whisk together the bread flour and soy milk in a pan until no lumps remain, then place over medium/low heat and whisk constantly until thickened to a pudding-like consistency, scrape into a bowl, cover with baking parchment, and set aside to cool to room temperature.
+  - Add all ingredients except salt and butter to a stand mixer fitted with a dough hook and mix until the dough comes together, then cover and autolyse for 30 minutes.
+  - Add salt and knead at medium speed for 10 minutes until the dough is tacky but not sticking to the fingers.
+  - Slowly add cubed softened butter and continue kneading at medium speed for 15-25 minutes until the dough passes the windowpane test.
+  - Transfer the dough to your work surface and divide into four equal pieces, roll into seamless rounds, cover, and rest for 10 minutes.
+  - Roll each round into an oval shape about 8 inches long, grab one short side and roll it up like a roulade, repeat on all four pieces, cover and rest for 10 minutes.
+  - With the seam side up, flatten each dough piece into long ovals with a rolling pin, shape into roulades again, and transfer to a greased 10-inch bread pan.
+  - Cover the bread pan and proof in a warm spot at 25°C for 8-12 hours until the dough fills about 85% of the tin.
+  - Divide the dough into 4 even pieces and roll each into a ball, then line an 11.5 x 21.5 cm loaf tin with baking parchment.
+  - Roll each ball into a long oval, fold one third over the middle, then the other third over the top to form a packet, roll over the seam to flatten, then roll up tightly from one end to make a fat sausage and arrange in the tin seam side down.
+  - Loosely cover and leave to rise until at least doubled in size, taking 1-2.5 hours, until pressing the dough gently leaves an indentation that springs back slowly but remains visible.
+  - Preheat the oven to 180°C and mix together the maple syrup and water in a small bowl.
+  - Gently brush the top of the risen loaf with the maple syrup mixture, ensuring none drips down the sides.
+  - Place the loaf in the preheated oven and bake for 30-50 minutes until a probe thermometer reaches 94°C when poked into the middle, covering the top loosely with foil if it browns too quickly.
+  - Brush the baked bread with more of the glaze, let it cool in the tin for 10 minutes, then lift it onto a wire rack to cool completely before slicing and store in an airtight container.
 ---
 
 # Sourdough Vegan Hokkaido Milk Bread
 
+*Source: breadbyelise.com*
+
 ## Ingredients
 
-Sweet Levain  
-40 g white sourdough starter  
-40 g whole milk cold  
-40 g bread flour  
-10 g sugar  
-
-Tangzhong  
-
-30 g (¼ cup) bread flour  
-150 ml (scant ⅔ cup) unsweetened soy milk  
-
-Main Dough:
-
-380 g white bread flour (plus extra as needed)  
-1 tsp salt
-
-20 g sugar
-
-50 g whole milk cold  
-70 g eggs  
-
-40 g vegan block butter softened  
-
-
-Step 1:  
-Sweet Levain  
-In a bowl, mix active sourdough starter, flour, sugar, and cold milk. Cover and rise in a warm spot for 4 hours. You want the levain to be active but not overly sour and liquid.  
-
-Step 2:  
-
-Tangzhong  
-
-Start by making the tangzhong; whisk together the 30g bread flour and 150ml milk in a pan until no lumps remain.  
-Place the pan over a medium/low heat and whisk constantly until the mixture has thickened to a pudding\-like consistency (think wallpaper paste...). Scrape it into a small bowl, cover with baking parchment directly on the surface to prevent a skin from forming and set aside to cool to room temperature.  
-
-
-Once the tangzhong has cooled (it will become much thicker as it cools, don't worry.),
-
-
-Step 3:
-
-Add all ingredients (except salt and butter) to the bowl of your stand mixer fitted with a dough hook. Mix until the dough comes together. Cover, and autolyse for 30 minutes.  
-Add the salt, and knead at medium speed for 10 minutes. At this point, the dough should be tacky but not sticking to the fingers.  
-Slowly add in cubed, softened butter. Continue kneading at medium speed for 15\-25 minutes until your dough passes the window\-pane test.  
-Transfer the dough to your work surface and divide it into four equal pieces. Roll into seamless rounds, cover, and rest for 10 minutes.  
-With a rolling pin, roll each round into an oval shape about 8 in/20 cm long. Grab one of the short sides of the oval and roll it up like a roulade. Repeat on all four pieces – cover and rest for 10 minutes.  
-With the seam side up, use a rolling pin to flatten each dough piece into long ovals again. Shape the ovals into roulades as you did previously. Transfer to a greased 10\-inch bread pan.  
-Cover the bread pan and proof in a warm spot, ideally at 25°C, for 8\-12 hours or until the dough fills up about 85% of the tin.  
-
-
-Glaze  
-
-½ Tbsp maple syrup  
-1 Tbsp water  
-
-Divide it into 4 even pieces and roll each one into a ball. (Use 4 pieces for a loaf as pictured, with 4 'humps', or 3 for a loaf with 3 'humps'). Line an approx 11\.5 x 21\.5 cm / 4\.5 x 8\.5 inch loaf tin with baking parchment.  
-Roll each ball out into a long oval, fold one third of the oval over the middle (from the side, not the top), then the other third over the top to form a long, narrow packet.  
-Roll over the seam to flatten it, then roll it up tightly from one end to make a fat sausage. Repeat with the other balls of dough then arrange them in the loaf tin, seam side down.  
-Loosely cover and leave to rise until at least doubled in size, it should rise above the top of the tin. This can take 1\-2\.5 hours (mine took 1 ½). If you press the dough gently with a finger the indentation should spring back slowly but remain visible. If it springs back quickly it needs to prove for a little longer.
-
-
-While the dough is rising, preheat the oven to 180°C. Mix together the maple syrup and water in a small bowl.  
-Once the loaf has risen, gently brush the top with the maple syrup mixture, making sure that none drips down the sides as that can make the bread stick to the tin. If you don't want a sweet glaze then you can brush it with milk or aquafaba instead.  
-Place the loaf in the preheated oven and bake for 30\-50 minutes, until a probe thermometer reaches 94°C/201°F when poked into the middle of the loaf. You may need to cover the top loosely with tin foil part way through baking if it starts to colour too much.  
-If you want the loaf to have a shinier crust, brush it with some more of the maple syrup water halfway through baking.  
-Once the bread is baked, remove it from the oven and brush with some more of the glaze. Let it cool in the tin for 10 minutes then lift it out onto a wire rack to cool completely before slicing. Store in an airtight container.  
-
-Cover the surface with aluminum foil if it browns too quickly—the internal temperature when finished: 200°F/95°C.  
-Take the bread out of the bread tin and brush the surface with melted butter (optional). Transfer to a wire rack and cool completely before slicing.  
-
-
-sources:
-
-<https://breadbyelise.com/sourdough-milk-bread>
-
-<https://domesticgothess.com/blog/2019/07/09/vegan-hokkaido-milk-bread/>
+- 40 g white sourdough starter
+- 40 g whole milk cold
+- 40 g bread flour
+- 10 g sugar
+- 30 g bread flour
+- 150 ml unsweetened soy milk
+- 380 g white bread flour
+- 1 tsp salt
+- 20 g sugar
+- 50 g whole milk cold
+- 70 g eggs
+- 40 g vegan block butter softened
+- ½ Tbsp maple syrup
+- 1 Tbsp water
 
 ## Instructions
+
+1. Mix active sourdough starter, flour, sugar, and cold milk in a bowl, cover and rise in a warm spot for 4 hours until the levain is active but not overly sour and liquid.
+2. Whisk together the bread flour and soy milk in a pan until no lumps remain, then place over medium/low heat and whisk constantly until thickened to a pudding-like consistency, scrape into a bowl, cover with baking parchment, and set aside to cool to room temperature.
+3. Add all ingredients except salt and butter to a stand mixer fitted with a dough hook and mix until the dough comes together, then cover and autolyse for 30 minutes.
+4. Add salt and knead at medium speed for 10 minutes until the dough is tacky but not sticking to the fingers.
+5. Slowly add cubed softened butter and continue kneading at medium speed for 15-25 minutes until the dough passes the windowpane test.
+6. Transfer the dough to your work surface and divide into four equal pieces, roll into seamless rounds, cover, and rest for 10 minutes.
+7. Roll each round into an oval shape about 8 inches long, grab one short side and roll it up like a roulade, repeat on all four pieces, cover and rest for 10 minutes.
+8. With the seam side up, flatten each dough piece into long ovals with a rolling pin, shape into roulades again, and transfer to a greased 10-inch bread pan.
+9. Cover the bread pan and proof in a warm spot at 25°C for 8-12 hours until the dough fills about 85% of the tin.
+10. Divide the dough into 4 even pieces and roll each into a ball, then line an 11.5 x 21.5 cm loaf tin with baking parchment.
+11. Roll each ball into a long oval, fold one third over the middle, then the other third over the top to form a packet, roll over the seam to flatten, then roll up tightly from one end to make a fat sausage and arrange in the tin seam side down.
+12. Loosely cover and leave to rise until at least doubled in size, taking 1-2.5 hours, until pressing the dough gently leaves an indentation that springs back slowly but remains visible.
+13. Preheat the oven to 180°C and mix together the maple syrup and water in a small bowl.
+14. Gently brush the top of the risen loaf with the maple syrup mixture, ensuring none drips down the sides.
+15. Place the loaf in the preheated oven and bake for 30-50 minutes until a probe thermometer reaches 94°C when poked into the middle, covering the top loosely with foil if it browns too quickly.
+16. Brush the baked bread with more of the glaze, let it cool in the tin for 10 minutes, then lift it onto a wire rack to cool completely before slicing and store in an airtight container.

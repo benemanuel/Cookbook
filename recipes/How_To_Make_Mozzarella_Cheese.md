@@ -1,23 +1,25 @@
 ---
-subject: "How To Make Mozzarella Cheese"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "\"benemanuel.family@gmail.com\" <benemanuel.family@gmail.com>"
-date: "Sat, 23 Dec 2017 18:43:50 +0000"
-date_parsed: 2017-12-23T18:43:50+00:00
-labels: [dairy]
+schema_version: 1
+title: How To Make Mozzarella Cheese
+url: https://youtu.be/Est1M9WyDu8
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients: null
+steps: null
 ---
 
-# Fwd: How To Make Mozzarella Cheese
+# How To Make Mozzarella Cheese
+
+*Source: YouTube*
 
 ## Ingredients
 
+Not available in provided text.
+
 ## Instructions
 
-\-\-\-\-\-\-\-\-\-\- Forwarded message \-\-\-\-\-\-\-\-\-  
-From: Avi Benemanuel \<\>  
-Date: Sat, Dec 23, 2017 at 8:10 PM  
-Subject: How To Make Mozzarella Cheese  
-To: Avraham Ben Emanuel \<\>  
-
-
-<https://youtu.be/Est1M9WyDu8>
+Not available in provided text.

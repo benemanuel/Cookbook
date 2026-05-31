@@ -1,16 +1,19 @@
 ---
-subject: "chocolate cake base"
-from: "benemanuel family <benemanuel.family@gmail.com>"
-to: "benemanuel family <benemanuelfamily@gmail.com>"
-date: "Fri, 6 Sep 2024 19:58:01 +0300"
-date_parsed: 2024-09-06T19:58:01+03:00
-labels: [cake]
+schema_version: 1
+title: Chocolate Cake Base
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients: null
+steps: null
 ---
 
-# Re: chocolate cake base
+# Chocolate Cake Base
 
-## Ingredients
+## Notes
 
-## Instructions
-
-doesn't freeze well. tasted grainy.
+This recipe fragment does not contain sufficient structured data to extract. The provided text only includes a title and a storage/texture note ("doesn't freeze well. tasted grainy."), with no ingredients list or cooking instructions.

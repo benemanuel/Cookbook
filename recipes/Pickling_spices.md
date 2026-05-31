@@ -1,36 +1,42 @@
 ---
-subject: "Pickling spices"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Fri, 8 Oct 2021 09:49:15 +0300"
-date_parsed: 2021-10-08T09:49:15+03:00
-labels: []
+schema_version: 1
+title: Pickling Spices
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 1 tablespoon whole allspice berries
+  - 1 tablespoon whole mustard seeds (brown or yellow)
+  - 1 tablespoon coriander seeds
+  - 1 tablespoon red pepper flakes
+  - 1 tablespoon whole black peppercorns
+  - 2 teaspoons whole cloves
+  - 9 whole cardamom pods
+  - 6 large bay leaves, crumbled
+  - 2 teaspoons ground ginger
+  - 1/2 stick cinnamon
+steps: null
 ---
 
-# Pickling spices
+# Pickling Spices
 
 ## Ingredients
 
+- 1 tablespoon whole allspice berries
+- 1 tablespoon whole mustard seeds (brown or yellow)
+- 1 tablespoon coriander seeds
+- 1 tablespoon red pepper flakes
+- 1 tablespoon whole black peppercorns
+- 2 teaspoons whole cloves
+- 9 whole cardamom pods
+- 6 large bay leaves, crumbled
+- 2 teaspoons ground ginger
+- 1/2 stick cinnamon
+
 ## Instructions
 
-Pickling spices:
-
-1 tablespoon whole allspice berries
-
-1 tablespoon whole mustard seeds (brown or yellow)
-
-1 tablespoon coriander seeds
-
-1 tablespoon red pepper flakes
-
-1 tablespoon whole black peppercorns
-
-2 teaspoons whole cloves
-
-9 whole cardamom pods
-
-6 large bay leaves, crumbled
-
-2 teaspoons ground ginger
-
-1/2 stick cinnamon
+Mix all spices together and use for pickling vegetables or other foods.

@@ -1,64 +1,73 @@
 ---
-subject: "Jacques Torres Chocolate Chip Cookies"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Wed, 7 Sep 2022 09:03:55 +0300"
-date_parsed: 2022-09-07T09:03:55+03:00
-labels: [dairy, bread, cake]
+schema_version: 1
+title: Jacques Torres Chocolate Chip Cookies
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: 20
+imported_at: 2026-05-31
+ingredients:
+  - 2 cups (240g) cake flour
+  - 2 cups (240g) bread flour
+  - 1 1/2 teaspoons baking powder
+  - 1 1/4 teaspoons baking soda
+  - 1 1/2 teaspoons salt
+  - 1 1/4 cups (282g) unsalted butter, softened
+  - 1 1/4 cups plus 3 tablespoons (284g) firmly packed light brown sugar
+  - 1 cup plus 2 tablespoons (227g) granulated sugar
+  - 2 large eggs
+  - 2 teaspoons vanilla extract
+  - 1 1/4 pounds (567g) bittersweet chocolate discs (about 60% cacao)
+  - Sea salt
+steps:
+  - Thoroughly whisk together or sift the cake flour, bread flour, baking powder, baking soda, and salt, then set aside.
+  - Using a mixer with the paddle attachment, beat the butter, brown sugar, and sugar until light and fluffy, about 5 minutes.
+  - Add the eggs one at a time, mixing well after each addition.
+  - Mix in the vanilla.
+  - Reduce mixer speed to low and add the flour mixture, mixing just until combined, about 10 seconds.
+  - Stir in the chocolate discs, trying not to break them.
+  - Cover the dough with plastic wrap, pressing the plastic directly against the dough, and chill for 24 to 72 hours.
+  - Preheat oven to 350°F and line baking sheets with parchment paper or silicone liner.
+  - Divide the dough into 3 1/2 ounce (99g) portions using a #14 or #16 scoop to get about 1/4 cup of dough and adjusting with your scale as needed.
+  - Place the mounds of dough on the prepared pans, spacing about 6 cookies per pan or 4 at a time for more spreading room.
+  - Sprinkle the top of each cookie with a pinch of sea salt.
+  - Bake for 18 to 20 minutes, or until golden brown but still soft.
+  - Cool the cookies on the pans on a wire rack for 10 minutes.
+  - Transfer the cookies to a rack to cool completely.
 ---
 
 # Jacques Torres Chocolate Chip Cookies
 
-Yield 18 large cookies  
-
-Prep Time 30 minutes
-
-Cook Time 20 minutes
-
-Additional Time 3 days
-
-Total Time 3 days 50 minutes
-
 ## Ingredients
 
-2 cups (240g) cake flour
-
-2 cups (240g) bread flour
-
-1 \& 1/2 teaspoons baking powder
-
-1 \& 1/4 teaspoons baking soda
-
-1 \& 1/2 teaspoons salt
-
-1 \& 1/4 cups (282g) unsalted butter, softened
-
-1 \& 1/4 cups \+ 3 tablespoons (284g) firmly packed light brown sugar
-
-1 cup \+ 2 tablespoons (227g) granulated sugar
-
-2 large eggs
-
-2 teaspoons vanilla extract
-
-1 \& 1/4 pounds (567g) bittersweet chocolate discs (about 60% cacao)
-
-sea salt
+- 2 cups (240g) cake flour
+- 2 cups (240g) bread flour
+- 1 1/2 teaspoons baking powder
+- 1 1/4 teaspoons baking soda
+- 1 1/2 teaspoons salt
+- 1 1/4 cups (282g) unsalted butter, softened
+- 1 1/4 cups plus 3 tablespoons (284g) firmly packed light brown sugar
+- 1 cup plus 2 tablespoons (227g) granulated sugar
+- 2 large eggs
+- 2 teaspoons vanilla extract
+- 1 1/4 pounds (567g) bittersweet chocolate discs (about 60% cacao)
+- Sea salt
 
 ## Instructions
 
-Thoroughly whisk together (or sift) the cake flour, bread flour, baking powder, baking soda, and salt. Set aside.
-
-Using a mixer with the paddle attachment, beat the butter, brown sugar, and sugar until light and fluffy (about 5 minutes). Add the eggs, one at a time, mixing well after each addition. Mix in the vanilla.
-
-Reduce mixer speed to low. Add the flour mixture, mixing just until combined (about 10 seconds). Stir in the chocolate discs, trying not to break them.
-
-Cover the dough with plastic wrap, pressing the plastic directly against the dough. Chill for 24 to 72 hours.
-
-Preheat oven to 350°F. Line baking sheets with parchment paper or silicone liner.
-
-Divide the dough into 3 \& 1/2 ounce (99g) portions. (Use a \#14 or \#16 scoop to get about 1/4 cup of dough and use your scale to adjust.) Place the mounds of dough on the prepared pans. (You can get about 6 cookies on a pan, but I often just bake 4 at a time to give them a little more space to spread.) Sprinkle the top of each cookie with a pinch of sea salt.
-
-Bake 18 to 20 minutes, or until golden brown but still soft.
-
-Cool on the pans on a wire rack for 10 minutes. Then transfer the cookies to a rack to cool completely.
+1. Thoroughly whisk together or sift the cake flour, bread flour, baking powder, baking soda, and salt, then set aside.
+2. Using a mixer with the paddle attachment, beat the butter, brown sugar, and sugar until light and fluffy, about 5 minutes.
+3. Add the eggs one at a time, mixing well after each addition.
+4. Mix in the vanilla.
+5. Reduce mixer speed to low and add the flour mixture, mixing just until combined, about 10 seconds.
+6. Stir in the chocolate discs, trying not to break them.
+7. Cover the dough with plastic wrap, pressing the plastic directly against the dough, and chill for 24 to 72 hours.
+8. Preheat oven to 350°F and line baking sheets with parchment paper or silicone liner.
+9. Divide the dough into 3 1/2 ounce (99g) portions using a #14 or #16 scoop to get about 1/4 cup of dough and adjusting with your scale as needed.
+10. Place the mounds of dough on the prepared pans, spacing about 6 cookies per pan or 4 at a time for more spreading room.
+11. Sprinkle the top of each cookie with a pinch of sea salt.
+12. Bake for 18 to 20 minutes, or until golden brown but still soft.
+13. Cool the cookies on the pans on a wire rack for 10 minutes.
+14. Transfer the cookies to a rack to cool completely.

@@ -1,63 +1,97 @@
 ---
-subject: "Sourdough Cinnamon Rolls"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Tue, 29 Oct 2024 19:36:45 +0200"
-date_parsed: 2024-10-29T19:36:45+02:00
-labels: [dairy, bread, candy]
+schema_version: 1
+title: Sourdough Cinnamon Rolls
+url: https://www.kingarthurbaking.com/blog/2018/03/26/introduction-to-tangzhong
+source: kingarthurbaking.com
+image: null
+servings: 9
+prep_minutes: 120
+cook_minutes: 22
+imported_at: 2026-05-31
+ingredients:
+  - 40g starter, 100% hydration
+  - 56g water
+  - 72g bread or whole wheat flour
+  - 22.7g AP flour for tangzhong
+  - 113.4g milk for tangzhong
+  - 343g AP flour
+  - 35g sugar or honey
+  - 71.5g egg white
+  - 48g egg yolk
+  - 64g milk
+  - 5g salt
+  - 113.4g unsalted butter
+  - 42g granulated sugar
+  - 30g water
+  - 60g cream (coconut cream)
+  - 30g milk (soy milk)
+  - 9.5g unsalted butter (clarified butter)
+  - 1/2 tsp vanilla extract
+  - 1/4 tsp salt
+  - 60g toasted and chopped nuts (walnuts, pecans, or hazelnuts)
+steps:
+  - Make the tangzhong by cooking 5% of the total flour weight in 5x the amount of milk until it reaches 65°C on an instant read thermometer, then remove from heat and let cool to room temperature.
+  - Autolyse the tangzhong, flour, sugar or honey, and eggs for 30 minutes.
+  - Add the stiff starter and milk and rest for 30 minutes.
+  - Add salt and butter and knead for 5 to 10 minutes.
+  - Perform stretch and fold 3 times at 40 minute intervals.
+  - Rest for another 2 hours for a total bulk fermentation time of 4 hours.
+  - Place in the fridge for at least 2 hours, or overnight if possible.
+  - Shape and cut the dough into rolls.
+  - Allow a second rise of 3 to 4 hours.
+  - For the salted caramel sauce, combine sugar and water in a small saucepan and heat over high heat, stirring initially then leaving undisturbed.
+  - When caramelization begins, swirl the syrup around the pan for even coloring.
+  - When the caramel reaches a whiskey color at 170°C, reduce heat to low and carefully drizzle in the cream and milk mixture.
+  - Stir in the butter and simmer for another 3 minutes to thicken.
+  - Remove from heat, add vanilla extract and salt, and let cool to room temperature.
+  - Pour the salted caramel sauce into the baking pan and sprinkle with toasted nuts.
+  - Place the sliced rolls on top before the final rise.
+  - Bake at 175°C for 22 minutes.
 ---
 
 # Sourdough Cinnamon Rolls
 
+*Source: King Arthur Baking*
+
 ## Ingredients
+
+- 40g starter, 100% hydration
+- 56g water
+- 72g bread or whole wheat flour
+- 22.7g AP flour for tangzhong
+- 113.4g milk for tangzhong
+- 343g AP flour
+- 35g sugar or honey
+- 71.5g egg white
+- 48g egg yolk
+- 64g milk
+- 5g salt
+- 113.4g unsalted butter
+- 42g granulated sugar
+- 30g water
+- 60g cream (coconut cream)
+- 30g milk (soy milk)
+- 9.5g unsalted butter (clarified butter)
+- 1/2 tsp vanilla extract
+- 1/4 tsp salt
+- 60g toasted and chopped nuts (walnuts, pecans, or hazelnuts)
 
 ## Instructions
 
-Stiff Starter 82\.6% hydration  
-Starter, 100% hydration 40\.0 55\.6%  
-Water 56\.0 77\.8%  
-Bread or WW flour 72\.0 100\.0%  
-total 168\.0  
-
-TZ  
-AP flour \- TZ 22\.7  
-Milk \- TZ 113\.4  
-
-Final dough  
-Stiff Starter 168\.0  
-AP flour main 343\.0  
-Sugar/Honey 35\.0  
-Egg, white 71\.5  
-Egg, yolk 48\.0  
-Milk \- main 64\.0  
-Salt 5\.0  
-Unsalted butter 113\.4  
-Full Total 984\.1  
-
-<https://www.kingarthurbaking.com/blog/2018/03/26/introduction-to-tangzhong>  
-
-If you have your go\-to cinnamon roll recipe, you can incorporate tangzhong as follows. Take 5% of the total flour weight and cook in 5x the amount of milk (e.g. if the recipe has 500g flour, cook 25g flour in 125g milk). Once the flour gels (65C on an instant read thermometer), immediately remove from heat; do not overcook to avoid excess moisture loss. Let it cool to room temp before proceeding with the rest of the recipe. You may need to add a bit more milk when mixing the dough. To be specific, enriched dough without tangzhong is \~64\-65% hydration, with tangzhong is \~75%.  
-
-My process is autolyse tangzhong, flour, sugar/honey and eggs for 30 minutes. Add Stiff Starter and milk, rest 30 minutes. Add salt and butter and knead about 5\-10 minutes. Stretch and fold 3 times at 40 minute intervals. Rest another 2 hours (total bulk ferment time 4 hours). Place in fridge at least 2 hours, overnight is best. Shape and cut. Second rise 3\-4 hours. Bake at 175C for 22 minute  
-
-basic salted caramel sauce, which you pour into the baking pan, sprinkle toasted nuts, then place the sliced rolls on top before the final rise.  
-
-Salted Caramel Sauce (makes enough for 9 buns)  
-
-42g granulated sugar  
-
-30g water  
-
-60g cream (i used coconut cream)  
-
-30g milk (i used soy milk)  
-
-9\.5g unsalted butter (i used clarified butter)  
-
-1/2 tsp vanilla extract  
-
-1/4 tsp salt  
-
-60g nuts (walnuts, pecans, or hazelnuts), toasted and chopped  
-
-Combine sugar and water in a small saucepan. In a separate bowl, mix cream and milk and set aside. Heat sugar over high heat, stirring initially to dissolve then leaving it undisturbed. When you see the first signs of caramelisation (about 10 minutes later), carefully swirl the syrup around in pan so it colours evenly. When it becomes whiskey\-coloured (170C on a candy thermometer), reduce the heat to low and carefully drizzle in the cream and milk mixture. Stir, add the butter, then simmer another 3 minutes to thicken. Remove from heat, add vanilla extract and salt. Let caramel cool in the saucepan until room temperature and ready to use.
+1. Make the tangzhong by cooking 5% of the total flour weight in 5x the amount of milk until it reaches 65°C on an instant read thermometer, then remove from heat and let cool to room temperature.
+2. Autolyse the tangzhong, flour, sugar or honey, and eggs for 30 minutes.
+3. Add the stiff starter and milk and rest for 30 minutes.
+4. Add salt and butter and knead for 5 to 10 minutes.
+5. Perform stretch and fold 3 times at 40 minute intervals.
+6. Rest for another 2 hours for a total bulk fermentation time of 4 hours.
+7. Place in the fridge for at least 2 hours, or overnight if possible.
+8. Shape and cut the dough into rolls.
+9. Allow a second rise of 3 to 4 hours.
+10. For the salted caramel sauce, combine sugar and water in a small saucepan and heat over high heat, stirring initially then leaving undisturbed.
+11. When caramelization begins, swirl the syrup around the pan for even coloring.
+12. When the caramel reaches a whiskey color at 170°C, reduce heat to low and carefully drizzle in the cream and milk mixture.
+13. Stir in the butter and simmer for another 3 minutes to thicken.
+14. Remove from heat, add vanilla extract and salt, and let cool to room temperature.
+15. Pour the salted caramel sauce into the baking pan and sprinkle with toasted nuts.
+16. Place the sliced rolls on top before the final rise.
+17. Bake at 175°C for 22 minutes.

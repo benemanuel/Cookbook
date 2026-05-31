@@ -1,67 +1,55 @@
 ---
-subject: "mousse"
-from: "benemanuel family <benemanuel.family@gmail.com>"
-to: "benemanuel family <benemanuel.family@gmail.com>"
-date: "Thu, 29 Aug 2024 15:07:22 +0300"
-date_parsed: 2024-08-29T15:07:22+03:00
-labels: [dairy]
+schema_version: 1
+title: Chocolate Mousse
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 5 egg yolks
+  - 5 eggs
+  - 3 oz sugar
+  - 18 oz dark chocolate
+  - 0.5 oz gelatin powder
+  - 1 qt heavy cream
+  - Optional alcohol
+steps:
+  - Whip cream to soft peaks.
+  - Heat eggs, sugar, and egg yolks over a double boiler.
+  - Strain the eggs and whip until combined.
+  - Bloom the gelatin.
+  - Melt the chocolate.
+  - Melt the gelatin.
+  - Mix the gelatin into the egg mixture.
+  - Mix the chocolate into the egg and gelatin mixture.
+  - Fold the cream into the overall mixture.
+  - Add alcohol if desired and mix to combine.
 ---
 
-# mousse
+# Chocolate Mousse
 
 ## Ingredients
 
+- 5 egg yolks
+- 5 eggs
+- 3 oz sugar
+- 18 oz dark chocolate
+- 0.5 oz gelatin powder
+- 1 qt heavy cream
+- Optional alcohol
+
 ## Instructions
 
-The difference in the end is the flavor, texture and overall feel of the mousse. I've honestly never made a chocolate mousse that only has egg whites in it. If I remember correctly fruit mousse uses egg whites as it's lightener.
-
-
-I have too many chocolate mousse recipes to name but a perfect one that is normally used for specialty cake layers is as follows. If you use white chocolate, the gelatin needs to be increased as white chocolate isn't as stable.
-
-
-5 Yolks
-
-
-5 Eggs
-
-
-3 oz Sugar
-
-
-18 oz Chocolate (Dark)
-
-
-.5 oz gelatin (powder)
-
- 
-
-1 qt Heavy Cream
-
-
-Optional Alcohol
-
-
-Process:
-
-• Whip cream to soft peaks
-
-• Heat eggs, sugar \& yolk over double boiler
-
-• Strain eggs \& whip
-
-• Bloom gelatin
-
-• Melt chocolate
-
-• Melt gelatin
-
-• Mix gelatin into egg mixture
-
-• Mix chocolate into egg and gelatin
-
-• Fold cream into overall mixture
-
-• Add alcohol if desired
-
-
-This recipe has without a doubt been the easiest chocolate mousse that is rich in flavor and texture. The gelatin gives it a nice hold without making it gummy and as long as it's kept chilled will hold solid for a long while.
+1. Whip cream to soft peaks.
+2. Heat eggs, sugar, and egg yolks over a double boiler.
+3. Strain the eggs and whip until combined.
+4. Bloom the gelatin.
+5. Melt the chocolate.
+6. Melt the gelatin.
+7. Mix the gelatin into the egg mixture.
+8. Mix the chocolate into the egg and gelatin mixture.
+9. Fold the cream into the overall mixture.
+10. Add alcohol if desired and mix to combine.

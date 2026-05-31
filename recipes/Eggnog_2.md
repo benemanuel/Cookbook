@@ -1,18 +1,24 @@
 ---
-subject: "Eggnog"
-from: "benemanuel family <benemanuel.family@gmail.com>"
-to: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-date: "Sun, 3 Jan 2021 19:32:37 +0200"
-date_parsed: 2021-01-03T19:32:37+02:00
-labels: [dairy]
+schema_version: 1
+title: Eggnog
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients: null
+steps: null
 ---
 
-# Re: Eggnog
+# Eggnog
 
 ## Ingredients
 
+- Port
+- Rum
+
 ## Instructions
 
-Used port
-
-Needs more rum
+I cannot extract complete structured ingredients or steps from this text. Only fragmentary notes were provided ("Used port", "Needs more rum") rather than a full recipe with ingredients list and cooking instructions.

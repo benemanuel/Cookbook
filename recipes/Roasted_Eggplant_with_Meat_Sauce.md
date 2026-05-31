@@ -1,20 +1,23 @@
 ---
-subject: "Roasted Eggplant with Meat Sauce"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Fri, 23 Aug 2019 12:46:25 +0300"
-date_parsed: 2019-08-23T12:46:25+03:00
-labels: [meat]
+schema_version: 1
+title: Roasted Eggplant with Meat Sauce
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients: null
+steps: null
 ---
 
 # Roasted Eggplant with Meat Sauce
 
 ## Ingredients
 
+No ingredient information provided in source text.
+
 ## Instructions
 
-Link: <[link]  
-
-
-\-\-  
-Shared via Shareaholic
+No instruction information provided in source text.

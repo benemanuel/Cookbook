@@ -1,54 +1,48 @@
 ---
-subject: "Jam cake"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Mon, 22 Jan 2024 13:45:40 +0200"
-date_parsed: 2024-01-22T13:45:40+02:00
-labels: [dairy, cake]
+schema_version: 1
+title: Jam Cake
+url: https://m.youtube.com/watch?v=IVqsYN9tqaU
+source: youtube.com
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 500 g flour
+  - 200 g sugar
+  - 200 g butter
+  - 150 g sour cream
+  - 150 g ground walnut
+  - 10 g baking powder
+  - 1 jar raspberry jam (350 g)
+  - 1 tablespoon vanilla extract
+  - 1 egg yolk
+  - 1 egg
+  - Lemon peel
+  - Salt to taste
+steps: null
 ---
 
-# Jam cake
+# Jam Cake
+
+*Source: youtube.com*
 
 ## Ingredients
 
-- [ ] ▢
-
-500  g  flour
-- [ ] ▢
-
-200  g  of sugar
-- [ ] ▢
-
-200  g  of butter
-- [ ] ▢
-
-150  g  sour cream
-- [ ] ▢
-
-150  g  ground walnut
-- [ ] ▢
-
-10  g  of baking powder
-- [ ] ▢
-
-1  jar  of raspberry jam  (350g)
-- [ ] ▢
-
-1  tablespoon  of vanilla extract
-- [ ] ▢
-
-1  yolk
-- [ ] ▢
-
-1  egg
-- [ ] ▢
-
-the peel of a lemon
-- [ ] ▢
-
-a little  salt
-
-
-<https://m.youtube.com/watch?v=IVqsYN9tqaU>
+- 500 g flour
+- 200 g sugar
+- 200 g butter
+- 150 g sour cream
+- 150 g ground walnut
+- 10 g baking powder
+- 1 jar raspberry jam (350 g)
+- 1 tablespoon vanilla extract
+- 1 egg yolk
+- 1 egg
+- Lemon peel
+- Salt to taste
 
 ## Instructions
+
+No instructions provided in source text.

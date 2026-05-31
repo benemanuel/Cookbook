@@ -1,98 +1,69 @@
 ---
-subject: "chili peanut Brownies"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Mon, 23 Mar 2020 20:01:23 +0200"
-date_parsed: 2020-03-23T20:01:23+02:00
-labels: [dairy, cake]
+schema_version: 1
+title: Chilli Peanut Brownies
+url: http://www.mobkitchen.co.uk/recipes/chilli-peanut-brownies
+source: mobkitchen.co.uk
+image: null
+servings: 12
+prep_minutes: null
+cook_minutes: 25
+imported_at: 2026-05-31
+ingredients:
+  - 5 eggs
+  - 350g dark chocolate (70%)
+  - 300g unsalted butter
+  - 400g caster sugar
+  - 215g self rising flour
+  - 90g cocoa powder
+  - 3.5 tablespoons dried chilli flakes
+  - 100g roasted peanuts (salted or roasted)
+  - Salt
+  - 1 lime (to serve)
+  - 1 teaspoon chilli flakes (to serve)
+  - 1 teaspoon salt (to serve)
+steps:
+  - Preheat the oven to 185°C/365°F.
+  - Whisk all the eggs in a large mixing bowl and break in the dark chocolate, then set aside.
+  - On medium heat, melt all the butter in a large saucepan, watching closely to ensure it doesn't brown, then add the caster sugar and stir frequently until you have a thick, golden consistency.
+  - Remove the butter mixture from the heat and pour it into the egg and chocolate mix, stirring consistently until the chocolate has melted and you have a rich batter.
+  - Sieve in the flour and cocoa powder and mix until you get a smooth texture.
+  - Add the chilli flakes and peanuts and give it a final stir.
+  - Line your baking tin with greaseproof paper by scrunching it up and flattening it across the tin.
+  - Pour the mixture in and bang the kitchen surface to bring air bubbles to the top, then use the back of a spoon to even out the brownie surface and sprinkle with salt.
+  - Bake for 25 minutes until the brownies develop a very thin crust with a slight wobble.
+  - Transfer the brownies to a cooling rack and leave to cool to room temperature, then chill in the fridge overnight or in the freezer for a couple of hours.
+  - Serve with a generous handful of lime zest, salt, and chilli flakes for the ultimate flavour kick.
 ---
 
-# chili peanut Brownies
+# Chilli Peanut Brownies
+
+*Source: mobkitchen.co.uk*
 
 ## Ingredients
 
+- 5 eggs
+- 350g dark chocolate (70%)
+- 300g unsalted butter
+- 400g caster sugar
+- 215g self rising flour
+- 90g cocoa powder
+- 3.5 tablespoons dried chilli flakes
+- 100g roasted peanuts (salted or roasted)
+- Salt
+- 1 lime (to serve)
+- 1 teaspoon chilli flakes (to serve)
+- 1 teaspoon salt (to serve)
+
 ## Instructions
 
-The gooiest and zingyest brownies around.
-
-
-\#\# Cooking Time (Including Preparation Time): 45 Minutes and Chill Overnight
-
-
-\#\# Notes:
-
-
-The butter and sugar mixture must be hot enough to melt the chocolate, don’t take off the heat too early but make sure this does not burn.
-
-
-\#\# Feeds: 12 People
-
-
-\#\# Ingredients:
-
-
-\* 5 Eggs
-
-\* 350g Dark Chocolate (we use 70%)
-
-\* 300g Unsalted Butter
-
-\* 400g Caster Sugar
-
-\* 215g Self Rising Flour
-
-\* 90g Cocoa Powder
-
-\* 3 1/2 Tbsp Dried Chilli Flakes (if you’re feeling brave go for that extra spoonful)
-
-\* 100g Roasted Peanuts (salted or roast)
-
-\* Salt
-
-
-\*\*To Serve:\*\*
-
-
-\* 1 Lime
-
-\* 1 Tsp Chilli Flakes
-
-\* 1 Tsp Salt
-
-
-\#\# Method:
-
-
-1\. Preheat the oven to 185°C/365°F.
-
-2\. Whisk all the eggs in your biggest mixing bowl and break in the dark chocolate, put to the side.
-
-3\. On a medium heat, melt all the butter in a large saucepan (watch closely to make sure the butter doesn’t start to brown). Once the butter is melted add the caster sugar, stirring frequently so the sugar doesn’t stick to the pan. Remove from the heat when you have a nice, thick, golden consistency.
-
-4\. Then, pour the butter into the egg and chocolate mix. Stir consistently until the chocolate has melted and you have a deliciously rich batter.
-
-5\. Next, sieve in your flour and cocoa powder, and mix until you get a smooth texture.
-
-6\. Then add your chilli flakes and peanuts and give it a final stir.
-
-7\. Now, time to line your baking tin (our tin dimensions were 28 x 18 x 18cm). Take your greaseproof paper and scrunch it up then flatten it out across your tin.
-
-8\. Pour your mixture in and bang on the kitchen surface to bring any air bubbles to the top. Then, using the back of a spoon even out the brownie surface and sprinkle with salt.
-
-9\. Bake for 25 mins until the brownies develop a very thin crust (the mixture will still have a slight wobble to it).
-
-10\. Transfer the brownies onto a cooling rack and leave to reduce to room temperature and begin to solidify. Chill in the fridge overnight or whack in the freezer for a couple of hours.
-
-11\. Once your brownies have chilled you’re ready to serve. We recommend serving with a generous handful of lime zest, salt and chilli flakes for the ultimate flavour kick. Then, tuck in!
-
-
-\*\*Facebook:\*\* \[<https://www.facebook.com/mobkitchen/](https://www.facebook.com/mobkitchen/)>
-
-
-\*\*Instagram:\*\* \[<https://www.instagram.com/mobkitchenuk/](https://www.instagram.com/mobkitchenuk/)>
-
-
-\*\*Youtube:\*\* \[<https://www.youtube.com/channel/UCZh\_x46-uGGM7PN4Nrq1-bQ](https://www.youtube.com/channel/UCZh_x46-uGGM7PN4Nrq1-bQ)>
-
-
-\*\*Full Recipe:\*\* \[<http://www.mobkitchen.co.uk/recipes/chilli-peanut-brownies](http://www.mobkitchen.co.uk/recipes/chilli-peanut-brownies)>
+1. Preheat the oven to 185°C/365°F.
+2. Whisk all the eggs in a large mixing bowl and break in the dark chocolate, then set aside.
+3. On medium heat, melt all the butter in a large saucepan, watching closely to ensure it doesn't brown, then add the caster sugar and stir frequently until you have a thick, golden consistency.
+4. Remove the butter mixture from the heat and pour it into the egg and chocolate mix, stirring consistently until the chocolate has melted and you have a rich batter.
+5. Sieve in the flour and cocoa powder and mix until you get a smooth texture.
+6. Add the chilli flakes and peanuts and give it a final stir.
+7. Line your baking tin with greaseproof paper by scrunching it up and flattening it across the tin.
+8. Pour the mixture in and bang the kitchen surface to bring air bubbles to the top, then use the back of a spoon to even out the brownie surface and sprinkle with salt.
+9. Bake for 25 minutes until the brownies develop a very thin crust with a slight wobble.
+10. Transfer the brownies to a cooling rack and leave to cool to room temperature, then chill in the fridge overnight or in the freezer for a couple of hours.
+11. Serve with a generous handful of lime zest, salt, and chilli flakes for the ultimate flavour kick.

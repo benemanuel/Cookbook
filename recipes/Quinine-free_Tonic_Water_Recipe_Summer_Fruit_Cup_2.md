@@ -1,20 +1,27 @@
 ---
-subject: "Quinine-free Tonic Water Recipe | Summer Fruit Cup"
-from: "benemanuel family <benemanuel.family@gmail.com>"
-to: "benemanuel family <benemanuel.family@gmail.com>"
-date: "Mon, 30 Sep 2024 19:33:28 +0300"
-date_parsed: 2024-09-30T19:33:28+03:00
-labels: []
+schema_version: 1
+title: Quinine-free Tonic Water Recipe
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 5 tablespoons sugar
+  - 1/4 cup ginger wart
+steps:
+  - Add sugar and ginger wart into a 750cc bottle.
 ---
 
-# Re: Quinine-free Tonic Water Recipe | Summer Fruit Cup
+# Quinine-free Tonic Water Recipe
 
 ## Ingredients
 
+- 5 tablespoons sugar
+- 1/4 cup ginger wart
+
 ## Instructions
 
-5 tbs sugar
-
-1/4 cup ginger wart
-
-into 750cc bottle
+1. Add sugar and ginger wart into a 750cc bottle.

@@ -1,49 +1,53 @@
 ---
-subject: "Scotch Cookies"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Sun, 18 Aug 2019 20:57:42 +0300"
-date_parsed: 2019-08-18T20:57:42+03:00
-labels: [dairy, cake]
+schema_version: 1
+title: Scotch Cookies
+url: null
+source: Cushman's Bakery
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: 14
+imported_at: 2026-05-31
+ingredients:
+  - 1 1/2 cups sugar
+  - 1 cup butter
+  - 1/2 cup molasses
+  - 1 egg
+  - 3 1/2 cups flour
+  - 1 teaspoon salt
+  - 2 1/2 teaspoons baking soda
+  - 1 teaspoon cinnamon
+  - 1 teaspoon mace
+  - 1/4 cup milk
+steps:
+  - Cream sugar, shortening, molasses and egg together.
+  - Sift dry ingredients and beat in along with the milk.
+  - Drop by tablespoon onto greased sheets.
+  - Press down lightly with floured glass.
+  - Bake at 175°C for a maximum of 14 minutes, being careful not to overbake.
 ---
 
 # Scotch Cookies
 
+*Source: Cushman's Bakery*
+
 ## Ingredients
+
+- 1 1/2 cups sugar
+- 1 cup butter
+- 1/2 cup molasses
+- 1 egg
+- 3 1/2 cups flour
+- 1 teaspoon salt
+- 2 1/2 teaspoons baking soda
+- 1 teaspoon cinnamon
+- 1 teaspoon mace
+- 1/4 cup milk
 
 ## Instructions
 
-Cushman’s Bakery Scotch Cookies
-
-
-\- 1 1/2 cups sugar
-
-
-\- 1 cup butter
-
-
-\- 1/2 cup molasses
-
-
-\- 1 egg
-
-
-\- 3 1/2 cups flour
-
-
-\- 1 teaspoon salt
-
-
-\- 2 1/2 teaspoons baking soda
-
-
-\- 1 teaspoon cinnamon
-
-
-\- 1 teaspoon mace
-
-
-\- 1/4 cup milk
-
-
-Cream sugar, shortening, molasses and egg. Sift dry ingredients and beat in, along with the milk. Drop by tablespoon onto greased sheets. Press down lightly with floured glass. Bake 175c max 14 minutes, but do not over bake.
+1. Cream sugar, shortening, molasses and egg together.
+2. Sift dry ingredients and beat in along with the milk.
+3. Drop by tablespoon onto greased sheets.
+4. Press down lightly with floured glass.
+5. Bake at 175°C for a maximum of 14 minutes, being careful not to overbake.

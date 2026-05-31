@@ -1,57 +1,47 @@
 ---
-subject: "Vegan Bechamel Sauce"
-from: "Avi BenEmanuel <avi.wollman@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Fri, 14 Feb 2020 15:22:37 +0200"
-date_parsed: 2020-02-14T15:22:37+02:00
-labels: [dairy, bread]
+schema_version: 1
+title: Vegan Bechamel Sauce
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: 20
+imported_at: 2026-05-31
+ingredients:
+  - 3 heaped tbsp vegan butter
+  - 3 tbsp all-purpose flour
+  - 2 tbsp nutritional yeast
+  - 2 1/2 cups almond milk
+  - 1/2 tsp nutmeg, grated
+  - salt and pepper to taste
+steps:
+  - Melt the vegan butter on low heat in a medium-sized pot.
+  - Once melted, add the flour and stir until a ball or lumpy consistency appears.
+  - Add the nutritional yeast and stir well.
+  - Slowly add the almond milk while whisking aggressively over medium-high heat for about 20 minutes.
+  - Stir until all the milk is incorporated and a silky smooth sauce forms.
+  - Add the nutmeg and stir thoroughly.
+  - Season to taste with salt and pepper, then remove from heat and set aside.
 ---
 
 # Vegan Bechamel Sauce
 
-### How to make Vegan Bechamel Sauce
-
-
-
-* Author: Maria Koutsogiannis
-* ![](https://www.foodbymaria.com/wp-content/plugins/tasty-recipes/templates/designs/fresh/images/icon-clock-gray.png) Prep Time: 5 minutes
-* ![](https://www.foodbymaria.com/wp-content/plugins/tasty-recipes/templates/designs/fresh/images/icon-clock-gray.png) Cook Time: 20 minutes
-* ![](https://www.foodbymaria.com/wp-content/plugins/tasty-recipes/templates/designs/fresh/images/icon-clock-gray.png) Total Time: 25 minutes
-* ![](https://www.foodbymaria.com/wp-content/plugins/tasty-recipes/templates/designs/fresh/images/icon-cutlery-gray.png) Yield: 1 large serving
-* ![](https://www.foodbymaria.com/wp-content/plugins/tasty-recipes/templates/designs/fresh/images/icon-folder-gray.png) Category: Dips \& Spreads
-* ![](https://www.foodbymaria.com/wp-content/plugins/tasty-recipes/templates/designs/fresh/images/icon-flag-gray.png) Cuisine: Vegan
-
-[![](https://www.foodbymaria.com/wp-content/plugins/tasty-recipes/templates/designs/fresh/images/icon-print-gray.png)PRINT](https://www.foodbymaria.com/2020/01/20/how-to-make-vegan-bechamel-sauce/print/21765/)
-
-[![](https://www.foodbymaria.com/wp-content/plugins/tasty-recipes/templates/designs/fresh/images/icon-pinterest-gray.png)PIN](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.foodbymaria.com%2F2020%2F01%2F20%2Fhow-to-make-vegan-bechamel-sauce%2F)
-
----
-
-
-### DESCRIPTION
-
-This vegan bechamel sauce is dairy\-free, easy to make, and is not loaded with cheese. However, you won’t know the difference because it’s so damn good.
-
----
-
 ## Ingredients
 
-For the Bechamel:
-
-3 heaped tbsp. of vegan butter
-
-3 tbsp. all\-purpose flour
-
-2 tbsp. nutritional yeast
-
-2 1/2 cups almond milk
-
-season to taste
-
-1/2 tsp Mountain Rose Herbs Nutmeg, grated
-
----
+- 3 heaped tbsp vegan butter
+- 3 tbsp all-purpose flour
+- 2 tbsp nutritional yeast
+- 2 1/2 cups almond milk
+- 1/2 tsp nutmeg, grated
+- Salt and pepper to taste
 
 ## Instructions
 
-For the bechamel, melt your butter on low heat in a medium\-sized pot. Once melted, add your flour, stir till a ball or more lumpy consistency appears. Add your nutritional yeast and stir more. Now, slowly add your milk and whisk aggressively while cooking on medium\-high heat (the whole proces should take around 20 minutes). Stir till you’ve added all your milk and a more silky smooth sauce comes together. Add the nutmeg and stir even more! At the last minute season to taste, remove from heat and set aside.
+1. Melt the vegan butter on low heat in a medium-sized pot.
+2. Once melted, add the flour and stir until a ball or lumpy consistency appears.
+3. Add the nutritional yeast and stir well.
+4. Slowly add the almond milk while whisking aggressively over medium-high heat for about 20 minutes.
+5. Stir until all the milk is incorporated and a silky smooth sauce forms.
+6. Add the nutmeg and stir thoroughly.
+7. Season to taste with salt and pepper, then remove from heat and set aside.

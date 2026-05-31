@@ -1,59 +1,63 @@
 ---
-subject: "Mac pasta"
-from: "Avi Ben Emanuel <avi@jct.ac.il>"
-to: "benemanuel.family@gmail.com"
-date: "Mon, 27 Jul 2020 12:11:35 +0300"
-date_parsed: 2020-07-27T12:11:35+03:00
-attachments:
-  - filename: "c48e4e2.jpg"
-    type: "image/jpeg"
-    size: 12803787
-labels: [dairy, bread, candy]
+schema_version: 1
+title: Mac Pasta
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 1/4 cup olive oil
+  - 1 shallot
+  - 1 garlic clove
+  - 1/2 cup tomato paste
+  - 2 tablespoons vodka
+  - 1 cup heavy cream
+  - 1 teaspoon red pepper flakes
+  - Salt and pepper to taste
+  - 1 lb fusilli or linguini
+  - 2 tablespoons unsalted butter
+  - Parmesan cheese
+  - Fresh basil
+steps:
+  - Heat olive oil in a Dutch oven or cast iron pan.
+  - Add shallot and garlic and wait until softened.
+  - Add tomato paste and cook until it starts to caramelize.
+  - Add vodka and cook until all liquid has evaporated.
+  - Add heavy cream and stir until the sauce reaches an orange color, then turn off heat.
+  - Cook pasta for 3 minutes less than the package cooking time.
+  - Add cooked pasta to the sauce and stir so all pasta is evenly coated.
+  - Stir in butter and red pepper flakes.
+  - Serve with lots of chopped fresh basil.
 ---
 
-# Mac pasta
+# Mac Pasta
 
 ## Ingredients
 
+- 1/4 cup olive oil
+- 1 shallot
+- 1 garlic clove
+- 1/2 cup tomato paste
+- 2 tablespoons vodka
+- 1 cup heavy cream
+- 1 teaspoon red pepper flakes
+- Salt and pepper to taste
+- 1 lb fusilli or linguini
+- 2 tablespoons unsalted butter
+- Parmesan cheese
+- Fresh basil
+
 ## Instructions
 
-1/4 cup of olive oil
-
-
-shallot
-
-
-1 garlic clove
-
-
-1/2 cup of tomato paste
-
-
-2 tablespoons of vodka
-
-
-1 cup of heavy cream
-
-
-1 teaspoon red pepper flakes
-
-
-Pepper and Salt
-
-
-1lb of Fusilli or Linguini
-
-
-2 tablespoons of unsalted butter
-
-
-Lots of parm
-
-
-Freshest basil
-
-
-Heat olive oil to dutch oven or cast iron pan. Add shallot and garlic and wait until softened, add tomato paste until it starts to caramelize. Add vodka and cook until all liquid has evaporated. Add in heavy cream and stir until a orange color and shut off. Cook pasta for 3 minutes less than cooking time and add to the sauce, stirring so all pastas are evenly coated. Add in butter and red pepper flakes and serve with lots of chopped basil.
-
-
-Hint: Do all of the steps up to where you add the heavy cream and store in fridge or freeze. The next day or whenever you wanna cook it continue from that spot.
+1. Heat olive oil in a Dutch oven or cast iron pan.
+2. Add shallot and garlic and wait until softened.
+3. Add tomato paste and cook until it starts to caramelize.
+4. Add vodka and cook until all liquid has evaporated.
+5. Add heavy cream and stir until the sauce reaches an orange color, then turn off heat.
+6. Cook pasta for 3 minutes less than the package cooking time.
+7. Add cooked pasta to the sauce and stir so all pasta is evenly coated.
+8. Stir in butter and red pepper flakes.
+9. Serve with lots of chopped fresh basil.

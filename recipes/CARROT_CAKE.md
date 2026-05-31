@@ -1,50 +1,65 @@
 ---
-subject: "CARROT CAKE"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Sun, 13 Sep 2020 20:48:13 +0300"
-date_parsed: 2020-09-13T20:48:13+03:00
-labels: [dairy, cake]
+schema_version: 1
+title: Carrot Cake
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: 45
+imported_at: 2026-05-31
+ingredients:
+  - 2 cups sugar
+  - 1 1/2 cups oil
+  - 4 large eggs
+  - 2 cups flour
+  - 1 cup chopped walnuts
+  - 1 teaspoon salt
+  - 2 teaspoons cinnamon
+  - 3 cups grated carrots
+  - 2 teaspoons soda
+  - 8 oz package cream cheese
+  - 1 stick soft margarine
+  - 2 teaspoons vanilla
+  - Confectioners sugar
+steps:
+  - Mix eggs, sugar and oil together.
+  - Beat until creamy.
+  - Add flour, soda, salt and cinnamon.
+  - Mix well and add carrots and nuts.
+  - Pour into a 9 x 13 sheet pan.
+  - Bake for 45 minutes at 350 degrees.
+  - Beat cream cheese and margarine together.
+  - Add vanilla and gradually beat in confectioners sugar until sweet and creamy.
+  - Spread icing on cooled cake.
 ---
 
-# CARROT CAKE
+# Carrot Cake
 
 ## Ingredients
 
+- 2 cups sugar
+- 1 1/2 cups oil
+- 4 large eggs
+- 2 cups flour
+- 1 cup chopped walnuts
+- 1 teaspoon salt
+- 2 teaspoons cinnamon
+- 3 cups grated carrots
+- 2 teaspoons soda
+- 8 oz package cream cheese
+- 1 stick soft margarine
+- 2 teaspoons vanilla
+- Confectioners sugar
+
 ## Instructions
 
-\#CARROT CAKE
-
-
-2 CUPS SUGAR
-
-1 1/2 CUPS OIL
-
-4 LARGE EGGS
-
-2 CUPS FLOUR
-
-1 CUP CHOPPED WALNUTS
-
-1 TEASPOON SALT
-
-2 TEASPOONS CINNAMON
-
-3 CUPS GRATED CARROTS
-
-2 TEASPOONS SODA
-
-
-MIX EGGS, SUGAR AND OIL. BEAT UNTIL CREAMY. ADD FLOUR, SODA, SALT AND CINNAMON. MIX GOOD AND ADD CARROTS AND NUTS.
-
-
-BAKE IN 9 X 13 SHEET PAN FOR 45 MINUTES AT 350 DEGREES.
-
-
-\#ICING
-
-
-8 OZ PKG. CREAM CHEESE. ONE STICK SOFT MARGARINE
-
-
-2 TEASPOONS VANILLA. GRADUALLY BEAT IN CONFECTIONERS SUGAR UNTIL SWEET AND CREAMY. (ICES 2 CAKE
+1. Mix eggs, sugar and oil together.
+2. Beat until creamy.
+3. Add flour, soda, salt and cinnamon.
+4. Mix well and add carrots and nuts.
+5. Pour into a 9 x 13 sheet pan.
+6. Bake for 45 minutes at 350 degrees.
+7. Beat cream cheese and margarine together.
+8. Add vanilla and gradually beat in confectioners sugar until sweet and creamy.
+9. Spread icing on cooled cake.

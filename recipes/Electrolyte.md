@@ -1,152 +1,43 @@
 ---
-subject: "Electrolyte"
-from: "benemanuel family <benemanuel.family@gmail.com>"
-to: "benemanuel family <benemanuel.family@gmail.com>"
-date: "Tue, 24 Jun 2025 21:21:15 +0300"
-date_parsed: 2025-06-24T21:21:15+03:00
-labels: []
+schema_version: 1
+title: Shelf-Stable Banana Peel Switchel
+url: null
+source: null
+image: null
+servings: 6
+prep_minutes: 5
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - ¼ tsp banana peel flour
+  - ½ tsp ground ginger
+  - 30 ml raw apple cider vinegar
+  - 30 ml blackstrap molasses
+  - ¼ tsp sea salt or pink salt
+  - 15 ml bottled lemon juice
+  - 1.5 liters water
+steps:
+  - In a mug, combine ½ tsp ground ginger and 125 ml boiling water, stir and let steep for 2–3 minutes to release full flavor.
+  - In a large pitcher or bottle, combine ¼ tsp banana peel flour, 30 ml apple cider vinegar, 30 ml molasses, lemon juice, and salt.
+  - Add the strained ginger tea to the pitcher and pour in the remaining 1375 ml water, then stir or shake well.
+  - Refrigerate for 1–2 hours for best flavor, shake before serving, and pour over ice or add a splash of sparkling water for fizz.
 ---
 
-# Electrolyte
+# Shelf-Stable Banana Peel Switchel
 
 ## Ingredients
 
+- ¼ tsp banana peel flour
+- ½ tsp ground ginger
+- 30 ml raw apple cider vinegar
+- 30 ml blackstrap molasses
+- ¼ tsp sea salt or pink salt
+- 15 ml bottled lemon juice
+- 1.5 liters water
+
 ## Instructions
 
-🧃 Shelf\-Stable Banana Peel Switchel
-
-
-Yield: \~1\.5 liters (6 cups)
-
-Prep Time: 5 minutes
-
-Chill Time (optional): 1–2 hours
-
-Storage: Up to 1 week in the fridge
-
-
-\-\-\-
-
-
-🧾 Ingredients
-
-
-¼ tsp banana peel flour (potassium \+ magnesium)
-
-
-½ tsp ground ginger (anti\-inflammatory, digestive aid)
-
-
-30 ml raw apple cider vinegar (with “the mother”)
-
-
-30 ml blackstrap molasses
-
-
-1/4 tsp sea salt or pink salt (sodium \+ trace minerals)
-
-
-15 ml bottled lemon juice (or juice of ½ fresh lemon if available)
-
-
-1\.5 liters water, divided:
-
-
-125 ml boiling water
-
-
-1375 ml cool or room temp water
-
-
-\-\-\-
-
-
-🥄 Instructions
-
-
-1\. Make Ginger Base
-
-In a mug, combine:
-
-
-½ tsp ground ginger
-
-
-125 ml boiling water
-
-Stir and let steep for 2–3 minutes to release full flavor.
-
-(Optional: strain for a smoother drink.)
-
-
-2\. Mix Electrolyte Base
-
-In a large pitcher or bottle, combine:
-
-
-¼ tsp banana peel flour
-
-
-30 ml apple cider vinegar
-
-
-30 ml molasses or other sweetener
-
-
-Lemon juice
-
-
-Salt
-
-
-3\. Combine
-
-Add the strained ginger tea to the pitcher.
-
-Pour in the remaining 1375 ml water and stir or shake well.
-
-
-4\. Chill \& Serve
-
-Refrigerate for 1–2 hours for best flavor.
-
-Shake before serving. Pour over ice or add a splash of sparkling water for fizz.
-
-
-\-\-\-
-
-
-⚡ Benefits Snapshot (per 250 ml serving):
-
-
-Potassium: \~200–300 mg
-
-
-Magnesium: \~20–40 mg
-
-
-Sodium: \~200–400 mg
-
-
-Iron, B6, antioxidants: from molasses and banana peel
-
-
-Anti\-inflammatory action: ground ginger \+ ACV
-
-
-Digestive support: vinegar \+ lemon \+ ginger
-
-
-\-\-\-
-
-
-🧠 Bonus Tips:
-
-
-Make a dry mix version: pre\-mix the dry ingredients (banana peel flour, ground ginger, salt) in small jars and just add water, vinegar, and sweetener as needed.
-
-
-Sweetness too strong? Cut molasses to 15 ml or switch to stevia for a low\-carb version.
-
-
-Want more “zing”? Add ⅛ tsp cinnamon or a pinch of cayenne.
+1. In a mug, combine ½ tsp ground ginger and 125 ml boiling water, stir and let steep for 2–3 minutes to release full flavor.
+2. In a large pitcher or bottle, combine ¼ tsp banana peel flour, 30 ml apple cider vinegar, 30 ml molasses, lemon juice, and salt.
+3. Add the strained ginger tea to the pitcher and pour in the remaining 1375 ml water, then stir or shake well.
+4. Refrigerate for 1–2 hours for best flavor, shake before serving, and pour over ice or add a splash of sparkling water for fizz.

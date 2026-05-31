@@ -1,37 +1,44 @@
 ---
-subject: "ground beef jerky"
-from: "Avi BenEmanuel <avi.wollman@gmail.com>"
-to: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>, Family <benemanuel.family@gmail.com>"
-date: "Thu, 29 Feb 2024 08:33:19 +0200"
-date_parsed: 2024-02-29T08:33:19+02:00
-labels: [meat]
+schema_version: 1
+title: Ground Beef Jerky
+url: https://peopleschoicebeefjerky.com/blogs/news/ground-beef-jerky-recipe
+source: peopleschoicebeefjerky.com
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 1 kg lean ground beef (minimum 90/10)
+  - 2 tablespoons brown sugar
+  - 2 teaspoons salt
+  - 2 teaspoons ground black pepper
+  - 2 teaspoons garlic powder
+  - 2 teaspoons onion powder
+  - 1 teaspoon smoked paprika
+  - 0.5 teaspoon red pepper flakes (optional)
+  - 2 tablespoons soy sauce
+  - 0.5 tablespoon Worcestershire sauce
+steps: null
 ---
 
-# ground beef jerky
+# Ground Beef Jerky
+
+*Source: peopleschoicebeefjerky.com*
 
 ## Ingredients
 
+- 1 kg lean ground beef (minimum 90/10)
+- 2 tablespoons brown sugar
+- 2 teaspoons salt
+- 2 teaspoons ground black pepper
+- 2 teaspoons garlic powder
+- 2 teaspoons onion powder
+- 1 teaspoon smoked paprika
+- 0.5 teaspoon red pepper flakes (optional)
+- 2 tablespoons soy sauce
+- 0.5 tablespoon Worcestershire sauce
+
 ## Instructions
 
-<https://peopleschoicebeefjerky.com/blogs/news/ground-beef-jerky-recipe>  
-
-
-* 1 KG Lean Ground Beef (Minimum 90/10\)
-
-* 2 TBSP Brown Sugar
-
-* 2 TSP Salt
-
-* 2 TSP Ground Black Pepper
-
-* 2 TSP Garlic Powder
-
-* 2 TSP Onion Powder
-
-* 1 TSP Smoked Paprika
-
-* .5 TSP Red Pepper Flakes (Optional)
-
-* 2 TBSP Soy Sauce
-
-* ½ TBSP Worcestershire Sauce
+No instructions provided.

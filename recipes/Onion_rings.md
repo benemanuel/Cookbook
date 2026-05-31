@@ -1,73 +1,59 @@
 ---
-subject: "Onion rings"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Wed, 17 Nov 2021 21:29:25 +0200"
-date_parsed: 2021-11-17T21:29:25+02:00
-attachments:
-  - filename: "Screenshot_20211117-212539.jpg"
-    type: "image/jpeg"
-    size: 215381
-    local_path: "attachments\\2021-11-17_21-29-25_Onion_rings_1\\Screenshot_20211117-212539.jpg"
-  - filename: "Screenshot_20211117-212626.jpg"
-    type: "image/jpeg"
-    size: 321192
-    local_path: "attachments\\2021-11-17_21-29-25_Onion_rings_1\\Screenshot_20211117-212626.jpg"
-labels: [dairy, cake]
+schema_version: 1
+title: Onion Rings
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 4 large white onions
+  - 700 ml milk
+  - 2 eggs
+  - 1 tablespoon Dijon mustard
+  - 500 grams all-purpose flour
+  - 1 level tablespoon salt
+  - 1 tablespoon smoked paprika
+  - 1 tablespoon garlic powder
+  - 1 tablespoon baking powder
+  - Panko breadcrumbs
+  - Breadcrumbs
+  - Oil for frying (170°C)
+steps:
+  - Cut four large white onions into thick rings and carefully separate them so they don't break.
+  - In a large bowl, combine 500 grams flour, salt, smoked paprika, garlic powder, and baking powder and mix well.
+  - In a separate bowl, whisk together 700 ml milk, Dijon mustard, and 2 eggs.
+  - Add the flour mixture to the wet ingredients and mix thoroughly.
+  - Heat oil to 170°C.
+  - Dip each onion ring in plain flour, then dip in the batter, and then coat with panko breadcrumbs mixed with breadcrumbs.
+  - Fry the coated rings in hot oil for approximately 1 minute on each side until golden brown.
 ---
 
-# Onion rings
+# Onion Rings
 
 ## Ingredients
 
+- 4 large white onions
+- 700 ml milk
+- 2 eggs
+- 1 tablespoon Dijon mustard
+- 500 grams all-purpose flour
+- 1 level tablespoon salt
+- 1 tablespoon smoked paprika
+- 1 tablespoon garlic powder
+- 1 tablespoon baking powder
+- Panko breadcrumbs
+- Breadcrumbs
+- Oil for frying (170°C)
+
 ## Instructions
 
-מתכון:
-
-
-חותכים ארבעה בצלים לבנים גדולים לטבעות עבות. בעדינות מפרידים את הטבעות שלא ישברו.
-
-
-עכשיו קצת בלאגן אבל אין ברירה אם רוצים שיצא מוסיפים את החלב והביצים לאט לאט לתערובת של טעים לבלילה אל קערה גדולה מוסיפים
-
-
-500 גרם קמח רגיל
-
-
-כף שטוחה של מלח כף פפריקה מעושנת
-
-
-כף אבקת שום
-
-
-כף אבקת אפייה.
-
-
-מערביים היטב.
-
-
-בקערה נפרדת מערבבים 700 מ"ל חלב, כף חרדל,
-
-
-ושתי ביצים.
-
-
-הקמח שהכנו ומעבירים היטב.
-
-
-מחממים שמן ל 170 מעלות.... אין מה לעשות אם רוצים טיגון טוב השמן חייב להיות מספיק חם.
-
-
-לוקלחים טבעת בצל ותובלים בקערה עם קמח רגיל.
-
-
-אחרי זה תובלים בבלילה
-
-
-ואז תובלים בקערה עם פנקו (אני אוהב לשלב גם
-
-
-פרורי לחם יחד עם הפנקו). משם ישר לשמן ומטגנים בערך 1 מכל צד או עד
-
-
-שמתקבל צבע זהוב.
+1. Cut four large white onions into thick rings and carefully separate them so they don't break.
+2. In a large bowl, combine 500 grams flour, salt, smoked paprika, garlic powder, and baking powder and mix well.
+3. In a separate bowl, whisk together 700 ml milk, Dijon mustard, and 2 eggs.
+4. Add the flour mixture to the wet ingredients and mix thoroughly.
+5. Heat oil to 170°C.
+6. Dip each onion ring in plain flour, then dip in the batter, and then coat with panko breadcrumbs mixed with breadcrumbs.
+7. Fry the coated rings in hot oil for approximately 1 minute on each side until golden brown.

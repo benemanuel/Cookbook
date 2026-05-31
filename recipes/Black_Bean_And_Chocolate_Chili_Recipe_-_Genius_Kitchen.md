@@ -1,16 +1,25 @@
 ---
-subject: "Black Bean And Chocolate Chili Recipe - Genius Kitchen"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "benemanuel.family@gmail.com"
-date: "Mon, 20 Nov 2017 19:02:46 +0200"
-date_parsed: 2017-11-20T19:02:46+02:00
-labels: []
+schema_version: 1
+title: Black Bean And Chocolate Chili
+url: http://www.geniuskitchen.com/recipe/black-bean-and-chocolate-chili-89066?nl=email_share
+source: geniuskitchen.com
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients: null
+steps: null
 ---
 
-# Black Bean And Chocolate Chili Recipe - Genius Kitchen
+# Black Bean And Chocolate Chili
+
+*Source: geniuskitchen.com*
 
 ## Ingredients
 
+Recipe content not provided.
+
 ## Instructions
 
-Here's a recipe for Black Bean And Chocolate Chili from Genius Kitchen: <http://www.geniuskitchen.com/recipe/black-bean-and-chocolate-chili-89066?nl=email_share>
+Recipe content not provided.

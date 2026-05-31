@@ -1,16 +1,28 @@
+```markdown
 ---
-subject: "Homemade Beef Jerky Recipe - Allrecipes.com"
-from: "benemanuel family <benemanuel.family@gmail.com>"
-to: "benemanuel.family@gmail.com"
-date: "Sun, 27 Oct 2019 19:34:10 +0200"
-date_parsed: 2019-10-27T19:34:10+02:00
-labels: [meat]
+schema_version: 1
+title: Homemade Beef Jerky
+url: null
+source: allrecipes.com
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients: null
+steps:
+  - Do not put in plastic until at least two days have passed.
 ---
 
-# Re: Homemade Beef Jerky Recipe - Allrecipes.com
+# Homemade Beef Jerky
+
+*Source: allrecipes.com*
 
 ## Ingredients
 
+Not provided in source text.
+
 ## Instructions
 
-Don't put in plastic until at least two days
+1. Do not put in plastic until at least two days have passed.
+```

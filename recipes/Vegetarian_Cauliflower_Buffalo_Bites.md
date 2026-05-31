@@ -1,67 +1,57 @@
 ---
-subject: "Vegetarian Cauliflower Buffalo Bites"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Sun, 2 May 2021 21:19:39 +0300"
-date_parsed: 2021-05-02T21:19:39+03:00
-labels: [dairy, cake]
+schema_version: 1
+title: Vegetarian Cauliflower Buffalo Bites
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 1 whole head of cauliflower
+  - 1/2 cup all purpose flour
+  - 1/2 cup cornstarch
+  - 1/2 cup rice flour
+  - 1/2 tsp baking powder
+  - 2 tsp salt
+  - 1 cup water
+  - 3 tbsp buffalo sauce
+  - 3 tbsp melted butter
+  - 1 clove of garlic, diced
+steps:
+  - Soak the cauliflower head in salted water to season it and rinse out any debris.
+  - Mix together the all purpose flour, cornstarch, rice flour, baking powder, and salt in a bowl.
+  - Add water to the dry ingredients and stir until a batter forms.
+  - Cut the cauliflower into bite-sized florets.
+  - Dip the cauliflower florets into the batter to coat evenly.
+  - Fry the battered cauliflower until golden and crispy.
+  - Combine the buffalo sauce, melted butter, and diced garlic in a bowl.
+  - Toss the fried cauliflower bites in the buffalo sauce mixture until well coated.
 ---
 
 # Vegetarian Cauliflower Buffalo Bites
 
 ## Ingredients
 
+- 1 whole head of cauliflower
+- 1/2 cup all purpose flour
+- 1/2 cup cornstarch
+- 1/2 cup rice flour
+- 1/2 tsp baking powder
+- 2 tsp salt
+- 1 cup water
+- 3 tbsp buffalo sauce
+- 3 tbsp melted butter
+- 1 clove of garlic, diced
+
 ## Instructions
 
-Vegetarian Cauliflower Buffalo Bites recipe. This is amazing for those looking for a Buffalo wings experience, but for whatever reason does not want to eat meat. The taste is strong with buffalo sauce, but also mellow because of the mayonnaise.
-
-
-The Ingredients are:
-
-
-1 Whole Head of Cauliflower
-
-
-For the Batter:
-
-
-1/2 cup All Purpose Flour
-
-
-1/2 cup Cornstarch
-
-
-1/2 cup Rice Flour
-
-
-1/2 tsp Baking Powder
-
-
-2 tsp salt
-
-
-1 cup Water
-
-
-For the Sauce:
-
-
-3 tbsp Buffalo Sauce
-
-
-3 tbsp Melted butter
-
-
-1 Clove of Garlic, diced
-
-
-Notes:
-
-
-\\\- You must soak the cauliflower in salted water. This is to season it, as well as rinse out any worms that might be stuck inside.
-
-
-\\\- You can omit the mayonnaise at the end if you prefer a stronger buffalo sauce flavour
-
-
-\\\- The garlic adds a strong flavour. If you don't prefer it, you can omit it. I cut mine to be bigger pieces so that it gets left in the bowl while shaking.
+1. Soak the cauliflower head in salted water to season it and rinse out any debris.
+2. Mix together the all purpose flour, cornstarch, rice flour, baking powder, and salt in a bowl.
+3. Add water to the dry ingredients and stir until a batter forms.
+4. Cut the cauliflower into bite-sized florets.
+5. Dip the cauliflower florets into the batter to coat evenly.
+6. Fry the battered cauliflower until golden and crispy.
+7. Combine the buffalo sauce, melted butter, and diced garlic in a bowl.
+8. Toss the fried cauliflower bites in the buffalo sauce mixture until well coated.

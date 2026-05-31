@@ -1,36 +1,34 @@
+```markdown
 ---
-subject: "hallomi rennet"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Sat, 29 May 2021 16:56:55 +0300"
-date_parsed: 2021-05-29T16:56:55+03:00
-labels: [dairy]
+schema_version: 1
+title: Homemade Halloumi Cheese
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients: null
+steps: null
 ---
 
-# Fwd: hallomi rennet
+# Homemade Halloumi Cheese
+
+*Source: Email forwarding*
 
 ## Ingredients
 
+Not available
+
 ## Instructions
 
-\-\-\-\-\-\-\-\-\-\- Forwarded message \-\-\-\-\-\-\-\-\-  
-From: **Avi BenEmanuel** \<\>  
-Date: Sun, 1 Jan 2017, 17:21  
-Subject: hallomi rennet  
-To: Avraham Ben Emanuel \<\>  
+Not available
 
+---
 
-<http://wholesome-cook.com/2012/07/18/homemade-haloumi-cheese-in-an-hour/>  
-
-<http://www.cheesemaking.com/Halloumi.html>  
-
-<https://www.getculture.com/Coagulant-Test.html>  
-
-
-\-\-  
-
-
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-  
-Avi Ben Emanuel אבי בן עמנואל
-
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+**Note:** This submission contains only reference links without recipe content:
+- wholesome-cook.com/2012/07/18/homemade-haloumi-cheese-in-an-hour/
+- cheesemaking.com/Halloumi.html
+- getculture.com/Coagulant-Test.html
+```

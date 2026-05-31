@@ -1,41 +1,43 @@
 ---
-subject: "Whole wheat pizza"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Sat, 13 Aug 2022 15:27:13 +0300"
-date_parsed: 2022-08-13T15:27:13+03:00
-labels: [bread]
+schema_version: 1
+title: Whole Wheat Pizza
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: 7
+imported_at: 2026-05-31
+ingredients:
+  - 60g Crimson Turkey Whole Wheat flour
+  - 240g KA 00 Pizza flour
+  - 200g water
+  - 50g levain
+  - 6g salt
+steps:
+  - Combine flour, water, levain, and salt together.
+  - Knead with a stand mixer for approximately 5 minutes.
+  - Perform 3 stretch and folds during bulk fermentation over 4 hours.
+  - Chill overnight for 14 hours.
+  - Allow the dough to rise at room temperature for 5 hours.
+  - Bake at 550°F for 7 minutes.
 ---
 
-# Whole wheat pizza
+# Whole Wheat Pizza
 
 ## Ingredients
 
+- 60g Crimson Turkey Whole Wheat flour
+- 240g KA 00 Pizza flour
+- 200g water
+- 50g levain
+- 6g salt
+
 ## Instructions
 
-\* 300g Flour, of which:
-
-\* 60g Crimson Turkey Whole Wheat
-
-\* 240g KA 00 Pizza Flour
-
-\* 200g Water
-
-\* 50g Levain
-
-\* 6g Salt
-
-
-Combined and kneaded with stand mixer \~5 minutes, then 3 stretch and folds \+ bulk over 4 hours.
-
-
-Overnight chill for 14 hours
-
-
-5 hours second rise at room temp
-
-
-Baked @ 550F for 7 minutes
-
-
-This is my second try at pizza, a bit more dough into the pie and a much longer amount of proof time to really get those nice big air pockets. Overall I am very happy with the result and it tasted amazing.
+1. Combine flour, water, levain, and salt together.
+2. Knead with a stand mixer for approximately 5 minutes.
+3. Perform 3 stretch and folds during bulk fermentation over 4 hours.
+4. Chill overnight for 14 hours.
+5. Allow the dough to rise at room temperature for 5 hours.
+6. Bake at 550°F for 7 minutes.

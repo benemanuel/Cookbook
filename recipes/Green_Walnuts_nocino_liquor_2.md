@@ -1,41 +1,65 @@
 ---
-subject: "Green Walnuts nocino liquor"
-from: "benemanuel family <benemanuel.family@gmail.com>"
-to: "benemanuel family <benemanuel.family@gmail.com>"
-date: "Tue, 10 Jun 2025 18:50:53 +0300"
-date_parsed: 2025-06-10T18:50:53+03:00
-labels: []
+schema_version: 1
+title: Green Walnuts Nocino Liqueur
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 600 grams green walnuts, washed and quartered
+  - 5 nutmeg pods
+  - 7 cloves
+  - 4 grams cinnamon sticks (2 types)
+  - 1 star anise
+  - 5 cardamom pods
+  - 3 juniper berries
+  - 1 lemon rind
+  - 400 milliliters 96% alcohol
+  - 920 milliliters water
+  - 2 tablespoons Angostura bitters
+  - 1 cup plus 2 tablespoons demerara sugar
+  - ¼ cup plus 2 tablespoons water
+steps:
+  - Pick green walnuts near the beginning of summer between June 6 and June 24.
+  - Wash and quarter the green walnuts.
+  - Combine the quartered green walnuts, nutmeg, cloves, cinnamon sticks, star anise, cardamom pods, juniper berries, and lemon rind in a container.
+  - Add 400 milliliters of 96% alcohol to the walnut and spice mixture.
+  - Steep the mixture for 6 months.
+  - Filter the steeped mixture after 6 months.
+  - Make a rich demerara syrup by cooking 1 cup plus 2 tablespoons demerara sugar with ¼ cup plus 2 tablespoons water.
+  - Add 920 milliliters of water and 2 tablespoons of Angostura bitters to the filtered walnut liqueur.
+  - Add the cooled demerara syrup to the liqueur and stir to combine.
 ---
 
-# Re: Green Walnuts nocino liquor
+# Green Walnuts Nocino Liqueur
 
 ## Ingredients
 
+- 600 grams green walnuts, washed and quartered
+- 5 nutmeg pods
+- 7 cloves
+- 4 grams cinnamon sticks (2 types)
+- 1 star anise
+- 5 cardamom pods
+- 3 juniper berries
+- 1 lemon rind
+- 400 milliliters 96% alcohol
+- 920 milliliters water
+- 2 tablespoons Angostura bitters
+- 1 cup plus 2 tablespoons demerara sugar
+- ¼ cup plus 2 tablespoons water
+
 ## Instructions
 
-Nocino green walnut liqueur  
-(green walnut are picked near beginning of summer 6/June \- 24/June)
-
-**this makes approx 1600ml at 25% alcohol**  
-
-600 gr green walnuts Washed and quartered  
-5 nutmeg  
-7 cloves  
-4 gr cinnamon Sticks (2 types)  
-1 star anise  
-5 Cardamom pods  
-3 Juniper berry  
-1 rind of lemon  
-400cc 96% alcohol  
-
-seeped and filtered (after 6 months)
-
-add  
-water 920cc  
-two tablespoons of Angostura bitters  
-
-Rich Demerara Syrup from cooking
-
-1 cup plus 2 tablespoons demerara sugar
-
-¼ cup plus 2 tablespoons water
+1. Pick green walnuts near the beginning of summer between June 6 and June 24.
+2. Wash and quarter the green walnuts.
+3. Combine the quartered green walnuts, nutmeg, cloves, cinnamon sticks, star anise, cardamom pods, juniper berries, and lemon rind in a container.
+4. Add 400 milliliters of 96% alcohol to the walnut and spice mixture.
+5. Steep the mixture for 6 months.
+6. Filter the steeped mixture after 6 months.
+7. Make a rich demerara syrup by cooking 1 cup plus 2 tablespoons demerara sugar with ¼ cup plus 2 tablespoons water.
+8. Add 920 milliliters of water and 2 tablespoons of Angostura bitters to the filtered walnut liqueur.
+9. Add the cooled demerara syrup to the liqueur and stir to combine.

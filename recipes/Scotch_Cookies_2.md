@@ -1,26 +1,30 @@
 ---
-subject: "Scotch Cookies"
-from: "benemanuel family <benemanuel.family@gmail.com>"
-to: "benemanuel.family@gmail.com"
-date: "Sun, 18 Aug 2019 20:59:23 +0300"
-date_parsed: 2019-08-18T20:59:23+03:00
-labels: [dairy, cake]
+schema_version: 1
+title: Scotch Cookies
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 3 tablespoons instant coffee granules
+  - 2 teaspoons water
+  - 2 sticks (1 cup) unsalted butter, softened
+  - 2¼ cups (about 250 grams) powdered sugar
+steps: null
 ---
 
-# Re: Scotch Cookies
-
-COFFEE BUTTERCREAM RECIPE
-
-Makes enough to cover up to a 10″ cake or 1 dozen standard cupcakes.
+# Scotch Cookies
 
 ## Ingredients
 
-3 tablespoons instant coffee granules
-
-2 teaspoons water
-
-2 sticks (1 cup) unsalted butter, softened
-
-2¼ cups (about 250 grams) powdered sugar
+- 3 tablespoons instant coffee granules
+- 2 teaspoons water
+- 2 sticks (1 cup) unsalted butter, softened
+- 2¼ cups (about 250 grams) powdered sugar
 
 ## Instructions
+
+No instructions provided.

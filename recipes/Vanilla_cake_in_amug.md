@@ -1,30 +1,45 @@
 ---
-subject: "Vanilla cake in amug"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Mon, 22 Jan 2024 09:00:47 +0200"
-date_parsed: 2024-01-22T09:00:47+02:00
-labels: [dairy, cake]
+schema_version: 1
+title: Vanilla Cake in a Mug
+url: null
+source: null
+image: null
+servings: 1
+prep_minutes: 5
+cook_minutes: 3
+imported_at: 2026-05-31
+ingredients:
+  - 62.5 grams all-purpose flour
+  - 30 grams sugar
+  - 1/4 tsp baking powder
+  - dash of salt
+  - 30 grams butter, melted
+  - 45 grams milk
+  - 1/2 tsp vanilla extract
+  - 1 tsp sprinkles
+steps:
+  - Mix together the flour, sugar, baking powder, and salt in a mug.
+  - Stir in the melted butter, milk, and vanilla extract until just combined.
+  - Top with sprinkles.
+  - Microwave for about 3 minutes until a toothpick inserted in the center comes out clean.
 ---
 
-# Vanilla cake in amug
+# Vanilla Cake in a Mug
 
 ## Ingredients
 
+- 62.5 grams all-purpose flour
+- 30 grams sugar
+- 1/4 tsp baking powder
+- dash of salt
+- 30 grams butter, melted
+- 45 grams milk
+- 1/2 tsp vanilla extract
+- 1 tsp sprinkles
+
 ## Instructions
 
-\- 62\.5 grams all\-purpose flour
-
-\- 30 grams sugar
-
-\- 1/4 tsp baking powder
-
-\- dash of salt
-
-\- 30 grams butter, melted
-
-\- 45 grams milk
-
-\- 1/2 tsp vanilla extract
-
-\- 1 tsp sprinkles
+1. Mix together the flour, sugar, baking powder, and salt in a mug.
+2. Stir in the melted butter, milk, and vanilla extract until just combined.
+3. Top with sprinkles.
+4. Microwave for about 3 minutes until a toothpick inserted in the center comes out clean.

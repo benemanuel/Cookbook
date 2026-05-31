@@ -1,40 +1,45 @@
 ---
-subject: "cinnamon roll in a mug"
-from: "benemanuel@geulah.org.il"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Wed, 11 Nov 2020 15:50:14 +0200"
-date_parsed: 2020-11-11T15:50:14+02:00
-labels: [dairy, cake]
+schema_version: 1
+title: Cinnamon Roll in a Mug
+url: null
+source: null
+image: null
+servings: 1
+prep_minutes: 5
+cook_minutes: 1
+imported_at: 2026-05-31
+ingredients:
+  - 50g self-raising flour
+  - 60g Greek yoghurt
+  - 10g butter, melted
+  - 1 tablespoon granulated sugar
+  - 1/2 teaspoon cinnamon
+  - 3 tablespoons powdered sugar
+  - 2 teaspoons milk
+steps:
+  - Mix together the self-raising flour, Greek yoghurt, and melted butter.
+  - Combine the granulated sugar and cinnamon in a small bowl.
+  - Swirl the cinnamon sugar mixture into the dough.
+  - Place the mixture in a mug and microwave on high for about 50 seconds at 750W, being careful not to overcook as the dough will become chewy.
+  - Mix the powdered sugar with milk to create a glaze and drizzle over the warm cinnamon roll.
 ---
 
-# cinnamon roll in a mug
+# Cinnamon Roll in a Mug
 
 ## Ingredients
 
+- 50g self-raising flour
+- 60g Greek yoghurt
+- 10g butter, melted
+- 1 tablespoon granulated sugar
+- 1/2 teaspoon cinnamon
+- 3 tablespoons powdered sugar
+- 2 teaspoons milk
+
 ## Instructions
 
-"This cinnamon roll was everything I wanted it to be. Soft, doughy, cinnamony and sweet!"
-
-
-She added a list of ingredients and measurements for those who wanted to give it a go.
-
-
-To make the cinnamon roll at home for yourself, you'll need:
-
-
-50g Self raising flour
-
-60g Greek yoghurt
-
-10g butter, melted
-
-1 tbsp granulated sugar
-
-1/2 tsp cinnamon
-
-3 tbsp powdered sugar
-
-2 tsp Milk
-
-
-She added: "My microwave is 750W and 50 seconds on high was about perfect. Try not to over cook as the dough will go chewy!"
+1. Mix together the self-raising flour, Greek yoghurt, and melted butter.
+2. Combine the granulated sugar and cinnamon in a small bowl.
+3. Swirl the cinnamon sugar mixture into the dough.
+4. Place the mixture in a mug and microwave on high for about 50 seconds at 750W, being careful not to overcook as the dough will become chewy.
+5. Mix the powdered sugar with milk to create a glaze and drizzle over the warm cinnamon roll.

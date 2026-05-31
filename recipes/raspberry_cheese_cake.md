@@ -1,66 +1,69 @@
 ---
-subject: "raspberry cheese cake"
-from: "benemanuel family <benemanuel.family@gmail.com>"
-to: "\"\u05d0\u05dc\u05d4 \u05d9\u05e4\u05d4 \u05d1\u05df \u05e2\u05de\u05e0\u05d5\u05d0\u05dc\" <eseltz90@gmail.com>"
-date: "Sat, 12 Oct 2019 16:20:22 +0300"
-date_parsed: 2019-10-12T16:20:22+03:00
-labels: [dairy, cake]
+schema_version: 1
+title: Raspberry Cheesecake Coffee Cake
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 8 oz strawberries
+  - 2 teaspoons cornstarch
+  - 2 teaspoons vanilla
+  - 3 tablespoons jam (raspberry or other jam)
+  - 3/4 cup sugar
+  - 2 cups plus 2 tablespoons flour
+  - 1/2 teaspoon baking soda
+  - 1 teaspoon baking powder
+  - 12 tablespoons butter (cold)
+  - 1 cup sour cream
+  - 1 large egg
+  - 1 tablespoon vanilla
+  - 8 oz cream cheese (optional)
+  - 1 cup sugar (optional, for cream cheese filling)
+  - 1 egg (optional, for cream cheese filling)
+  - Raspberry jam (optional layer)
+steps:
+  - Blend the strawberries, cornstarch, vanilla, and jam together.
+  - Mix the sugar, flour, baking soda, and baking powder in a bowl.
+  - Cut the cold butter into cubes and crumb into the dry mixture.
+  - Stir in the sour cream, egg, and vanilla until combined.
+  - Pour the cake batter into a prepared baking pan and save 1 to 2 cups of the mixture.
+  - Make a level crater in the batter and add the filling.
+  - Sprinkle the reserved batter mixture with additional sugar and crumble it over the filling to cover as much as possible, adding sugar to any uncovered spaces.
+  - Bake at 375°F until a toothpick inserted in the cake portion comes out clean.
 ---
 
-# raspberry cheese cake
+# Raspberry Cheesecake Coffee Cake
 
 ## Ingredients
 
- 
-
-
-Filling: (makes a lot) (you can use raspberries but it's tart)
-
-8oz strawberries
-
-2 teasp. Cornstarch
-
-2 tsp. Vanilla
-
-3 heaping tbs. Jam (I use raspberry, better jams from local store)
+- 8 oz strawberries
+- 2 teaspoons cornstarch
+- 2 teaspoons vanilla
+- 3 tablespoons jam (raspberry or other jam)
+- 3/4 cup sugar
+- 2 cups plus 2 tablespoons flour
+- 1/2 teaspoon baking soda
+- 1 teaspoon baking powder
+- 12 tablespoons butter (cold)
+- 1 cup sour cream
+- 1 large egg
+- 1 tablespoon vanilla
+- 8 oz cream cheese (optional)
+- 1 cup sugar (optional, for cream cheese filling)
+- 1 egg (optional, for cream cheese filling)
+- Raspberry jam (optional layer)
 
 ## Instructions
 
-Blend
-
-
-Cake:
-
-3/4 cup sugar (I use sugar in the raw)
-
-2 cups/2 tbs flour
-
-1/2 teasp baking soda
-
-1 teaspoon baking powder
-
-Mix
-
-Cut 12 Tbs butter (cold) into cubes, crumb into dry mix
-
-1 cup sour cream
-
-1 large egg
-
-1 tbs vanilla
-
-
-Put mix into pan, save 1\-2 cups
-
-Make kind of a level crater and add filling
-
-Add more sugar to mix leftover and crumb over top filling, cover filling as best you can, put sugar over uncovered spaces
-
-
-Bake at 375 f
-
-
-I suppose mine is a sour cream coffee cake not cream cheese but it looks exactly the same haha, I do recall an optional cream cheese drizzle when my aunt gave me the recipe.
-
-
-The difference is in the filling, mine used an 8oz packet of cream cheese one cup sugar and an egg spoon that into the well and top with the a layer of raspberry jam.
+1. Blend the strawberries, cornstarch, vanilla, and jam together.
+2. Mix the sugar, flour, baking soda, and baking powder in a bowl.
+3. Cut the cold butter into cubes and crumb into the dry mixture.
+4. Stir in the sour cream, egg, and vanilla until combined.
+5. Pour the cake batter into a prepared baking pan and save 1 to 2 cups of the mixture.
+6. Make a level crater in the batter and add the filling.
+7. Sprinkle the reserved batter mixture with additional sugar and crumble it over the filling to cover as much as possible, adding sugar to any uncovered spaces.
+8. Bake at 375°F until a toothpick inserted in the cake portion comes out clean.

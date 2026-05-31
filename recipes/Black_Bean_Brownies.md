@@ -1,79 +1,73 @@
 ---
-subject: "Black Bean Brownies"
-from: "benemanuel family <benemanuel.family@gmail.com>"
-to: "benemanuel family <benemanuel.family@gmail.com>"
-date: "Tue, 6 May 2025 20:28:54 +0300"
-date_parsed: 2025-05-06T20:28:54+03:00
-labels: [dairy, cake]
+schema_version: 1
+title: Black Bean Brownies
+url: null
+source: null
+image: null
+servings: 12
+prep_minutes: 20
+cook_minutes: 25
+imported_at: 2026-05-31
+ingredients:
+  - 260g cooked black beans
+  - 50g rolled oats
+  - 60g ghee, melted
+  - 75g brown sugar
+  - 3 large eggs
+  - 55g unsweetened cocoa powder
+  - ½ tsp baking powder
+  - ¼ tsp salt
+  - 1 tsp vanilla extract
+  - 1 tbsp chia seeds
+  - 2 tbsp milk
+  - 80g dark chocolate chips (56%)
+  - 1 tbsp cocoa nibs
+  - 25g dried cranberries, chopped
+  - 35g chopped walnuts
+steps:
+  - Rinse dried black beans and remove any debris.
+  - Quick soak by boiling for 2 minutes then letting sit for 1 hour, or overnight soak in plenty of water for 8 hours.
+  - Drain soaking water and add fresh water (about 3 cups per ½ cup of dried beans), then simmer for 60–90 minutes until tender, adding salt near the end of cooking.
+  - Preheat oven to 175°C (350°F) and line a square pan (20x20 cm) with parchment.
+  - Soak chia seeds in 2 tbsp milk until gelled, and soak cranberries briefly in warm water if firm.
+  - Blend beans, oats, sugar, eggs, cocoa powder, baking powder, salt, vanilla, and chia gel in a food processor until smooth.
+  - Add melted ghee and half the melted chocolate chips, then pulse lightly to combine.
+  - Stir in cranberries, walnuts, and cocoa nibs by hand.
+  - Pour batter into pan and sprinkle with remaining chocolate chips.
+  - Bake for 22–26 minutes until edges look set but center is still slightly soft.
+  - Cool for at least 30 minutes before slicing.
 ---
 
 # Black Bean Brownies
 
 ## Ingredients
 
+- 260g cooked black beans
+- 50g rolled oats
+- 60g ghee, melted
+- 75g brown sugar
+- 3 large eggs
+- 55g unsweetened cocoa powder
+- ½ tsp baking powder
+- ¼ tsp salt
+- 1 tsp vanilla extract
+- 1 tbsp chia seeds
+- 2 tbsp milk
+- 80g dark chocolate chips (56%)
+- 1 tbsp cocoa nibs
+- 25g dried cranberries, chopped
+- 35g chopped walnuts
+
 ## Instructions
 
-### **Black Bean Brownies – High Fiber \& Lower Sugar**
-
-### 🧾 **Ingredients:**
-
-* **260g cooked black beans** *(from \~100g dried beans)*
-
-* **50g rolled oats**
-
-* **60g ghee**, melted
-
-* **75g brown sugar** 
-
-* **3 large eggs**
-
-* **55g unsweetened cocoa powder**
-
-* **½ tsp (2g) baking powder**
-
-* **¼ tsp (1g) salt**
-
-* **1 tsp (5ml) vanilla extract**
-
-* **1 tbsp chia seeds**, soaked in **2 tbsp (30ml) milk** for 5–10 min (gelled)
-
-* **80g dark chocolate chips (56%)** *(half melted into batter, half on top)*
-
-* **1 tbsp (7g) cocoa nibs**
-
-* **25g dried cranberries**, chopped *(optional: soak briefly to soften)*
-
-* **35g chopped walnuts**
-
-### **Instructions:**
-  1. ### Dried Black Beans  Rinse the beans and remove any debris.  Soak (Optional but recommended):  Quick soak: Boil for 2 minutes, then let sit for 1 hour.  Overnight soak: Soak in plenty of water (beans expand) for 8 hours.  Cook:  Drain the soaking water, then add fresh water (about 3 cups per ½ cup of dried beans).  Simmer for 60–90 minutes until tender.  Add salt near the end of cooking.
-
-  2. ### Preheat oven to **175°C (350°F)**. Line a square pan (20x20 cm) with parchment.
-
-  3. Soak chia seeds until gelled. Soak cranberries briefly in warm water if firm.
-
-  4. In a food processor, blend:  
-**beans, oats, sugar, eggs, cocoa powder, baking powder, salt, vanilla, milk, chia gel** — until smooth.
-
-  5. Add **melted ghee** and half the **chocolate chips melted**, pulse lightly to combine.
-
-  6. Stir in **cranberries**, **walnuts**, and **cocoa nibs** by hand.
-
-  7. Pour into pan, sprinkle with remaining **chocolate chips**.
-
-  8. Bake **22–26 minutes**, until the edges look set but the center is still **slightly soft** (this keeps them fudgy!).
-
-  9. Let cool for **at least 30 minutes** before slicing (brownies will firm up as they cool).
-
-  
-### **Final Nutritional Estimate (Per 1 of 12 Squares):**
-
-  
-
-  | Nutrient | Approximate |
-  | --- | --- |
-  | **Calories** | \~180 kcal |
-  | **Protein** | \~5\.5–6g |
-  | **Fiber** | \~4\.5g |
-  | **Sugar** | \~8g |
-  | **Fat** | \~9–10g |
+1. Rinse dried black beans and remove any debris.
+2. Quick soak by boiling for 2 minutes then letting sit for 1 hour, or overnight soak in plenty of water for 8 hours.
+3. Drain soaking water and add fresh water (about 3 cups per ½ cup of dried beans), then simmer for 60–90 minutes until tender, adding salt near the end of cooking.
+4. Preheat oven to 175°C (350°F) and line a square pan (20x20 cm) with parchment.
+5. Soak chia seeds in 2 tbsp milk until gelled, and soak cranberries briefly in warm water if firm.
+6. Blend beans, oats, sugar, eggs, cocoa powder, baking powder, salt, vanilla, and chia gel in a food processor until smooth.
+7. Add melted ghee and half the melted chocolate chips, then pulse lightly to combine.
+8. Stir in cranberries, walnuts, and cocoa nibs by hand.
+9. Pour batter into pan and sprinkle with remaining chocolate chips.
+10. Bake for 22–26 minutes until edges look set but center is still slightly soft.
+11. Cool for at least 30 minutes before slicing.

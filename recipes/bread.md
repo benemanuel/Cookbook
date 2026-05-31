@@ -1,43 +1,47 @@
+```markdown
 ---
-subject: "bread"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Sat, 25 Jul 2020 21:16:35 +0300"
-date_parsed: 2020-07-25T21:16:35+03:00
-labels: [bread]
+schema_version: 1
+title: Artisan Bread
+url: null
+source: null
+image: null
+servings: 4
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 330g bread flour
+  - 330g Shogun whole flour
+  - 150g starter (started 4 hours earlier)
+  - 750ml water
+  - 20g salt
+  - 40ml olive oil
+steps:
+  - Mix dough in mixer for 13 minutes.
+  - After 2 hours, perform 100 folds.
+  - Let dough rest overnight in fridge.
+  - Divide dough into 4 bowls and fold three times, then flour.
+  - Proof in poika for 15 minutes.
+  - Proof outside of poika for 30 minutes.
 ---
 
-# bread
+# Artisan Bread
 
 ## Ingredients
 
+- 330g bread flour
+- 330g Shogun whole flour
+- 150g starter (started 4 hours earlier)
+- 750ml water
+- 20g salt
+- 40ml olive oil
+
 ## Instructions
 
-330 80%
-
-330 bread
-
-330 Shogun whole
-
-
-150 starter which was started 4 hours earlier
-
-750 water
-
-20 salt
-
-40 olive oil
-
-
-13 minutes in mixer
-
-after 2 hours 100 folds
-
-overnight in fridge
-
-
-4 boles folded three times floured
-
-15 minutes in poika
-
-30 outside of poika
+1. Mix dough in mixer for 13 minutes.
+2. After 2 hours, perform 100 folds.
+3. Let dough rest overnight in fridge.
+4. Divide dough into 4 bowls and fold three times, then flour.
+5. Proof in poika for 15 minutes.
+6. Proof outside of poika for 30 minutes.
+```

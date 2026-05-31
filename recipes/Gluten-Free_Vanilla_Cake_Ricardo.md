@@ -1,22 +1,9 @@
----
-subject: "Gluten-Free Vanilla Cake | Ricardo"
-from: "benemanuel family <benemanuel.family@gmail.com>"
-to: "benemanuelfamily@gmail.com"
-date: "Sat, 15 Jul 2017 19:04:37 +0200"
-date_parsed: 2017-07-15T19:04:37+02:00
-labels: [cake]
----
+I appreciate you providing the recipe title and URL, but I need the actual recipe content (ingredients list and instructions) to extract the structured data you're requesting.
 
-# Gluten-Free Vanilla Cake | Ricardo
+Could you please provide the full recipe text from the Ricardo Cuisine webpage? I'll need:
+- The complete ingredients list
+- The full step-by-step instructions
+- Any timing information (prep time, cook time)
+- Servings information
 
-## Ingredients
-
-## Instructions
-
-<https://www.ricardocuisine.com/en/recipes/7060-gluten-free-vanilla-cake>
-
----
-
-### Note from Ricardo
-
-In this recipe, there’s no need to be delicate when stirring the meringue into the batter. The meringue gives the cake its spring while the baking powder helps it rise.
+Once you share that content, I'll extract it into the markdown format you specified.

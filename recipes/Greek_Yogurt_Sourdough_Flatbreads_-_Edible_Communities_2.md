@@ -1,20 +1,30 @@
 ---
-subject: "Greek Yogurt Sourdough Flatbreads - Edible Communities"
-from: "benemanuel family <benemanuel.family@gmail.com>"
-to: "benemanuel family <benemanuel.family@gmail.com>"
-date: "Fri, 14 Feb 2020 13:16:15 +0200"
-date_parsed: 2020-02-14T13:16:15+02:00
-labels: [dairy]
+schema_version: 1
+title: Greek Yogurt Sourdough Flatbreads
+url: null
+source: Edible Communities
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 200 g Greek yogurt
+  - 150 g pukacha flour
+  - 150 g 80% sourdough starter
+steps: null
 ---
 
-# Re: Greek Yogurt Sourdough Flatbreads - Edible Communities
+# Greek Yogurt Sourdough Flatbreads
+
+*Source: Edible Communities*
 
 ## Ingredients
 
+- 200 g Greek yogurt
+- 150 g pukacha flour
+- 150 g 80% sourdough starter
+
 ## Instructions
 
-200 gr Greek yogurt
-
-150 pukacha flour
-
-150 80%
+Instructions not provided in source text.

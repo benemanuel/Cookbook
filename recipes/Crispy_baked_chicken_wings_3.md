@@ -1,16 +1,24 @@
 ---
-subject: "Crispy baked chicken wings"
-from: "benemanuel family <benemanuel.family@gmail.com>"
-to: "\"benemanuel.family\" <benemanuel.family@gmail.com>"
-date: "Thu, 9 May 2024 14:28:54 +0300"
-date_parsed: 2024-05-09T14:28:54+03:00
-labels: [meat]
+schema_version: 1
+title: Crispy Baked Chicken Wings
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: 20
+imported_at: 2026-05-31
+ingredients: null
+steps:
+  - Cook chicken wings in a Ninja air fryer with smoke setting at 200 degrees for 20 minutes.
 ---
 
-# Re: Crispy baked chicken wings
+# Crispy Baked Chicken Wings
 
 ## Ingredients
 
+Not provided.
+
 ## Instructions
 
-Ninja air fryer with smoke 200 for 20 minutes
+1. Cook chicken wings in a Ninja air fryer with smoke setting at 200 degrees for 20 minutes.

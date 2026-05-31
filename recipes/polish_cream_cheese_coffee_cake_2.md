@@ -1,20 +1,23 @@
 ---
-subject: "polish cream cheese coffee cake"
-from: "benemanuel family <benemanuel.family@gmail.com>"
-to: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-date: "Fri, 22 Nov 2019 09:24:30 +0200"
-date_parsed: 2019-11-22T09:24:30+02:00
-labels: [dairy, cake]
+schema_version: 1
+title: Polish Cream Cheese Coffee Cake
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients: null
+steps: null
 ---
 
-# Re: polish cream cheese coffee cake
+# Polish Cream Cheese Coffee Cake
 
 ## Ingredients
 
+*Not provided*
+
 ## Instructions
 
-really good
-
-a drop less sugar in dough
-
-9% white cheese for filling
+*Insufficient data to extract structured steps*

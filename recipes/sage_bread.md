@@ -1,80 +1,58 @@
 ---
-subject: "sage bread"
-from: "Avi Ben Emanuel <avi@jct.ac.il>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Wed, 18 Mar 2020 19:21:12 +0200"
-date_parsed: 2020-03-18T19:21:12+02:00
-attachments:
-  - filename: "ea43791.jpg"
-    type: "image/jpeg"
-    size: 12480672
-labels: [dairy, bread, cake]
+schema_version: 1
+title: Sage Bread
+url: null
+source: null
+image: null
+servings: 1
+prep_minutes: null
+cook_minutes: 55
+imported_at: 2026-05-31
+ingredients:
+  - Butter
+  - Fresh sage
+  - Eggs
+  - Sugar
+  - Flour
+  - Baking powder
+  - Salt
+  - Milk
+ingredients_note: Specific quantities not provided in source text
+steps:
+  - Melt butter with fresh sage to release the flavor.
+  - Crack eggs into a bowl and add dry ingredients (sugar, flour, baking powder, and salt), making sure to mix flour and baking powder together.
+  - Add milk to the egg mixture.
+  - Add the butter and sage mixture and mix until well blended.
+  - Add batter to a greased loaf pan and bake at 350°F for 50-60 minutes until a toothpick or knife comes out clean.
+  - Let the bread cool completely as it is delicate and will fall apart if not cooled properly.
+  - Cut cooled bread into 1-1.5 inch slices.
+  - Melt butter in a non-stick pan and thoroughly coat each slice on both sides with butter.
+  - Brown each slice on both sides until golden.
 ---
 
-# sage bread
+# Sage Bread
 
 ## Ingredients
 
+- Butter
+- Fresh sage
+- Eggs
+- Sugar
+- Flour
+- Baking powder
+- Salt
+- Milk
+
+*Note: Specific quantities not provided in source text*
+
 ## Instructions
 
-\[[https://imgur.com/gallery/FnkVRUF\](https://imgur.com/gallery/FnkVRUF)](https://imgur.com/gallery/FnkVRUF%5D(https://imgur.com/gallery/FnkVRUF))
-
-
-\[[https://imgur.com/gallery/TdTXcUp\](https://imgur.com/gallery/TdTXcUp)](https://imgur.com/gallery/TdTXcUp%5D(https://imgur.com/gallery/TdTXcUp)) 
-
-
-Pictures and technique.
-
-
-A few things to start. This recipe is a huge part of my family and we all have been enjoying it as long as I have been alive(30 years).
-
-
-Make a few extra and freeze them.
-
-
-If you still don't have an oven stone you should consider picking one up. Not specifically for this recipe but for all your baking adventures.
-
-
-Use fresh sage if at all possible, and add 20\-30% extra sage if you want(I always do). Please don't steam the sage in the milk. That's just bad practice (yes I know the recipe says to do that). Instead, blanch the fresh sage in the butter. No need to break down the already broken down product that is pasteurized milk. Do not strain the sage.
-
-
-Other than that the recipe above tries to complicate things. Super easy to do it this way.
-
-
-\\\-Melt your butter with sage to release the flavor
-
-
-\\\-Crack eggs into bowl and add dry ingredients (sugar, flour, baking powder, salt) making sure to mix flour and baking powder together.
-
-
-\\\-Add milk.
-
-
-\\\-Add butter and sage and mix til well blended.
-
-
-\\\-Add batter to greased loaf pan, and bake at 350F for 50\-60 until toothpick/ knife comes out clean.
-
-
-\&\#x200B;
-
-
-Makes 1 loaf. I make 5 loafs at a time just how I described to perfect results every time.
-
-
-\\\*\\\*Important to let cool as this is extremely delicate and will fall apart if not given the proper respect. With that said, when it's cooled cut into 1\-1 1/2" slices and either eat with butter (microwave it for 15 seconds if it's cool) or...
-
-
-\\\-The first step is to take the time and eat it this way (see pictures)
-
-
-\\\-Melt butter in some kind of non stick pan and thoroughly coat each side with butter carefully (respect the tenderness it will break if you don't).
-
-
-\\\-Brown those badboys up on both sides.
-
-
-\&\#x200B;
-
-
-Dang, I feel like this is a long one. Don't be discouraged this is actually pretty quick to make. I am a chef by trade and cooking is my true passion. I pass this recipe along to you to enjoy with your families as I have and always will with mine.
+1. Melt butter with fresh sage to release the flavor.
+2. Crack eggs into a bowl and add dry ingredients (sugar, flour, baking powder, and salt), making sure to mix flour and baking powder together.
+3. Add milk to the egg mixture.
+4. Add the butter and sage mixture and mix until well blended.
+5. Add batter to a greased loaf pan and bake at 350°F for 50-60 minutes until a toothpick or knife comes out clean.
+6. Let the bread cool completely as it is delicate and will fall apart if not cooled properly.
+7. Cut cooled bread into 1-1.5 inch slices.
+8. Melt butter in a non-stick pan and thoroughly coat each slice on both sides with butter.
+9. Brown each slice on both sides until golden.

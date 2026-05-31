@@ -1,28 +1,53 @@
 ---
-subject: "Make Your Own Herbes De Provence"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Thu, 19 May 2022 15:57:37 +0300"
-date_parsed: 2022-05-19T15:57:37+03:00
-labels: []
+schema_version: 1
+title: Make Your Own Herbes de Provence
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 0-1 tablespoon dried anise seed
+  - 1-2 tablespoon dried lavender
+  - 1-2 tablespoon dried basil
+  - 1-2 tablespoon dried tarragon
+  - 1 tablespoon fennel seeds
+  - 0-1 teaspoon dried mint
+  - 2 tablespoon to 1/4 cup dried thyme
+  - 2-3 tablespoon dried marjoram
+  - 1-2 tablespoon dried oregano
+  - 1/2 to 2 tablespoon dried parsley and/or chervil
+  - 2-3 tablespoon dried savory
+  - 2 tablespoons dried rosemary
+  - 1 teaspoon ground bay leaf powder
+steps:
+  - Combine all dried herbs and spices in a bowl or jar.
+  - Mix thoroughly until well blended.
+  - Store in an airtight container.
 ---
 
-# Make Your Own Herbes De Provence
+# Make Your Own Herbes de Provence
 
 ## Ingredients
 
+- 0-1 tablespoon dried anise seed
+- 1-2 tablespoon dried lavender
+- 1-2 tablespoon dried basil
+- 1-2 tablespoon dried tarragon
+- 1 tablespoon fennel seeds
+- 0-1 teaspoon dried mint
+- 2 tablespoon to 1/4 cup dried thyme
+- 2-3 tablespoon dried marjoram
+- 1-2 tablespoon dried oregano
+- 1/2 to 2 tablespoon dried parsley and/or chervil
+- 2-3 tablespoon dried savory
+- 2 tablespoons dried rosemary
+- 1 teaspoon ground bay leaf powder
+
 ## Instructions
 
-0\-1 Tablespoon Dried Anise Seed זרעי אניס  
-1\-2 Tablespoon Dried Lavender לבנדר  
-1\-2 Tablespoon Dried Basil בזיליקום  
-1\-2 Tablespoon Dried Tarragon טרגון  
-1 Tablespoon Fennel Seeds זרעי שומר  
-0\-1 Teaspoon Dried Mint נענע  
-2 Tablespoon\-1/4 Cup Dried Thyme טימין  
-2\-3 Tablespoon Dried Marjoram מיורן  
-1\-2 Tablespoon Dried Oregano אורגנו  
-1/2\-2 Tablespoon Dried Parsley And/Or Chervil פטרוזיליה או שרוויל  
-2\-3 Tablespoon Dried Savory מלוח  
-2 Tablespoons Dried Rosemary רוזמרין  
-1 Teaspoon Ground Bay Leaf Powder אבקת עלי דפנה טחונים
+1. Combine all dried herbs and spices in a bowl or jar.
+2. Mix thoroughly until well blended.
+3. Store in an airtight container.

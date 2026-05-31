@@ -1,30 +1,34 @@
 ---
-subject: "Pickled Tongue Recipe | Serious Eats"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Mon, 3 Jan 2022 08:25:14 +0200"
-date_parsed: 2022-01-03T08:25:14+02:00
-attachments:
-  - filename: "pickled-tongue-recipe.pdf"
-    type: "application/pdf"
-    size: 49727
-    local_path: "attachments\\2022-01-03_08-25-14_Re_Pickled_Tongue_Recipe_Serious_Eats_1\\pickled-tongue-recipe.pdf"
-labels: [meat]
+schema_version: 1
+title: Pickled Tongue
+url: null
+source: Serious Eats
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 1 beef tongue
+  - 1 liter water
+  - 85 grams brown sugar
+  - 35 grams coarse sea salt
+  - 1 tablespoon pickling spice
+steps: null
 ---
 
-# Re: Pickled Tongue Recipe | Serious Eats
+# Pickled Tongue
+
+*Source: Serious Eats*
 
 ## Ingredients
 
+- 1 beef tongue
+- 1 liter water
+- 85 grams brown sugar
+- 35 grams coarse sea salt
+- 1 tablespoon pickling spice
+
 ## Instructions
 
-* 1 beef tongue
-* For the brine:
-* 1 ltr water
-* 85 gr brown sugar
-* 35 gr coarse sea salt
-* 1 tbs pickling spice
-
-<https://myfermentedfoods.com/tools/brine-calculator/> 
-
-Tounge 3\.5%
+Instructions not provided in source text.

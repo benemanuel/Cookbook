@@ -1,35 +1,61 @@
 ---
-subject: "Meat 6 recipe"
-from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-to: "Family <benemanuel.family@gmail.com>"
-date: "Fri, 18 Apr 2025 08:17:45 +0300"
-date_parsed: 2025-04-18T08:17:45+03:00
-labels: [meat]
+schema_version: 1
+title: Meat 6
+url: null
+source: null
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: 180
+imported_at: 2026-05-31
+ingredients:
+  - 3 tablespoons olive oil
+  - 1 whole piece of meat
+  - 1 onion, quartered
+  - 2 whole carrots
+  - 3 celery stalks
+  - 1 celeriac, halved
+  - 2 large pieces of parsley root
+  - 1 bunch parsley, halved
+  - 1 basket whole button mushrooms
+  - 7 whole garlic cloves
+  - 1 cup dry red wine
+  - 2 bay leaves
+  - 1 tablespoon coarse salt
+  - 1/2 tablespoon ground black pepper
+  - 1 cup water
+  - A few leaves of sage
+steps:
+  - In a pot, add three tablespoons of olive oil and sear the whole piece of meat on all sides until it gets a charred and perfect color.
+  - Add the quartered onion, whole carrots, celery stalks, halved celeriac, parsley root pieces, halved parsley, button mushrooms, garlic cloves, dry red wine, bay leaves, coarse salt, ground black pepper, water, and sage leaves to the pot.
+  - Cover the pot and transfer it to a turbo oven at 160 degrees for three hours.
+  - Serve with a side of pirto.
 ---
 
-# Meat 6 recipe
+# Meat 6
 
 ## Ingredients
 
+- 3 tablespoons olive oil
+- 1 whole piece of meat
+- 1 onion, quartered
+- 2 whole carrots
+- 3 celery stalks
+- 1 celeriac, halved
+- 2 large pieces of parsley root
+- 1 bunch parsley, halved
+- 1 basket whole button mushrooms
+- 7 whole garlic cloves
+- 1 cup dry red wine
+- 2 bay leaves
+- 1 tablespoon coarse salt
+- 1/2 tablespoon ground black pepper
+- 1 cup water
+- A few leaves of sage
+
 ## Instructions
 
-* First, in a pot, add three tablespoons of olive oil and sear the whole piece of meat on all sides until it gets a charred and perfect color.
-* Then, add the following ingredients:
-* Quarters of one onion.
-* Two whole carrots.
-* Three celery stalks.
-* Halved celeriac.
-* Two large pieces of parsley root.
-* Halved parsley.
-* A basket of whole button mushrooms.
-* Seven whole garlic cloves.
-* A cup of dry red wine.
-* Two bay leaves.
-* A tablespoon of coarse salt.
-* Half a tablespoon of ground black pepper.
-* A cup of water.
-* A few leaves of sage.
-* Cover the pot and transfer it to a turbo oven at 160 degrees for three hours.
-
-
-The chef recommends serving it with a side of "pirto"."
+1. In a pot, add three tablespoons of olive oil and sear the whole piece of meat on all sides until it gets a charred and perfect color.
+2. Add the quartered onion, whole carrots, celery stalks, halved celeriac, parsley root pieces, halved parsley, button mushrooms, garlic cloves, dry red wine, bay leaves, coarse salt, ground black pepper, water, and sage leaves to the pot.
+3. Cover the pot and transfer it to a turbo oven at 160 degrees for three hours.
+4. Serve with a side of pirto.

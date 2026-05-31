@@ -1,31 +1,38 @@
+```markdown
 ---
-subject: 30 Best Kombucha Flavors Of All Time (DIY with Fizz)
-from: Avraham Ben Emanuel <avraham.benemanuel@gmail.com>
-to: Family <benemanuel.family@gmail.com>
-date: Thu, 21 Oct 2021 20:00:45 +0300
-date_parsed: 2021-10-21T20:00:45+03:00
-labels:
-  - ferment
+schema_version: 1
+title: Best Kombucha Flavors - Grape and Apple Spice Varieties
+url: https://www.stonefryingpans.com/best-kombucha-flavors/
+source: stonefryingpans.com
+image: null
+servings: null
+prep_minutes: null
+cook_minutes: null
+imported_at: 2026-05-31
+ingredients:
+  - 5 tbsp grape juice
+  - 4 tsp brown sugar
+  - 1 rosemary stick
+  - 8 tbsp diluted apple juice
+  - 4 tsp brown sugar
+  - 1/4 tsp pumpkin spice
+steps: null
 ---
 
-# 30 Best Kombucha Flavors Of All Time (DIY with Fizz)
+# Best Kombucha Flavors - Grape and Apple Spice Varieties
+
+*Source: stonefryingpans.com*
 
 ## Ingredients
 
+- 5 tbsp grape juice
+- 4 tsp brown sugar
+- 1 rosemary stick
+- 8 tbsp diluted apple juice
+- 4 tsp brown sugar
+- 1/4 tsp pumpkin spice
+
 ## Instructions
 
-<https://www.stonefryingpans.com/best-kombucha-flavors/> 
-
-
-5 tbsp grape juice
-
-4 tsp brown sugar
-
-Rosmarine stick
-
-
-8 tbsp diluted apple juice
-
-4 tsp brown sugar
-
-1/4 tsp pumpkin spice
+No instructions provided in source text.
+```

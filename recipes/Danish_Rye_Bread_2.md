@@ -1,62 +1,55 @@
 ---
-subject: "danish rye bread"
-from: "benemanuel family <benemanuel.family@gmail.com>"
-to: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
-date: "Thu, 4 Feb 2021 22:54:03 +0200"
-date_parsed: 2021-02-04T22:54:03+02:00
-labels: [bread]
+schema_version: 1
+title: Danish Rye Bread
+url: https://nordicfoodliving.com/danish-rye-bread-rugbrod/
+source: nordicfoodliving.com
+image: null
+servings: 2
+prep_minutes: 30
+cook_minutes: 60
+imported_at: 2026-05-31
+ingredients:
+  - 2 dl cracked rye kernels
+  - 2 dl cracked wheat
+  - 2 dl flax seed/linseeds
+  - 2 dl sunflower seeds
+  - 1 tbsp malt syrup or dark syrup
+  - 4 dl sour dough
+  - 8 dl water
+  - 4 dl all-purpose flour
+  - 4 dl rye flour
+  - 1 tbsp salt
+  - 2 tbsp gravy browning (optional)
+steps:
+  - In a large bowl, add the cracked rye kernels, cracked wheat, flax seeds, sunflower seeds, water, malt syrup and the sour dough, and let it all soak for a minimum of 8 hours.
+  - After about 8 hours, add the remaining ingredients and let the rye bread dough rise for about 1.5 hours.
+  - Divide the dough into two portions and pour it into two bread pans, cover with plastic wrap or a damp dishtowel, and let the dough rise for about 1-2 hours or until the bread pan is full of dough.
+  - Bake the rye breads at 180°C (360°F) for about 1 hour.
+  - Remove the breads from the pans and let them cool off, then keep them in an airtight container or plastic bag.
 ---
 
-# Re: danish rye bread
+# Danish Rye Bread
 
-116 g Cracked Rye  116 g Cracked Wheat  116 g Flax Seeds  116 g Sunflower Seeds  480 g Sourdough Starter  800 g Water  192 g All\-Purpose Flour  192 g Rye Flour
-
-1dl\=100c
-
-Prep Time:25 minutes
-
-Cook Time:12 hours
-
-Total Time:12 hours 25 minutes
-
-Course: Bread
-
-Cuisine: Danish
-
-Keyword: Healthy bread, Healthy breakfast, Nordic bread, Nordic recipe
-
- 
-
-Servings: [2](https://nordicfoodliving.com/danish-rye-bread-rugbrod/#) bread
-
- 
-
-Author: NordicFoodLiving.com
+*Source: nordicfoodliving.com*
 
 ## Ingredients
 
-[Metric](https://nordicfoodliving.com/danish-rye-bread-rugbrod/#) \- [US Customary](https://nordicfoodliving.com/danish-rye-bread-rugbrod/#)
-
-* 2 dl cracked rye kernels
-* 2 dl cracked wheat
-* 2 dl flax seed/linseeds
-* 2 dl sunflower seeds
-* 1 tbsp malt syrup (or dark syrup)
-* 4 dl sour dough
-* 8 dl water
-* 4 dl all\-purpose flour
-* 4 dl rye flour
-* 1 tbsp salt
-* 2 tbsp gravy browning (can be omitted)
+- 2 dl cracked rye kernels
+- 2 dl cracked wheat
+- 2 dl flax seed/linseeds
+- 2 dl sunflower seeds
+- 1 tbsp malt syrup or dark syrup
+- 4 dl sour dough
+- 8 dl water
+- 4 dl all-purpose flour
+- 4 dl rye flour
+- 1 tbsp salt
+- 2 tbsp gravy browning (optional)
 
 ## Instructions
 
-* In a large bowl; Add the cracked rye kernels, cracked wheat, flax seeds, sunflower seeds, water, malt syrup and the sour dough. Let it all soak for minimum 8 hours. This can with advantage be done in the evening, so that you can continue the morning after.
-
-* After about 8 hours; add the rest of the ingredients and let the rye bread dough rise for about 1\.5 hours.
-
-* Divide the dough into two portions and pour it into two normal bread pans. Cover the bread pans with some plastic wrap (or a damp dishtowel). Let the dough rise for about 1\-2 hours or until the bread pan is full of dough.
-
-* Bake the rye breads at 180 C (360 F) for about 1 hour.
-
-* When done; remove the breads for the bread pans and let them cool off. When the breads are cooled off; keep them in an air tight container or a plastic bag.
+1. In a large bowl, add the cracked rye kernels, cracked wheat, flax seeds, sunflower seeds, water, malt syrup and the sour dough, and let it all soak for a minimum of 8 hours.
+2. After about 8 hours, add the remaining ingredients and let the rye bread dough rise for about 1.5 hours.
+3. Divide the dough into two portions and pour it into two bread pans, cover with plastic wrap or a damp dishtowel, and let the dough rise for about 1-2 hours or until the bread pan is full of dough.
+4. Bake the rye breads at 180°C (360°F) for about 1 hour.
+5. Remove the breads from the pans and let them cool off, then keep them in an airtight container or plastic bag.
