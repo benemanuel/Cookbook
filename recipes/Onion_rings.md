@@ -29,7 +29,7 @@ steps:
   - Heat oil to 170°C.
   - Dip each onion ring in plain flour, then dip in the batter, and then coat with panko breadcrumbs mixed with breadcrumbs.
   - Fry the coated rings in hot oil for approximately 1 minute on each side until golden brown.
-labels: [dairy, cake]
+labels: [dairy, cake, alcohol]
 ---
 
 # Onion Rings

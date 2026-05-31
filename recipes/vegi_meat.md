@@ -25,7 +25,7 @@ steps:
   - Using your clean hands, knead everything together thoroughly until the grounds are uniformly coated.
   - Turn the mixture into the pan and spread out evenly, then bake for 45 minutes to 1 hour 15 minutes, stirring after 30 minutes and then every 15 minutes after that, until the meat is dry and brown.
   - Once the meat is cooked, cool, package, and freeze for later use, or use it right away; it will keep up to 3 days covered in the refrigerator or may be frozen.
-labels: [bread]
+labels: [bread, alcohol]
 ---
 
 # Homemade Veggie-Full Ground "Meat"

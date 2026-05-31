@@ -23,7 +23,7 @@ steps:
   - Wash off the meat and soak in cold water for 3 hours.
   - Mix together the ground fenugreek, sweet paprika, black pepper, cayenne pepper, cumin, coriander, ground garlic cloves, beet powder, and cognac.
   - Cover the meat with the spice mixture.
-labels: [meat]
+labels: [meat, alcohol, spice]
 ---
 
 # Cured Meat Basturma

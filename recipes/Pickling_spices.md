@@ -20,7 +20,7 @@ ingredients:
   - 2 teaspoons ground ginger
   - 1/2 stick cinnamon
 steps: null
-labels: []
+labels: [alcohol, spice, pickles]
 ---
 
 # Pickling Spices

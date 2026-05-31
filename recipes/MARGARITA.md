@@ -18,7 +18,7 @@ steps:
   - Shake vigorously.
   - Strain into chilled rocks glass with a salt rim over fresh ice.
   - Garnish with lime and enjoy.
-labels: []
+labels: [alcohol]
 ---
 
 # Margarita

@@ -37,7 +37,7 @@ steps:
   - Mix pecans, brown sugar, 42 grams flour, and 80 grams butter in a bowl until mixture resembles a coarse crumble.
   - Sprinkle the crumble mixture over the dough.
   - Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 45 minutes.
-labels: [dairy, cake]
+labels: [dairy, cake, alcohol]
 ---
 
 # Polish Cheese Cake

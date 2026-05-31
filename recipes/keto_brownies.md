@@ -28,7 +28,7 @@ steps:
   - Swirl the peanut butter into the batter.
   - Bake for 15-25 minutes, or until the center is just set and a toothpick inserted in the center comes out slightly moist.
   - Cut into 16 equally sized squares.
-labels: [dairy, cake]
+labels: [dairy, cake, pickles]
 ---
 
 # Keto Brownies

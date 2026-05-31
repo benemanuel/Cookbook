@@ -28,7 +28,7 @@ steps:
   - Add salt and pepper to taste, then allow to rest for at least 15 minutes, preferably longer.
   - Taste again and adjust with more salt, pepper, herbs, or acid as you see fit.
   - Refrigerate in a glass jar or tightly sealed plastic container for up to three days.
-labels: []
+labels: [alcohol, spice, pickles]
 ---
 
 # Chimichurri Sauce

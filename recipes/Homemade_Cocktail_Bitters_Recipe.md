@@ -32,7 +32,7 @@ steps:
   - Add the caramelized sugar to the alcohol and water mixture and let it dissolve within a few minutes.
   - Shake the bitters, then strain through cheesecloth to remove any sediment.
   - Pour into a bitters bottle or small decanter with a tight-sealing lid and store for up to 12 months unrefrigerated in a cool place.
-labels: [candy]
+labels: [candy, alcohol]
 ---
 
 # Homemade Cocktail Bitters

@@ -34,7 +34,7 @@ steps:
   - Working quickly, add the oil mixture to the pot with the lentils and stir to combine.
   - Simmer for 5 minutes or longer if you prefer your dhal to be a thicker consistency.
   - Serve with chopped fresh coriander if desired.
-labels: []
+labels: [alcohol]
 ---
 
 # Tarka Dhal

@@ -23,7 +23,7 @@ steps:
   - Pour into crust. Bake in the preheated oven for 15 minutes.
   - Reduce oven temperature to 350 degrees F (175 degrees C) and continue baking until a knife inserted 1 inch from the crust comes out clean, 35 to 40 minutes. Let cool before serving.
   - Enjoy!
-labels: [dairy]
+labels: [dairy, alcohol]
 ---
 
 # Perfect Pumpkin Pie

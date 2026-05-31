@@ -29,7 +29,7 @@ steps:
   - Place a heavy lidded casserole pot on the bottom shelf of the oven and preheat to 240°C/464°F/gas 9.
   - Bring your loaf out of the fridge and scatter semolina over the top, then carefully remove the hot pot from the oven, take off the lid and gently tip your dough out into the pot so the pattern is the right way up, score it with a sharp knife held at a 40 degree angle to the surface of the dough, and carefully cover and return to the oven.
   - Reduce the temperature to 230°C/446°F/gas 8 and bake for 30 minutes, then carefully remove the lid and bake for a final 20 minutes until a malted golden brown, and remove to a wire rack to cool.
-labels: [dairy, bread]
+labels: [dairy, bread, pickles]
 ---
 
 # Sourdough Bread

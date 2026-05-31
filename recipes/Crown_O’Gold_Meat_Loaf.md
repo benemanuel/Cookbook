@@ -30,7 +30,7 @@ steps:
   - Fold mustard gently into the egg white mixture.
   - Swirl the topping on the hot meat and return to the oven.
   - Bake for 20 to 25 minutes longer or until tipped with brown.
-labels: [meat, dairy]
+labels: [meat, dairy, alcohol]
 ---
 
 # Crown O'Gold Meat Loaf

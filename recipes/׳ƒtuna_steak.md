@@ -22,7 +22,7 @@ steps:
   - Marinate the tuna steaks in a mixture of orange juice, soy sauce, olive oil, lemon juice, parsley, garlic, and oregano for no more than 20 minutes.
   - Breadcrumb the tuna steaks before cooking.
   - Heat a skillet over high heat and cook the tuna steaks for 3-4 minutes on each side.
-labels: [meat, fish]
+labels: [meat, fish, alcohol]
 ---
 
 # Tuna Steak

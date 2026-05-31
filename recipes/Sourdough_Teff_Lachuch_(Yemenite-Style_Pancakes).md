@@ -27,7 +27,7 @@ steps:
   - Remove the pancake and place it on a clean kitchen towel.
   - Before cooking the next pancake, take the pan off the heat and wipe the surface with a very wet cloth or briefly run the bottom under cold water to lower the temperature.
   - Serve warm with Hilbeh, Skhug, melted butter, or honey.
-labels: [dairy, bread]
+labels: [dairy, bread, alcohol]
 ---
 
 # Sourdough Teff Lachuch (Yemenite-Style Pancakes)

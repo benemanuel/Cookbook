@@ -26,7 +26,7 @@ steps:
   - Place the filets on the grill skin side up and grill for 5-6 minutes.
   - Flip the salmon and grill for 8-10 minutes to an internal temperature of 62 degrees Celsius.
   - Remove from the grill and serve.
-labels: [fish]
+labels: [fish, alcohol]
 ---
 
 # Ninja Grilled Salmon

@@ -21,7 +21,7 @@ steps:
   - In a large pitcher or bottle, combine ¼ tsp banana peel flour, 30 ml apple cider vinegar, 30 ml molasses, lemon juice, and salt.
   - Add the strained ginger tea to the pitcher and pour in the remaining 1375 ml water, then stir or shake well.
   - Refrigerate for 1–2 hours for best flavor, shake before serving, and pour over ice or add a splash of sparkling water for fizz.
-labels: []
+labels: [alcohol, pickles]
 ---
 
 # Shelf-Stable Banana Peel Switchel

@@ -4,7 +4,7 @@ from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
 date: "Wed, 6 Dec 2023 16:21:37 +0200"
 date_parsed: 2023-12-06T16:21:37+02:00
-labels: [dairy, cake]
+labels: [dairy, cake, pickles]
 ---
 
 # Fwd: Oatmeal עוגיות

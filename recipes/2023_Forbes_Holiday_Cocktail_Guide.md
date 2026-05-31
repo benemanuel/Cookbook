@@ -1,6 +1,6 @@
 ---
 labels: [dairy, candy]
-labels: [dairy, candy]
+labels: [dairy, candy, alcohol, pickles]
 ---
 
 ```markdown

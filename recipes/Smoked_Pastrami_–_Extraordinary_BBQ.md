@@ -4,7 +4,7 @@ from: "Avi BenEmanuel <avi.wollman@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
 date: "Mon, 4 Mar 2024 09:27:38 +0200"
 date_parsed: 2024-03-04T09:27:38+02:00
-labels: [meat]
+labels: [meat, alcohol]
 ---
 
 # Smoked Pastrami – Extraordinary BBQ

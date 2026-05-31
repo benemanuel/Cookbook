@@ -18,7 +18,7 @@ steps:
   - Fill a glass with ice.
   - Add equal parts Drambuie, ginger ale, soda or sparkling white wine, and orange juice.
   - Garnish with grated ginger.
-labels: []
+labels: [alcohol]
 ---
 
 # Drambuie Cocktail

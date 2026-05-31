@@ -32,7 +32,7 @@ steps:
   - Pour batter into prepared pan and sprinkle streusel evenly over the top.
   - Bake for approximately 40 minutes, or until a toothpick comes out clean.
   - Cool before serving.
-labels: [dairy, bread, cake]
+labels: [dairy, bread, cake, alcohol]
 ---
 
 # Easy One-Bowl Yogurt Coffee Cake

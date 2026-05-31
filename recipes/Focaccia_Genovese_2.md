@@ -38,7 +38,7 @@ steps:
   - Bake for 13-15 minutes, then broil for around 3-5 minutes until the potatoes or onions and edges are slightly golden.
   - Transfer the focaccia to a wire rack to cool for 10 minutes.
   - Sprinkle with roughly chopped fresh herbs if using, slice, and enjoy.
-labels: [bread]
+labels: [bread, pickles]
 ---
 
 # Focaccia Genovese

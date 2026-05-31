@@ -41,7 +41,7 @@ steps:
   - Arrange the cut squares on top of the pudding mass.
   - Place the cake in the refrigerator for at least a few hours.
   - Sprinkle with powdered sugar and cut with a sharp serrated knife.
-labels: [dairy, bread, cake]
+labels: [dairy, bread, cake, pickles]
 ---
 
 # Napoleon (Cream Cake)

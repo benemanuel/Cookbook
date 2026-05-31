@@ -21,7 +21,7 @@ steps:
   - In a large bowl, gently combine all ingredients, roll into 1½-inch balls, and transfer to a baking sheet.
   - Broil until golden and firm for 7 to 10 minutes, or fry in oil until deeply browned all over.
   - Sprinkle with more salt before serving.
-labels: [meat]
+labels: [meat, alcohol, spice]
 ---
 
 # Meatballs with Any Meat

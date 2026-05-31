@@ -29,7 +29,7 @@ steps:
   - הברישו בחלמון וזרעו שומשום.
   - אפו ב-180 מעלות ללא מצב טורבו למשך חצי שעה.
   - הגישו את ה-Strudel.
-labels: [dairy]
+labels: [dairy, pickles]
 ---
 
 # Apple Strudel

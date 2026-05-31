@@ -9,7 +9,7 @@ attachments:
     type: "application/pdf"
     size: 5017280
     local_path: "attachments\\2019-02-28_22-53-41_How_to_make_sticky_toffee_pudding_\u2013_recipe_Felicity_Cloake\u2019s_masterclass_1\\How_to_make_sticky_toffee_pudding_\u2013_recipe_Felicity_Cloake\u2019s_masterclass_Food_The_Guardian.pdf"
-labels: [dairy, cake, candy]
+labels: [dairy, cake, candy, alcohol]
 ---
 
 # How to make sticky toffee pudding – recipe | Felicity Cloake’s masterclass

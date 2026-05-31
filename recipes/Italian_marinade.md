@@ -24,7 +24,7 @@ ingredients:
   - 1 teaspoon red pepper flakes, or to taste
 steps:
   - Combine the olive oil, red wine vinegar, lemon zest, lemon juice, garlic, bay leaf, thyme, oregano, basil, sugar, salt, pepper, and red pepper flakes in a bowl and whisk until well blended.
-labels: [cake]
+labels: [cake, alcohol, pickles]
 ---
 
 # Italian Marinade

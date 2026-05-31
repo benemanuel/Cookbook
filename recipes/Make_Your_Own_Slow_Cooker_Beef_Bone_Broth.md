@@ -24,7 +24,7 @@ steps:
   - "Carefully remove the larger pieces with a slotted spoon and place them in a colander set over a large bowl to collect the excess broth. Then, strain the broth through a fine meshed sieve, or through a strainer that&#39;s been lined with cheesecloth."
   - Transfer the bone broth into jars and refrigerate promptly. When cooled, remove fat layer and save it for cooking.
   - Reheat before serving and season to taste.
-labels: [meat]
+labels: [meat, alcohol, pickles]
 ---
 
 # Slow Cooker Beef Bone Broth

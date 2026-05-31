@@ -38,7 +38,7 @@ steps:
   - Transfer to baking sheet.
   - Brush biscuit tops with 2 Tbsp. melted butter and sprinkle with sea salt if desired.
   - Bake biscuits until tall and golden and an instant-read thermometer inserted into the side of a biscuit registers 205°F, 12–15 minutes.
-labels: [dairy, bread, cake]
+labels: [dairy, bread, cake, alcohol]
 ---
 
 # Sourdough Biscuits

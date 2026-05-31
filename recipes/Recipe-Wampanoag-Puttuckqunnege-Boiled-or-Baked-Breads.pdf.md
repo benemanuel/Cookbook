@@ -21,7 +21,7 @@ steps:
   - When the mix is thick enough to be sticky, shape round patties (about 3 inches in diameter and 1/2 inch thick).
   - Return water to slight rolling boil and drop in 1 or 2 patties, carefully making sure they do not stick to the bottom.
   - Remove breads when they begin to float.
-labels: [bread]
+labels: [alcohol]
 ---
 
 # Boiled Corn Bread (Puttuckqunnege)

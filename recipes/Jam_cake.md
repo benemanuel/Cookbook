@@ -22,7 +22,7 @@ ingredients:
   - Lemon peel
   - Salt to taste
 steps: null
-labels: [dairy, cake]
+labels: [dairy, cake, pickles]
 ---
 
 # Jam Cake

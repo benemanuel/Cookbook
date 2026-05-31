@@ -21,7 +21,7 @@ steps:
   - Add the garlic and Parmesan or Romano cheese and pulse several times more. Scrape down the sides of the food processor with a rubber spatula.
   - While the food processor is running, slowly add the olive oil in a steady small stream. Adding the olive oil slowly while the processor is running will help it emulsify and help keep the olive oil from separating. Occasionally, stop to scrape down the sides of the food processor.
   - "Add salt and freshly ground black pepper to taste. Toss with pasta for a quick sauce, dollop over baked potatoes, or spread onto crackers or toasted slices of bread. Did you enjoy this recipe? Let us know with a rating and review!"
-labels: [dairy]
+labels: [dairy, alcohol]
 ---
 
 # Fresh Basil Pesto

@@ -38,7 +38,7 @@ steps:
   - In the bowl of a stand mixer fitted with the whisk attachment (or you can whisk vigorously by hand), combine both sugars, milk powder, and salt in medium bowl to blend. Add melted butter and whisk until blended. Add cream, then egg yolks and vanilla, and whisk until well combined and mixture is pale in color.
   - Pour filling into crust. Bake pie at 350° F for 20 minutes (filling may begin to bubble). Reduce oven temperature to 325° F. Continue to bake pie until filling is brown in spots and set around edges but center still moves slightly when pie dish is gently shaken, about 15 to 20 minutes longer. Cool pie 2 hours in pie dish on rack. Chill uncovered overnight.
   - Sift powdered sugar lightly over top of pie. Cut pie into wedges and serve cold.
-labels: [dairy, cake]
+labels: [dairy, cake, alcohol]
 ---
 
 # Milk Bar Crack Pie

@@ -25,7 +25,7 @@ steps:
   - Stir or shake the mixture well.
   - Refrigerate for at least 1 hour or overnight for full flavor development.
   - Shake or stir before pouring and serve cold over ice, or mix with sparkling water if desired.
-labels: []
+labels: [alcohol, pickles]
 ---
 
 # Switchel (Haymaker's Punch)

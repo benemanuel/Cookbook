@@ -26,7 +26,7 @@ steps:
   - Combine all dried herbs and spices in a bowl or jar.
   - Mix thoroughly until well blended.
   - Store in an airtight container.
-labels: []
+labels: [spice]
 ---
 
 # Make Your Own Herbes de Provence

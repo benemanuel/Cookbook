@@ -32,7 +32,7 @@ steps:
   - Brush with leftover egg whites for a glossy finish.
   - Bake for around 50 minutes or until golden brown and a knife comes out clean.
   - Let it cool.
-labels: [dairy, cake]
+labels: [dairy, cake, pickles]
 ---
 
 # Armenian Perok Cake

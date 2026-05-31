@@ -19,7 +19,7 @@ steps:
   - Muddle the basil leaves.
   - Shake with ice.
   - Double strain into a glass with a large rock.
-labels: []
+labels: [alcohol]
 ---
 
 # Gin & Basil Smash

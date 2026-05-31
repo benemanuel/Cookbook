@@ -23,7 +23,7 @@ ingredients:
   - 1/2 tsp dried marjoram or dried oregano
   - Salt and freshly cracked black pepper
 steps: null
-labels: [meat]
+labels: [meat, spice]
 ---
 
 # Chilli Con Carne

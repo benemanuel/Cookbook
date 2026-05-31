@@ -43,7 +43,7 @@ steps:
   - Place the pan in the center of the oven and bake for 7 minutes at 425ºF, then reduce the temperature to 350ºF and bake for 16-20 minutes until a toothpick inserted in the center comes out clean.
   - Allow the muffins to cool in the pan for 15 minutes before removing, then repeat with the remaining batter.
   - For the optional glaze, combine the powdered sugar, vanilla extract and milk in a small mixing bowl, adjusting thickness by adding more powdered sugar if needed, then drizzle over the muffins.
-labels: [dairy, cake]
+labels: [dairy, cake, alcohol]
 ---
 
 # Crumb Cake Muffins

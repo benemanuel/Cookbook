@@ -10,7 +10,7 @@ cook_minutes: null
 imported_at: 2026-05-31
 ingredients: null
 steps: null
-labels: []
+labels: [alcohol, pickles]
 ---
 
 # Brine Calculator - Brine Salt to Water Ratio

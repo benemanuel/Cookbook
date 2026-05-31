@@ -29,7 +29,7 @@ steps:
   - Optional: place the apple crumble under a hot grill for 30 to 45 seconds to brown the topping, watching carefully to avoid burning.
   - Leave the crumble to cool for at least 15 minutes before serving.
   - Serve hot or cold with ice cream, cream, or custard.
-labels: [dairy]
+labels: [dairy, alcohol]
 ---
 
 # Apple Crumble

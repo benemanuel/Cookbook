@@ -15,7 +15,7 @@ ingredients:
   - 35 grams coarse sea salt
   - 1 tablespoon pickling spice
 steps: null
-labels: [meat]
+labels: [meat, spice, pickles]
 ---
 
 # Pickled Tongue

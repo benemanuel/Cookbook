@@ -9,7 +9,7 @@ attachments:
     type: image/jpeg
     size: 396837
   - fish
-labels: [meat, fish]
+labels: [meat, fish, alcohol]
 ---
 
 # ׃tuna steak

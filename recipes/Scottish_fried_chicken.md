@@ -30,7 +30,7 @@ steps:
   - Set coated chicken on wire rack to let coating sit for 10 minutes.
   - In 2 batches, fry chicken until golden brown on both sides and cooked through, 15 to 20 minutes depending on the size of the piece.
   - Remove chicken from oil and drain on paper towel-lined plate.
-labels: [meat]
+labels: [alcohol, pickles]
 ---
 
 # Scottish Fried Chicken

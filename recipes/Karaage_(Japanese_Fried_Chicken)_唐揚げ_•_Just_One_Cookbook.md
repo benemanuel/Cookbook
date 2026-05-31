@@ -39,7 +39,7 @@ steps:
   - The left photo shows the chicken pieces after the first fry and the right photo shows them after the second fry. The chicken pieces on the right are slightly darker in color.
   - Serve the chicken hot with lemon wedges and a dipping plate of Japanese Kewpie mayonnaise. You can also sprinkle shichimi togarashi (Japanese seven spice) on the mayo for a bit of spice, if desired.
   - Let it cool completely and transfer to an airtight container. You can store it in the refrigerator for up to 3 days and in the freezer for up to a month.
-labels: [meat]
+labels: [meat, alcohol]
 ---
 
 # Karaage (Japanese Fried Chicken)

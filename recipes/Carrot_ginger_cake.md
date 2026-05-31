@@ -39,7 +39,7 @@ steps:
   - Divide the batter between the prepared pans. Bake until a toothpick inserted into the center comes out clean, about 35 minutes. Transfer to a rack and let cool 10 minutes in the pans, then remove to the rack to cool completely; remove the parchment. (The cake layers can be made a day ahead; let cool completely, then wrap in plastic wrap.)
   - "Make the frosting: Peel the ginger and grate onto a piece of cheesecloth. Wrap in the cheesecloth and squeeze the juice into a small bowl (you should get about 1 tablespoon). Add the orange juice and vanilla to the bowl. Beat the cream cheese and butter in a large bowl with a mixer on medium-high speed until smooth, about 2 minutes. Beat in the juice mixture. Reduce the mixer speed to low and gradually beat in the confectioners' sugar. Increase the mixer speed to high and beat until smooth, about 2 more minutes."
   - "Place 1 cake layer on a platter, rounded-side down. Spread with 1 cup frosting, then top with the second cake layer, rounded-side down. Cover the top and sides with the remaining frosting. Press the remaining walnuts into the sides of the cake. Refrigerate at least 1 hour before serving."
-labels: [dairy, cake]
+labels: [dairy, cake, alcohol]
 ---
 
 # Carrot Cake with Ginger Cream Cheese Frosting

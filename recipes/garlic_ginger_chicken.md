@@ -27,7 +27,7 @@ steps:
   - Place a wonton wrapper on a clean surface, place 1 heaping teaspoon of filling in the center, moisten the edges with water, fold over, and press to seal, then pleat the edges to form a dumpling shape and repeat with remaining wrappers and filling.
   - Heat 1 Tbsp vegetable oil in a large non-stick skillet over medium-high heat, working in batches, add dumplings flat-side down and cook until the bottoms are golden, 2–3 minutes.
   - Add 2–3 Tbsp water to the pan, cover immediately, and steam until cooked through, about 3–4 minutes, then remove lid and let any remaining water evaporate and repeat with remaining dumplings.
-labels: [meat]
+labels: [meat, alcohol, pickles]
 ---
 
 # Garlic Ginger Chicken Potstickers

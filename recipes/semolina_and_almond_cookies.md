@@ -35,7 +35,7 @@ steps:
   - Place balls 2 inches apart on the lined baking sheets, then use your thumb to push down the center of each cookie, pressing firmly enough to make an indentation and to cause the edges to crack.
   - Bake for 14 to 16 minutes, rotating pans top to bottom and front to back after 8 minutes, or until cookies are lightly colored with golden bottoms, puffed, dramatically cracked and just firm to the touch.
   - Carefully lift the cookies off sheets and onto racks.
-labels: [bread, cake]
+labels: [bread, cake, alcohol]
 ---
 
 # Semolina and Almond Cookies

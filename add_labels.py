@@ -92,6 +92,49 @@ CONTENT_KEYWORDS = {
         'קרמל': 2, 'טופי': 3, 'נוגט': 3, 'מרציפן': 3, 'חלבה': 3,
         'כדורי אנרגיה': 3, 'ממתק': 2,
     },
+    'alcohol': {
+        'vodka': 3, 'whiskey': 3, 'whisky': 3, 'bourbon': 3, 'rum': 3,
+        'gin': 3, 'tequila': 3, 'brandy': 3, 'cognac': 3, 'armagnac': 3,
+        'wine': 2, 'red wine': 3, 'white wine': 3, 'champagne': 3, 'prosecco': 3,
+        'beer': 2, 'ale': 2, 'lager': 2, 'stout': 2,
+        'liqueur': 3, 'schnapps': 3, 'vermouth': 3, 'kahlua': 3,
+        'baileys': 3, 'drambuie': 3, 'cointreau': 3, 'triple sec': 3,
+        'amaretto': 3, 'frangelico': 3, 'limoncello': 3,
+        'cocktail': 2, 'bitters': 3, 'simple syrup': 2, 'muddle': 3,
+        'infuse': 2, 'ferment': 2, 'kombucha': 3, 'ginger beer': 3,
+        'mead': 3, 'cider': 2, 'hard cider': 3,
+        # Hebrew
+        'וודקה': 3, 'ויסקי': 3, 'רום': 3, 'ג\'ין': 3, 'טקילה': 3,
+        'יין': 2, 'בירה': 2, 'ליקר': 3, 'קוקטייל': 2, 'קומבוצ\'ה': 3,
+    },
+    'spice': {
+        'spice blend': 3, 'spice mix': 3, 'spice rub': 3, 'spice paste': 3,
+        'herb blend': 3, 'herb mix': 3, 'herbes de provence': 3,
+        'ras el hanout': 3, 'za\'atar': 3, 'baharat': 3, 'dukkah': 3,
+        'garam masala': 3, 'curry powder': 3, 'chili powder': 3,
+        'taco seasoning': 3, 'italian seasoning': 3, 'old bay': 3,
+        'pickling spice': 3, 'mulling spice': 3,
+        'dry rub': 3, 'seasoning blend': 3, 'masala': 2,
+        'pumpkin spice': 3, 'chimichurri': 3, 'harissa': 3,
+        'zhug': 3, 'chermoula': 3, 'dukka': 3,
+        # Hebrew
+        'תבלין': 2, 'תערובת תבלינים': 3, 'זעתר': 3, 'בהרט': 3,
+        'חריסה': 3, 'שוג': 3, 'קארי': 2,
+    },
+    'pickles': {
+        'brine': 2, 'pickling': 3, 'pickled': 2, 'pickle': 2,
+        'fermented': 2, 'lacto-ferment': 3, 'lacto ferment': 3,
+        'canning': 2, 'water bath': 2, 'preserve': 2, 'preserving': 2,
+        'jam': 2, 'jelly': 2, 'marmalade': 3, 'chutney': 3, 'relish': 3,
+        'sauerkraut': 3, 'kimchi': 3, 'giardiniera': 3,
+        'vinegar': 2, 'apple cider vinegar': 2, 'white vinegar': 2,
+        'salt water': 2, 'salt brine': 3, 'pickling salt': 3,
+        'dill pickle': 3, 'bread and butter pickle': 3,
+        # Hebrew
+        'כבוש': 2, 'כבושים': 2, 'חמוצים': 2, 'מלפפון חמוץ': 3,
+        'ריבה': 2, 'מרמלדה': 3, 'צ\'אטני': 3, 'רלישׁ': 3,
+        'תסיסה': 3, 'מי מלח': 2,
+    },
 }
 
 # Filename & subject patterns — broader than content keywords
@@ -154,6 +197,37 @@ SLUG_PATTERNS = {
         'venetian_charoset',
         # Hebrew
         'חלבה', 'נוגט', 'מרציפן', 'קרמל', 'ממתק', 'חטיף_תמרים', 'חטיף תמרים',
+    ],
+    'alcohol': [
+        'cocktail', 'liqueur', 'bitters', 'kombucha', 'ginger_beer',
+        'vodka', 'whiskey', 'whisky', 'bourbon', 'rum', 'gin', 'tequila',
+        'brandy', 'wine', 'beer', 'mead', 'cider', 'bloody_mary',
+        'margarita', 'kalua', 'baileys', 'drambuie', 'coffee_liqueur',
+        'cherry_bounce', 'nocino', 'pomegranate_liqueur', 'chestnut_liquor',
+        'georgian_tarragon', 'cranberry_ginger_shandy', 'switchel',
+        'root_beer', 'tonic_water', 'ginger_soda', 'pipitada',
+        'electrolyte', 'detox_juice',
+        # Hebrew
+        'יין', 'בירה', 'ליקר', 'קוקטייל', 'לילות_ביירות',
+    ],
+    'spice': [
+        'spice', 'seasoning', 'rub', 'herbes_de_provence', 'chimichurri',
+        'harissa', 'za_atar', 'baharat', 'garam_masala', 'masala',
+        'pumpkin_spice', 'pickling_spice', 'brine_calculator',
+        'chinese_salad_dressing', 'italian_marinade', 'italian_dressing',
+        'make_your_own_herbes', 'sage_oil', 'garlic_sauce',
+        # Hebrew
+        'תבלין', 'זעתר', 'בהרט', 'חריסה',
+    ],
+    'pickles': [
+        'pickle', 'pickled', 'ferment', 'brine', 'sauerkraut', 'kimchi',
+        'relish', 'marmalade', 'chutney', 'jam', 'preserve', 'conserve',
+        'formented_lemons', 'kolrabi_pickels', 'pickled_artichokes',
+        'pickled_beets', 'pickled_tongue', 'glyko_karydaki', 'seville_orange',
+        'tomato_jam', 'end_of_season_zucchini', 'mango_pickle',
+        'fire_cider', 'garlic_pickle',
+        # Hebrew
+        'כבוש', 'כבושים', 'חמוצים', 'ריבה', 'מרמלדה',
     ],
 }
 

@@ -30,7 +30,7 @@ steps:
   - Final proof for 3-4 hours until the size doubles.
   - Garnish with dried fenugreek leaves and fresh coriander leaves before baking.
   - Bake for 4 minutes at 180°C in a combi oven.
-labels: [dairy, bread]
+labels: [dairy, bread, alcohol]
 ---
 
 # Sourdough Kulchas

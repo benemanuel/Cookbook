@@ -4,7 +4,7 @@ from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
 date: "Sun, 4 Aug 2024 07:43:39 +0300"
 date_parsed: 2024-08-04T07:43:39+03:00
-labels: []
+labels: [alcohol, pickles]
 ---
 
 # pickled beets סלק כבוש
