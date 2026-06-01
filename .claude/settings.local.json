@@ -35,7 +35,9 @@
       "Bash(git rm *)",
       "Bash(Select-String -Pattern \"SWIRLED|GARLIC_HERB\")",
       "Bash(git mv *)",
-      "WebFetch(domain:my.vinst.me)"
+      "WebFetch(domain:my.vinst.me)",
+      "WebFetch(domain:www.hashulchan.co.il)",
+      "WebFetch(domain:webcache.googleusercontent.com)"
     ]
   }
 }
