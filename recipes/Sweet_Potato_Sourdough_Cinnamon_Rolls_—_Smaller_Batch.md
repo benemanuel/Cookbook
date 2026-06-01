@@ -44,7 +44,7 @@ steps:
   - While rolls cool, beat cream cheese, mascarpone, butter, powdered sugar, and vanilla together until smooth.
   - Frost cooled rolls generously with the mascarpone frosting.
 
-labels: [dairy, bread, cake, drinks, vegetables, fermentation]
+labels: [dairy, cake]
 ---
 
 # Sweet Potato Sourdough Cinnamon Rolls — Smaller Batch
@@ -67,10 +67,11 @@ labels: [dairy, bread, cake, drinks, vegetables, fermentation]
 **Filling**
 - 145 g butter
 - 115 g demerara sugar
-- 1¼ tsp cinnamon
-- ¾ tsp nutmeg
-- ¾ tsp ginger
-- ¾ tsp cloves
+- 6 tsp pumpkin spice mix
+  - 1¼ tsp cinnamon
+  - ¾ tsp nutmeg
+  - ¾ tsp ginger
+  - ¾ tsp cloves
 
 **Frosting**
 - 95 g cream cheese
@@ -88,7 +89,9 @@ labels: [dairy, bread, cake, drinks, vegetables, fermentation]
 5. Mix until dough is soft, elastic, and slightly tacky, being conservative with milk as sweet potato varies.
 6. Develop gluten fully after butter incorporation until the dough reaches proper consistency.
 7. Mix filling ingredients together, combining butter, demerara sugar, cinnamon, nutmeg, ginger, and cloves.
-8. Roll out proofed dough, spread filling evenly, roll into a log, and cut into 8–10 medium rolls.
-9. Proof rolls until puffy, then bake according to your recipe instructions.
-10. While rolls cool, beat cream cheese, mascarpone, butter, powdered sugar, and vanilla together until smooth.
-11. Frost cooled rolls generously with the mascarpone frosting.
+8. Roll out proofed dough, spread filling evenly, roll into a log, and cut into 8-12 small rolls.
+9. Proof rolls until puffy, 3–5 hours.
+10. Bake at 175°C for 25–30 minutes, until internal 85°C.
+11. Frost the warm rolls with the cream cheese & mascarpone frosting mixture.
+
+

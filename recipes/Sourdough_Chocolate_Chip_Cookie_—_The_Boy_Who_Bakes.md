@@ -16,7 +16,7 @@ ingredients:
   - 220g caster sugar
   - 220g light brown sugar
   - 3 large egg yolks
-  - 150g sourdough starter (50% hydration)
+  - 150g sourdough stiff starter (50% hydration)
   - 83ml milk
   - 1 tsp vanilla extract
   - 350g 70% dark chocolate, roughly chopped or chips
@@ -33,7 +33,7 @@ steps:
   - Portion the dough onto parchment-lined baking trays using 40g portions and sprinkle each cookie lightly with flaky sea salt and chili powder.
   - Bake at 180°C in a conventional oven or 160°C in a fan oven for 12–15 minutes depending on cookie size, adding 1–2 minutes if baking from frozen, until the edges are set and lightly browned while the centers remain slightly soft.
   - Allow the cookies to cool on the tray for 10 minutes before transferring to a rack.
-labels: [dairy, bread, cake, sauce, spice, fermentation]
+labels: [dairy, cookies]
 ---
 
 # Sourdough Chocolate Chip Cookie

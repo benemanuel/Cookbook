@@ -34,7 +34,7 @@ steps:
   - Whilst the wings are baking, place all barbecue sauce ingredients in a saucepan and mix together.
   - Heat over a medium-high heat until boiling, then simmer for 5 minutes and turn off the heat.
   - Toss the barbecue sauce with the wings and serve straightaway.
-labels: [meat, cake, soup, sauce, drinks, vegetables, pickles]
+labels: [meat]
 ---
 
 # Crispy Baked Chicken Wings
@@ -70,3 +70,7 @@ labels: [meat, cake, soup, sauce, drinks, vegetables, pickles]
 8. Whilst the wings are baking, place all barbecue sauce ingredients in a saucepan and mix together.
 9. Heat over a medium-high heat until boiling, then simmer for 5 minutes and turn off the heat.
 10. Toss the barbecue sauce with the wings and serve straightaway.
+
+## Notes
+ninja air fryer with smke 200 for 20-30 minutes, flip middle cooking
+cornstarch and chicken soup mix with the backing powder

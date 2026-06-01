@@ -42,7 +42,7 @@ steps:
   - Proof for 3–5 hours.
   - Bake at 175°C for 25–30 minutes.
   - Frost the warm rolls with the cream cheese mixture.
-labels: [dairy, bread, cake, drinks, vegetables, fermentation]
+labels: [dairy, cake]
 ---
 
 # Sweet Potato Sourdough Cinnamon Rolls
@@ -66,10 +66,11 @@ labels: [dairy, bread, cake, drinks, vegetables, fermentation]
 **Filling**
 - 345 g butter
 - 270 g demerara sugar
-- 3 tsp cinnamon
-- 2 tsp nutmeg
-- 2 tsp ginger
-- 2 tsp cloves
+- 9 tsp pumpkin spice mix
+  - 3 tsp cinnamon
+  - 2 tsp nutmeg
+  - 2 tsp ginger
+  - 2 tsp cloves
 
 **Frosting**
 - 230 g cream cheese
@@ -89,5 +90,5 @@ labels: [dairy, bread, cake, drinks, vegetables, fermentation]
 7. Refrigerate overnight.
 8. Roll dough to 0.5 cm thickness, spread filling evenly, roll up, and cut into 5 cm pieces.
 9. Proof for 3–5 hours.
-10. Bake at 175°C for 25–30 minutes.
+10. Bake at 175°C for 25–30 minutes, until internal 85°C.
 11. Frost the warm rolls with the cream cheese mixture.

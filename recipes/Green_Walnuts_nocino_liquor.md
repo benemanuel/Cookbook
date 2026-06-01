@@ -1,48 +1,66 @@
 ---
 schema_version: 1
-title: Walnut Nocino
-url: https://modernfarmer.com/2022/06/slow-drinks-nocino-green-walnuts/
-source: modernfarmer.com
+title: Green Walnuts Nocino Liqueur
+url: null
+source: null
 image: null
 servings: null
 prep_minutes: null
 cook_minutes: null
 imported_at: 2026-05-31
 ingredients:
-  - 2 quarts immature walnuts
-  - 6 cups 151 proof vodka (such as Devil's Springs or Everclear)
-  - 4 cups water
+  - 600 grams green walnuts, washed and quartered
+  - 5 nutmeg pods
+  - 7 cloves
+  - 4 grams cinnamon sticks (2 types)
+  - 1 star anise
+  - 5 cardamom pods
+  - 3 juniper berries
+  - 1 lemon rind
+  - 400 milliliters 96% alcohol
+  - 920 milliliters water
   - 2 tablespoons Angostura bitters
-  - 1 cup rich demerara syrup
+  - 1 cup plus 2 tablespoons demerara sugar
+  - ¼ cup plus 2 tablespoons water
 steps:
-  - On or around June 24, harvest your walnuts.
-  - That same day, cut them in half and place them in a two-quart mason jar.
-  - Cover them with 151 proof vodka.
-  - Let it macerate at room temperature for approximately five months.
-  - In late November or early December, strain out the black walnuts and reserve the liquid (should yield around four cups).
-  - Add four cups of water, two tablespoons of Angostura bitters and one cup of rich demerara syrup to the reserved liquid.
-  - It will keep indefinitely at room temperature.
-labels: [drinks, fermentation]
+  - Pick green walnuts near the beginning of summer between June 6 and June 24.
+  - Wash and quarter the green walnuts.
+  - Combine the quartered green walnuts, nutmeg, cloves, cinnamon sticks, star anise, cardamom pods, juniper berries, and lemon rind in a container.
+  - Add 400 milliliters of 96% alcohol to the walnut and spice mixture.
+  - Steep the mixture for 6 months.
+  - Filter the steeped mixture after 6 months.
+  - Make a rich demerara syrup by cooking 1 cup plus 2 tablespoons demerara sugar with ¼ cup plus 2 tablespoons water.
+  - Add 920 milliliters of water and 2 tablespoons of Angostura bitters to the filtered walnut liqueur.
+  - Add the cooled demerara syrup to the liqueur and stir to combine.
+labels: [drinks, spice, fermentation]
 ---
 
-# Walnut Nocino
-
-*Source: modernfarmer.com*
+# Green Walnuts Nocino Liqueur
 
 ## Ingredients
 
-- 2 quarts immature walnuts
-- 6 cups 151 proof vodka (such as Devil's Springs or Everclear)
-- 4 cups water
+- 600 grams green walnuts, washed and quartered
+- 5 nutmeg pods
+- 7 cloves
+- 4 grams cinnamon sticks (2 types)
+- 1 star anise
+- 5 cardamom pods
+- 3 juniper berries
+- 1 lemon rind
+- 400 milliliters 96% alcohol
+- 920 milliliters water
 - 2 tablespoons Angostura bitters
-- 1 cup rich demerara syrup
+- 1 cup plus 2 tablespoons demerara sugar
+- ¼ cup plus 2 tablespoons water
 
 ## Instructions
 
-1. On or around June 24, harvest your walnuts.
-2. That same day, cut them in half and place them in a two-quart mason jar.
-3. Cover them with 151 proof vodka.
-4. Let it macerate at room temperature for approximately five months.
-5. In late November or early December, strain out the black walnuts and reserve the liquid (should yield around four cups).
-6. Add four cups of water, two tablespoons of Angostura bitters and one cup of rich demerara syrup to the reserved liquid.
-7. It will keep indefinitely at room temperature.
+1. Pick green walnuts near the beginning of summer between June 6 and June 24.
+2. Wash and quarter the green walnuts.
+3. Combine the quartered green walnuts, nutmeg, cloves, cinnamon sticks, star anise, cardamom pods, juniper berries, and lemon rind in a container.
+4. Add 400 milliliters of 96% alcohol to the walnut and spice mixture.
+5. Steep the mixture for 6 months.
+6. Filter the steeped mixture after 6 months.
+7. Make a rich demerara syrup by cooking 1 cup plus 2 tablespoons demerara sugar with ¼ cup plus 2 tablespoons water.
+8. Add 920 milliliters of water and 2 tablespoons of Angostura bitters to the filtered walnut liqueur.
+9. Add the cooled demerara syrup to the liqueur and stir to combine.

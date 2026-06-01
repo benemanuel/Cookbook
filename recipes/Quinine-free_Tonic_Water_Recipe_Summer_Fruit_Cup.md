@@ -1,11 +1,11 @@
 ---
 schema_version: 1
-title: Quinine-free Tonic Water Recipe
-url: https://summerfruitcup.wordpress.com/2011/07/01/quinine-free-tonic-recipe/
-source: summerfruitcup.wordpress.com
+title: Quinine-free Tonic Water
+url: null
+source: null
 image: null
 servings: null
-prep_minutes: null
+prep_minutes: 5
 cook_minutes: 20
 imported_at: 2026-05-31
 ingredients:
@@ -14,21 +14,21 @@ ingredients:
   - 1.5 tsp citric acid
   - 1 tsp gentian root
   - 8 juniper berries, crushed
-  - Pinch of spice
+  - Pinch of spice (allspice, Chinese five spice, cinnamon, nutmeg, ginger, or chili pepper)
   - 180 ml water
   - 5 tsp sugar
 steps:
-  - Add the lime zest, lemon zest, citric acid, gentian root, crushed juniper berries, spice, and water to a small saucepan.
-  - Bring the mixture to a boil and simmer for 20 minutes.
-  - Strain the mixture and stir in the sugar, ensuring it dissolves completely.
-  - Allow the syrup to cool completely, then bottle and keep refrigerated.
+  - Add zest, citric acid, gentian root, crushed juniper berries, and spice to a small saucepan.
+  - Bring to the boil and simmer for 20 minutes.
+  - Strain the mixture through a fine sieve.
+  - Stir in sugar, ensuring it dissolves completely.
+  - Allow to cool completely.
+  - Bottle and keep refrigerated.
   - To drink, mix 3:1 or 4:1 with soda or sparkling water.
-labels: [soup, sauce, fermentation]
+labels: [soup, sauce, drinks, vegetables, fermentation]
 ---
 
-# Quinine-free Tonic Water Recipe
-
-*Source: summerfruitcup.wordpress.com*
+# Quinine-free Tonic Water
 
 ## Ingredients
 
@@ -37,14 +37,16 @@ labels: [soup, sauce, fermentation]
 - 1.5 tsp citric acid
 - 1 tsp gentian root
 - 8 juniper berries, crushed
-- Pinch of spice
+- Pinch of spice (allspice, Chinese five spice, cinnamon, nutmeg, ginger, or chili pepper)
 - 180 ml water
 - 5 tsp sugar
 
 ## Instructions
 
-1. Add the lime zest, lemon zest, citric acid, gentian root, crushed juniper berries, spice, and water to a small saucepan.
-2. Bring the mixture to a boil and simmer for 20 minutes.
-3. Strain the mixture and stir in the sugar, ensuring it dissolves completely.
-4. Allow the syrup to cool completely, then bottle and keep refrigerated.
-5. To drink, mix 3:1 or 4:1 with soda or sparkling water.
+1. Add zest, citric acid, gentian root, crushed juniper berries, and spice to a small saucepan.
+2. Bring to the boil and simmer for 20 minutes.
+3. Strain the mixture through a fine sieve.
+4. Stir in sugar, ensuring it dissolves completely.
+5. Allow to cool completely.
+6. Bottle and keep refrigerated.
+7. To drink, mix 3:1 or 4:1 with soda or sparkling water.
