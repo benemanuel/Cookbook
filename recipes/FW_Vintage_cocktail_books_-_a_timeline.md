@@ -10,7 +10,7 @@ cook_minutes: null
 imported_at: 2026-05-31
 ingredients: null
 steps: null
-labels: [drinks]
+labels: [drinks, info]
 ---
 
 # Vintage Cocktail Books - A Timeline

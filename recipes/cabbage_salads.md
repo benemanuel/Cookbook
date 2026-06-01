@@ -10,7 +10,7 @@ cook_minutes: null
 imported_at: 2026-05-31
 ingredients: null
 steps: null
-labels: [sauce, drinks, vegetables, pickles]
+labels: [sauce, drinks, vegetables, pickles, info]
 ---
 
 # Cabbage Salads Collection
