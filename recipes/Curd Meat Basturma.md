@@ -22,6 +22,12 @@ labels: [meat]
 
 # Curd Meat Basturma
 
+## Ingredients
+
+- Beef or lamb (whole cut, trimmed)
+- Curing salt
+- Smoking wood
+
 ## Instructions
 
 1. Hang the meat in the refrigerator on a wire rack at temperatures between 34-40°F (1-4°C) to allow airflow.

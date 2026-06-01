@@ -41,3 +41,16 @@ labels: [drinks, vegetables, pickles]
 - 8 Belgian endive (trimmed and cored), leaves separated
 - 8 to 10 small black radishes, sliced very thin on a mandoline (may substitute 4 tender young turnips)
 - Leaves from 0.5 bunches flat-leaf parsley, torn
+
+## Instructions
+Step 1
+Combine the vinegar, honey, lemon juice and cinnamon sticks in a small saucepan over medium-high heat. Once the mixture comes to a boil, cook for 10 to 15 minutes, stirring occasionally, until it has reduced to a syrupy 6 to 7 tablespoons. Remove from the heat; let cool completely, then discard the cinnamon sticks.
+
+Step 2
+Whisk in the oil, along with the salt and a good pinch of pepper.
+
+Step 3
+Just before serving, cut the apples horizontally into very thin slices, discarding any seeds. Place them in a large serving bowl along with the endive, radish and parsley. Pour the dressing over and toss gently to coat.
+
+Step 4
+Serve right away.

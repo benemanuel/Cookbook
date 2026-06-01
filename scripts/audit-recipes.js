@@ -12,8 +12,8 @@ const RECIPES_DIR = path.join(__dirname, '..', 'recipes');
 
 // ── Section header regexes (Hebrew + English) ─────────────────────────────────
 
-const INGREDIENTS_RE  = /^##\s+(Ingredients|מצרכים|רכיבים|חומרים)/im;
-const INSTRUCTIONS_RE = /^##\s+(Instructions|Directions|Method|Steps|הכנה|הוראות|אופן הכנה)/im;
+const INGREDIENTS_RE  = /^##\s+(Ingredients|מצרכים|מרכיבים|רכיבים|חומרים)/im;
+const INSTRUCTIONS_RE = /^##\s+(Instructions|Directions|Method|Steps|הכנה|הוראות|אופן ה?הכנה)/im;
 const H1_RE           = /^#\s+.+/m;
 const ANY_H2_RE       = /^##\s+.+/m;
 
