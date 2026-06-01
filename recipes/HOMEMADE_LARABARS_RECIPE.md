@@ -35,12 +35,12 @@ labels: [bread, drinks]
 ## Ingredients
 
 - Mild olive oil, vegetable, or coconut oil for the pan
-- 1 cup packed dried cherries
-- 1/4 cup packed pitted soft whole dates
-- 1 cup warm water
-- 1 cup raw almonds
-- 1/4 teaspoon ground cinnamon
-- 1/8 teaspoon fine sea salt (optional)
+- 240ml packed dried cherries
+- 60ml packed pitted soft whole dates
+- 240ml warm water
+- 240ml raw almonds
+- 1ml ground cinnamon
+- 1ml fine sea salt (optional)
 
 ## Instructions
 

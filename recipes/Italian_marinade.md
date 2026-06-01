@@ -33,19 +33,19 @@ labels: [cake, sauce, drinks, vegetables, pickles]
 
 ## Ingredients
 
-- 1 cup extra-virgin olive oil
-- 3/4 cup red wine vinegar
+- 240ml extra-virgin olive oil
+- 180ml red wine vinegar
 - Zest of 1 lemon
-- 1/4 cup freshly squeezed lemon juice (about 2 lemons)
+- 60ml freshly squeezed lemon juice (about 2 lemons)
 - 4 cloves garlic, peeled, smashed and roughly chopped
 - 1 bay leaf
-- 1 tablespoon thyme leaves
-- 1 tablespoon oregano leaves
-- 1 tablespoon basil leaves, rolled and chopped into chiffonade
-- 1 teaspoon granulated sugar
-- 1 teaspoon kosher salt
-- 1 teaspoon freshly cracked black pepper
-- 1 teaspoon red pepper flakes, or to taste
+- 15ml thyme leaves
+- 15ml oregano leaves
+- 15ml basil leaves, rolled and chopped into chiffonade
+- 5ml granulated sugar
+- 5ml kosher salt
+- 5ml freshly cracked black pepper
+- 5ml red pepper flakes, or to taste
 
 ## Instructions
 

@@ -26,10 +26,10 @@ labels: [dairy, drinks]
 
 ## Ingredients
 
-- 2 cups heavy whipping cream
-- ⅓ cup granulated sugar
-- 1 teaspoon vanilla extract
-- ¼ teaspoon cream of tartar
+- 480ml heavy whipping cream
+- 80ml granulated sugar
+- 5ml vanilla extract
+- 1ml cream of tartar
 
 ## Instructions
 

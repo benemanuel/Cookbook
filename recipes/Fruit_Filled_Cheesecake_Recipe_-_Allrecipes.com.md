@@ -44,25 +44,25 @@ labels: [dairy, cake, drinks]
 
 ## Ingredients
 
-- 1 cup all-purpose flour
-- 1 cup rolled oats
-- ½ teaspoon baking powder
-- ⅓ cup packed brown sugar
-- ½ cup butter
-- 1 ¾ cups apple pie filling
-- 2 (8 ounce) packages cream cheese, softened
-- 1 cup white sugar
-- 1 ½ teaspoons vanilla extract
-- 2 cups sour cream
+- 240ml all-purpose flour
+- 240ml rolled oats
+- 2ml baking powder
+- 80ml packed brown sugar
+- 120ml butter
+- 420ml apple pie filling
+- 2 (227g) packages cream cheese, softened
+- 240ml white sugar
+- 8ml vanilla extract
+- 480ml sour cream
 - 3 eggs
 
 ## Instructions
 
-1. Preheat oven to 350 degrees F (175 degrees C).
+1. Preheat oven to 177°C (175 degrees C).
 2. In a medium bowl, combine flour, oats, baking powder, brown sugar and butter.
-3. Press all but 3/4 cup of the crumb mixture into the bottom of a 10 inch round baking pan.
+3. Press all but 180ml of the crumb mixture into the bottom of a 10 inch round baking pan.
 4. Spread the fruit pie filling over the top and sprinkle with the remaining crumbs.
-5. Bake at 350 degrees F (175 degrees C) for 15 minutes.
+5. Bake at 177°C (175 degrees C) for 15 minutes.
 6. Remove from oven and let cool for 10 minutes.
 7. In a large bowl, beat the cream cheese and sugar together.
 8. Add the vanilla and sour cream and beat until smooth.
@@ -70,5 +70,5 @@ labels: [dairy, cake, drinks]
 10. Pour batter into the prepared crust.
 11. Place the pan in a large roasting pan and place in the oven.
 12. Fill the roasting pan with water to the 1 inch mark.
-13. Bake at 350 degrees F (175 degrees C) for 55 minutes.
+13. Bake at 177°C (175 degrees C) for 55 minutes.
 14. Remove cake from oven, cool to room temperature and refrigerate overnight.

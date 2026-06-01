@@ -44,16 +44,16 @@ labels: [dairy, bread, cake, sauce, spice, fermentation]
 
 - 225g unsalted butter
 - 334g plain flour
-- 1 tsp baking powder
-- 1 tsp baking soda
+- 5ml baking powder
+- 5ml baking soda
 - 220g caster sugar
 - 220g light brown sugar
 - 3 large egg yolks
 - 150g sourdough starter (50% hydration)
 - 83ml milk
-- 1 tsp vanilla extract
+- 5ml vanilla extract
 - 350g 70% dark chocolate, roughly chopped or chips
-- 1 tsp flaky sea salt and/or chili flakes for topping
+- 5ml flaky sea salt and/or chili flakes for topping
 
 ## Instructions
 

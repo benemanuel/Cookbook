@@ -46,21 +46,21 @@ labels: [dairy, soup, drinks, spice, vegetables]
 
 ## Ingredients
 
-- 4   green cardamoms ((elaichi or ¼ teaspoon ground))
-- 2    cloves ((3 for stronger flavor or ⅛ teaspoon ground))
-- ½ to ¾ inch cinnamon piece ((cassia or Ceylon or ⅛ teaspoon ground cinnamon))
+- 4   green cardamoms ((elaichi or 1ml ground))
+- 2    cloves ((3 for stronger flavor or 1ml ground))
+- ½ to ¾ inch cinnamon piece ((cassia or Ceylon or 1ml ground cinnamon))
 - 2  pepper corn ((or a pinch of ground pepper, optional))
 - 1½ cups water
-- 1 cup full fat milk ((adjust to taste, Refer notes))
-- 2½ to 3 teaspoons black tea leaves (or 1¼ to 1½ teaspoon tea powder (dust) (or 3 to 4 tea bags, Refer notes))
-- 2 to 3 teaspoons sugar (or as needed)
-- ½ teaspoon  (½ inch)  ginger ( chopped or crushed (optional))
-- 1 teaspoon green cardamoms ((5 grams skinned) (elaichi))
-- ½ teaspoon cloves ((2 grams) )
+- 240ml full fat milk ((adjust to taste, Refer notes))
+- 2½ to 15ml black tea leaves (or 1¼ to 1½ teaspoon tea powder (dust) (or 3 to 4 tea bags, Refer notes))
+- 2 to 15ml sugar (or as needed)
+- 2ml  (½ inch)  ginger ( chopped or crushed (optional))
+- 5ml green cardamoms ((5 grams skinned) (elaichi))
+- 2ml cloves ((2 grams) )
 - 2½ to 3 grams cinnamon  ((cassia or Ceylon))
-- ¼ teaspoon fennel seeds ((1½ grams) (saunf))
-- ¼ to ½ teaspoon black pepper corn  ((½ tsp ground pepper))
-- ½ teaspoon nutmeg  (grated or ⅓ of large nutmeg)
+- 1ml fennel seeds ((1½ grams) (saunf))
+- ¼ to 2ml black pepper corn  ((2ml ground pepper))
+- 2ml nutmeg  (grated or ⅓ of large nutmeg)
 - 2 petals star flower ((star anise) (chakri phool))
 
 ## Instructions
@@ -75,4 +75,4 @@ labels: [dairy, soup, drinks, spice, vegetables]
 8. Repeat this step of pulling hot masala chai from the pot to the cup, a few times (4 to 5 times). This breaks down the layer of cream and incorporates it back to the masala chai making it more tasty and thick.
 9. Strain the masala chai to serving cups &amp; serve with any breakfast, snack or biscuits.
 10. Clean all the spices and add to a blender jar. Powder finely. Store it in an airtight glass jar.
-11. Use about ½ to ¾ tsp or more to make 2 servings of tea. For stronger tea you can use about ¾ tsp.
+11. Use about ½ to 4ml or more to make 2 servings of tea. For stronger tea you can use about 4ml.

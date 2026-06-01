@@ -27,15 +27,15 @@ labels: [drinks, spice, vegetables, pickles]
 
 ## Ingredients
 
-- 1 tablespoon whole allspice berries
-- 1 tablespoon whole mustard seeds (brown or yellow)
-- 1 tablespoon coriander seeds
-- 1 tablespoon red pepper flakes
-- 1 tablespoon whole black peppercorns
-- 2 teaspoons whole cloves
+- 15ml whole allspice berries
+- 15ml whole mustard seeds (brown or yellow)
+- 15ml coriander seeds
+- 15ml red pepper flakes
+- 15ml whole black peppercorns
+- 10ml whole cloves
 - 9 whole cardamom pods
 - 6 large bay leaves, crumbled
-- 2 teaspoons ground ginger
+- 10ml ground ginger
 - 1/2 stick cinnamon
 
 ## Instructions

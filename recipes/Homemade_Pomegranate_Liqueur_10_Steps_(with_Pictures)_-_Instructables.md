@@ -45,9 +45,9 @@ labels: [drinks, pickles]
 - Roughly six pomegranates, depending on their size
 - Peel of 1 lemon (Meyer preferred)
 - 1 cinnamon stick
-- 3 cups vodka
-- 1 1/2 cups white sugar
-- 3/4 cup water
+- 720ml vodka
+- 360ml white sugar
+- 180ml water
 
 ## Instructions
 

@@ -64,25 +64,25 @@ labels: [meat, soup, drinks, spice, vegetables, fermentation, pickles]
 - Kosher salt (5-6% of total water weight)
 - Sugar (2-3% of total water weight)
 - Pink curing salt (0.25% of total weight)
-- Whole allspice berries (1 tablespoon)
-- Whole mustard seeds brown or yellow (1 tablespoon)
-- Coriander seeds (1 tablespoon)
-- Red pepper flakes (1 tablespoon)
-- Whole black peppercorns (1 tablespoon)
-- Whole cloves (2 teaspoons)
+- Whole allspice berries (15ml)
+- Whole mustard seeds brown or yellow (15ml)
+- Coriander seeds (15ml)
+- Red pepper flakes (15ml)
+- Whole black peppercorns (15ml)
+- Whole cloves (10ml)
 - Whole cardamom pods (9 pods)
 - Bay leaves (6 large, crumbled)
-- Ground ginger (2 teaspoons)
+- Ground ginger (10ml)
 - Cinnamon stick (1/2 stick)
 - Juniper berries (9 berries)
-- Fresh coarsely ground black pepper (1 tablespoon per 1/2 kg meat)
-- Coriander powder (1 tablespoon per 1/2 kg meat)
-- Brown sugar (1 tablespoon per 1/2 kg meat)
-- Paprika (1 tablespoon per 1/2 kg meat)
-- Garlic powder (2 teaspoons per 1/2 kg meat)
-- Onion powder (2 teaspoons per 1/2 kg meat)
-- Yellow mustard seeds (1/2 teaspoon per 1/2 kg meat)
-- Mustard powder (1/2 teaspoon per 1/2 kg meat)
+- Fresh coarsely ground black pepper (15ml per 1/2 kg meat)
+- Coriander powder (15ml per 1/2 kg meat)
+- Brown sugar (15ml per 1/2 kg meat)
+- Paprika (15ml per 1/2 kg meat)
+- Garlic powder (10ml per 1/2 kg meat)
+- Onion powder (10ml per 1/2 kg meat)
+- Yellow mustard seeds (2ml per 1/2 kg meat)
+- Mustard powder (2ml per 1/2 kg meat)
 - Water
 - Apple juice (for wrapping)
 
@@ -91,7 +91,7 @@ labels: [meat, soup, drinks, spice, vegetables, fermentation, pickles]
 1. Toast and crush the allspice berries, mustard seeds, coriander seeds, red pepper flakes, peppercorns, cloves, and cardamom pods in a small frying pan on medium heat until fragrant, being careful not to burn them.
 2. Remove the toasted spices from heat and place in a small bowl, then crush them lightly with a mortar and pestle or the back of a spoon.
 3. Stir the crumbled bay leaves and ground ginger into the crushed spices.
-4. Add about 3 tablespoons of the spice mix, the half stick of cinnamon, kosher salt, pink salt, and brown sugar to a gallon of water in a large pot.
+4. Add about 45ml of the spice mix, the half stick of cinnamon, kosher salt, pink salt, and brown sugar to a gallon of water in a large pot.
 5. Bring the brine to a boil, then remove from heat and let cool to room temperature before refrigerating until well chilled.
 6. Place the brisket in a large container and cover completely with the chilled brine, weighing it down with a plate if it floats.
 7. Cure the brisket in the refrigerator for at least 5 days.

@@ -37,8 +37,8 @@ labels: [dairy, bread, drinks, fermentation]
 - 140g Teff Flour (Brown or Ivory)
 - 125g Active Sourdough Starter (100% hydration)
 - 210ml Water (Room temperature)
-- 2g Fine Sea Salt (About ½ tsp)
-- 1 tsp Sugar (Optional, to help yeast activity and browning)
+- 2g Fine Sea Salt (About 2ml)
+- 5ml Sugar (Optional, to help yeast activity and browning)
 
 ## Instructions
 

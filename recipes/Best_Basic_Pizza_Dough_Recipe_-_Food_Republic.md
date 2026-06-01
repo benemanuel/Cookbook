@@ -34,10 +34,10 @@ labels: [bread]
 ## Ingredients
 
 - 1 packet active dry yeast
-- 2 tablespoons olive oil
-- 1 teaspoon kosher salt
-- 3 cups all- purpose flour
-- 1 cup slightly warm water
+- 30ml olive oil
+- 5ml kosher salt
+- 720ml all- purpose flour
+- 240ml slightly warm water
 
 ## Instructions
 

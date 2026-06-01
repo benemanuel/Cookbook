@@ -41,18 +41,18 @@ labels: [spice, pickles]
 
 ## Ingredients
 
-- 1/2 cup garlic cloves, peeled
-- 3 tbsp mustard oil
-- 1/4 tsp turmeric powder
-- 2 tbsp lemon juice
-- 1 tbsp chilli powder
-- 1 tsp finely chopped jaggery
-- 1/2 tsp salt
-- 2 tsp split mustard seeds
-- 1/4 tsp split fenugreek seeds
-- 1/4 tsp cumin seeds
-- 1/4 tsp crushed coriander seeds
-- 1/4 tsp asafoetida
+- 120ml garlic cloves, peeled
+- 45ml mustard oil
+- 1ml turmeric powder
+- 30ml lemon juice
+- 15ml chilli powder
+- 5ml finely chopped jaggery
+- 2ml salt
+- 10ml split mustard seeds
+- 1ml split fenugreek seeds
+- 1ml cumin seeds
+- 1ml crushed coriander seeds
+- 1ml asafoetida
 
 ## Instructions
 

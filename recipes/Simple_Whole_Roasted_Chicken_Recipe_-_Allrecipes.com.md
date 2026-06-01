@@ -37,13 +37,13 @@ labels: [meat]
 
 ## Ingredients
 
-- 2 teaspoons salt
-- 1 teaspoon white sugar
-- ⅛ teaspoon ground cloves
-- ⅛ teaspoon ground allspice
-- ⅛ teaspoon ground nutmeg
-- ⅛ teaspoon ground cinnamon
-- 1 whole chicken (4 pound)
+- 10ml salt
+- 5ml white sugar
+- 1ml ground cloves
+- 1ml ground allspice
+- 1ml ground nutmeg
+- 1ml ground cinnamon
+- 1 whole chicken (1.8kg)
 - 5 cloves garlic, crushed
 
 ## Instructions
@@ -51,10 +51,10 @@ labels: [meat]
 1. In a bowl, mix the salt, sugar, cloves, allspice, nutmeg, and cinnamon.
 2. Rub the chicken with the mixture.
 3. Cover chicken and place in the refrigerator for 24 hours.
-4. Preheat oven to 500 degrees F (260 degrees C).
+4. Preheat oven to 260°C (260 degrees C).
 5. Stuff the chicken cavity with the garlic.
 6. Place the chicken, breast side down, on a rack in a roasting pan.
 7. Roast 15 minutes in the preheated oven.
-8. Reduce heat to 450 degrees F (230 degrees C) and continue roasting 15 minutes.
-9. Baste chicken with pan drippings, reduce heat to 425 degrees F (220 degrees C), and continue roasting 30 minutes to an internal temperature of 180 degrees F (85 degrees C).
+8. Reduce heat to 232°C (230 degrees C) and continue roasting 15 minutes.
+9. Baste chicken with pan drippings, reduce heat to 218°C (220 degrees C), and continue roasting 30 minutes to an internal temperature of 82°C (85 degrees C).
 10. Let stand 20 minutes before serving.

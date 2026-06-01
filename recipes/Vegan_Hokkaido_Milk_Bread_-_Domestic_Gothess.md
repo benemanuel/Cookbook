@@ -48,18 +48,18 @@ labels: [dairy, bread, cake]
 
 ## Ingredients
 
-- 30 g (1/4 cup) bread flour
-- 150 ml (scant 2/3 cup) unsweetened soy milk
-- 7 g (2 tsp) instant/fast action or active dry yeast
-- 5 g (1 tsp) sugar
-- 150 ml (scant 2/3 cup) lukewarm unsweetened soy milk
-- 400 g (3 + 1/3 cups) white bread flour (plus extra as needed)
-- 55 g (1/4 cup) caster sugar
-- 1 tsp salt
-- 3 Tbsp aquafaba ((or more milk))
-- 40 g (2 Tbsp + 2 tsp) vegan block butter (softened)
-- 1/2 Tbsp maple syrup
-- 1 Tbsp water
+- 30 g (60ml) bread flour
+- 150 ml (scant 160ml) unsweetened soy milk
+- 7 g (10ml) instant/fast action or active dry yeast
+- 5 g (5ml) sugar
+- 150 ml (scant 160ml) lukewarm unsweetened soy milk
+- 400 g (3 + 80ml) white bread flour (plus extra as needed)
+- 55 g (60ml) caster sugar
+- 5ml salt
+- 45ml aquafaba ((or more milk))
+- 40 g (30ml + 10ml) vegan block butter (softened)
+- 8ml maple syrup
+- 15ml water
 
 ## Instructions
 
@@ -75,8 +75,8 @@ labels: [dairy, bread, cake]
 10. Roll each ball out into a long oval, fold one third of the oval over the middle (from the side, not the top), then the other third over the top to form a long, narrow packet.
 11. Roll over the seam to flatten it, then roll it up tightly from one end to make a fat sausage. Repeat with the other balls of dough then arrange them in the loaf tin, seam side down.
 12. Loosely cover and leave to rise until at least doubled in size, it should rise above the top of the tin. This can take 1-2.5 hours (mine took 1 1/2). If you press the dough gently with a finger the indentation should spring back slowly but remain visible. If it springs back quickly it needs to prove for a little longer.
-13. While the dough is rising, preheat the oven to 180°C/350°F/gas mark 4. Mix together the maple syrup and water in a small bowl.
+13. While the dough is rising, preheat the oven to 180°C/177°C/gas mark 4. Mix together the maple syrup and water in a small bowl.
 14. Once the loaf has risen, gently brush the top with the maple syrup mixture, making sure that none drips down the sides as that can make the bread stick to the tin. If you don&#039;t want a sweet glaze then you can brush it with milk or aquafaba instead.
-15. Place the loaf in the preheated oven and bake for 30-50 minutes, until a probe thermometer reaches 94°C/201°F when poked into the middle of the loaf. You may need to cover the top loosely with tin foil part way through baking if it starts to colour too much.
+15. Place the loaf in the preheated oven and bake for 30-50 minutes, until a probe thermometer reaches 94°C/94°C when poked into the middle of the loaf. You may need to cover the top loosely with tin foil part way through baking if it starts to colour too much.
 16. If you want the loaf to have a shinier crust, brush it with some more of the maple syrup water halfway through baking.
 17. Once the bread is baked, remove it from the oven and brush with some more of the glaze. Let it cool in the tin for 10 minutes then lift it out onto a wire rack to cool completely before slicing. Store in an airtight container.

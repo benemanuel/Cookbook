@@ -34,23 +34,23 @@ labels: [meat, sauce, drinks, vegetables, pickles]
 
 ## Ingredients
 
-- 450g (1 lb) ground chicken
-- ¾ cup shiitake mushrooms, finely diced
-- ¼ cup fresh cilantro, chopped
+- 450g (454g) ground chicken
+- 180ml shiitake mushrooms, finely diced
+- 60ml fresh cilantro, chopped
 - 3 green onions, thinly sliced
 - 3 garlic cloves, minced
-- 2 Tbsp soy sauce
-- 1 Tbsp sesame oil
-- 1 Tbsp fresh ginger, grated
-- 1 Tbsp rice wine vinegar
-- ½ tsp black pepper
-- ¼ tsp red pepper flakes
+- 30ml soy sauce
+- 15ml sesame oil
+- 15ml fresh ginger, grated
+- 15ml rice wine vinegar
+- 2ml black pepper
+- 1ml red pepper flakes
 - 36 round wonton (gyoza) wrappers
-- ¼ cup vegetable oil
+- 60ml vegetable oil
 
 ## Instructions
 
 1. In a large bowl, combine ground chicken, shiitake mushrooms, cilantro, green onions, garlic, soy sauce, sesame oil, ginger, rice wine vinegar, black pepper, and red pepper flakes, and mix well.
 2. Place a wonton wrapper on a clean surface, place 1 heaping teaspoon of filling in the center, moisten the edges with water, fold over, and press to seal, then pleat the edges to form a dumpling shape and repeat with remaining wrappers and filling.
-3. Heat 1 Tbsp vegetable oil in a large non-stick skillet over medium-high heat, working in batches, add dumplings flat-side down and cook until the bottoms are golden, 2–3 minutes.
-4. Add 2–3 Tbsp water to the pan, cover immediately, and steam until cooked through, about 3–4 minutes, then remove lid and let any remaining water evaporate and repeat with remaining dumplings.
+3. Heat 15ml vegetable oil in a large non-stick skillet over medium-high heat, working in batches, add dumplings flat-side down and cook until the bottoms are golden, 2–3 minutes.
+4. Add 2–45ml water to the pan, cover immediately, and steam until cooked through, about 3–4 minutes, then remove lid and let any remaining water evaporate and repeat with remaining dumplings.

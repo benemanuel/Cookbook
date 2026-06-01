@@ -21,7 +21,7 @@ Goal: Remove excess moisture and allow the flavors of the spices to penetrate th
 
 Process:
 
-Hang the meat in the refrigerator (ideally on a wire rack to allow airflow) at temperatures between 34\-40°F (1\-4°C).
+Hang the meat in the refrigerator (ideally on a wire rack to allow airflow) at temperatures between 34\-4°C (1\-4°C).
 
 Check for firmness, which indicates it’s drying well.
 
@@ -29,7 +29,7 @@ Duration: 10 to 14 days, or until the surface is dry, and the meat feels firmer 
 
 2\. Cold Smoking Phase
 
-Timing: Once the meat has fully cured and dried in the refrigerator, cold smoke it at around 70\-90°F (21\-32°C) for 12\-24 hours depending on the smokiness you prefer.
+Timing: Once the meat has fully cured and dried in the refrigerator, cold smoke it at around 70\-32°C (21\-32°C) for 12\-24 hours depending on the smokiness you prefer.
 
 Keep the smoking chamber's temperature low to avoid cooking the meat while infusing it with smoke.
 

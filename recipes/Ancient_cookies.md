@@ -41,8 +41,8 @@ labels: [dairy]
 - 200 g ghee (or unsalted butter), melted and slightly cooled
 - 175 g honey
 - 360 g Khorasan flour (approx. 2½ cups)
-- 1 tsp ground cardamom (6-8 pods)
-- ¼ tsp salt
+- 5ml ground cardamom (6-8 pods)
+- 1ml salt
 - 120 ml date spread (or thick date paste)
 - 90 g unsalted pistachios, finely chopped
 - 12 whole pistachios for topping
@@ -55,7 +55,7 @@ labels: [dairy]
 3. In a separate bowl, sift the Khorasan flour, ground cardamom, and salt.
 4. Gradually add the dry ingredients to the wet mixture, stirring until a soft dough forms.
 5. If the dough feels too soft, refrigerate for 10 minutes to firm up.
-6. Preheat your oven to 170°C (340°F) and line a baking sheet with parchment paper.
+6. Preheat your oven to 170°C (171°C) and line a baking sheet with parchment paper.
 7. Divide the dough into 12 equal portions.
 8. Flatten each portion into a disc, place a teaspoon of the date-pistachio filling in the center, and fold the dough over to seal, shaping it into a ball.
 9. Place the cookies seam-side down on the prepared baking sheet.

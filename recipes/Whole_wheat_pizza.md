@@ -41,4 +41,4 @@ labels: [bread, drinks, fermentation]
 3. Perform 3 stretch and folds during bulk fermentation over 4 hours.
 4. Chill overnight for 14 hours.
 5. Allow the dough to rise at room temperature for 5 hours.
-6. Bake at 550°F for 7 minutes.
+6. Bake at 288°C for 7 minutes.

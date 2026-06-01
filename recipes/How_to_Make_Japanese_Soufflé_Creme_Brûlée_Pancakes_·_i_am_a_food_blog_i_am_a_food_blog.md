@@ -52,19 +52,19 @@ labels: [dairy, cake, sauce, drinks]
 
 ## Ingredients
 
-- 6 tablespoons milk
+- 90ml milk
 - 1 large egg yolk
-- 2 tablespoons sugar
-- 1 tablespoon flour
-- 2 tablespoons room temperature butter
+- 30ml sugar
+- 15ml flour
+- 30ml room temperature butter
 - 1 egg yolk
-- 1/2 tablespoon sugar
-- 2 tablespoons milk
-- 3 tablespoons flour
-- 1/4 teaspoon baking powder
+- 8ml sugar
+- 30ml milk
+- 45ml flour
+- 1ml baking powder
 - 2 large egg whites
-- 1/8 teaspoon cream of tartar
-- 1 tablespoon sugar
+- 1ml cream of tartar
+- 15ml sugar
 
 ## Instructions
 
@@ -72,7 +72,7 @@ labels: [dairy, cake, sauce, drinks]
 2. Whisk in the milk and strain into a small pot.
 3. Heat over medium low heat until the custard thickens.
 4. Remove from the heat and stir in the butter and set aside.
-5. Whisk the egg yolk with 1 tablespoon of sugar until pale and frothy.
+5. Whisk the egg yolk with 15ml of sugar until pale and frothy.
 6. Mix the milk in batches into the yolk mixture.
 7. Sift the flour and baking powder over the yolk mixture and whisk well making sure everything is incorporated.
 8. Whip the egg whites with the cream of tartar until frothy and pale, adding in the sugar a bit at a time until the whites are whipped into a glossy thick meringue that holds a peak.
@@ -80,7 +80,7 @@ labels: [dairy, cake, sauce, drinks]
 10. Add half of the remaining whites and whisk into the yolk batter, being careful not to deflate.
 11. Transfer the egg yolk mixture to the remaining egg whites and fold together with a spatula.
 12. Heat up a large non stick frying pan with a lid and very lightly brush with oil.
-13. Using an ice cream scoop or measuring spoon, scoop about 1/4 cup batter onto the pan, leaving space in between and cover and cook for 3 minutes.
+13. Using an ice cream scoop or measuring spoon, scoop about 60ml batter onto the pan, leaving space in between and cover and cook for 3 minutes.
 14. Remove the lid and add some more batter on top of each pancake, cover and continue to cook for 4-5 more minutes.
 15. Lift the lid and use a spatula to gently peek under the pancake to check if it releases easily.
 16. If you still have any batter left, pile it on top of the pancakes and then gently flip.

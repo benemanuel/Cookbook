@@ -35,18 +35,18 @@ labels: [dairy, bread, fermentation]
 
 ## Ingredients
 
-- 125 g (1/2 cup) sourdough starter discard unfed
-- 300 g (2 1/2 cups) all-purpose flour
-- 120 g (1/2 cup) milk, dairy or plant based
-- 60 g (1/4 cup) plain yogurt, dairy or plant based
-- 15 g (1 tablespoon) olive oil
-- 7 g (1 1/2 teaspoons) sea salt
+- 125 g (120ml) sourdough starter discard unfed
+- 300 g (600ml) all-purpose flour
+- 120 g (120ml) milk, dairy or plant based
+- 60 g (60ml) plain yogurt, dairy or plant based
+- 15 g (15ml) olive oil
+- 7 g (8ml) sea salt
 
 ## Instructions
 
 1. Mix the wet ingredients in a large mixing bowl.
 2. Add the flour and salt to the bowl and use your hands to incorporate the ingredients until well combined with no dry bits remaining.
-3. Cover the bowl with plastic and let rest at room temperature until doubled in size, approximately 8 hours at 68°F or less time in warmer kitchens.
+3. Cover the bowl with plastic and let rest at room temperature until doubled in size, approximately 8 hours at 20°C or less time in warmer kitchens.
 4. Turn the dough out onto your work surface and use a bench scraper to divide the dough into 8 equal pieces of about 78g each.
 5. Shape each piece into a ball and cover them with a kitchen towel.
 6. Preheat a cast iron skillet over medium-high heat for 10-15 minutes.

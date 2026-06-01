@@ -33,15 +33,15 @@ labels: [sauce, drinks, vegetables, pickles]
 
 ## Ingredients
 
-- 3 tablespoons rice wine vinegar
-- 1 tablespoon sugar
-- 3 tablespoons soy sauce, preferably low-sodium
-- 1 tablespoon fresh grated ginger
-- 1/2 teaspoon fresh minced garlic
-- 2 tablespoons sesame oil
-- 1/2 cup peanut oil or 1/2 cup grapeseed oil
-- 1 tablespoon lightly toasted sesame seeds
-- 1 tablespoon chopped scallion (green onions)
+- 45ml rice wine vinegar
+- 15ml sugar
+- 45ml soy sauce, preferably low-sodium
+- 15ml fresh grated ginger
+- 2ml fresh minced garlic
+- 30ml sesame oil
+- 120ml peanut oil or 120ml grapeseed oil
+- 15ml lightly toasted sesame seeds
+- 15ml chopped scallion (green onions)
 
 ## Instructions
 

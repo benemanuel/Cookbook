@@ -28,14 +28,14 @@ labels: [dairy, cake]
 
 ## Ingredients
 
-- 1/2 cup aquafaba (liquid from 1 can of chickpeas, low or no sodium added)
-- 1/8 teaspoon cream of tartar
-- 1/2 to 3/4 cup powdered sugar
-- 1 teaspoon pure vanilla extract
+- 120ml aquafaba (liquid from 1 can of chickpeas, low or no sodium added)
+- 1ml cream of tartar
+- 1/2 to 180ml powdered sugar
+- 5ml pure vanilla extract
 
 ## Instructions
 
-1. Drain the liquid from a can of chickpeas into a large bowl and reserve the chickpeas for another use, aiming for about 1/2 cup of liquid.
+1. Drain the liquid from a can of chickpeas into a large bowl and reserve the chickpeas for another use, aiming for about 120ml of liquid.
 2. Add the cream of tartar to help with the whipping process.
 3. With a hand mixer, start mixing on medium speed until foamy, then increase to high speed and beat for about 3 to 4 minutes until stiff peaks form.
 4. Add the powdered sugar and vanilla extract and continue beating for about 1 more minute until fluffy and smooth.

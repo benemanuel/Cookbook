@@ -110,13 +110,13 @@ labels: [dairy, bread, drinks, vegetables, fermentation]
 - 115g active sourdough starter, 100% hydration
 - 36g sugar
 - 10g kosher salt
-- 29g (2 tablespoons) unsalted butter, melted
+- 29g (30ml) unsalted butter, melted
 - 240g whole milk, cold
 - 423g unbleached all-purpose flour
-- 227g (1 cup) 82% fat (European-style) unsalted butter, cold
-- 8g (1 tablespoon) unbleached all-purpose flour
+- 227g (240ml) 82% fat (European-style) unsalted butter, cold
+- 8g (15ml) unbleached all-purpose flour
 - 1 egg
-- 15g (1 tablespoon) whole milk
+- 15g (15ml) whole milk
 
 ## Instructions
 
@@ -128,7 +128,7 @@ labels: [dairy, bread, drinks, vegetables, fermentation]
 6. Form dough into a ball.
 7. 2
 8. Transfer dough to a large bowl and cover
-9. Leave in a warm place (75°-78°F) to ferment for 4 hours, or until it has nearly doubled in size.
+9. Leave in a warm place (75°-26°C) to ferment for 4 hours, or until it has nearly doubled in size.
 10. 3
 11. Cover and refrigerate dough overnight
 12. Butter Block:
@@ -188,9 +188,9 @@ labels: [dairy, bread, drinks, vegetables, fermentation]
 66. Repeat for remaining triangles.
 67. 4
 68. Arrange the croissants on 2 parchment-lined half sheet pans, 5 to each pan
-69. Cover with plastic wrap (not too tightly) and leave at room temperature to proof for several hours (do not exceed 75°F during proofing), or until croissants have doubled in size and wobble like marshmallows when you bump the pan
+69. Cover with plastic wrap (not too tightly) and leave at room temperature to proof for several hours (do not exceed 24°C during proofing), or until croissants have doubled in size and wobble like marshmallows when you bump the pan
 70. You should begin to see some separation in the layers when proofing is finished
-71. Meanwhile, preheat your oven to 400°F.
+71. Meanwhile, preheat your oven to 204°C.
 72. 5
 73. Beat your egg and milk together to make an egg wash
 74. Use a pastry brush to brush egg wash over each proofed croissant, avoiding the laminated edges.

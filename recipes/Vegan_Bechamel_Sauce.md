@@ -31,10 +31,10 @@ labels: [dairy, bread, sauce]
 ## Ingredients
 
 - 3 heaped tbsp vegan butter
-- 3 tbsp all-purpose flour
-- 2 tbsp nutritional yeast
-- 2 1/2 cups almond milk
-- 1/2 tsp nutmeg, grated
+- 45ml all-purpose flour
+- 30ml nutritional yeast
+- 600ml almond milk
+- 2ml nutmeg, grated
 - Salt and pepper to taste
 
 ## Instructions

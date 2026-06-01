@@ -35,14 +35,14 @@ labels: [fish, drinks, vegetables]
 
 ## Ingredients
 
-- 3 lb salmon filet
-- 1/4 cup olive oil
-- 1 tbsp kosher salt
-- 1 tbsp brown sugar
-- 2 tsp coarse ground black pepper
-- 1/2 tsp granulated garlic
-- 1/4 tsp ground ginger
-- 1/8 tsp ground cayenne pepper
+- 1.4kg salmon filet
+- 60ml olive oil
+- 15ml kosher salt
+- 15ml brown sugar
+- 10ml coarse ground black pepper
+- 2ml granulated garlic
+- 1ml ground ginger
+- 1ml ground cayenne pepper
 
 ## Instructions
 

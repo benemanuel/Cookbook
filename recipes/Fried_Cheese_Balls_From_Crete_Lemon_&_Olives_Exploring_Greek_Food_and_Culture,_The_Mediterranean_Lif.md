@@ -39,15 +39,15 @@ labels: [dairy]
 
 ## Ingredients
 
-- 15 ounces (425g) ricotta cheese
+- 425g (425g) ricotta cheese
 - 1 egg
-- 4 tablespoons flour, plus extra for rolling
-- 1 teaspoon oregano
-- 2 tablespoons dried parsley
-- 1/2 teaspoon thyme
+- 60ml flour, plus extra for rolling
+- 5ml oregano
+- 30ml dried parsley
+- 2ml thyme
 - salt
 - pepper
-- 2/3 cup oil for frying
+- 160ml oil for frying
 
 ## Instructions
 

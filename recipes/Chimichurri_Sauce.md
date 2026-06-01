@@ -37,14 +37,14 @@ labels: [sauce, drinks, spice, vegetables, pickles]
 
 - 1 small bunch flat leaf parsley
 - 1 small bunch cilantro
-- ¼ cup fresh oregano leaves
-- 1 Tbsp. capers
+- 60ml fresh oregano leaves
+- 15ml. capers
 - 1 small shallot, minced
 - 4 large cloves of garlic, minced
 - 1 small chili pepper, minced (optional)
-- 2 Tbsp. sherry or red wine vinegar
-- 2 Tbsp. lemon juice
-- ⅔ cup flavorful olive oil
+- 30ml. sherry or red wine vinegar
+- 30ml. lemon juice
+- 160ml flavorful olive oil
 - Salt and pepper, to taste
 
 ## Instructions

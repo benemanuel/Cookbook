@@ -39,19 +39,19 @@ labels: [dairy, bread, fermentation]
 
 ## Ingredients
 
-- 228 grams (just shy 1 cup) sourdough starter or discard at 100% hydration, stirred down
-- 285 grams (2 cups) organic all-purpose flour
-- 8 grams (1 teaspoon) sea salt
-- 56 grams (1/4 cup) melted butter
-- 105 grams (just shy 1/2 cup) filtered water
-- 8 ounces cheddar cheese, grated
+- 228 grams (just shy 240ml) sourdough starter or discard at 100% hydration, stirred down
+- 285 grams (480ml) organic all-purpose flour
+- 8 grams (5ml) sea salt
+- 56 grams (60ml) melted butter
+- 105 grams (just shy 120ml) filtered water
+- 227g cheddar cheese, grated
 
 ## Instructions
 
 1. Weigh or measure all the dough ingredients into a ceramic or glass mixing bowl.
 2. Mix the dough just until it comes together. There will be plenty of structure without developing extra gluten.
 3. Let the dough rest and rise, covered, at room temperature for 12 to 16 hours.
-4. Preheat your oven to 350°F.
+4. Preheat your oven to 177°C.
 5. Transfer the dough to a floured surface and pat it into a rectangle. Cut the rectangle in half.
 6. Cut three sheets of parchment paper that will fit a large baking sheet.
 7. Place one piece of the dough in the center of a piece of parchment and cover with the other sheet.
@@ -59,6 +59,6 @@ labels: [dairy, bread, fermentation]
 9. Using a pizza cutter or knife cut the dough into cracker size squares. Prick (dock) each square twice with a fork to keep the dough from bubbling up in the oven.
 10. Slide the parchment paper onto the baking sheet and set the crackers aside.
 11. Repeat these steps with the remaining dough.
-12. Bake the crackers for 30 minutes at 350°F.
+12. Bake the crackers for 30 minutes at 177°C.
 13. Turn the oven off and crack the door. I use a baking mitt between the door and oven frame to keep it from closing completely. Let the crackers cool and continue drying out in the oven.
 14. Once cool, store the crackers in an airtight container.

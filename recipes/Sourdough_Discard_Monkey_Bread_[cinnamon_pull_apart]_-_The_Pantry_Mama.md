@@ -61,7 +61,7 @@ labels: [dairy, bread, cake, candy, sauce, fermentation]
 - 60 g Butter (room temperature )
 - 100 g Butter (Melted)
 - 200 g Sugar (granulated )
-- 5 g Cinnamon (Ground (2 tsp))
+- 5 g Cinnamon (Ground (10ml))
 - 120 g Brown Sugar
 - 5 g Vanilla Extract
 - 100 g Butter (Melted)
@@ -80,7 +80,7 @@ labels: [dairy, bread, cake, candy, sauce, fermentation]
 7. Take the dough that has doubled and turn it out onto the counter. You need to form the dough into small balls. I have chosen 30g per ball, but anywhere between 20 to 30g is perfect. Weigh each piece and form into a small ball. They don&#39;t have to be perfect as they will expand inside the bread pan.
 8. Dip each of the balls into the melted butter, then into the cinnamon sugar and then layer the balls inside a well buttered bundt pan until you&#39;ve used all the balls.
 9. Cover the pan and allow the dough balls to proof and rise again.
-10. Once the dough has risen in the bundt pan and is light and fluffy, it&#39;s time to add the sauce and bake the monkey bread.I recommend preheating the oven at this stage, so it&#39;s ready once you&#39;ve added the sauce. Preheat the oven to 350F (175C).
+10. Once the dough has risen in the bundt pan and is light and fluffy, it&#39;s time to add the sauce and bake the monkey bread.I recommend preheating the oven at this stage, so it&#39;s ready once you&#39;ve added the sauce. Preheat the oven to 177°C (175C).
 11. Melt the butter and then stir in the brown sugar and vanilla to create the brown sugar and butter sauce.
 12. When you&#39;re ready to bake the sourdough monkey bread, pour the sauce all over the dough balls. Gently tap the bundt pan on the counter a few times to ensure that the sauce goes all the way through the dough.If the sauce seems like it&#39;s too much, you don&#39;t have to add it all. The amount you need will depend on the size of bundt pan you use.
 13. PRO TIP - If the bundt pan is quite full, place it on a cookie sheet before placing it in the oven so that the base of your oven doesn&#39;t get sugar sauce dribbled on it.

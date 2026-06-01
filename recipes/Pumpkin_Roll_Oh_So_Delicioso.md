@@ -42,21 +42,21 @@ labels: [dairy, cake, drinks, vegetables]
 
 ## Ingredients
 
-- 1 cup sugar
-- 3/4 cup flour
-- 1 teaspoon baking powder
-- 1 teaspoon ginger
-- 1 teaspoon nutmeg
-- 1/2 teaspoon cloves
-- 1/2 teaspoon salt
-- 2 teaspoon cinnamon
+- 240ml sugar
+- 180ml flour
+- 5ml baking powder
+- 5ml ginger
+- 5ml nutmeg
+- 2ml cloves
+- 2ml salt
+- 10ml cinnamon
 - 3  eggs
-- 2/3 cup pumpkin
-- 3 cup powder sugar
-- 8 oz Cream Cheese
-- 1/4 cup Butter
-- 1/2 tsp Vanilla
-- 1-2 tablespoons milk or heavy cream
+- 160ml pumpkin
+- 720ml powder sugar
+- 227g Cream Cheese
+- 60ml Butter
+- 2ml Vanilla
+- 1-30ml milk or heavy cream
 
 ## Instructions
 

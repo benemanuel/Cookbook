@@ -65,7 +65,7 @@ labels: [bread, vegetables, fermentation, pickles]
 3. Let the dough rest for 30 minutes after mixing.
 4. Grease a separate bowl and using wet hands, coil fold the dough a few times, rotating the bowl as needed, until it comes together into one blob.
 5. Transfer the dough to the greased bowl, cover, and let it double in size on the counter for around 7-8 hours depending on kitchen temperature.
-6. Preheat the oven to 500°F (260°C) once the dough has doubled in size.
+6. Preheat the oven to 260°C (260°C) once the dough has doubled in size.
 7. Using well-oiled hands, split the dough into two equal parts and transfer one piece into a well-oiled large cast iron skillet or baking sheet.
 8. Using your fingers, spread the dough out into a thin circle or rectangle and let rest for 10 minutes.
 9. In a large shallow bowl, whisk together the water, olive oil, and salt to make the brine and set aside.

@@ -63,17 +63,17 @@ labels: [dairy, bread, cake, fermentation]
 - 550 g bread flour (11-13% protein)
 - 90 g sugar
 - 10 g salt
-- 2 g ground cardamom ((1 tsp))
+- 2 g ground cardamom ((5ml))
 - 250 g whole milk (cold)
 - 2  eggs (small-medium sized)
 - 145 g sweet levain
 - 110 g unsalted butter (softened, cut into cubes)
 - 100 g unsalted butter (softened)
 - 90 g brown sugar
-- 2,5 g ground cardamom ((1,5 tsp))
+- 2,5 g ground cardamom ((1,25ml))
 - 50 g brown sugar
 - 50 g water
-- 1 g ground cardamom ((0,5 tsp))
+- 1 g ground cardamom ((0,25ml))
 
 ## Instructions
 
@@ -82,7 +82,7 @@ labels: [dairy, bread, cake, fermentation]
 3. Start your mixer again and knead on medium speed for 5-10 minutes.
 4. After 5-10 minutes: slowly add in the softened butter, one cube at a time.
 5. When all the butter is added, continue kneading at medium speed for 15-25 minutes until your dough passes the window-pane test.
-6. Place the dough in a clean bowl and proof in a warm spot, ideally at around 78°F/26°C, for two hours.
+6. Place the dough in a clean bowl and proof in a warm spot, ideally at around 26°C/26°C, for two hours.
 7. After two hours, transfer the dough to the fridge to cold-proof for a minimum of six hours.
 8. Add softened butter, brown sugar, and cardamom to a bowl. Mix with a fork until you have a spreadable paste. Leave at room temperature until you&#039;re ready to shape the buns.
 9. Transfer the dough to a lightly floured work surface. You might want to leave it at room temperature for 10-15 minutes if it&#039;s really cold and difficult to roll out.
@@ -92,7 +92,7 @@ labels: [dairy, bread, cake, fermentation]
 13. Go over the dough a couple of times with a rolling pin to even out the sides.
 14. Use a sharp knife to cut the dough into 12 strips, roughly 1,5-2 inches each.
 15. Split each strip into three, leaving one side joined. Braid the strips to create a three-stranded plait. Grab the end of the plait and roll it up to create a bun—place all the shaped buns in a greased muffin tin.
-16. Loosely cover the muffin tin with cling film and proof at around 78°F/26°C for 9-12 hours until they&#039;ve doubled in size.
-17. Preheat your oven to 355°F/180°C and bake the cardamom buns for 18-20 minutes until golden brown. Meanwhile, you can make the brown sugar glaze:
+16. Loosely cover the muffin tin with cling film and proof at around 26°C/26°C for 9-12 hours until they&#039;ve doubled in size.
+17. Preheat your oven to 179°C/180°C and bake the cardamom buns for 18-20 minutes until golden brown. Meanwhile, you can make the brown sugar glaze:
 18. While the buns are baking, you can make the glaze. Add the ingredients to a small pot and heat up over medium heat until all the sugar is dissolved.
 19. When the buns are out of the oven, immediately brush over the syrup using a pastry brush. Transfer to a cooling rack and cool for 20-30 minutes before serving.

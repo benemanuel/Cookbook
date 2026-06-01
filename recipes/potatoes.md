@@ -39,6 +39,6 @@ labels: [fermentation, pickles]
 1. Prepare a saltwater brine solution.
 2. Submerge potatoes in the brine to season the skins.
 3. Place potatoes on a wire rack set in a baking sheet to allow air circulation.
-4. Bake potatoes at 450°F until the internal temperature reaches 205°F.
+4. Bake potatoes at 232°C until the internal temperature reaches 96°C.
 5. Brush oil on the potatoes near the end of cooking.
 6. Continue baking until the outside is crispy like a potato chip.

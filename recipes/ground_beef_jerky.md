@@ -30,15 +30,15 @@ labels: [meat, sauce, vegetables]
 ## Ingredients
 
 - 1 kg lean ground beef (minimum 90/10)
-- 2 tablespoons brown sugar
-- 2 teaspoons salt
-- 2 teaspoons ground black pepper
-- 2 teaspoons garlic powder
-- 2 teaspoons onion powder
-- 1 teaspoon smoked paprika
-- 0.5 teaspoon red pepper flakes (optional)
-- 2 tablespoons soy sauce
-- 0.5 tablespoon Worcestershire sauce
+- 30ml brown sugar
+- 10ml salt
+- 10ml ground black pepper
+- 10ml garlic powder
+- 10ml onion powder
+- 5ml smoked paprika
+- 2ml red pepper flakes (optional)
+- 30ml soy sauce
+- 8ml Worcestershire sauce
 
 ## Instructions
 

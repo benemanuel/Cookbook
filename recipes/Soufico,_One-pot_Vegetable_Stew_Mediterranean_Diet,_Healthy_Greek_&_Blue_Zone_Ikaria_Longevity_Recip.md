@@ -44,14 +44,14 @@ labels: [soup, drinks, vegetables]
 - 3 large zucchini about 8 inches / 20 cm long, trimmed
 - 3 green bell peppers seeded and cut into 1-inch/2-cm-wide strips
 - 2 large onions coarsely chopped
-- ½ cup extra virgin Greek olive oil and more as needed
+- 120ml extra virgin Greek olive oil and more as needed
 - 4 garlic cloves chopped
 - 4 large fresh tomatoes peeled
-- 1 cup dry white wine
+- 240ml dry white wine
 - 3 fresh bay leaves
-- 2 tablespoons petimezi optional
+- 30ml petimezi optional
 - 6 to 8 fresh large basil leaves coarsely chopped
-- ⅔ cup chopped fresh flat-leaf parsley
+- 160ml chopped fresh flat-leaf parsley
 - 5 fresh oregano sprigs
 - 3 to 4 fresh thyme sprigs
 - Sea salt and pepper to taste

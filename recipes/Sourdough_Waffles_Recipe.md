@@ -32,14 +32,14 @@ labels: [dairy, bread, cake, fermentation]
 
 ## Ingredients
 
-- 5 ounces all-purpose flour (1 cup, spooned)
-- 1 1/2 teaspoons baking powder
-- 1 ounce granulated sugar (2 tablespoons)
-- 1 teaspoon Diamond Crystal kosher salt
+- 142g all-purpose flour (240ml, spooned)
+- 8ml baking powder
+- 28g granulated sugar (30ml)
+- 5ml Diamond Crystal kosher salt
 - 2 large eggs
-- 6 ounces whole milk (3/4 cup)
-- 8 ounces sourdough starter, unfed or discard (1 cup)
-- 1 1/2 ounces unsalted butter, melted (3 tablespoons), plus more for serving
+- 170g whole milk (180ml)
+- 227g sourdough starter, unfed or discard (240ml)
+- 43g unsalted butter, melted (45ml), plus more for serving
 - Maple syrup, for serving
 
 ## Instructions

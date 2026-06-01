@@ -29,13 +29,13 @@ labels: [dairy, vegetables]
 
 ## Ingredients
 
-- 1 cup raw almonds ((soaked overnight in cool water // or 1-2 hours in very hot water))
-- 5 cups filtered water  ((less to thicken, more to thin))
+- 240ml raw almonds ((soaked overnight in cool water // or 1-2 hours in very hot water))
+- 1200ml filtered water  ((less to thicken, more to thin))
 - 1 pinch sea salt
 - 2 whole dates ((optional // pitted // or other sweetener of choice // omit for unsweetened))
-- 1 tsp vanilla extract ((optional // or sub 1 vanilla bean, scraped per 1 tsp extract // omit for plain))
-- 2 Tbsp cocoa powder ((optional // for "chocolate milk"))
-- 1/2 cup berries ((optional // for "berry milk"))
+- 5ml vanilla extract ((optional // or sub 1 vanilla bean, scraped per 5ml extract // omit for plain))
+- 30ml cocoa powder ((optional // for "chocolate milk"))
+- 120ml berries ((optional // for "berry milk"))
 
 ## Instructions
 

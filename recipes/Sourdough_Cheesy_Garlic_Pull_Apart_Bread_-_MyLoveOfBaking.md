@@ -4,7 +4,7 @@ from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
 date: "Sun, 18 Jun 2023 07:59:26 +0300"
 date_parsed: 2023-06-18T07:59:26+03:00
-labels: [bread, fermentation, vegetables]
+labels: [dairy, bread, drinks, fermentation]
 ---
 
 # Sourdough Cheesy Garlic Pull Apart Bread
@@ -20,8 +20,8 @@ labels: [bread, fermentation, vegetables]
 
 ### Dough
 - 400g all-purpose flour
-- 1 tbsp sugar
-- 1 tsp salt
+- 15ml sugar
+- 5ml salt
 - 110g salted butter, softened
 - 80ml milk, room temperature
 - 2 medium eggs, room temperature
@@ -30,7 +30,7 @@ labels: [bread, fermentation, vegetables]
 ### Filling
 - 5–6 cloves garlic
 - Handful of basil (or other herbs)
-- 2 tbsp olive oil
+- 30ml olive oil
 - 60g cheddar, grated
 - 60g monterey jack, grated
 

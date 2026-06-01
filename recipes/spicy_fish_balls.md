@@ -40,10 +40,10 @@ labels: [fish, soup, sauce, drinks, vegetables]
 - 1 can (450g) diced tomatoes
 - 800g tomato sauce
 - 1 loaf gefilte fish, cut into balls or slices
-- ½ tsp salt
-- ½ tsp dried basil
-- ½ tsp dried parsley
-- ½ tsp bay leaf (ground) or 1 whole bay leaf
+- 2ml salt
+- 2ml dried basil
+- 2ml dried parsley
+- 2ml bay leaf (ground) or 1 whole bay leaf
 
 ## Instructions
 

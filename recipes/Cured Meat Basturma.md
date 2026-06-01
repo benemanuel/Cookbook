@@ -33,12 +33,12 @@ labels: [meat, drinks, spice, vegetables]
 - 756.6 gr meat
 - 100 gr ground fenugreek
 - 100 gr sweet paprika
-- 1 tbsp freshly ground black pepper
-- 1 tbsp cayenne pepper
-- 1 tbsp ground cumin
-- 1 tbsp ground coriander
+- 15ml freshly ground black pepper
+- 15ml cayenne pepper
+- 15ml ground cumin
+- 15ml ground coriander
 - 6 large garlic cloves, ground
-- 1 tsp beet powder
+- 5ml beet powder
 - 20 cc cognac
 
 ## Instructions

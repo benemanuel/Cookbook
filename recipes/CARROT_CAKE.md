@@ -39,18 +39,18 @@ labels: [dairy, cake, vegetables]
 
 ## Ingredients
 
-- 2 cups sugar
-- 1 1/2 cups oil
+- 480ml sugar
+- 360ml oil
 - 4 large eggs
-- 2 cups flour
-- 1 cup chopped walnuts
-- 1 teaspoon salt
-- 2 teaspoons cinnamon
-- 3 cups grated carrots
-- 2 teaspoons soda
-- 8 oz package cream cheese
+- 480ml flour
+- 240ml chopped walnuts
+- 5ml salt
+- 10ml cinnamon
+- 720ml grated carrots
+- 10ml soda
+- 227g package cream cheese
 - 1 stick soft margarine
-- 2 teaspoons vanilla
+- 10ml vanilla
 - Confectioners sugar
 
 ## Instructions

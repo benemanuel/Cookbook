@@ -35,21 +35,21 @@ labels: [meat, dairy, bread, soup, drinks, vegetables]
 
 ## Ingredients
 
-- 3 tablespoons pork lard  (, or butter or bacon grease (pork lard is traditionally used and imparts a great flavor))
-- 1 1/2 pounds yellow onions (chopped)
-- 1/4 cup quality genuine imported Hungarian sweet paprika
-- 1 1/2 pounds stewing beef ( , cut into 1/2 inch pieces )
+- 45ml pork lard  (, or butter or bacon grease (pork lard is traditionally used and imparts a great flavor))
+- 680g yellow onions (chopped)
+- 60ml quality genuine imported Hungarian sweet paprika
+- 680g stewing beef ( , cut into 1/2 inch pieces )
 - 5 cloves garlic (,minced)
 - 2  red bell peppers (,seeded/membranes removed, cut into 1/2 inch chunks)
 - 1  yellow bell pepper (,seeded/membranes removed, cut into 1/2 inch chunks)
 - 2   tomatoes (,diced)
 - 2  carrots (,diced)
 - 2  medium potatoes (,cut into 1/2 inch chunks)
-- 5 cups beef broth ((traditionally just water is used but beef broth adds so much more flavor))
+- 1200ml beef broth ((traditionally just water is used but beef broth adds so much more flavor))
 - 1  bay leaf
-- 1 teaspoon salt
-- 1/2 teaspoon freshly ground black pepper
-- 1/2 teaspoon crushed caraway seeds ((optional, not traditional in all regions))
+- 5ml salt
+- 2ml freshly ground black pepper
+- 2ml crushed caraway seeds ((optional, not traditional in all regions))
 
 ## Instructions
 

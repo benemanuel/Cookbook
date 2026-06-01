@@ -31,18 +31,18 @@ labels: [vegetables]
 
 ## Ingredients
 
-- 15 ounce can chickpeas (Drain, but save the liquid from the can.)
-- 3 tablespoons aquafaba
-- 2 tablespoons wasabi powder
-- 1 teaspoon salt
-- 1 teaspoon sugar
-- 2 teaspoons cornstarch (or potato starch)
+- 425g can chickpeas (Drain, but save the liquid from the can.)
+- 45ml aquafaba
+- 30ml wasabi powder
+- 5ml salt
+- 5ml sugar
+- 10ml cornstarch (or potato starch)
 
 ## Instructions
 
-1. Preheat the oven to 400F.
-2. Line a baking sheet with parchment paper or a Silpat, and spread the chickpeas onto the sheet in a single layer. Bake for 35 minutes. Remove from the oven, set aside, and reduce the oven temp to 200F.
-3. When the chickpeas are done baking at 400F, whisk the chickpea liquid with a fork in a large bowl until it becomes foamy. Add chickpeas and toss to coat with the whipped chickpea liquid, then drain off the excess liquid in a colander.
+1. Preheat the oven to 204°C.
+2. Line a baking sheet with parchment paper or a Silpat, and spread the chickpeas onto the sheet in a single layer. Bake for 35 minutes. Remove from the oven, set aside, and reduce the oven temp to 93°C.
+3. When the chickpeas are done baking at 204°C, whisk the chickpea liquid with a fork in a large bowl until it becomes foamy. Add chickpeas and toss to coat with the whipped chickpea liquid, then drain off the excess liquid in a colander.
 4. Stir together wasabi powder, salt, sugar, and cornstarch in a small bowl.
 5. Transfer the chickpeas back to the large bowl, and toss to coat with the wasabi mixture.
 6. Spread chickpeas on baking sheet in a single layer, and bake for 20 more minutes.

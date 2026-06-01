@@ -34,14 +34,14 @@ labels: [dairy]
 
 ## Ingredients
 
-- ⅔ cup maple syrup (or ½ cup brown sugar & 2 tbsp maple syrup)
+- 160ml maple syrup (or 120ml brown sugar & 30ml maple syrup)
 - 2 eggs
-- 3 tbsp water
-- ½ tsp vanilla extract
+- 45ml water
+- 2ml vanilla extract
 - 1¾ cup oatmeal
-- ¾ cup all purpose flour
-- ¾ cup raisins
-- ½ teaspoon salt
+- 180ml all purpose flour
+- 180ml raisins
+- 2ml salt
 
 ## Instructions
 
@@ -50,7 +50,7 @@ labels: [dairy]
 3. Add flour and oatmeal and mix well until everything is combined and the dough starts to come together.
 4. Add raisins and mix well.
 5. Let the dough stay in the refrigerator for one hour.
-6. Preheat the oven to 180°C (350°F) and line baking sheets with parchment paper.
+6. Preheat the oven to 180°C (177°C) and line baking sheets with parchment paper.
 7. Take the dough out of the refrigerator and using a spoon or an ice cream scoop, make small balls of cookie dough on the baking sheets.
 8. Bake the cookies for 16 minutes until their bottoms are light brown.
 9. Let cool completely before serving.

@@ -57,7 +57,7 @@ labels: [dairy, bread, cake, sauce, drinks]
 - 20 g salt
 - 30 g honey, sugar, or maple syrup
 - Extra flour for dusting
-- 2 tablespoons pizza sauce per pizza
+- 30ml pizza sauce per pizza
 - Mozzarella cheese
 - Pizza toppings of choice
 
@@ -78,7 +78,7 @@ labels: [dairy, bread, cake, sauce, drinks]
 13. Dust the top of the dough with bread flour and pour the dough out from the container.
 14. Use your hands to spread the dough and form the edges to create a unique sourdough pizza crust, shaping it into a nice circle of about 10 inches.
 15. Heat a pan on the stovetop until it is hot and place the pizza dough in it.
-16. Immediately add 2 tablespoons of pizza sauce in the middle and use the back of a spoon to spread it evenly.
+16. Immediately add 30ml of pizza sauce in the middle and use the back of a spoon to spread it evenly.
 17. Top with your favorite pizza toppings and a generous amount of mozzarella cheese.
 18. Let the pizza cook in the pan for 3 to 4 minutes until the crust begins to create bubbles.
 19. Transfer the pizza to a hot preheated oven with the top heat set to 250 degrees Celsius for 5 minutes.

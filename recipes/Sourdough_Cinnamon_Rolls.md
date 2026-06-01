@@ -73,8 +73,8 @@ labels: [dairy, bread, candy, soup, sauce, drinks, fermentation]
 - 60g cream (coconut cream)
 - 30g milk (soy milk)
 - 9.5g unsalted butter (clarified butter)
-- 1/2 tsp vanilla extract
-- 1/4 tsp salt
+- 2ml vanilla extract
+- 1ml salt
 - 60g toasted and chopped nuts (walnuts, pecans, or hazelnuts)
 
 ## Instructions

@@ -42,25 +42,25 @@ labels: [dairy, cake, drinks]
 
 ## Ingredients
 
-- 1 cup sugar
-- ½ cup (115g) unsalted butter, softened
+- 240ml sugar
+- 120ml (115g) unsalted butter, softened
 - 1 large egg
-- 1 cup sour cream
-- 1 tsp vanilla extract
-- 3 cups all-purpose flour
-- 1 tsp baking soda
-- 1 tsp baking powder
+- 240ml sour cream
+- 5ml vanilla extract
+- 720ml all-purpose flour
+- 5ml baking soda
+- 5ml baking powder
 - 2 packages (450g total) cream cheese, softened
-- ½ cup sugar
+- 120ml sugar
 - 1 large egg
-- ½ cup chopped pecans
-- ½ cup brown sugar
-- ⅓ cup all-purpose flour
-- ⅓ cup (75g) unsalted butter, cold and cubed
+- 120ml chopped pecans
+- 120ml brown sugar
+- 80ml all-purpose flour
+- 80ml (75g) unsalted butter, cold and cubed
 
 ## Instructions
 
-1. Preheat oven to 350°F (175°C) and grease a 9x13 baking pan.
+1. Preheat oven to 177°C (175°C) and grease a 9x13 baking pan.
 2. Beat butter and sugar until light, then add egg, sour cream, and vanilla; mix until combined.
 3. Stir in flour, baking soda, and baking powder until a soft dough forms.
 4. Beat cream cheese and sugar until smooth, then mix in egg.

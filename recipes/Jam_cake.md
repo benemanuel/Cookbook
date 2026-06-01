@@ -38,7 +38,7 @@ labels: [dairy, cake, pickles]
 - 150 g ground walnut
 - 10 g baking powder
 - 1 jar raspberry jam (350 g)
-- 1 tablespoon vanilla extract
+- 15ml vanilla extract
 - 1 egg yolk
 - 1 egg
 - Lemon peel

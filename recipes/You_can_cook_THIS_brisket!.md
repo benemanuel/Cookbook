@@ -55,14 +55,14 @@ labels: [meat, dairy, cake, drinks, spice, pickles]
 4. Apply dry rub in 2-3 light coats, patting each in before the next, covering all sides and surfaces
 5. Finish with a very light dusting of light brown sugar
 6. Place brisket on a small baking rack and refrigerate until ready to cook
-7. Fill pellet hopper completely and set target temperature to 210-220°F (99-104°C) with cook time set to maximum
+7. Fill pellet hopper completely and set target temperature to 210-104°C (99-104°C) with cook time set to maximum
 8. Wait 10 minutes for smoke to transition from thick white to transparent clean smoke before placing meat on cooker
 9. Place brisket on cooker fat-side up on the rack with temperature probe inserted in thickest part of leanest section
 10. Let cook for about two hours, checking hourly and spritzing surface if dry
-11. At 150°F (65°C) internal temperature, verify probe placement by checking multiple locations
-12. Wrap brisket in dampened butcher paper once reaching 150-160°F (65-71°C), or leave unwrapped based on preference
-13. Return wrapped brisket to cooker and continue cooking until reaching 203-210°F (95-99°C) with butter-like resistance when probed
-14. Remove brisket from cooker and let cool naturally to 140°F (60°C) on counter or in cool oven
+11. At 66°C (65°C) internal temperature, verify probe placement by checking multiple locations
+12. Wrap brisket in dampened butcher paper once reaching 150-71°C (65-71°C), or leave unwrapped based on preference
+13. Return wrapped brisket to cooker and continue cooking until reaching 203-99°C (95-99°C) with butter-like resistance when probed
+14. Remove brisket from cooker and let cool naturally to 60°C (60°C) on counter or in cool oven
 15. Slice across the grain, using toothpick marks as grain indicator if needed
 16. For larger briskets with both flat and point muscle, adjust slicing angle as grain direction changes
 17. Slice with fat side up for stability, making thinner slices in lean flat and thicker slices toward point

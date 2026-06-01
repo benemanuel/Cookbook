@@ -35,14 +35,14 @@ labels: [soup, drinks, vegetables, pickles]
 
 ## Ingredients
 
-- 3 pounds zucchini (if it’s a truly giant one, remove the woody seeds)
-- 1 1/2 pounds green peppers, seeded
+- 1.4kg zucchini (if it’s a truly giant one, remove the woody seeds)
+- 680g green peppers, seeded
 - 1  medium yellow onion, halved
-- 2 1/2 cups apple cider vinegar
-- 1 cup brown sugar
-- 1 tablespoon mustard seeds
-- 1 tablespoon sea salt
-- 1/2 teaspoon red chili flakes
+- 600ml apple cider vinegar
+- 240ml brown sugar
+- 15ml mustard seeds
+- 15ml sea salt
+- 2ml red chili flakes
 - 1  lemon, zested and juiced
 
 ## Instructions

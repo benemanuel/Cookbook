@@ -40,7 +40,7 @@ labels: [dairy, cake, drinks, vegetables]
 ## Ingredients
 
 - 1kg frozen spinach, thawed and squeezed dry
-- ¾ cup olive oil, divided
+- 180ml olive oil, divided
 - 1 leek, white and light green parts, finely sliced
 - 4 green shallots, finely sliced
 - 400g feta cheese, crumbled
@@ -51,12 +51,12 @@ labels: [dairy, cake, drinks, vegetables]
 - Zest of 1 lemon
 - 3 eggs, lightly beaten
 - 15 sheets filo pastry
-- 1 tsp sesame seeds
+- 5ml sesame seeds
 - Lemon wedges, to serve
 
 ## Instructions
 
-1. Preheat oven to 200°C (400°F) and heat 2 Tbsp olive oil in a frying pan over medium heat, then cook leek and shallots until softened, about 5 minutes.
+1. Preheat oven to 200°C (204°C) and heat 30ml olive oil in a frying pan over medium heat, then cook leek and shallots until softened, about 5 minutes.
 2. Combine squeezed spinach, leek mixture, feta, rocket, dill, mint, parsley, lemon zest, and eggs in a large bowl, mix well, and season with pepper.
 3. Brush a large round oven-proof pan or springform tin (about 28cm) with olive oil, lay one sheet of filo in the pan letting excess hang over the edge, brush with olive oil, and continue layering 7–8 filo sheets, brushing each with oil and rotating each sheet slightly so overhang covers all sides.
 4. Spoon the spinach filling into the lined pan and spread evenly.

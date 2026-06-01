@@ -49,19 +49,19 @@ labels: [dairy, bread]
 
 ## Ingredients
 
-- 1 cup lukewarm milk
-- 2 1/4 tsp instant yeast
-- 2 tbsp melted butter
+- 240ml lukewarm milk
+- 11ml instant yeast
+- 30ml melted butter
 - 3 eggs at room temperature
-- 4 cups flour
-- 1 tsp salt
-- 2 tbsp sugar
-- 6 tablespoons butter
+- 960ml flour
+- 5ml salt
+- 30ml sugar
+- 90ml butter
 - 3 minced garlic cloves
-- 1/4 cup basil chopped finely
-- 1/4 cup parsley chopped finely
-- 2 tbsp fresh oregano finely chopped
-- 1/2 cup grated parmesan cheese
+- 60ml basil chopped finely
+- 60ml parsley chopped finely
+- 30ml fresh oregano finely chopped
+- 120ml grated parmesan cheese
 - 1 beaten egg for brushing
 
 ## Instructions
@@ -70,7 +70,7 @@ labels: [dairy, bread]
 2. Pour in lukewarm milk, melted butter, and eggs and start to combine into flour and form a ball.
 3. Knead dough for a few minutes until it is smooth.
 4. Place ball of dough into a well greased bowl, cover and let rest until doubled in size, approximately 1 hour.
-5. In a small bowl, mix 6 tablespoons butter, 3 minced garlic cloves, 1/4 cup basil chopped finely, 1/4 cup parsley chopped finely, 2 tbsp fresh oregano finely chopped, and 1/2 cup grated parmesan cheese.
+5. In a small bowl, mix 90ml butter, 3 minced garlic cloves, 60ml basil chopped finely, 60ml parsley chopped finely, 30ml fresh oregano finely chopped, and 120ml grated parmesan cheese.
 6. After dough has risen, press down lightly and transfer to a lightly floured counter.
 7. Roll it out into a rectangle approximately 13×19 inches, just like cinnamon roll dough.
 8. Spread garlic butter mixture evenly all over the dough.
@@ -81,4 +81,4 @@ labels: [dairy, bread]
 13. Curve the top under itself and do the same with the bottom, almost like you are making an "S".
 14. Cover with a tea towel and let rise another hour.
 15. Brush with beaten egg.
-16. Preheat oven to 375°F and bake for 25 to 35 minutes until golden brown.
+16. Preheat oven to 191°C and bake for 25 to 35 minutes until golden brown.

@@ -38,15 +38,15 @@ labels: [dairy, bread, fermentation]
 
 ## Ingredients
 
-- 1/2 cup sourdough starter (active and bubbly, 100 grams)
-- 3/4 cup warm water (177 grams)
-- 3 cups all-purpose flour (420 grams)
-- 1/4 cup melted coconut oil or butter (56 grams)
-- 3 tablespoons honey (63 grams)
-- 1 teaspoon salt (5 grams)
+- 120ml sourdough starter (active and bubbly, 100 grams)
+- 180ml warm water (177 grams)
+- 720ml all-purpose flour (420 grams)
+- 60ml melted coconut oil or butter (56 grams)
+- 45ml honey (63 grams)
+- 5ml salt (5 grams)
 - 1  egg
 - 1  egg yolk
-- 1 tablespoon water
+- 15ml water
 - sesame seeds (optional)
 
 ## Instructions

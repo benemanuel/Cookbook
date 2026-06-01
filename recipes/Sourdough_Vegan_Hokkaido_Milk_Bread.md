@@ -56,13 +56,13 @@ labels: [dairy, bread, cake, fermentation]
 - 30 g bread flour
 - 150 ml unsweetened soy milk
 - 380 g white bread flour
-- 1 tsp salt
+- 5ml salt
 - 20 g sugar
 - 50 g whole milk cold
 - 70 g eggs
 - 40 g vegan block butter softened
-- ½ Tbsp maple syrup
-- 1 Tbsp water
+- 8ml maple syrup
+- 15ml water
 
 ## Instructions
 

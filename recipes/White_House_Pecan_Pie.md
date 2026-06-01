@@ -34,18 +34,18 @@ labels: [dairy, cake, candy, vegetables]
 
 ## Ingredients
 
-- ½ cup (115g) unsalted butter, softened
-- 1 cup sugar
-- 1 cup dark corn syrup
-- ½ tsp salt
+- 120ml (115g) unsalted butter, softened
+- 240ml sugar
+- 240ml dark corn syrup
+- 2ml salt
 - 1½ tsp vanilla extract
 - 3 large eggs
-- 2 cups chopped pecans
+- 480ml chopped pecans
 - 1 unbaked 9-inch pastry shell
 
 ## Instructions
 
-1. Preheat oven to 375°F (190°C).
+1. Preheat oven to 191°C (190°C).
 2. In a large bowl, beat softened butter until creamy.
 3. Add sugar and beat until light and fluffy.
 4. Mix in dark corn syrup, salt, and vanilla extract.

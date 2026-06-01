@@ -49,9 +49,9 @@ labels: [drinks, spice, fermentation]
 - 1 lemon rind
 - 400 milliliters 96% alcohol
 - 920 milliliters water
-- 2 tablespoons Angostura bitters
-- 1 cup plus 2 tablespoons demerara sugar
-- ¼ cup plus 2 tablespoons water
+- 30ml Angostura bitters
+- 240ml plus 30ml demerara sugar
+- 60ml plus 30ml water
 
 ## Instructions
 
@@ -61,6 +61,6 @@ labels: [drinks, spice, fermentation]
 4. Add 400 milliliters of 96% alcohol to the walnut and spice mixture.
 5. Steep the mixture for 6 months.
 6. Filter the steeped mixture after 6 months.
-7. Make a rich demerara syrup by cooking 1 cup plus 2 tablespoons demerara sugar with ¼ cup plus 2 tablespoons water.
-8. Add 920 milliliters of water and 2 tablespoons of Angostura bitters to the filtered walnut liqueur.
+7. Make a rich demerara syrup by cooking 240ml plus 30ml demerara sugar with 60ml plus 30ml water.
+8. Add 920 milliliters of water and 30ml of Angostura bitters to the filtered walnut liqueur.
 9. Add the cooled demerara syrup to the liqueur and stir to combine.

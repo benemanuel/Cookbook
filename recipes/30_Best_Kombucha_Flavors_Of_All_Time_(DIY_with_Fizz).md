@@ -15,12 +15,12 @@ prep_minutes: null
 cook_minutes: null
 imported_at: 2026-05-31
 ingredients:
-  - 5 tbsp grape juice
-  - 4 tsp brown sugar
+  - 75ml grape juice
+  - 20ml brown sugar
   - 1 rosemary stick
-  - 8 tbsp diluted apple juice
-  - 4 tsp brown sugar
-  - 1/4 tsp pumpkin spice
+  - 120ml diluted apple juice
+  - 20ml brown sugar
+  - 1ml pumpkin spice
 steps: null
 ---
 
@@ -30,12 +30,12 @@ steps: null
 
 ## Ingredients
 
-- 5 tbsp grape juice
-- 4 tsp brown sugar
+- 75ml grape juice
+- 20ml brown sugar
 - 1 rosemary stick
-- 8 tbsp diluted apple juice
-- 4 tsp brown sugar
-- 1/4 tsp pumpkin spice
+- 120ml diluted apple juice
+- 20ml brown sugar
+- 1ml pumpkin spice
 
 ## Instructions
 

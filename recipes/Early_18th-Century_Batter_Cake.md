@@ -66,5 +66,5 @@ labels: [dairy, bread, drinks, fermentation]
 6. Stir down or gently fold the batter to redistribute air pockets and fruit.
 7. Line the bottom of a 6-inch baking hoop or springform pan with parchment paper and grease sides if needed.
 8. Pour in the batter and smooth the surface.
-9. Bake at 180°C (350°F) for 40–50 minutes, or until a skewer inserted in the center comes out clean.
+9. Bake at 180°C (177°C) for 40–50 minutes, or until a skewer inserted in the center comes out clean.
 10. Let cool in the pan for 10 minutes, then remove and cool completely on a wire rack.

@@ -10,7 +10,7 @@ cook_minutes: null
 imported_at: 2026-05-31
 ingredients: null
 steps: null
-labels: [spice]
+labels: [meat, dairy, soup, sauce, drinks, vegetables, pickles]
 ---
 
 # How to Make Sage Oil
@@ -38,8 +38,8 @@ Sage Oil Recipe
 
 ## Ingredients
 
-2 cups cooking oil (olive oil is a good first oil to try, but any oil will do)
-2 cups lightly packed sage leaves
+480ml cooking oil (olive oil is a good first oil to try, but any oil will do)
+480ml lightly packed sage leaves
 Large glass jar with tight fitting lid
 Presentation bottle or oil dispenser
 30 black peppercorns (whole)
@@ -61,7 +61,7 @@ How to Make Sage Oil - Notes and Tips:
 If you don't have enough leaves, you can use sage stems.  They produce a stronger and sometimes slightly more resinous flavor, though.
 Harvest sage in the morning after the dew has evaporated but before noon when the sun begins to warm up your herb patch.
 Rinse sage leaves thoroughly and let them dry in a single layer on paper towels.
-The idea is to heat the oil just enough to encourage the sage leaves to release their native oils into the mixture.  Too hot, and the oil will cook the leaves -- that's a bad thing.  A temperature of around 105 degrees F or slightly warmer works well for me.
+The idea is to heat the oil just enough to encourage the sage leaves to release their native oils into the mixture.  Too hot, and the oil will cook the leaves -- that's a bad thing.  A temperature of around 41°C or slightly warmer works well for me.
 I like to remove the leaves after infusing because then I'll have a good idea of the flavor going forward.  Sage can be overpowering in some mild dishes, so recognizing the potency of a tablespoon or two of oil is a good thing.  Leaves left in the mixture will keep adding flavor intensity over time.  I do add back one leaf (and a few pepper corns) to the oil decanter after infusing the oil.  This makes it easier to identify the without having to add a label.  Just a suggestion.
 Oh, if you're wondering if a recipe will taste good with sage oil, my general guideline is that if a savory recipe contains carrots, lots of onions, lemon juice or chicken, a little sage oil couldn't hurt.
 You can halve or double this recipe as needed, although when increasing it, prefer multiple jars for the infusion.

@@ -28,15 +28,15 @@ labels: [candy, sauce]
 
 ## Ingredients
 
-- 1 cup granulated sugar
-- 1/2 cup honey
+- 240ml granulated sugar
+- 120ml honey
 - 2 egg whites
-- 1 cup nuts (such as almonds, hazelnuts, or pistachios), coarsely chopped
-- 1 tsp vanilla extract
+- 240ml nuts (such as almonds, hazelnuts, or pistachios), coarsely chopped
+- 5ml vanilla extract
 
 ## Instructions
 
-1. In a small saucepan, combine the sugar and honey and cook over medium heat, stirring constantly, until the sugar has dissolved and the mixture has reached a temperature of 240°F on a candy thermometer.
+1. In a small saucepan, combine the sugar and honey and cook over medium heat, stirring constantly, until the sugar has dissolved and the mixture has reached a temperature of 116°C on a candy thermometer.
 2. Beat the egg whites in a large mixing bowl until stiff peaks form.
 3. When the sugar mixture has reached the correct temperature, carefully pour it into the egg whites in a thin stream while continuing to beat the mixture on high speed.
 4. Add the vanilla extract and nuts to the mixture and continue beating until the mixture is thick and glossy.

@@ -56,7 +56,7 @@ labels: [dairy, bread, cake, fermentation]
 - 125 g milk
 - 9 g salt
 - 225 g unsalted butter (room temperature but still firm and not melted, cut into cubes)
-- One egg yolk + 1 Tbsp water (whisked together)
+- One egg yolk + 15ml water (whisked together)
 
 ## Instructions
 
@@ -68,11 +68,11 @@ labels: [dairy, bread, cake, fermentation]
 6. Continue mixing on medium speed for around 15 minutes, until the dough is smooth, glossy, and pulls cleanly away from the sides of the bowl. Don&#39;t be tempted to add more flour.
 7. Let the dough rest for a few minutes, then check the window pane. Stretch a small piece of dough between your fingers. If it stretches thin enough to see light through without tearing, it's ready.
 8. You can mix this dough by hand instead, though it takes a long time and requires arm muscle. If you get tired, take a break. The dough will respond well to some relaxation time. Don&#39;t be tempted to add more flour.
-9. Place the dough in a greased bowl and cover with plastic wrap or a lid. Put it in a warm spot, ideally around 22 to 24°C (72 to 74°F), and let it bulk out by 30 to 40%. This will take around 4 to 6 hours, depending on temperature.
+9. Place the dough in a greased bowl and cover with plastic wrap or a lid. Put it in a warm spot, ideally around 22 to 24°C (72 to 23°C), and let it bulk out by 30 to 40%. This will take around 4 to 6 hours, depending on temperature.
 10. Once risen, place the dough in the fridge for at least 4 hours, or up to 24 hours. Ensure the bowl is covered tightly so the dough doesn&#39;t dry out.
 11. After the cold proof, the dough will be quite firm. Turn it out onto a clean bench and divide into two equal pieces. Line two 8 x 5 inch (21 x 13 cm) loaf pans with parchment paper.
 12. Divide each piece of dough into 8 equal balls, and shape them into tight rounds by rolling on the bench under your cupped hand. Fit 8 balls into each lined pan. They will fit snugly with a little room to expand upwards.
 13. Let the brioche proof in a warm spot until almost doubled and very puffy. This can take 5 to 8 hours, depending on temperature.
-14. Preheat the oven to 200°C (400°F).
+14. Preheat the oven to 200°C (204°C).
 15. Brush the tops of the loaves with egg wash. Bake for around 25 to 30 minutes, until deep golden brown. If the tops are darkening too quickly, loosely cover with foil.
 16. Let the loaves cool in the tin for 10 minutes, then turn out onto a wire rack to cool to room temperature before slicing.

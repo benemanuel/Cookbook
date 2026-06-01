@@ -33,13 +33,13 @@ labels: [fish]
 
 ## Ingredients
 
-- 125mL (½ cup) kosher salt
-- 100g (½ cup) sugar
-- ½ Tbsp cracked black pepper
+- 125mL (120ml) kosher salt
+- 100g (120ml) sugar
+- 8ml cracked black pepper
 - Zest of ½ lemon
 - Zest of ½ orange
 - ½ pack fresh dill, roughly chopped
-- 450g (1 lb) salmon fillet, skin-on
+- 450g (454g) salmon fillet, skin-on
 
 ## Instructions
 
@@ -47,6 +47,6 @@ labels: [fish]
 2. Place the salmon fillet skin-side down on a large sheet of plastic wrap and coat the flesh side generously with the cure mixture, pressing it in.
 3. Wrap the salmon tightly in the plastic wrap, place in a baking dish, and refrigerate for 20 hours, flipping the fish at the 10-hour mark.
 4. After curing, unwrap the salmon and rinse off the cure under cold water, then pat dry with paper towels.
-5. Set your smoker to 180°F and place a tray of ice on the grill grate to keep the salmon cold while smoking.
+5. Set your smoker to 82°C and place a tray of ice on the grill grate to keep the salmon cold while smoking.
 6. Lay the salmon on the ice tray and smoke for 30 minutes until lightly smoked on the outside but still silky and cured inside.
 7. Slice thinly on the bias and serve, refrigerating leftovers for up to 1 week.

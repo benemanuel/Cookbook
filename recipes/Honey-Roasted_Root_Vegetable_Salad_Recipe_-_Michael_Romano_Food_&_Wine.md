@@ -41,28 +41,28 @@ labels: [cake, sauce, drinks, vegetables, pickles]
 
 ## Ingredients
 
-- 1 pound medium beets, with 1 inch of the stem attached
-- 1 pound carrots, peeled and cut into 1 1/2-inch pieces
-- 1 pound parsnips, peeled and cut into 1 1/2-inch pieces
-- 1 pound turnips, peeled and cut into 1 1/2-inch pieces
-- 3 tablespoons vegetable oil
-- 3 small white onions (about 3/4 pound), cut into 2-inch wedges
+- 454g medium beets, with 1 inch of the stem attached
+- 454g carrots, peeled and cut into 1 1/2-inch pieces
+- 454g parsnips, peeled and cut into 1 1/2-inch pieces
+- 454g turnips, peeled and cut into 1 1/2-inch pieces
+- 45ml vegetable oil
+- 3 small white onions (about 340g), cut into 2-inch wedges
 - Salt and freshly ground pepper
-- 3 tablespoons honey, warmed
-- 1 tablespoon chopped sage leaves
-- 4 ounces fresh goat cheese, at room temperature
-- 1/4 cup minced fresh herbs, such as chives, tarragon and flat-leaf parsley
-- 2 tablespoons extra-virgin olive oil
-- 1/4 cup extra-virgin olive oil
-- 2 tablespoons sherry vinegar
+- 45ml honey, warmed
+- 15ml chopped sage leaves
+- 113g fresh goat cheese, at room temperature
+- 60ml minced fresh herbs, such as chives, tarragon and flat-leaf parsley
+- 30ml extra-virgin olive oil
+- 60ml extra-virgin olive oil
+- 30ml sherry vinegar
 - 1 large garlic clove, minced
-- 1 tablespoon minced herbs, such as chives, tarragon and flat-leaf parsley
+- 15ml minced herbs, such as chives, tarragon and flat-leaf parsley
 - Salt and freshly ground pepper
-- 4 cups packed arugula leaves (from two 4-ounce bunches)
+- 960ml packed arugula leaves (from two 4-ounce bunches)
 
 ## Instructions
 
 1. Preheat the oven to 400°. Tightly wrap the beets in a double layer of aluminum foil and roast them on the bottom shelf of the oven for 1 1/2 hours, or until they are tender when pierced with the tip of a knife. When the beets are cool enough to handle, peel and cut them into 1-inch pieces.
-2. Meanwhile, divide the carrots, parsnips and turnips between 2 large rimmed baking sheets. Toss the vegetables in each pan with 1 tablespoon of the vegetable oil. Arrange the onion wedges on the baking sheets, keeping them intact. Brush the onion wedges all over with the remaining 1 tablespoon of vegetable oil. Generously season the vegetables with salt and pepper. Roast the vegetables for 40 minutes. Brush the vegetables with the warm honey and sprinkle with the sage. Continue to roast the vegetables for 25 minutes longer, or until they are tender and glazed. Loosen the vegetables with a spatula and let them cool to room temperature in the pans.
+2. Meanwhile, divide the carrots, parsnips and turnips between 2 large rimmed baking sheets. Toss the vegetables in each pan with 15ml of the vegetable oil. Arrange the onion wedges on the baking sheets, keeping them intact. Brush the onion wedges all over with the remaining 15ml of vegetable oil. Generously season the vegetables with salt and pepper. Roast the vegetables for 40 minutes. Brush the vegetables with the warm honey and sprinkle with the sage. Continue to roast the vegetables for 25 minutes longer, or until they are tender and glazed. Loosen the vegetables with a spatula and let them cool to room temperature in the pans.
 3. In a small bowl, mix the goat cheese with the herbs and olive oil and season with salt and pepper.
-4. In a small bowl, combine the olive oil with the vinegar, garlic and herbs; season with salt and pepper. In a large bowl, toss the arugula with 1 tablespoon of the vinaigrette and arrange on plates. Add the roasted vegetables to the bowl and toss with the remaining vinaigrette. Top the arugula with the vegetables, dot each plate with small spoonfuls of the herbed goat cheese and serve.
+4. In a small bowl, combine the olive oil with the vinegar, garlic and herbs; season with salt and pepper. In a large bowl, toss the arugula with 15ml of the vinaigrette and arrange on plates. Add the roasted vegetables to the bowl and toss with the remaining vinaigrette. Top the arugula with the vegetables, dot each plate with small spoonfuls of the herbed goat cheese and serve.

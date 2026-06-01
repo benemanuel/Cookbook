@@ -32,15 +32,15 @@ labels: [drinks, vegetables]
 
 - 1 pint jar with a tight-fitting lid
 - ½ pear, firm just barely ripe
-- 1 inch or 1 tablespoon fresh sliced ginger
-- 1 teaspoon gentian root
+- 1 inch or 15ml fresh sliced ginger
+- 5ml gentian root
 - 6 cardamom pods, cracked
-- 1 teaspoon whole coriander seeds
-- 1 teaspoon whole fennel seeds
+- 5ml whole coriander seeds
+- 5ml whole fennel seeds
 - 3 whole star anise
 - 2 whole cloves
-- ½ teaspoon orange peel
-- 1½ to 2 cups vodka or brandy
+- 2ml orange peel
+- 1½ to 480ml vodka or brandy
 
 ## Instructions
 

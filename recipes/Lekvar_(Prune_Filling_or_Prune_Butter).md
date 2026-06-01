@@ -29,14 +29,14 @@ labels: [dairy, soup, sauce]
 
 ## Ingredients
 
-- 2 cups dried prunes
-- 1 cup water
-- 1/4 cup orange juice
-- 1 tablespoon lemon juice
-- 1/2 teaspoon salt
+- 480ml dried prunes
+- 240ml water
+- 60ml orange juice
+- 15ml lemon juice
+- 2ml salt
 - 1 dash clove
 - 1 dash cinnamon
-- 1/3 cup brown sugar
+- 80ml brown sugar
 
 ## Instructions
 

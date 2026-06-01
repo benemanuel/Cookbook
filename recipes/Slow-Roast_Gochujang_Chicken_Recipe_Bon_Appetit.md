@@ -51,29 +51,29 @@ labels: [meat, drinks, vegetables]
 ## Ingredients
 
 - 3½–4-lb. whole chicken
-- 1 Tbsp. Diamond Crystal or 1¾ tsp. Morton kosher salt, plus more
+- 15ml. Diamond Crystal or 1¾ tsp. Morton kosher salt, plus more
 - Freshly ground black pepper
-- 5 Tbsp. gochujang (Korean hot pepper paste)
-- ¼ cup plus 2 Tbsp. extra-virgin olive oil
+- 75ml. gochujang (Korean hot pepper paste)
+- 60ml plus 30ml. extra-virgin olive oil
 - 2 heads of garlic
 - 1½" piece fresh ginger
 - 1½ lb. baby Yukon Gold potatoes (about 1½" in diameter)
 - 5 scallions
 - 2 limes
-- 2 tsp. honey
+- 10ml. honey
 
 ## Instructions
 
 1. Place a rack in middle of oven and preheat to 300°.
 2. Pat chicken dry with paper towels and place on a small rimmed baking sheet.
 3. Season the chicken all over with salt and freshly ground black pepper, making sure to season the inside cavity.
-4. Whisk gochujang and ¼ cup extra-virgin olive oil in a medium bowl until combined.
+4. Whisk gochujang and 60ml extra-virgin olive oil in a medium bowl until combined.
 5. Finely grate 3 garlic cloves into the gochujang oil.
 6. Peel and grate the fresh ginger into the gochujang oil and whisk to combine.
 7. Cut what's left of both heads of garlic in half crosswise.
 8. Stuff 2 garlic halves inside the cavity of the chicken and tie the legs together with kitchen twine.
 9. Brush half of the gochujang oil over the chicken using a pastry brush.
-10. Toss the potatoes, remaining 2 garlic halves, and 2 Tbsp. extra-virgin olive oil in the remaining gochujang oil until well coated, then season lightly with salt and pepper.
+10. Toss the potatoes, remaining 2 garlic halves, and 30ml. extra-virgin olive oil in the remaining gochujang oil until well coated, then season lightly with salt and pepper.
 11. Arrange potatoes in a 12" cast-iron skillet, scooting them toward the edges to make space for the chicken.
 12. Nestle the garlic halves cut sides down in the center of the skillet and place the chicken over the garlic.
 13. Roast the chicken and potatoes, turning the potatoes once or twice to coat in juices and oil, until the potatoes are very tender and the chicken skin is deep reddish-golden brown, 2½–3 hours.

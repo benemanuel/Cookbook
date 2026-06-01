@@ -29,14 +29,14 @@ labels: [meat, fish, sauce, drinks, vegetables]
 
 ## Ingredients
 
-- 2 tbsp orange juice
-- 2 tbsp soy sauce
-- 1 tbsp olive oil
-- 1.5 tsp lemon juice
-- 1 tbsp chopped fresh parsley
+- 30ml orange juice
+- 30ml soy sauce
+- 15ml olive oil
+- 8ml lemon juice
+- 15ml chopped fresh parsley
 - 1/3 clove garlic
-- 1/4 tsp chopped fresh oregano
-- 1/4 tsp ground black pepper
+- 1ml chopped fresh oregano
+- 1ml ground black pepper
 - 2 tuna steaks (115 g each)
 
 ## Instructions

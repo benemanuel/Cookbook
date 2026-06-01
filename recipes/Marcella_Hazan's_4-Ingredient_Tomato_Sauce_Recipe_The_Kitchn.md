@@ -31,7 +31,7 @@ labels: [dairy, soup, sauce, vegetables]
 ## Ingredients
 
 - 1 (28-ounce) can whole tomatoes, no salt or herbs added
-- 5 tablespoons unsalted butter
+- 75ml unsalted butter
 - 1  small white onion, peeled and cut in half
 - Kosher salt
 - Cooked pasta
@@ -40,7 +40,7 @@ labels: [dairy, soup, sauce, vegetables]
 
 ## Instructions
 
-1. Place 1 (28-ounce) can whole tomatoes, 5 tablespoons unsalted butter, 1 halved small white onion, and a pinch of kosher salt in a large saucepan and bring to a simmer over medium-high heat.
+1. Place 1 (28-ounce) can whole tomatoes, 75ml unsalted butter, 1 halved small white onion, and a pinch of kosher salt in a large saucepan and bring to a simmer over medium-high heat.
 2. Lower the heat to maintain a gentle simmer and cook, stirring and crushing the tomatoes lightly with the back of a spoon occasionally, until droplets of fat appear on the surface of the tomatoes, about 45 minutes. Remove and discard the onion.
 3. Serve over hot pasta with grated Parmesan cheese and ground black pepper if desired.
 4. Storage: Leftovers can be refrigerated in an airtight container for up to 4 days or frozen for up to 3 months.Adapted in my own words from Marcella Hazan&#x27;s &quot;Essentials of Classic Italian Cooking.&quot;

@@ -22,9 +22,9 @@ labels: [dairy]
 ## Ingredients
 
 - 180 gr all purpose flour
-- 1/4 teaspoon kosher salt
+- 1ml kosher salt
 - 100 gr unsalted butter, cold, cut into cubes
-- 3 tablespoons ice cold water
+- 45ml ice cold water
 
 ## Instructions
 

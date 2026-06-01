@@ -46,7 +46,7 @@ labels: [dairy, bread, drinks, fermentation]
 1. In a large bowl, mix the sourdough discard, olive oil, and water and stir to combine.
 2. Add the all-purpose flour and salt, mixing until the dough is formed.
 3. Knead for 1 to 2 minutes until everything is well combined and the dough looks homogeneous with no dry spots.
-4. If the dough is too sticky, add 1 tablespoon more all-purpose flour and knead until absorbed.
+4. If the dough is too sticky, add 15ml more all-purpose flour and knead until absorbed.
 5. Cover the dough with a damp towel and let it rest for 30 minutes.
 6. Preheat a large skillet on high heat.
 7. Lightly flour the surface you will use for rolling the dough.

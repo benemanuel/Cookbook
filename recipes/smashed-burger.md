@@ -33,14 +33,14 @@ labels: [meat, dairy, sauce, vegetables]
 - 680g ground beef
 - 8 slices of Cheddar cheese
 - 1 tomato
-- 4 tablespoons clarified butter
+- 60ml clarified butter
 - Salt
 - 0.2 iceberg lettuce
 - 120ml mayonnaise
 - 1/2 onion
-- 1 teaspoon Worcestershire sauce
-- 2 teaspoons chili sauce
-- 1 tablespoon mustard
+- 5ml Worcestershire sauce
+- 10ml chili sauce
+- 15ml mustard
 
 ## Instructions
 

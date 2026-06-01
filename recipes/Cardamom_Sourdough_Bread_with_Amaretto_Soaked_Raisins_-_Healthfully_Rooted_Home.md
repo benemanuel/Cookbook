@@ -50,19 +50,19 @@ labels: [dairy, bread, cake, drinks, fermentation]
 
 - 113g sourdough starter, active or discard
 - 360g all-purpose flour
-- 2 tsp baking powder
-- 1 tablespoon coconut sugar
-- 1 1/4 teaspoons salt
+- 10ml baking powder
+- 15ml coconut sugar
+- 6ml salt
 - 1 large egg
-- 5 tablespoons butter, softened
+- 75ml butter, softened
 - 180g warm water
-- 1/3 cup coconut sugar
-- 1 tsp cardamom
-- 1/2 tsp cinnamon
-- 2 tsp flour
+- 80ml coconut sugar
+- 5ml cardamom
+- 2ml cinnamon
+- 10ml flour
 - 1 egg, beaten
-- 1 cup raisins
-- 1 cup amaretto or filtered water
+- 240ml raisins
+- 240ml amaretto or filtered water
 
 ## Instructions
 
@@ -76,7 +76,7 @@ labels: [dairy, bread, cake, drinks, fermentation]
 8. Brush the dough with egg wash and sprinkle the filling evenly over it, then top with the soaked raisins, leaving a bare strip about 1 inch wide along one short edge.
 9. Starting with the short end that is covered with filling, roll the dough into a log and pinch the ends and long seam closed.
 10. Transfer the log, seam-side down, to a lightly greased 9 by 5 inch loaf pan, cover, and allow it to rise for about 1 hour.
-11. While the dough is rising, preheat the oven to 350°F.
+11. While the dough is rising, preheat the oven to 177°C.
 12. Bake the bread for 40 to 45 minutes, tenting it lightly with foil after 15 to 20 minutes to prevent burning.
 13. Remove the bread from the oven, gently loosen the edges, turn it out of the pan, and brush the top surface with butter.
 14. Allow the bread to cool completely before slicing.

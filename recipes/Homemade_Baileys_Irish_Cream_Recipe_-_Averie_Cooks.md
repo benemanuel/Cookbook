@@ -28,12 +28,12 @@ labels: [dairy, drinks, pickles]
 
 ## Ingredients
 
-- 1 2/3 cups Irish whiskey (I used Jameson)
+- 400ml Irish whiskey (I used Jameson)
 - one 14-ounce can sweetened condensed milk
-- 1 cup half-and-half or heavy cream (I used half-and-half)
-- 2 tablespoons chocolate syrup (I used Hershey’s)
-- 2 teaspoons vanilla extract
-- 1 teaspoon instant coffee granules or instant espresso (make sure it’s instant so it dissolves)
+- 240ml half-and-half or heavy cream (I used half-and-half)
+- 30ml chocolate syrup (I used Hershey’s)
+- 10ml vanilla extract
+- 5ml instant coffee granules or instant espresso (make sure it’s instant so it dissolves)
 
 ## Instructions
 

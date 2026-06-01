@@ -32,17 +32,17 @@ labels: [drinks]
 
 ## Ingredients
 
-- 1 ½ cups chestnut paste
-- 10 ounces dates, chopped
-- 12 ounces figs, chopped
-- 2 tablespoons poppy seeds
-- ½ cup chopped walnuts
-- ½ cup chopped almonds
-- ½ cup pine nuts
+- 360ml chestnut paste
+- 284g dates, chopped
+- 340g figs, chopped
+- 30ml poppy seeds
+- 120ml chopped walnuts
+- 120ml chopped almonds
+- 120ml pine nuts
 - grated rind of 1 orange
-- ½ cup white raisins
-- ¼ cup chopped dried apricot
-- ½ cup brandy
+- 120ml white raisins
+- 60ml chopped dried apricot
+- 120ml brandy
 - honey to bind
 
 ## Instructions

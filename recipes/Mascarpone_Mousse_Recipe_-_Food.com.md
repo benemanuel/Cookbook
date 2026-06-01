@@ -33,12 +33,12 @@ labels: [dairy, cake]
 
 ## Ingredients
 
-- 3/4 cup heavy whipping cream
-- 1 tablespoon granulated sugar
-- 4 ounces mascarpone cheese
-- 2 ounces cream cheese
-- 1/8 teaspoon pure vanilla extract
-- 3 tablespoons powdered sugar
+- 180ml heavy whipping cream
+- 15ml granulated sugar
+- 113g mascarpone cheese
+- 57g cream cheese
+- 1ml pure vanilla extract
+- 45ml powdered sugar
 
 ## Instructions
 

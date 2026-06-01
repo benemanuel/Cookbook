@@ -100,7 +100,7 @@ labels: [dairy, bread, cake, vegetables]
 15. Proof the dough for about 90 minutes.
 16. Divide the dough into 15 pieces of 60g each and roll into balls.
 17. Arrange the dough balls on parchment paper squares and proof for 30 minutes.
-18. Fry the donuts at 340F/170C for 2 minutes on each side.
+18. Fry the donuts at 171°C/170C for 2 minutes on each side.
 19. Transfer fried donuts to paper towels and toss in sugar.
 20. Whisk 150g of cold whipping cream to soft peaks and combine with the cooled pastry cream.
 21. Fill the donuts with the diplomat cream and serve.

@@ -31,13 +31,13 @@ labels: [dairy, bread, vegetables, fermentation]
 
 ### Overnight Sourdough Levain
 - 12 g sourdough starter
-- 64 g water at 77°F/25°C
+- 64 g water at 25°C/25°C
 - 64 g bread flour
 
 ### Main Dough
 - 600 g bread flour
 - 100 g whole wheat flour
-- 490 g water at 77°F/25°C
+- 490 g water at 25°C/25°C
 - 140 g levain
 - 14 g salt
 - 40 g maple syrup or honey

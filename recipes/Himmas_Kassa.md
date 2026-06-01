@@ -42,22 +42,22 @@ labels: [drinks, pickles]
 
 ## Ingredients
 
-- 1 cup boiled chickpeas
-- 2 tablespoons tahini
-- 2 tablespoons water
-- 2 tablespoons wine vinegar
-- ¼ cup finely ground walnut
-- 2 tablespoons lemon juice
-- 1 teaspoon wine vinegar
-- ½ cup chopped parsley
-- ¼ cup chopped mint
-- 3 tablespoons olive oil
-- ¼ teaspoon caraway
-- ¼ teaspoon coriander
-- ¼ teaspoon black pepper
-- ¼ teaspoon ginger
-- ¼ teaspoon cinnamon
-- ½ teaspoon salt
+- 240ml boiled chickpeas
+- 30ml tahini
+- 30ml water
+- 30ml wine vinegar
+- 60ml finely ground walnut
+- 30ml lemon juice
+- 5ml wine vinegar
+- 120ml chopped parsley
+- 60ml chopped mint
+- 45ml olive oil
+- 1ml caraway
+- 1ml coriander
+- 1ml black pepper
+- 1ml ginger
+- 1ml cinnamon
+- 2ml salt
 - Olive oil for garnish
 - Olives for garnish
 - Chopped pistachios for garnish

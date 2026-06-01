@@ -28,10 +28,10 @@ labels: [dairy]
 
 ## Ingredients
 
-- 1 cup mascarpone cheese
-- 1 can (14 oz) sweetened condensed milk
-- 1 cup heavy cream
-- 1 tsp vanilla extract
+- 240ml mascarpone cheese
+- 1 can (397g) sweetened condensed milk
+- 240ml heavy cream
+- 5ml vanilla extract
 - A pinch of salt
 
 ## Instructions

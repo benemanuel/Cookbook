@@ -32,8 +32,8 @@ labels: [meat, drinks]
 ## Ingredients
 
 - 1 five pound chicken
-- 5 - 6 cups kosher salt
-- 1 1/2 cups water
+- 5 - 1440ml kosher salt
+- 360ml water
 
 ## Instructions
 

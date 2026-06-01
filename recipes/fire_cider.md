@@ -50,15 +50,15 @@ labels: [drinks, vegetables, fermentation, pickles]
 - 10 cloves or 1 head of garlic, crushed or chopped
 - 2 organic jalapeño peppers, chopped
 - 1 whole lemon with zest and juice
-- 1/4 teaspoon cayenne powder
+- 1ml cayenne powder
 - 1 cinnamon stick
 - A few allspice berries
 - A few whole cloves
 - 1 whole orange with zest and juice
-- 2 tablespoons chopped rosemary and/or thyme and/or oregano and/or sage leaves
-- 1/2 teaspoon black peppercorns
+- 30ml chopped rosemary and/or thyme and/or oregano and/or sage leaves
+- 2ml black peppercorns
 - Organic unfiltered apple cider vinegar
-- 1/4 cup raw honey, or to taste
+- 60ml raw honey, or to taste
 
 ## Instructions
 
@@ -71,4 +71,4 @@ labels: [drinks, vegetables, fermentation, pickles]
 7. Add honey to the liquid and stir until incorporated.
 8. Taste the fire cider and add more honey if needed until desired sweetness is reached.
 9. Store in a sealed container in the refrigerator or in a cold, dark place.
-10. Drink 1-2 tablespoons when needed.
+10. Drink 1-30ml when needed.

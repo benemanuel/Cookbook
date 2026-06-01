@@ -36,7 +36,7 @@ labels: [dairy, sauce, vegetables]
 - 250 grams peeled apples
 - juice of half a lemon
 - 150 grams Greek yogurt
-- 1 tablespoon honey
+- 15ml honey
 - pinch of salt
 - 100 grams hazelnuts, chopped
 

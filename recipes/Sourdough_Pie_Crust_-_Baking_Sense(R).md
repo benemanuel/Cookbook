@@ -30,13 +30,13 @@ labels: [dairy, cake, vegetables]
 
 ## Ingredients
 
-- 7 ½ oz all purpose flour
-- 3 ½ oz cake flour
-- 1 teaspoon salt
-- 1 tablespoon granulated sugar
-- 4 oz vegetable shortening, cold
-- 4 oz unsalted butter, very cold and sliced into ¼" thin slices
-- 8 oz sourdough discard at 100% hydration
+- 213g all purpose flour
+- 99g cake flour
+- 5ml salt
+- 15ml granulated sugar
+- 113g vegetable shortening, cold
+- 113g unsalted butter, very cold and sliced into ¼" thin slices
+- 227g sourdough discard at 100% hydration
 
 ## Instructions
 

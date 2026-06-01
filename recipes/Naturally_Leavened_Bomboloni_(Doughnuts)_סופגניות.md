@@ -76,15 +76,15 @@ labels: [dairy, bread, drinks, fermentation]
 
 ## Instructions
 
-1. Build levain with 45g mature starter, 90g all-purpose flour, and 90g water in the morning. Store at 78°F until ripe, approximately 5 hours.
+1. Build levain with 45g mature starter, 90g all-purpose flour, and 90g water in the morning. Store at 26°C until ripe, approximately 5 hours.
 2. Soften butter and cut into half-inch cubes. Bring eggs to weight and keep cold.
 3. Add flour, sugar, eggs, levain, salt, and water to mixer with paddle attachment. Stir 1 minute, then mix on speed two for 5 minutes and rest 10 minutes.
 4. Mix on speed three for 9-10 minutes, adding butter chunk by chunk, until dough almost passes the windowpane test.
 5. Perform 4 sets of stretch and folds every 30 minutes over 2 hours. Rest for 4 hours after final fold, aiming for at least 30% rise. Cover and refrigerate overnight.
 6. Allow flexible cold fermentation overnight.
 7. Dump cold dough on unfloured surface and divide into 18 pieces of 65g each. Preshape into tight rounds with taut surface.
-8. Place on floured trays, 8 per tray. Proof at 78°F for approximately 12 hours until nearly doubled and very puffy. Bomboloni should feel air-filled when poked.
-9. Heat oil to 360-370°F in a heavy pot. Fry bomboloni smooth-side down first, up to 3 at a time, for 2.5 minutes per side until golden brown.
+8. Place on floured trays, 8 per tray. Proof at 26°C for approximately 12 hours until nearly doubled and very puffy. Bomboloni should feel air-filled when poked.
+9. Heat oil to 360-188°C in a heavy pot. Fry bomboloni smooth-side down first, up to 3 at a time, for 2.5 minutes per side until golden brown.
 10. Drain fried bomboloni, then toss in cinnamon-sugar mixture while warm.
 11. For crema pasticcera, heat milk until bubbles form on sides. Whisk together flour, salt, and sugar, then add egg yolks to form a thick paste.
 12. Slowly pour warm milk over yolk mixture while whisking constantly. Return to pot on medium heat and whisk until large bubbles pop.

@@ -39,12 +39,12 @@ labels: [dairy, cake, drinks, vegetables]
 - 4 large white onions
 - 700 ml milk
 - 2 eggs
-- 1 tablespoon Dijon mustard
+- 15ml Dijon mustard
 - 500 grams all-purpose flour
 - 1 level tablespoon salt
-- 1 tablespoon smoked paprika
-- 1 tablespoon garlic powder
-- 1 tablespoon baking powder
+- 15ml smoked paprika
+- 15ml garlic powder
+- 15ml baking powder
 - Panko breadcrumbs
 - Breadcrumbs
 - Oil for frying (170°C)

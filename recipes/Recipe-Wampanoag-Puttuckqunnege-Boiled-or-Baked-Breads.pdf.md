@@ -31,10 +31,10 @@ labels: [soup, drinks, vegetables]
 ## Ingredients
 
 - 1 quart slightly boiled water (this water can be a broth from boiled greens)
-- 1/2 cup cornmeal
-- 1/2 cup corn flour
-- 1/2 cup dried cranberries, blueberries, and/or currants
-- 1/2 cup crushed nuts or seeds (walnuts, hazelnuts, or sunflower seeds)
+- 120ml cornmeal
+- 120ml corn flour
+- 120ml dried cranberries, blueberries, and/or currants
+- 120ml crushed nuts or seeds (walnuts, hazelnuts, or sunflower seeds)
 - Maple syrup or sugar to taste (optional)
 
 ## Instructions

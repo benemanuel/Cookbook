@@ -65,38 +65,38 @@ labels: [dairy, cake, candy, sauce, drinks, vegetables]
 ## Ingredients
 
 **For the crust**
-- 2 cups graham cracker crumbs, about 18 whole crackers
-- 1 cup pecans, finely ground
-- ¼ cup light brown sugar, packed
-- ½ cup unsalted butter, melted
+- 480ml graham cracker crumbs, about 18 whole crackers
+- 240ml pecans, finely ground
+- 60ml light brown sugar, packed
+- 120ml unsalted butter, melted
 
 **For the filling**
-- 16 ounces cream cheese, softened
-- ½ cup granulated sugar
-- ½ cup sour cream, room temperature
-- 1 tablespoon vanilla extract
-- ¼ teaspoon salt
+- 454g cream cheese, softened
+- 120ml granulated sugar
+- 120ml sour cream, room temperature
+- 15ml vanilla extract
+- 1ml salt
 - 2 large eggs, room temperature, lightly beaten
 
 **For the topping**
-- 1 cup light brown sugar, packed
-- ⅔ cup dark corn syrup
-- 1 tablespoon dark rum
-- ¼ cup unsalted butter
+- 240ml light brown sugar, packed
+- 160ml dark corn syrup
+- 15ml dark rum
+- 60ml unsalted butter
 - 3 large eggs
-- ¼ cup heavy cream
-- ¼ teaspoon salt
-- 2 ½ cups coarsely chopped pecans
+- 60ml heavy cream
+- 1ml salt
+- 600ml coarsely chopped pecans
 
 ## Instructions
 
-1. Move the oven rack to the middle position and heat the oven to 350°F.
+1. Move the oven rack to the middle position and heat the oven to 177°C.
 2. Line the inside bottom and sides of a 9-inch springform pan with parchment paper or aluminum foil and spray lightly with nonstick spray.
 3. Wrap foil around the outside bottom and set aside.
 4. Stir the graham cracker crumbs, ground pecans, brown sugar, and melted butter together until it resembles wet sand.
 5. Press the crumb mixture into the bottom and up the sides of the prepared pan, making sure it reaches at least ¾ of the way up the sides.
 6. Bake the crust for 10 minutes and set aside to cool.
-7. Reduce the oven temperature to 300°F.
+7. Reduce the oven temperature to 149°C.
 8. Beat the cream cheese with an electric mixer on medium to medium-high speed until smooth and creamy, about 1 minute.
 9. Add the sugar, sour cream, vanilla, and salt, and beat on medium speed until well combined.
 10. Gently stir in the eggs using a silicone spatula just until combined.

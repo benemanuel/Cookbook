@@ -55,9 +55,9 @@ I make this cake throughout the year, using whatever fruits are in season, from 
 For the topping:  
 **plain flour** 100g  
 **butter** 75g  
-**jumbo oats** 3 tbsp  
-**demerara sugar** 2 tbsp  
-**flaked almonds** 2 tbsp  
+**jumbo oats** 45ml  
+**demerara sugar** 30ml  
+**flaked almonds** 30ml  
 Preheat the oven to 160C/gas mark 3. Line the base of a 22cm round spring-form cake tin with baking parchment.
 
 Make the topping: process the flour and butter to coarse crumbs using a processor or by rubbing them together between your fingers and thumbs. Switch off the machine, add the oats, sugar and flaked almonds, then a little water (no more than a tablespoon). Shake the bowl from side to side until the mixture comes together in crumbs of different sizes, then set aside.
@@ -89,9 +89,9 @@ The sweet-sharp note of the apricots and the deep warmth of the harissa paste ma
 **golden granulated sugar** 250g  
 **sultanas** 90g  
 **lemon** 1 small, zested  
-**salt** 1 tsp  
-**harissa** 2 tbsp  
-**honey** 4 tbsp
+**salt** 5ml  
+**harissa** 30ml  
+**honey** 60ml
 
 Halve the apricots and discard their stones. Put them into a large, deep, heavy-based saucepan. Cut the tomatoes in half and add them to the pot, then peel and roughly chop the onion and stir into the apricots.
 
@@ -115,4 +115,4 @@ Explore more on these topics
 
 
 
-[Reuse this content](https://syndication.theguardian.com/?url=https%3A%2F%2Fwww.theguardian.com%2Ffood%2F2023%2Fjul%2F16%2Fnigel-slater-recipes-raspberry-and-apricot-shortcake-apricot-and-harissa-chutney&type=article&internalpagecode=food/2023/jul/16/nigel-slater-recipes-raspberry-and-apricot-shortcake-apricot-and-harissa-chutney "Reuse this content")
+[Reuse this content](https://syndication.theguardian.com/?url=https%3A%-17°C%2Fwww.theguardian.com%2Ffood%2F2023%2Fjul%2F16%2Fnigel-slater-recipes-raspberry-and-apricot-shortcake-apricot-and-harissa-chutney&type=article&internalpagecode=food/2023/jul/16/nigel-slater-recipes-raspberry-and-apricot-shortcake-apricot-and-harissa-chutney "Reuse this content")

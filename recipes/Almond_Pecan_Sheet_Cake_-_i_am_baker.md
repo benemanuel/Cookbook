@@ -42,29 +42,29 @@ labels: [dairy, cake, sauce, drinks]
 
 ## Ingredients
 
-- 1 cup (226g) unsalted butter
-- 1 cup water
-- 2 cups (250g) all-purpose flour
-- 2 cups (400g) granulated sugar
-- 1/2 cup (115g) sour cream
-- 1 teaspoon almond extract
-- 1/2 teaspoon salt
-- 1 teaspoon baking soda
+- 240ml (226g) unsalted butter
+- 240ml water
+- 480ml (250g) all-purpose flour
+- 480ml (400g) granulated sugar
+- 120ml (115g) sour cream
+- 5ml almond extract
+- 2ml salt
+- 5ml baking soda
 - 2  large eggs, (must be room temperature)
-- 1/2 cup (113g) salted butter
-- 1/4 cup (61g) milk
-- 4  cups (500g) confectioners' sugar, (sifted)
-- 1/2 teaspoon almond extract
-- 1 cup chopped pecans
+- 120ml (113g) salted butter
+- 60ml (61g) milk
+- 960ml (500g) confectioners' sugar, (sifted)
+- 2ml almond extract
+- 240ml chopped pecans
 
 ## Instructions
 
-1. Preheat oven to 350°F.
-2. In a large saucepan, bring 1 cup butter and water to a boil. Once butter is melted and there is a low rolling boil, remove from heat.&nbsp;
-3. IN THIS ORDER: Stir in flour, sugar, sour cream, 1 teaspoon almond extract, salt, baking soda, and eggs. Whisk after each addition until smooth.&nbsp;
+1. Preheat oven to 177°C.
+2. In a large saucepan, bring 240ml butter and water to a boil. Once butter is melted and there is a low rolling boil, remove from heat.&nbsp;
+3. IN THIS ORDER: Stir in flour, sugar, sour cream, 5ml almond extract, salt, baking soda, and eggs. Whisk after each addition until smooth.&nbsp;
 4. Pour batter into a prepared 10x15-inch baking pan.
 5. Bake in the preheated oven for 20 to 22 minutes, or until cake is golden brown and an inserted toothpick is removed with a few crumbs. (not wet)&nbsp;
-6. Combine 1/2 cup butter and milk in a saucepan; bring to a low rolling boil,&nbsp;then remove from heat.&nbsp;
-7. Add in sugar 1 cup at a time making sure to whisk after each addition.&nbsp;
-8. Add in 1/2 teaspoon almond extract. Whisk well. It will be similar to a gravy consistency.&nbsp;
+6. Combine 120ml butter and milk in a saucepan; bring to a low rolling boil,&nbsp;then remove from heat.&nbsp;
+7. Add in sugar 240ml at a time making sure to whisk after each addition.&nbsp;
+8. Add in 2ml almond extract. Whisk well. It will be similar to a gravy consistency.&nbsp;
 9. Stir in pecans. Spread frosting over warm cake.

@@ -30,13 +30,13 @@ labels: [dairy, sauce, drinks, vegetables]
 
 ## Ingredients
 
-- 2 cups fresh basil leaves, packed (can sub half the basil leaves with baby spinach)
-- 1/2 cup freshly grated Romano or Parmesan-Reggiano cheese (about 2 ounces)
-- 1/2 cup extra virgin olive oil
-- 1/3 cup pine nuts (can sub chopped walnuts)
-- 3 garlic cloves, minced (about 3 teaspoons)
-- 1/4 teaspoon salt, more to taste
-- 1/8 teaspoon freshly ground black pepper, more to taste
+- 480ml fresh basil leaves, packed (can sub half the basil leaves with baby spinach)
+- 120ml freshly grated Romano or Parmesan-Reggiano cheese (about 57g)
+- 120ml extra virgin olive oil
+- 80ml pine nuts (can sub chopped walnuts)
+- 3 garlic cloves, minced (about 15ml)
+- 1ml salt, more to taste
+- 1ml freshly ground black pepper, more to taste
 
 ## Instructions
 

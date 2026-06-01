@@ -36,18 +36,18 @@ labels: [dairy, cake, drinks]
 ## Ingredients
 
 - 15 graham crackers, crushed
-- 2 tablespoons butter, melted
-- 4 (8 ounce) packages cream cheese
-- 1 ½ cups white sugar
-- ¾ cup milk
+- 30ml butter, melted
+- 4 (227g) packages cream cheese
+- 360ml white sugar
+- 180ml milk
 - 4 large eggs
-- 1 cup sour cream
-- ¼ cup all-purpose flour
-- 1 tablespoon vanilla extract
+- 240ml sour cream
+- 60ml all-purpose flour
+- 15ml vanilla extract
 
 ## Instructions
 
-1. Preheat the oven to 350 degrees F (175 degrees C) and grease a 9-inch springform pan.
+1. Preheat the oven to 177°C (175 degrees C) and grease a 9-inch springform pan.
 2. Mix graham cracker crumbs and melted butter together in a medium bowl until well combined.
 3. Press the mixture onto the bottom of the prepared pan to make a packed crust.
 4. Mix cream cheese and sugar together in a large bowl until smooth, then blend in milk and mix in eggs one at a time until just combined.

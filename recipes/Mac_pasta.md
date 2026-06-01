@@ -38,16 +38,16 @@ labels: [dairy, bread, candy, soup, sauce, drinks, vegetables]
 
 ## Ingredients
 
-- 1/4 cup olive oil
+- 60ml olive oil
 - 1 shallot
 - 1 garlic clove
-- 1/2 cup tomato paste
-- 2 tablespoons vodka
-- 1 cup heavy cream
-- 1 teaspoon red pepper flakes
+- 120ml tomato paste
+- 30ml vodka
+- 240ml heavy cream
+- 5ml red pepper flakes
 - Salt and pepper to taste
-- 1 lb fusilli or linguini
-- 2 tablespoons unsalted butter
+- 454g fusilli or linguini
+- 30ml unsalted butter
 - Parmesan cheese
 - Fresh basil
 

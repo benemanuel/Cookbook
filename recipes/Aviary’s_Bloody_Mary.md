@@ -145,7 +145,7 @@ Makes enough for 6 cocktails
 3g black pepper, coarsely ground
 
 
-Preheat over to 500°F (260°C)
+Preheat over to 260°C (260°C)
 
 
 Halve tomatoes and place on a sheet tray, ideally with a silicone baking mat

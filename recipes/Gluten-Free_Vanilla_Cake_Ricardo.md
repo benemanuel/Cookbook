@@ -1,6 +1,6 @@
 ---
 labels: [cake, info]
-labels: [cake, info]
+labels: [cake]
 ---
 
 I appreciate you providing the recipe title and URL, but I need the actual recipe content (ingredients list and instructions) to extract the structured data you're requesting.

@@ -34,16 +34,16 @@ labels: [dairy, cake]
 
 ## Ingredients
 
-- 1 1/2 cups sugar
-- 1 cup butter
-- 1/2 cup molasses
+- 360ml sugar
+- 240ml butter
+- 120ml molasses
 - 1 egg
-- 3 1/2 cups flour
-- 1 teaspoon salt
-- 2 1/2 teaspoons baking soda
-- 1 teaspoon cinnamon
-- 1 teaspoon mace
-- 1/4 cup milk
+- 840ml flour
+- 5ml salt
+- 12ml baking soda
+- 5ml cinnamon
+- 5ml mace
+- 60ml milk
 
 ## Instructions
 

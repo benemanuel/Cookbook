@@ -43,10 +43,10 @@ labels: [dairy, sauce, drinks, vegetables]
 - 1 large zucchini, diced thick
 - 2 carrots, sliced
 - 400g crushed tomato
-- 1/2 cup extra virgin olive oil
-- 1/2 tsp dried oregano
+- 120ml extra virgin olive oil
+- 2ml dried oregano
 - Salt and pepper to taste
-- 3/4 cup water
+- 180ml water
 - Feta cheese for sprinkling (optional)
 - Fresh parsley to garnish
 

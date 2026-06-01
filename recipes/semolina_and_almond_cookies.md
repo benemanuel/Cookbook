@@ -42,16 +42,16 @@ labels: [bread, cake, drinks]
 
 ## Ingredients
 
-- 1¾ cups plus 2 tablespoons (294 grams) semolina flour
-- 2 cups (200 grams) almond flour
+- 1¾ cups plus 30ml (294 grams) semolina flour
+- 480ml (200 grams) almond flour
 - 1½ teaspoons baking powder
-- ¼ teaspoon fine sea salt
-- ¾ cup (150 grams) granulated sugar
+- 1ml fine sea salt
+- 180ml (150 grams) granulated sugar
 - 1 lemon
 - 2 large eggs, at room temperature
-- ¼ cup (60 milliliters) flavorless oil, such as canola
-- 1 teaspoon pure vanilla extract
-- 1 teaspoon orange blossom water (optional)
+- 60ml (60 milliliters) flavorless oil, such as canola
+- 5ml pure vanilla extract
+- 5ml orange blossom water (optional)
 - Confectioners' sugar, for dredging
 
 ## Instructions

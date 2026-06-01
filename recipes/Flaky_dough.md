@@ -33,9 +33,9 @@ labels: [dairy, drinks]
 ## Ingredients
 
 - 185g (1¼ cups) all-purpose flour
-- 2 tsp sugar
-- ½ tsp salt
-- 115g (8 Tbsp) cold unsalted butter, cut into cubes
+- 10ml sugar
+- 2ml salt
+- 115g (120ml) cold unsalted butter, cut into cubes
 - 2½ Tbsp ice water
 
 ## Instructions
@@ -49,4 +49,4 @@ labels: [dairy, drinks]
 7. Drape dough over the pie tin, pressing gently into the edges.
 8. Trim and crimp edges.
 9. For blind baking, line with parchment and fill with pie weights.
-10. Bake at 200°C/390°F for 15 minutes, remove weights, and bake another 5–10 minutes until golden.
+10. Bake at 200°C/199°C for 15 minutes, remove weights, and bake another 5–10 minutes until golden.

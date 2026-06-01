@@ -45,14 +45,14 @@ Serves **6**
 
 **50g unsalted butter**, plus extra to grease  
 **175g medjool dates**  
-**1 tsp bicarbonate of soda  
+**5ml bicarbonate of soda  
 75g walnuts** (optional)  
 **80g golden caster sugar  
 80g dark muscovado sugar  
 1 pinch salt  
 2 cloves  
 175g flour  
-1 tsp baking powder  
+5ml baking powder  
 2 eggs**
 
 For the sauce  
@@ -63,7 +63,7 @@ For the sauce
 
 ### **1 Prep the dates**
 
-Heat the oven to 200C (180C fan)/390F/gas 6) and get the butter out of the fridge to soften, if you haven’t already. Stone and roughly chop the dates – though sticky, this process should be relatively easy with a small, sharp knife.
+Heat the oven to 200C (180C fan)/199°C/gas 6) and get the butter out of the fridge to soften, if you haven’t already. Stone and roughly chop the dates – though sticky, this process should be relatively easy with a small, sharp knife.
 
 Medjool dates are softer and richer in flavour than some other common varieties, so are the best ones to use for this recipe, if you can find them.
 
@@ -119,7 +119,7 @@ Heat the grill to medium. Using a skewer or similar, poke small holes all across
 
 ### 9 Serve (or reheat)
 
-Serve the sticky toffee pudding immediately, with ice-cream, custard, creme fraiche or Greek yoghurt. Alternatively, bake the pudding itself ahead of time, but don’t add the remaining sauce until you’re ready to serve. Cover the pudding with foil, then reheat in a 180C (160C fan)/350F/gas 4 oven for about 20 minutes, then continue with step 8.
+Serve the sticky toffee pudding immediately, with ice-cream, custard, creme fraiche or Greek yoghurt. Alternatively, bake the pudding itself ahead of time, but don’t add the remaining sauce until you’re ready to serve. Cover the pudding with foil, then reheat in a 180C (160C fan)/177°C/gas 4 oven for about 20 minutes, then continue with step 8.
 
 
 
@@ -132,4 +132,4 @@ Explore more on these topics
 
 
 
-[Reuse this content](https://syndication.theguardian.com/?url=https%3A%2F%2Fwww.theguardian.com%2Ffood%2F2019%2Ffeb%2F27%2Fsticky-toffee-pudding-recipe-felicity-cloake-masterclass&type=article&internalpagecode=food/2019/feb/27/sticky-toffee-pudding-recipe-felicity-cloake-masterclass "Reuse this content")
+[Reuse this content](https://syndication.theguardian.com/?url=https%3A%-17°C%2Fwww.theguardian.com%2Ffood%2F2019%2Ffeb%2F27%2Fsticky-toffee-pudding-recipe-felicity-cloake-masterclass&type=article&internalpagecode=food/2019/feb/27/sticky-toffee-pudding-recipe-felicity-cloake-masterclass "Reuse this content")

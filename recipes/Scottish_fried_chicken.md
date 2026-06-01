@@ -39,15 +39,15 @@ labels: [drinks, vegetables, fermentation, pickles]
 
 ## Ingredients
 
-- 2 cups apple cider
-- 1/2 cup salt
+- 480ml apple cider
+- 120ml salt
 - 1 (4 1/2 to 5-pound) chicken, cut into 10 pieces
 - Water
 - 2 eggs
-- 2 tablespoons cayenne pepper
-- 1 teaspoon freshly ground black pepper
-- 1 cup all-purpose flour
-- 1/4 cup cornstarch
+- 30ml cayenne pepper
+- 5ml freshly ground black pepper
+- 240ml all-purpose flour
+- 60ml cornstarch
 - 2 quarts vegetable shortening, for frying
 
 ## Instructions

@@ -39,14 +39,14 @@ labels: [dairy, bread, soup, sauce, drinks, vegetables]
 
 ## Ingredients
 
-- 2 cups (241g) King Arthur Unbleached All-Purpose Flour
-- 1/2 teaspoon salt
+- 480ml (241g) King Arthur Unbleached All-Purpose Flour
+- 2ml salt
 - 1 large egg
-- 1/2 cup (113g) sour cream
-- 4 tablespoons (57g) butter, room temperature
-- 1 cup (227g) warm mashed potatoes
-- 1 cup (113g) sharp cheddar cheese, shredded
-- 4 tablespoons (57g) butter, cold
+- 120ml (113g) sour cream
+- 60ml (57g) butter, room temperature
+- 240ml (227g) warm mashed potatoes
+- 240ml (113g) sharp cheddar cheese, shredded
+- 60ml (57g) butter, cold
 - 2 large (156g) shallots, diced, or one medium (156g) onion, sliced
 
 ## Instructions
@@ -58,7 +58,7 @@ labels: [dairy, bread, soup, sauce, drinks, vegetables]
 5. Wrap the dough well in plastic wrap and refrigerate for 30 to 60 minutes, or up to 48 hours.
 6. Combine the warm mashed potato and cheese, stirring and mashing until the cheese is melted and the filling is cool to the touch, then taste and adjust the seasonings with salt and pepper.
 7. Roll half the dough 1/8" thick and use a 2" round cutter to cut circles of dough, then repeat with the other half of the dough.
-8. Place 1 1/2 teaspoons of filling on each round of dough.
+8. Place 8ml of filling on each round of dough.
 9. Gently fold the dough over, forming a pocket around the filling, then pinch the edges of the pierogi to seal and seal again with the tines of a fork.
 10. Cook the pierogi in a large stockpot of boiling salted water, cooking about 10 pierogi at a time so they have room to float without sticking, until they float.
 11. Sauté the shallots or onion in the butter in a large skillet until the onion begins to brown.

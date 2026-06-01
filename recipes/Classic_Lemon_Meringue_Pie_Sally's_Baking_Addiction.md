@@ -43,23 +43,23 @@ labels: [dairy, cake, sauce, drinks, vegetables]
 
 - Homemade Pie Crust*
 - 5 large egg yolks (use the whites in the meringue below)
-- 1 and 1/3 cups (320ml) water
-- 1 cup (200g) granulated sugar
-- 1/3 cup (38g) cornstarch
-- 1/4 teaspoon salt
-- 1/2 cup (120ml) fresh lemon juice
-- 1 Tablespoon lemon zest
-- 2 Tablespoons (28g) unsalted butter, softened to room temperature
+- 1 and 80ml (320ml) water
+- 240ml (200g) granulated sugar
+- 80ml (38g) cornstarch
+- 1ml salt
+- 120ml (120ml) fresh lemon juice
+- 15ml lemon zest
+- 30ml (28g) unsalted butter, softened to room temperature
 - 5 large egg whites, at room temperature
-- 1/2 teaspoon cream of tartar
-- 1/2 cup (100g) granulated sugar
-- 1/8 teaspoon salt
+- 2ml cream of tartar
+- 120ml (100g) granulated sugar
+- 1ml salt
 
 ## Instructions
 
 1. I like to make sure my pie dough is prepared before I begin making lemon meringue pie. I always make pie dough the night before because it needs to chill in the refrigerator for at least 2 hours before rolling out and blind baking (next step).
-2. Preheat oven to 375°F (190°C) and adjust your oven rack to the lowest position. Partially blind bake pie crust in a 9-inch pie dish. (Follow blind baking instructions through step 9. Be sure to crimp or flute the pie crust edges, too.) Tip: You can get started on the lemon meringue pie filling steps while your crust is blind baking. But making the filling is time sensitive because you will temper the egg yolks, so if multi-tasking isn&#8217;t your thing, just wait until your crust is done blind baking before beginning the filling.
-3. Reduce oven temperature to 350°F (177°C).
+2. Preheat oven to 191°C (190°C) and adjust your oven rack to the lowest position. Partially blind bake pie crust in a 9-inch pie dish. (Follow blind baking instructions through step 9. Be sure to crimp or flute the pie crust edges, too.) Tip: You can get started on the lemon meringue pie filling steps while your crust is blind baking. But making the filling is time sensitive because you will temper the egg yolks, so if multi-tasking isn&#8217;t your thing, just wait until your crust is done blind baking before beginning the filling.
+3. Reduce oven temperature to 177°C (177°C).
 4. Watch the video below to see how I work through each of the following steps.
 5. Whisk the egg yolks together in a medium bowl or liquid measuring cup. Set aside. Whisk the water, granulated sugar, cornstarch, salt, lemon juice, and lemon zest together in a medium saucepan over medium heat. The mixture will be thin and cloudy, then eventually begin thickening and bubbling after about 6 minutes. Once thickened, give it a whisk and reduce heat to low.
 6. Very slowly stream a few large spoonfuls of warm lemon mixture into the beaten egg yolks. Then, also in a very slow stream, whisk the egg yolk mixture into the saucepan. Turn heat back up to medium. Cook until the mixture is thick and big bubbles begin bursting at the surface. Remove the pan from heat and whisk in the butter. Spread filling into the warm partially baked crust. Set aside as you prepare the meringue. (Don&#8217;t let the filling cool down too much as you want a warm filling when you top with the meringue in step 7. The warm filling helps seal the two layers together, preventing separation.)

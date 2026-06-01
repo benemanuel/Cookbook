@@ -38,19 +38,19 @@ labels: [fish, drinks, vegetables]
 ## Ingredients
 
 - 2 quarts vegetable oil for frying
-- 8 (4 ounce) fillets cod
+- 8 (113g) fillets cod
 - salt and pepper to taste
-- 1 cup all-purpose flour
-- 2 tablespoons garlic powder or to taste
-- 2 tablespoons paprika or to taste
-- 2 teaspoons salt or to taste
-- 2 teaspoons ground black pepper or to taste
+- 240ml all-purpose flour
+- 30ml garlic powder or to taste
+- 30ml paprika or to taste
+- 10ml salt or to taste
+- 10ml ground black pepper or to taste
 - 1 large egg, beaten
-- 1 (12 fluid ounce) can or bottle beer, extra cold
+- 1 (340g) can or bottle beer, extra cold
 
 ## Instructions
 
-1. Heat oil in a deep fryer to 365 degrees Fahrenheit.
+1. Heat oil in a deep fryer to 185°C.
 2. Rinse cod fillets and pat dry, then season with salt and pepper.
 3. Mix flour, garlic powder, paprika, salt, and pepper in a large bowl, add the beaten egg and stir well to combine.
 4. Gradually mix in enough beer to make a thin batter.

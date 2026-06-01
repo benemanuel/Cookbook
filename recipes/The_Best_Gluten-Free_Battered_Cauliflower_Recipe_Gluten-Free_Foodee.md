@@ -54,12 +54,12 @@ labels: [dairy, cake, vegetables]
 ## Ingredients
 
 - 2 eggs separated
-- 1/2 tsp cream of tarter
+- 2ml cream of tarter
 - 1 c Bob’s Red Mill 1 for 1 gluten-free flour
-- 1 tbs baking powder
-- 1/2 tsp xantham gum (optional- I like to add an 1/2 teaspoon extra, even though it is in the Bobs Red Mill 1-1 flour blend)
-- 1 tsp salt
-- 3/4 tsp each granulated onion, granulated garlic, and black pepper.
+- 15ml baking powder
+- 2ml xantham gum (optional- I like to add an 2ml extra, even though it is in the Bobs Red Mill 1-1 flour blend)
+- 5ml salt
+- 4ml each granulated onion, granulated garlic, and black pepper.
 - 1 c club soda
 - 1/3 c milk or non-dairy alternative
 - 1 medium cauliflower

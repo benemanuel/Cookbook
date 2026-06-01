@@ -31,16 +31,16 @@ labels: [candy, soup, sauce, drinks]
 
 ## Ingredients
 
-- 2 cups granulated sugar
+- 480ml granulated sugar
 - ½ vanilla bean, scraped
 - Zest of 1 lemon
-- 1 ½ cups tahini
+- 360ml tahini
 - Pinch kosher salt
 
 ## Instructions
 
 1. Line an 8 x 8 inch baking pan with parchment paper.
-2. Combine sugar, vanilla seeds and lemon zest with 1/2 cup water in a saucepan over medium heat, stirring to dissolve sugar.
+2. Combine sugar, vanilla seeds and lemon zest with 120ml water in a saucepan over medium heat, stirring to dissolve sugar.
 3. Allow mixture to simmer into a syrup, without stirring, until temperature registers 245 degrees on candy thermometer.
 4. Place tahini and salt in bowl of a stand mixer fitted with paddle and beat on medium speed.
 5. Carefully stream syrup into tahini with mixer running and mix until syrup is incorporated and mixture begins to pull away from sides of bowl, about 30 seconds to 1 minute.

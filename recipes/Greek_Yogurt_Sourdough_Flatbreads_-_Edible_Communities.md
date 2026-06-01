@@ -37,22 +37,22 @@ labels: [dairy, cake, sauce, vegetables]
 ## Ingredients
 
 - 2½ cups /300 g all-purpose flour
-- 1 tablespoon /12 g sugar
-- 1 teaspoon /5 g fine sea salt
-- ½ teaspoon baking powder
-- ½ cup /120 g leftover starter
-- ¼ cup /60 g Greek yogurt
-- ¼ cup /60 ml oil
-- 1 to 2 tablespoon /15 to 30 ml warm water
-- 2 tablespoon /28 g unsalted butter, melted
+- 15ml /12 g sugar
+- 5ml /5 g fine sea salt
+- 2ml baking powder
+- 120ml /120 g leftover starter
+- 60ml /60 g Greek yogurt
+- 60ml /60 ml oil
+- 1 to 30ml /15 to 30 ml warm water
+- 30ml /28 g unsalted butter, melted
 
 ## Instructions
 
-1. Whisk the flour, sugar, salt, and baking powder together in a large bowl. Add the leftover starter, yogurt, oil, and 1 tablespoon (15 ml) of water. Mix with your hands until a rough dough forms. The dough should feel soft but not sticky. Add more water or flour as needed to get the right texture. Cover with a damp kitchen towel and let rest for 1 hour.
-2. Remove the dough onto a lightly floured work surface. Flatten into a rectangle, and then divide into 8 equal pieces, about 80 grams (23/4 oz) each. Cover with a damp towel.
+1. Whisk the flour, sugar, salt, and baking powder together in a large bowl. Add the leftover starter, yogurt, oil, and 15ml (15 ml) of water. Mix with your hands until a rough dough forms. The dough should feel soft but not sticky. Add more water or flour as needed to get the right texture. Cover with a damp kitchen towel and let rest for 1 hour.
+2. Remove the dough onto a lightly floured work surface. Flatten into a rectangle, and then divide into 8 equal pieces, about 80 grams (163g) each. Cover with a damp towel.
 3. Working with one piece at a time, roll the dough into a thin circle about 8 inches (20 cm). The exact shape does not need to be perfect—you’re looking for something slightly smaller than the width of your skillet. Note: Thinly rolled dough will get you soft, bendable flatbreads; thicker rolled dough will create puffy flatbreads.
 4. Melt the butter in a small saucepan or in the microwave. Warm a large cast-iron skillet over medium-low heat.
 5. Place the dough into the warm, dry pan and cook for 2 to 3 minutes on one side. When the dough puffs up and has a few bubbles on the surface, brush lightly with some of the melted butter and flip it over. Cook for 1 to 2 minutes on the other side. When finished, brush with more butter and transfer to a cutting board. Wrap in a towel to keep warm. Roll out the next piece of dough and cook the rest of the flatbreads.
-6. These sourdough flatbreads are best enjoyed warm. You can also reheat them in a low oven, about 275°F (140°C), in a foil package. For crispy flatbreads, reheat directly on the center oven rack.
+6. These sourdough flatbreads are best enjoyed warm. You can also reheat them in a low oven, about 135°C (140°C), in a foil package. For crispy flatbreads, reheat directly on the center oven rack.
 7. Flatbreads will keep fresh stacked, wrapped, and stored at room temperature for 1 to 2 days. Reheat as indicated above for best texture. To freeze, cover the flatbreads in plastic wrap and foil for up to 3 months.
 8. TIP: After you’ve made this recipe, try spicing up the dough with different seasonings. Chopped herbs including rosemary and sage are always nice or try a light dusting of garlic powder and sesame seeds. Sometimes I’ll fold in a handful of chopped scallions, which gives the dough a mild onion flavor.

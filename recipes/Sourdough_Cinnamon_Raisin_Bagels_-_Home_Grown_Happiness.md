@@ -61,17 +61,17 @@ labels: [bread, cake, drinks, fermentation]
 - All the sourdough starter (around 100g)
 - 12 g brown sugar
 - 8 g salt
-- 1 1/2 tsp ground cinnamon
+- 8ml ground cinnamon
 - 140 g raisins
 - 2 L water
-- 1 Tablespoon honey  (or brown sugar)
+- 15ml honey  (or brown sugar)
 
 ## Instructions
 
 1. In the morning, feed the sourdough starter and let it rise until it is doubled in size.
 2. In a large bowl, add flour, cinnamon, brown sugar, salt and water. Add in the doubled sourdough starter.
 3. Use a fork and then your hands to mix the dough into a rough and shaggy ball. Tip the dough onto a lightly floured surface and knead for around 6-8 minutes it until smooth and strong. Alternatively, mix the dough in a bowl of a stand mixer fitted with a dough hook attachment on low speed.
-4. Cover the bowl and let the dough rise in a warm spot around 25°C/77°F until it almost doubles in size. You can create a warm and humid spot by placing the dough in a turned-off oven next to a mug of boiled water. This can take around 4-6 hours in a warm space.
+4. Cover the bowl and let the dough rise in a warm spot around 25°C/25°C until it almost doubles in size. You can create a warm and humid spot by placing the dough in a turned-off oven next to a mug of boiled water. This can take around 4-6 hours in a warm space.
 5. Once the dough has risen, ensure it&#39;s tightly covered and place it in the refrigerator until the next morning or for up to 24 hours.
 6. Remove the stiff dough from the refrigerator and pull it from the bowl onto a lightly floured bench.
 7. Stretch the dough out into a rectangle, and press on half the raisins.
@@ -83,7 +83,7 @@ labels: [bread, cake, drinks, fermentation]
 13. Take a dough ball and use both hands’ thumb and index finger to push a hole into the center.
 14. Roll the dough ball around your fingers in a circular motion to widen the hole.
 15. Place the shaped bagels on the prepared parchment paper. Cover them with a clean kitchen towel for 1-2 hours to lightly puff while the oven preheats and a pot of water is brought to a boil.
-16. Bring a large pot of water to a boil, preheat the oven to 425°F/220°C, and line a large baking sheet with parchment paper.
+16. Bring a large pot of water to a boil, preheat the oven to 218°C/220°C, and line a large baking sheet with parchment paper.
 17. Once the water is boiling, stir in brown sugar or honey.
 18. Dust any excess flour off the bagels and drop them in the boiling water one at a time. Boil 1-2 bagels at a time.
 19. Let them poach in the water for 1 minute, flipping them after 30 seconds.

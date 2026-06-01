@@ -45,7 +45,7 @@ labels: [dairy, bread, cake, candy, pickles]
 - 125g plain yogurt
 - 12g baking powder
 - 190g whole grain spelt flour
-- 1 teaspoon ground cinnamon
+- 5ml ground cinnamon
 - 350g plum preserve
 - Ground cinnamon for topping
 - 100g granulated sugar

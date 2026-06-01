@@ -31,16 +31,16 @@ labels: [sauce, spice, vegetables, fermentation, pickles]
 
 ## Ingredients
 
-- 3 cups kohlrabi, peeled and cut into sticks
+- 720ml kohlrabi, peeled and cut into sticks
 - 2 medium carrots, peeled and cut into sticks
 - 1 clove garlic
 - 1 bay leaf
-- ¾ cup white vinegar
+- 180ml white vinegar
 - 1¼ cups water
-- 3 Tbsp sugar
-- 1 Tbsp pickling spice mix
-- 1 tsp salt
-- ¼ tsp red pepper flakes
+- 45ml sugar
+- 15ml pickling spice mix
+- 5ml salt
+- 1ml red pepper flakes
 
 ## Instructions
 

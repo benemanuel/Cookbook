@@ -38,15 +38,15 @@ labels: [sauce, vegetables]
 
 - 1 can chickpeas*
 - 1  canned chipotle pepper in adobo sauce ((1 pepper, NOT 1 can!))
-- 1 teaspoon olive oil
-- 1/4 teaspoon crushed red pepper flakes
-- 1/8 teaspoon cayenne
-- 1/8 teaspoon fresh ground black pepper
-- 1/8 teaspoon sea salt
+- 5ml olive oil
+- 1ml crushed red pepper flakes
+- 1ml cayenne
+- 1ml fresh ground black pepper
+- 1ml sea salt
 
 ## Instructions
 
-1. Preheat the oven to 425°F.
+1. Preheat the oven to 218°C.
 2. Drain and rinse garbanzos in cold water until the water runs clear. Shake off any excess water, or use a salad spinner.
 3. Spread beans on a clean dishtowel or paper towel and pat dry, rolling the beans gently to absorb as much water as possible. Some of the outer skins will come off.
 4. Allow the beans to air dry for another 10-30 minutes.

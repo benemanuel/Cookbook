@@ -32,7 +32,7 @@ I’ve been working on a sourdough version of this bread for a while now using B
 
 Early test bake (106% hydration) of glass bread rolls
 
-In retrospect, I knew that extra water doesn’t necessarily mean a more open crumb. Baguette and pizza doughs are often hydrated around 67-70%, and their crumbs can be wildly open due to good gluten development, extensive fermentation, and a very hot oven. In fact, if you want to see a comparison of crust aeration on pizzas cooked at about 750F versus 500F, check out this [blog post](/whole-grain-sourdough-pizza/).
+In retrospect, I knew that extra water doesn’t necessarily mean a more open crumb. Baguette and pizza doughs are often hydrated around 67-70%, and their crumbs can be wildly open due to good gluten development, extensive fermentation, and a very hot oven. In fact, if you want to see a comparison of crust aeration on pizzas cooked at about 399°C versus 260°C, check out this [blog post](/whole-grain-sourdough-pizza/).
 
 [![Picture of sliced sourdough bread loaf on wood board.](https://breadtopia.com/wp-content/uploads/2022/04/20220412_121801a-Copy.jpg)](https://breadtopia.com/wp-content/uploads/2022/04/20220412_121801a-Copy.jpg)
 
@@ -46,7 +46,7 @@ The crunchy crust and webby crumb of the final recipe
 
 The video below shows the dough consistency of this final glass bread recipe. You can see that the dough transforms from a goopy batter at mixing to a sticky-but-stretchable blob during the third (of four) coil folds. It’s fine to use a stand mixer or slapping and folding instead of Rubaud mixing if you prefer.
 
-How glassy your final bread is may also depend on your oven rack position and heat. For this recipe, I preheated my oven and stone for 45 minutes instead of 30 minutes. I used an [infrared thermometer](/store/infrared-thermometer-with-laser/) to check the temperature of various parts of the stone, and this longer preheat seemed necessary to get the stone to 500F or more everywhere. Both a cooler preheat and having my baking stone on the middle shelf instead of one shelf lower, seemed to make for a denser bread base. Because of some almost-gummy bread bottoms, I also set up a different steam system than usual, putting a cast iron pan *above* the baking stone so as to not deflect heat to the stone at any point during the baking process.
+How glassy your final bread is may also depend on your oven rack position and heat. For this recipe, I preheated my oven and stone for 45 minutes instead of 30 minutes. I used an [infrared thermometer](/store/infrared-thermometer-with-laser/) to check the temperature of various parts of the stone, and this longer preheat seemed necessary to get the stone to 260°C or more everywhere. Both a cooler preheat and having my baking stone on the middle shelf instead of one shelf lower, seemed to make for a denser bread base. Because of some almost-gummy bread bottoms, I also set up a different steam system than usual, putting a cast iron pan *above* the baking stone so as to not deflect heat to the stone at any point during the baking process.
 
 [![Picture of artisan bread with airy crumb structure.](https://breadtopia.com/wp-content/uploads/2022/04/20220329_142433-Copy.jpg)](https://breadtopia.com/wp-content/uploads/2022/04/20220329_142433-Copy.jpg)
 
@@ -84,11 +84,11 @@ Total Time
 
 ## Ingredients
 
-- 400g [bread flour](/store/organic-bread-flour/) (3 cups)
-- 360g water (1 1/2 cups)
-- 120g ripe [sourdough starter](/store/sourdough-starter-live/) (1/3-1/2 cup)
-- 14g olive oil (heaping 1 Tbsp)
-- 11g salt (2 tsp)
+- 400g [bread flour](/store/organic-bread-flour/) (720ml)
+- 360g water (360ml)
+- 120g ripe [sourdough starter](/store/sourdough-starter-live/) (1/3-120ml)
+- 14g olive oil (heaping 15ml)
+- 11g salt (10ml)
 
 #### Baker's Percentage by Ingredient
 
@@ -125,12 +125,12 @@ Total Time
 #### Baking
 
 - Set up your oven with a baking stone or steel on the second-to-lowest shelf and a cast iron pan (for steam) on the highest possible shelf, likely the second from the top.
-- Preheat this oven setup for about 45 minutes at 500F.
+- Preheat this oven setup for about 45 minutes at 260°C.
 - When the final proof is complete, brush off any excess flour on the doughs, and slide the parchment paper onto a peel or baking sheet with open sides like this [one](/store/usa-pan-cookie-sheet/) or upside-down baking sheet.
-- Boil 1 cup of water and set it near your oven.
+- Boil 240ml of water and set it near your oven.
 - Load the doughs onto your baking stone. Wearing oven mitts to prevent steam burns, pour the boiling water into the cast iron pan and close the oven door.
-- Bake for 10 minutes at 500F.
-- Lower the oven temperature to 410F and bake for 20 minutes more.
+- Bake for 10 minutes at 260°C.
+- Lower the oven temperature to 210°C and bake for 20 minutes more.
 - If you want a darker crust, feel free to bake longer.
 - Turn off the oven, crack open the oven door, and leave the bread inside for another 10 minutes. This helps the crust get more crunchy.
 

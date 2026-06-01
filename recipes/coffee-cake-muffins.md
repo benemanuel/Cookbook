@@ -45,28 +45,28 @@ labels: [dairy, cake, drinks]
 
 ## Ingredients
 
-- 1 1/2 cups all-purpose flour
-- 1/2 cup brown sugar
-- 2 teaspoons baking powder
-- 1 teaspoon ground cinnamon
-- 1/4 teaspoon baking soda
-- 1/4 teaspoon salt
-- 3/4 cup milk
-- 1/3 cup canola oil
+- 360ml all-purpose flour
+- 120ml brown sugar
+- 10ml baking powder
+- 5ml ground cinnamon
+- 1ml baking soda
+- 1ml salt
+- 180ml milk
+- 80ml canola oil
 - 2  large eggs
-- 1/3 cup sugar
-- 1/3 cup brown sugar
-- 1 teaspoon ground cinnamon
-- 1/4 teaspoon salt
-- 1/2 cup unsalted butter (melted)
-- 1 1/2 cups all-purpose flour
-- 1/4 cup confectioners’ sugar
-- 1/2 teaspoon vanilla extract
-- 1 teaspoon milk
+- 80ml sugar
+- 80ml brown sugar
+- 5ml ground cinnamon
+- 1ml salt
+- 120ml unsalted butter (melted)
+- 360ml all-purpose flour
+- 60ml confectioners’ sugar
+- 2ml vanilla extract
+- 5ml milk
 
 ## Instructions
 
-1. Preheat oven to 375 degrees F. Line a 12-cup standard muffin tin with paper liners or coat with nonstick spray; set aside.
+1. Preheat oven to 191°C. Line a 12-cup standard muffin tin with paper liners or coat with nonstick spray; set aside.
 2. In a large bowl, combine flour, sugar, baking powder, cinnamon, baking soda and salt.
 3. In a large glass measuring cup or another bowl, whisk together milk, canola oil and eggs. Pour mixture over dry ingredients and stir using a rubber spatula just until moist.
 4. Scoop the batter evenly into the muffin tray. Sprinkle with crumb topping, using your fingertips to gently press the crumbs into the batter. Place into oven and bake for 15-17 minutes, or until a tester inserted in the center comes out clean.

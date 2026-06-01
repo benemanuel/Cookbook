@@ -41,13 +41,13 @@ labels: [dairy, cake]
 - 60 g oat flakes
 - 200 g wholemeal flour (e.g., spelt)
 - 2 eggs
-- 2 tsp regular baking powder
+- 10ml regular baking powder
 - 80 g whole cane sugar
-- 1 tsp pure vanilla extract
+- 5ml pure vanilla extract
 - 100 ml canola oil
 - 2 organic lemons (zest and juice)
-- 2–3 tsp full-fat Greek yogurt (10%)
-- 1 tbsp honey
+- 2–15ml full-fat Greek yogurt (10%)
+- 15ml honey
 
 ## Instructions
 

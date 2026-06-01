@@ -53,7 +53,7 @@ Itâs incredibly easy and fast to fix up an extra large batch. You may even 
 
 **Ingredients**:
 
-3 Tbsp. butter1 onion, roughly chopped2 cloves garlic, chopped2 tsp. cumin1/4 tsp. cayenne pepper1/2 of a small pumpkin, peeled & chopped into large cubes1 sweet potato or kumara, peeled & cubed2 stalks celery, chopped4 c. chicken stock
+45ml. butter1 onion, roughly chopped2 cloves garlic, chopped2 tsp. cumin1/20ml. cayenne pepper1/2 of a small pumpkin, peeled & chopped into large cubes1 sweet potato or kumara, peeled & cubed2 stalks celery, chopped4 c. chicken stock
 
 **Directions**:
 

@@ -38,14 +38,14 @@ labels: [dairy, cake, pickles]
 - 130g unsalted butter
 - 200g Erythritol
 - 80g cocoa powder
-- 1/2 teaspoon salt
+- 2ml salt
 - 2 eggs at room temperature
 - 70g almond flour
 - 40g peanut butter
 
 ## Instructions
 
-1. Position a rack in the lower third of your oven and preheat to 350°F/180°C.
+1. Position a rack in the lower third of your oven and preheat to 177°C/180°C.
 2. Line the bottom and sides of an 8x8-inch baking pan with parchment paper and set aside.
 3. Add butter, sweetener, cocoa powder and salt to a medium heatproof bowl and melt over a water bath or using the microwave until all the butter and sweetener has melted and the mixture is well incorporated.
 4. Remove from heat and allow the mixture to cool slightly.

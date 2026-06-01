@@ -33,19 +33,19 @@ labels: [spice, vegetables]
 
 ## Ingredients
 
-- 0-1 tablespoon dried anise seed
-- 1-2 tablespoon dried lavender
-- 1-2 tablespoon dried basil
-- 1-2 tablespoon dried tarragon
-- 1 tablespoon fennel seeds
-- 0-1 teaspoon dried mint
-- 2 tablespoon to 1/4 cup dried thyme
-- 2-3 tablespoon dried marjoram
-- 1-2 tablespoon dried oregano
-- 1/2 to 2 tablespoon dried parsley and/or chervil
-- 2-3 tablespoon dried savory
-- 2 tablespoons dried rosemary
-- 1 teaspoon ground bay leaf powder
+- 0-15ml dried anise seed
+- 1-30ml dried lavender
+- 1-30ml dried basil
+- 1-30ml dried tarragon
+- 15ml fennel seeds
+- 0-5ml dried mint
+- 30ml to 60ml dried thyme
+- 2-45ml dried marjoram
+- 1-30ml dried oregano
+- 1/2 to 30ml dried parsley and/or chervil
+- 2-45ml dried savory
+- 30ml dried rosemary
+- 5ml ground bay leaf powder
 
 ## Instructions
 

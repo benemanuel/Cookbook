@@ -34,18 +34,18 @@ labels: [dairy, cake]
 
 ## Ingredients
 
-- 8 oz good-quality semi-sweet chocolate (225 g)
-- 12 tablespoons butter, melted
-- 1 ¼ cups sugar (250 g)
+- 227g good-quality semi-sweet chocolate (225 g)
+- 180ml butter, melted
+- 300ml sugar (250 g)
 - 2 eggs
-- 2 teaspoons vanilla extract
-- ¾ cup all-purpose flour (95 g)
-- ¼ cup cocoa powder (30 g)
-- 1 teaspoon salt
+- 10ml vanilla extract
+- 180ml all-purpose flour (95 g)
+- 60ml cocoa powder (30 g)
+- 5ml salt
 
 ## Instructions
 
-1. Preheat the oven to 350°F (180°C) and line an 8-inch (20 cm) square baking dish with parchment paper.
+1. Preheat the oven to 177°C (180°C) and line an 8-inch (20 cm) square baking dish with parchment paper.
 2. Chop the chocolate into chunks and melt half of the chocolate in the microwave in 20-second intervals, saving the other half for later.
 3. In a large bowl, mix the butter and sugar with an electric hand mixer, then beat in the eggs and vanilla for 1-2 minutes, until the mixture becomes fluffy and light in color.
 4. Whisk in the melted chocolate (making sure it's not too hot or else the eggs will cook), then sift in the flour, cocoa powder, and salt, folding to incorporate the dry ingredients while being careful not to overmix as this will cause the brownies to be more cake-like in texture.

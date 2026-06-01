@@ -61,14 +61,14 @@ labels: [dairy, bread, cake, drinks, fermentation]
 - All the active sourdough starter (around 140g)
 - 50 g unsalted butter (room temperature)
 - 250 g unsalted butter (room temperature or cold depending on method used, see notes)
-- 1 1/2 Tablespoons all-purpose flour ((only for the flour method, see notes))
-- 1  egg + 1 tbsp water
+- 22ml all-purpose flour ((only for the flour method, see notes))
+- 1  egg + 15ml water
 
 ## Instructions
 
 1. In the morning, feed your starter by combining the starter, flour, and water in a bowl and mixing until well combined. Tip it into a clean jar and leave until doubled or tripled and at peak.
 2. Mix all the dough ingredients together by hand to form a sticky dough ball. Knead on the bench for 5 to 8 minutes until smooth. It will still be a bit sticky, which is fine.
-3. Place the dough in a greased bowl and cover. Ferment for 3 hours at 23 to 25°C / 74 to 77°F (4 hours if your room is cooler), until puffed by around 30 to 40%.
+3. Place the dough in a greased bowl and cover. Ferment for 3 hours at 23 to 25°C / 74 to 25°C (4 hours if your room is cooler), until puffed by around 30 to 40%.
 4. Shape the dough into a flat rectangle, wrap tightly or place in an airtight container, and chill in the fridge overnight. Shaping it into a rectangle now means less rolling tomorrow, which keeps the dough cold and relaxed for lamination.
 5. Make the butter packet using either the bashing method or the flour method (see notes). Roll it into a rectangle of about 15 x 20cm (6 x 8 inch) between two sheets of baking paper, then chill it in the fridge.
 6. Take the butter packet from the fridge and bash it firmly all over with the rolling pin, then give it a roll to bring it into a workable, bendy state. Bashing the cold butter with the rolling pin works the fat into a smooth, pliable state without warming it, so it bends like cold clay instead of cracking.
@@ -84,5 +84,5 @@ labels: [dairy, bread, cake, drinks, fermentation]
 16. Place the shaped croissants on parchment-lined trays and proof in a warm but not hot spot until puffy, lighter, and jiggly when the tray is gently shaken, with visible layers. This can take 4 to 7 hours depending on your room temperature, so go by the look and feel rather than the clock.
 17. To stop them drying out, spritz them gently with water or create a warm, humid spot by placing them in a cold, turned-off oven next to a cup of hot water. Don&#39;t put the cup directly under the croissant tray, and don&#39;t let the spot get too hot, or the butter will melt and ruin the layers.
 18. Brush the proofed croissants with egg wash.
-19. Bake at 205°C / 400°F for around 20 minutes, until deeply browned. If they brown too quickly, turn the oven down a little.
+19. Bake at 205°C / 204°C for around 20 minutes, until deeply browned. If they brown too quickly, turn the oven down a little.
 20. Let them cool to room temperature before slicing, so the layers stay nice and distinct.

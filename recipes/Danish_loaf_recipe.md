@@ -66,7 +66,7 @@ labels: [dairy, bread, cake]
 - 1 egg
 - 90 grams cold water
 - 25 grams caster sugar
-- 1/4 teaspoon fine sea salt
+- 1ml fine sea salt
 - 10 grams butter, softened
 - 115 grams unsalted butter to make a 5 x 5-inch square butter insert
 - 8 grams cocoa powder (Valrhona) for cocoa version

@@ -42,8 +42,8 @@ labels: [dairy, cake, candy]
 - 250g white sugar
 - 5 eggs
 - 250g flour
-- 1 teaspoon cinnamon
-- 1 teaspoon baking powder
+- 5ml cinnamon
+- 5ml baking powder
 
 ## Instructions
 

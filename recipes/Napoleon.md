@@ -53,14 +53,14 @@ labels: [dairy, bread, cake, pickles]
 - 300 g butter
 - 300 g wheat flour
 - 1 egg (size M)
-- 1/2 tablespoon vinegar (about 5%)
+- 8ml vinegar (about 5%)
 - approximately 100 ml hot water
 - 1 liter milk
 - 50 g butter
 - 4 egg yolks
 - 2 eggs (size M)
 - 200 g sugar
-- 2 teaspoons vanilla sugar
+- 10ml vanilla sugar
 - 120 g wheat flour
 - 70 g potato starch
 - powdered sugar for sprinkling

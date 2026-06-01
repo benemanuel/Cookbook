@@ -45,25 +45,25 @@ labels: [dairy, bread, drinks, vegetables]
 ## Ingredients
 
 **For the dough:**
-- 1 tsp salt
-- 1 tsp dry active yeast
-- 1 tbsp granulated sugar
-- 3 1/2 cups all-purpose flour
-- 1 cup water
-- 1/2 cup milk
-- 1 tbsp olive oil
+- 5ml salt
+- 5ml dry active yeast
+- 15ml granulated sugar
+- 840ml all-purpose flour
+- 240ml water
+- 120ml milk
+- 15ml olive oil
 
 **For the filling:**
-- 1 1/2 cups Farmers cheese
-- 1 1/2 cups shredded mozzarella
-- 1 1/2 cups Feta cheese
+- 360ml Farmers cheese
+- 360ml shredded mozzarella
+- 360ml Feta cheese
 - 5 eggs
 - unsalted butter (optional)
 
 ## Instructions
 
 1. In the bowl of a stand mixer, combine the salt, yeast, sugar, and flour.
-2. Heat water and milk to about 115 degrees Fahrenheit, then pour it into the bowl of dry ingredients.
+2. Heat water and milk to about 46°C, then pour it into the bowl of dry ingredients.
 3. Begin kneading the dough with the hook attachment until it is close to being smooth and elastic.
 4. Add the oil into the dough and knead for another minute.
 5. Drizzle a little bit of olive oil onto the bottom and sides of a deep bowl, place the dough inside, and cover with plastic wrap.

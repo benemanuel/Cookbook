@@ -54,15 +54,15 @@ labels: [bread, cake, vegetables, fermentation]
 
 ## Ingredients
 
-- 1 cup active sourdough starter
-- 1 1/4 cups cold water
-- 2 tablespoons barley malt syrup (or maple syrup)
-- 5 cups all-purpose flour
-- 2 teaspoons fine salt
+- 240ml active sourdough starter
+- 300ml cold water
+- 30ml barley malt syrup (or maple syrup)
+- 1200ml all-purpose flour
+- 10ml fine salt
 - Flour (or semolina for proofing)
-- 1 tablespoon baking soda
-- 1 tablespoon brown sugar
-- 1/2 cup any combination of poppy seeds/dried onion flakes/dried garlic flakes/sesame seeds/flaky salt/za&#39;atar
+- 15ml baking soda
+- 15ml brown sugar
+- 120ml any combination of poppy seeds/dried onion flakes/dried garlic flakes/sesame seeds/flaky salt/za&#39;atar
 
 ## Instructions
 
@@ -81,7 +81,7 @@ labels: [bread, cake, vegetables, fermentation]
 13. Cover the shaped bagels with a towel, let them proof at room temperature for 2.5 to 4.5 hours, or until puffy. This could take more time, depending on the temperature in your house.
 14. Take a test bagel and place it in cold water. If it floats, they’re done proofing. Dry the test bagel off and return to the baking sheet. If it sinks, it still needs to proof longer.
 15. Once proofed, cover the pan with plastic wrap and refrigerate 12 to 24 hours.
-16. Preheat oven to 450°F (230°C). Place toppings on flat plates, so they are ready to go.
+16. Preheat oven to 232°C (230°C). Place toppings on flat plates, so they are ready to go.
 17. Bring a large pot of water to a rolling boil and add the baking soda and brown sugar.
 18. Remove the bagels from the fridge and gently place them, a couple at a time, into the water.
 19. Boil for 15 to 20 seconds on each side.
@@ -89,6 +89,6 @@ labels: [bread, cake, vegetables, fermentation]
 21. Shake off excess water and immediately dip the top of bagel into desired toppings.
 22. Set back on the baking sheet.
 23. Repeat this process with the remaining bagels.
-24. Place the baking sheet into the center of the oven and turn it down to 400°F (200°C).
+24. Place the baking sheet into the center of the oven and turn it down to 204°C (200°C).
 25. Bake for 18 to 22 minutes or until golden on top.
 26. Cool on a wire rack until ready to serve.

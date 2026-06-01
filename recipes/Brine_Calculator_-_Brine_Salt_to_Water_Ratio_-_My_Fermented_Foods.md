@@ -10,7 +10,7 @@ cook_minutes: null
 imported_at: 2026-05-31
 ingredients: null
 steps: null
-labels: [drinks, vegetables, fermentation, pickles, info]
+labels: [drinks, vegetables, fermentation, pickles]
 ---
 
 # Brine Calculator - Brine Salt to Water Ratio
@@ -35,4 +35,4 @@ This is a tool page rather than a recipe. The content explains how to use a brin
 | Tomatoes | 2% |
 | Olives | 10% |
 
-**General Rule of Thumb:** For vegetable ferments, use 1-3 tablespoons of salt per quart of water.
+**General Rule of Thumb:** For vegetable ferments, use 1-45ml of salt per quart of water.

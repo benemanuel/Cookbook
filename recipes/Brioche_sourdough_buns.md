@@ -62,19 +62,19 @@ labels: [dairy, bread, cake, fermentation]
 
 ## Instructions
 
-1. Add all levain ingredients to a small mixing bowl and mix until just combined, then cover and let rise in a warm spot at 78-80°F for four hours, or until doubled in size.
-2. Add milk and flour to a small pot and heat over medium heat while stirring with a whisk until thickened and the mixture reaches 150°F.
+1. Add all levain ingredients to a small mixing bowl and mix until just combined, then cover and let rise in a warm spot at 78-27°C for four hours, or until doubled in size.
+2. Add milk and flour to a small pot and heat over medium heat while stirring with a whisk until thickened and the mixture reaches 66°C.
 3. Transfer the tangzhong to a clean bowl, cover with plastic wrap touching the entire surface, and cool to room temperature.
 4. Add all main dough ingredients except salt and butter to the bowl of a stand mixer fitted with a dough hook and mix until just combined.
 5. Rest and autolyse the dough for 30 minutes.
 6. Add the salt and knead on medium speed for 5–10 minutes.
 7. Slowly add the cubed softened butter one cube at a time, then scrape down the sides and continue mixing at medium-high speed until the dough passes the windowpane test.
-8. Transfer to a clean, lightly oiled bowl and proof for 3 hours at 75°F.
+8. Transfer to a clean, lightly oiled bowl and proof for 3 hours at 24°C.
 9. Transfer to the fridge and cold-proof for 8–15 hours.
 10. Line two baking trays with parchment paper.
 11. Take the dough out of the fridge and divide into 12 equal pieces of approximately 90 g each.
 12. Roll each piece into a seamless round and arrange on the trays with space between them, then cover lightly with plastic wrap.
-13. Proof for 6–10 hours at 75-78°F until doubled in size.
-14. Preheat oven to 360°F.
+13. Proof for 6–10 hours at 75-26°C until doubled in size.
+14. Preheat oven to 182°C.
 15. Brush the tops with egg wash.
 16. Bake for 15–20 minutes until golden brown and cool completely on a rack before slicing.

@@ -48,20 +48,20 @@ labels: [dairy, bread, cake, drinks, fermentation]
 ## Ingredients
 
 - 1½ tsp. baking powder
-- ½ tsp. baking soda
-- 1 tsp. kosher salt
-- ½ tsp. sugar
+- 2ml. baking soda
+- 5ml. kosher salt
+- 2ml. sugar
 - 1½ cups (188 g) all-purpose flour, plus more for dusting
-- ½ cup (1 stick) chilled unsalted butter or vegan butter, cut into small pieces
-- 2 Tbsp. melted butter for brushing
-- 1 cup (270 g) sourdough starter discard from a starter fed within the previous 24 hours, room temperature
+- 120ml (1 stick) chilled unsalted butter or vegan butter, cut into small pieces
+- 30ml. melted butter for brushing
+- 240ml (270 g) sourdough starter discard from a starter fed within the previous 24 hours, room temperature
 - Flaky sea salt (optional)
 
 ## Instructions
 
 1. Preheat oven to 425°.
 2. Stir together baking powder, baking soda, kosher salt, sugar, and 1½ cups flour with a fork in a large bowl.
-3. Add ½ cup chilled butter and toss with your hands or fork just to coat.
+3. Add 120ml chilled butter and toss with your hands or fork just to coat.
 4. Using your fingers, smash butter into flat disks.
 5. Using a pastry cutter or fork, work butter into dry ingredients until shaggy crumbles form.
 6. Add sourdough starter and mix gently with fork to incorporate, then fold with your hands just until dough comes together.
@@ -76,5 +76,5 @@ labels: [dairy, bread, cake, drinks, fermentation]
 15. Pat out to a 1"-thick rectangle and cut out more biscuits.
 16. Gather remaining scraps together to form 1 final biscuit for a total of 10 biscuits.
 17. Transfer to baking sheet.
-18. Brush biscuit tops with 2 Tbsp. melted butter and sprinkle with sea salt if desired.
-19. Bake biscuits until tall and golden and an instant-read thermometer inserted into the side of a biscuit registers 205°F, 12–15 minutes.
+18. Brush biscuit tops with 30ml. melted butter and sprinkle with sea salt if desired.
+19. Bake biscuits until tall and golden and an instant-read thermometer inserted into the side of a biscuit registers 96°C, 12–15 minutes.

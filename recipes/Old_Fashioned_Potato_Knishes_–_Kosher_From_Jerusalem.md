@@ -61,7 +61,7 @@ Next add your sauteed onions and salt and this may seem odd but is not, beat a l
 
 *mixing the potato filling*
 
-See the other half of the egg? Yup for real. Okay. Your filling is ready to roll, and yuk yuk, so is your dough so now preheat your oven to 350 F.
+See the other half of the egg? Yup for real. Okay. Your filling is ready to roll, and yuk yuk, so is your dough so now preheat your oven to 177°C.
 
 Now take the rested dough and divide into four pieces, covering the ones you aren’t working with, sprinkle some flour on parchment paper, take a rolling pin and roll into a rectangle. The dough is soft and will roll nice and thin.
 
@@ -111,22 +111,22 @@ Bake in the hot oven 30-40 minutes or till golden brown. Serve with brown mustar
 
 Dough:
 
-2 cups (312 grams) all-purpose flour  
-1 tsp baking powder  
-1 tsp salt  
+480ml (312 grams) all-purpose flour  
+5ml baking powder  
+5ml salt  
 1 large egg  
-1/2 cup canola oil  
-1/2 cup lukewarm water  
-1 tsp vinegar  
+120ml canola oil  
+120ml lukewarm water  
+5ml vinegar  
 Filling:
 
 5 medium potatoes, peeled and cut into chunks  
 boiling water to cover  
 pinch of salt  
 one medium onion, peeled and chopped  
-2 tablespoons oil  
+30ml oil  
 1 large egg  
-1 teaspoon salt
+5ml salt
 
 extra flour to sprinkle on parchment paper or silpat
 
@@ -134,7 +134,7 @@ extra flour to sprinkle on parchment paper or silpat
 
 ## Instructions
 
-Preheat the oven to 350 F/180 C. In a medium bowl (best if it has its own cover, otherwise you will need plastic wrap), whisk together your dry ingredients, make a well in the center of the flour mixture and add the egg, oil, vinegar and water. Stir together till all the ingredients are incorporated and then right in the bowl, knead the dough about six times, just pressing and turning to make sure all the ingredients have been properly mixed. Cover the bowl with the lid or plastic wrap and let the dough sit for an hour at room temperature. Set aside.
+Preheat the oven to 177°C/180 C. In a medium bowl (best if it has its own cover, otherwise you will need plastic wrap), whisk together your dry ingredients, make a well in the center of the flour mixture and add the egg, oil, vinegar and water. Stir together till all the ingredients are incorporated and then right in the bowl, knead the dough about six times, just pressing and turning to make sure all the ingredients have been properly mixed. Cover the bowl with the lid or plastic wrap and let the dough sit for an hour at room temperature. Set aside.
 
 Prepare the filling by boiling the potatoes with the pinch of salt till very soft. Put potatoes in a bowl to cool. Sautee the onions in the oil till medium brown and add to the potatoes and mash together and add a teaspoon of salt. Stir well. When filling is cool, beat the egg and pour HALF the egg into the potato mixture saving the other half to brush on the finished knishes.
 

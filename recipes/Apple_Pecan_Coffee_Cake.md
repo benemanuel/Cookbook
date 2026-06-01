@@ -47,25 +47,25 @@ labels: [dairy, cake, sauce, drinks]
 - 2½ cups all-purpose flour
 - 1¾ cups sugar
 - 1½ tsp baking soda
-- ¼ tsp salt
-- ½ tsp baking powder
-- ¾ tsp cinnamon
-- ½ tsp cloves
-- ½ tsp allspice
-- ½ cup butter, softened
-- ½ cup buttermilk
+- 1ml salt
+- 2ml baking powder
+- 4ml cinnamon
+- 2ml cloves
+- 2ml allspice
+- 120ml butter, softened
+- 120ml buttermilk
 - 1½ cups applesauce
 - 2 eggs
 - 2 Granny Smith apples, peeled and diced
-- ½ cup brown sugar
-- 2 tsp cinnamon
-- 2 Tbsp flour
-- 2 Tbsp butter, melted
-- ½ cup chopped pecans
+- 120ml brown sugar
+- 10ml cinnamon
+- 30ml flour
+- 30ml butter, melted
+- 120ml chopped pecans
 
 ## Instructions
 
-1. Preheat oven to 350°F and grease a 9x13 baking pan.
+1. Preheat oven to 177°C and grease a 9x13 baking pan.
 2. Whisk together flour, sugar, baking soda, salt, baking powder, cinnamon, cloves, and allspice in a large bowl.
 3. Add butter, buttermilk, and applesauce to the dry ingredients and mix until combined.
 4. Beat in eggs one at a time.

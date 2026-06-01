@@ -32,10 +32,10 @@ labels: [dairy, cake]
 - 50g self-raising flour
 - 60g Greek yoghurt
 - 10g butter, melted
-- 1 tablespoon granulated sugar
-- 1/2 teaspoon cinnamon
-- 3 tablespoons powdered sugar
-- 2 teaspoons milk
+- 15ml granulated sugar
+- 2ml cinnamon
+- 45ml powdered sugar
+- 10ml milk
 
 ## Instructions
 

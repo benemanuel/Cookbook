@@ -44,7 +44,7 @@ labels: [dairy, soup]
 1. In a small pot, add the prunes and water and bring to a boil over medium heat.
 2. Once the water boils, turn the heat down and simmer for 5 to 7 minutes to soften the prunes.
 3. Using a strainer or a slotted spoon, remove the prunes and place them in a mixing bowl or a mini food processor, reserving the prune water.
-4. Place the prunes, orange zest and juice, sugar and 2 teaspoons of the reserved prune water in the bowl of a mini food processor.
+4. Place the prunes, orange zest and juice, sugar and 10ml of the reserved prune water in the bowl of a mini food processor.
 5. Pulse until mostly smooth, a few pieces of prune are acceptable.
 6. If using a hand blender or potato masher, put all ingredients in a bowl and proceed to blend.
 7. Taste for flavor and notice the texture.

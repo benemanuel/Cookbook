@@ -43,7 +43,7 @@ labels: [dairy, candy, soup, vegetables]
 
 - A small handful of dried porcini
 - Olive oil
-- 600g/1lb 6oz mixed fresh wild mushrooms (chanterelles, girolles, trompettes de la mort, shitake, oyster), cleaned and sliced
+- 600g/454g 170g mixed fresh wild mushrooms (chanterelles, girolles, trompettes de la mort, shitake, oyster), cleaned and sliced
 - 2 cloves garlic, peeled and finely sliced
 - 1 red onion, peeled and finely chopped
 - A knob of butter
@@ -51,7 +51,7 @@ labels: [dairy, candy, soup, vegetables]
 - Sea salt and freshly ground black pepper
 - 1 litre/1 ¾ pints chicken or vegetable stock
 - A handful of fresh flat-leaf parsley, leaves picked and roughly chopped
-- 2 tablespoons mascarpone cheese
+- 30ml mascarpone cheese
 - 1 lemon
 - Optional: truffle oil
 

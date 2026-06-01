@@ -36,22 +36,22 @@ labels: [dairy, bread, cake, fermentation]
 
 ## Ingredients
 
-- 1 cup (120 g) all-purpose flour
-- ½ cup (100 g) sugar for yolks
-- ¼ cup (50 g) sugar for whites
-- 1 cup (240 g) sourdough starter (discard or ripe, 100% hydration)
+- 240ml (120 g) all-purpose flour
+- 120ml (100 g) sugar for yolks
+- 60ml (50 g) sugar for whites
+- 240ml (240 g) sourdough starter (discard or ripe, 100% hydration)
 - 6 large eggs, separated
-- ¼ cup (60 g) neutral oil or melted butter for richer flavor
-- ¼ cup (60 g) milk or plant-based milk
-- 1 tsp vanilla extract
+- 60ml (60 g) neutral oil or melted butter for richer flavor
+- 60ml (60 g) milk or plant-based milk
+- 5ml vanilla extract
 - Zest of 1 lemon or orange (optional)
-- 1 tsp baking powder
-- ½ tsp salt
-- ¼ tsp cream of tartar for whipping egg whites
+- 5ml baking powder
+- 2ml salt
+- 1ml cream of tartar for whipping egg whites
 
 ## Instructions
 
-1. Preheat oven to 325°F (165°C) and use an ungreased 9" angel food pan or tube pan.
+1. Preheat oven to 163°C (165°C) and use an ungreased 9" angel food pan or tube pan.
 2. Whisk together egg yolks, sourdough starter, oil, milk, vanilla, zest, and 100 g sugar until smooth.
 3. Sift in flour, baking powder, and salt, and mix gently until combined without overmixing.
 4. In a clean bowl, beat egg whites with cream of tartar until foamy, then gradually add the remaining 50 g sugar and whip until glossy stiff peaks form.

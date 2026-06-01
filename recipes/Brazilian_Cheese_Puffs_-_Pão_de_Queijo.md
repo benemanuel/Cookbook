@@ -30,16 +30,16 @@ labels: [dairy, sauce]
 
 ## Ingredients
 
-- 1 cup whole milk
-- 1/2 cup vegetable oil
-- 1 teaspoon salt
-- 10 oz. (280g) tapioca flour
+- 240ml whole milk
+- 120ml vegetable oil
+- 5ml salt
+- 284g (280g) tapioca flour
 - 2 large  eggs
-- 1 1/2 cups grated Parmesan cheese
+- 360ml grated Parmesan cheese
 
 ## Instructions
 
-1. Preheat the oven to 350°F (176°C). Line 2 baking sheets with parchment paper. Place the milk, oil, and salt in a medium saucepan and bring to a gentle boil over medium heat, stirring occasionally. Remove from heat as soon as large bubbles start to form in the milk.
+1. Preheat the oven to 177°C (176°C). Line 2 baking sheets with parchment paper. Place the milk, oil, and salt in a medium saucepan and bring to a gentle boil over medium heat, stirring occasionally. Remove from heat as soon as large bubbles start to form in the milk.
 2. Add the tapioca flour and stir with a wooden spoon until well combined. Transfer the dough to the bowl of a stand mixer fitted with the paddle attachment. Beat the dough for a few minutes at medium speed until it smooths out and cools down.
 3. With the mixer on medium speed, add the eggs to the dough one at a time, waiting until the first egg is fully incorporated before adding the second. Scrape down the sides of the bowl, then beat in the cheese until the dough becomes very sticky.
 4. Scoop the dough with a small ice cream scoop, spacing the dough 2 inches apart (12 per baking sheet). Dip the scoop in water between scoops to prevent sticking.

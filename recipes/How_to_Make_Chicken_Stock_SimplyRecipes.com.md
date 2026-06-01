@@ -64,17 +64,17 @@ labels: [meat, soup, drinks, vegetables]
 - 1 bunch parsley (stems and leaves)
 - Salt, to taste
 - Black pepper, to taste
-- 1 tablespoon olive oil
-- 4 to 5 pounds chicken wings, backs and/or legs, skin-on, trimmed of excess fat, hacked with a cleaver into 2-inch pieces
+- 15ml olive oil
+- 4 to 2.3kg chicken wings, backs and/or legs, skin-on, trimmed of excess fat, hacked with a cleaver into 2-inch pieces
 - 1 large rib celery plus 1 handful leafy celery tops, cut into 2-inch segments
 - Leek or green onions (if you have them)
 - 1 bay leaf
 - 6 quarts cold water
-- 1 tablespoon salt, or to taste
-- 4 pounds chicken wings, backs, and/or legs, hacked with a cleaver into 2-inch pieces
+- 15ml salt, or to taste
+- 1.8kg chicken wings, backs, and/or legs, hacked with a cleaver into 2-inch pieces
 - 1 large onion, chopped
 - 2 quarts boiling water
-- 2 teaspoons salt, or to taste
+- 10ml salt, or to taste
 - 2 bay leaves
 
 ## Instructions
@@ -91,10 +91,10 @@ labels: [meat, soup, drinks, vegetables]
 10. Use a large metal spoon with holes or a spider ladle to remove the cooked chicken and vegetables, and discard them.
 11. Use a large sieve lined with dampened cheesecloth or paper towel and place over a large bowl or pot, then pour the stock through the sieve to strain out any remaining solids.
 12. Pour the strained stock into jars or optionally boil on high heat for 1 hour to reduce by about half, then let cool completely before refrigerating or freezing, leaving at least 1-inch head space if freezing.
-13. Heat 1 tablespoon of olive oil in a large stock pot, add one chopped onion, and sauté until softened and slightly colored for 2 to 3 minutes, then transfer to a large bowl.
+13. Heat 15ml of olive oil in a large stock pot, add one chopped onion, and sauté until softened and slightly colored for 2 to 3 minutes, then transfer to a large bowl.
 14. Add half of the chicken pieces to the pot and sauté until no longer pink, about 4 to 5 minutes, then transfer to the bowl with the onions and repeat with the remaining chicken pieces.
 15. Return the onion and chicken pieces to the pot, reduce heat to low, cover, and cook until chicken releases its juices for about 20 minutes while simultaneously bringing 2 quarts of water to a boil in a large tea kettle.
-16. After the chicken pieces have been cooking for 20 minutes, raise the heat to high, add the 2 quarts of boiling water, 2 teaspoons of salt, and 2 bay leaves.
+16. After the chicken pieces have been cooking for 20 minutes, raise the heat to high, add the 2 quarts of boiling water, 10ml of salt, and 2 bay leaves.
 17. Return to a low simmer while scraping up any browned bits from the bottom of the pan with a wooden spoon, then cover and barely simmer for about 20 minutes.
 18. Strain the stock through cheesecloth or paper towel-lined large sieve, discarding solids and removing the large pieces of bone with a slotted spoon first.
 19. Pour the strained stock into jars and cool completely before refrigerating or freezing, where it will last about a week in the refrigerator or several months in the freezer.

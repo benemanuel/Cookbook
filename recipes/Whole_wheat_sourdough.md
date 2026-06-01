@@ -43,8 +43,8 @@ labels: [bread, cake]
 3. Laminate the dough and rest covered.
 4. Perform coil folds at 3 hours and 6 hours.
 5. At 9 hours, shape and refrigerate overnight in a baneton.
-6. Preheat a pizza stone for 1 hour at 500°F, then reduce to 480°F.
+6. Preheat a pizza stone for 1 hour at 260°C, then reduce to 249°C.
 7. Spritz the dough with water and bake for 25 minutes on the pizza stone using a tray of water underneath and an upside-down baking sheet above for steam.
 8. Add an ice cube to the stone and spritz with water a few more times throughout baking.
-9. Lower heat to 450°F, remove the steam catcher system, and bake for 25 minutes more.
+9. Lower heat to 232°C, remove the steam catcher system, and bake for 25 minutes more.
 10. Rest the loaf for at least 6 hours before slicing.

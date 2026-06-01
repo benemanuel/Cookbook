@@ -54,7 +54,7 @@ labels: [dairy, bread, cake]
 1. In a large bowl or stand mixer, combine warm water, brown sugar, and yeast and let sit 5 minutes until foamy.
 2. Add sourdough discard, flour, and salt, mix until a shaggy dough forms, then add softened butter and knead for 8–10 minutes until smooth and elastic.
 3. Cover and let rise at room temperature for 1 hour, or until noticeably puffed.
-4. Preheat oven to 450°F and line two baking sheets with parchment.
+4. Preheat oven to 232°C and line two baking sheets with parchment.
 5. Bring water and baking soda to a boil in a large pot.
 6. Divide dough into 8 equal pieces, roll each into a long rope about 50cm, then shape into a pretzel.
 7. Working in batches, boil pretzels in the baking soda bath for 30 seconds per side and transfer to prepared baking sheets.

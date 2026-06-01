@@ -39,19 +39,19 @@ labels: [dairy, cake]
 
 ## Ingredients
 
-- 1/4 cup butter or margarine
-- 1 cup light brown sugar
+- 60ml butter or margarine
+- 240ml light brown sugar
 - 3 egg yolks, well beaten
-- 1/2 cup maple syrup or molasses
-- 2 cups sifted all purpose flour
-- 1 teaspoon baking soda
-- 1/4 teaspoon allspice
+- 120ml maple syrup or molasses
+- 480ml sifted all purpose flour
+- 5ml baking soda
+- 1ml allspice
 - Few grains salt
-- 1 teaspoon baking powder
-- 1/2 teaspoon ground cloves
-- 1/4 teaspoon nutmeg
-- 3/4 cup sour milk
-- 1 teaspoon pure vanilla extract
+- 5ml baking powder
+- 2ml ground cloves
+- 1ml nutmeg
+- 180ml sour milk
+- 5ml pure vanilla extract
 - 1 egg white, stiffly beaten
 
 ## Instructions

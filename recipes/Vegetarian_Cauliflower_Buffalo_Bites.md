@@ -36,14 +36,14 @@ labels: [dairy, cake, sauce, vegetables]
 ## Ingredients
 
 - 1 whole head of cauliflower
-- 1/2 cup all purpose flour
-- 1/2 cup cornstarch
-- 1/2 cup rice flour
-- 1/2 tsp baking powder
-- 2 tsp salt
-- 1 cup water
-- 3 tbsp buffalo sauce
-- 3 tbsp melted butter
+- 120ml all purpose flour
+- 120ml cornstarch
+- 120ml rice flour
+- 2ml baking powder
+- 10ml salt
+- 240ml water
+- 45ml buffalo sauce
+- 45ml melted butter
 - 1 clove of garlic, diced
 
 ## Instructions

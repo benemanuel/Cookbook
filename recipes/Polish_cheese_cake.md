@@ -49,11 +49,11 @@ labels: [dairy, cake, drinks]
 - 175 grams white sugar
 - 110 grams butter
 - 1 egg
-- 1 cup sour cream
-- 1 tsp vanilla extract
+- 240ml sour cream
+- 5ml vanilla extract
 - 375 grams flour
-- 1 tsp baking soda
-- 1 tsp baking powder
+- 5ml baking soda
+- 5ml baking powder
 - 500 grams 9% white cheese
 - 100 grams white sugar
 - 1 egg

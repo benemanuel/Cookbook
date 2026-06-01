@@ -36,19 +36,19 @@ labels: [sauce, drinks]
 
 ## Ingredients
 
-- 1 1/2 cups panko breadcrumbs
+- 360ml panko breadcrumbs
 - Oil spray
 - 1 egg
-- 1 tbsp mayonnaise
-- 1 1/2 tbsp dijon mustard
-- 2 tbsp flour
-- 1/2 tsp salt
+- 15ml mayonnaise
+- 22ml dijon mustard
+- 30ml flour
+- 2ml salt
 - Black pepper
 - 500 g chicken tenderloins
 
 ## Instructions
 
-1. Preheat oven to 200C/390F.
+1. Preheat oven to 200C/199°C.
 2. Spread panko on a baking tray, spray with oil, and bake for 3 to 5 minutes until light golden, then transfer to a bowl.
 3. Place a rack on a baking tray.
 4. Whisk together the egg, mayonnaise, dijon mustard, flour, salt, and black pepper until combined.

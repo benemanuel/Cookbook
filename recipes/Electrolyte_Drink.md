@@ -28,12 +28,12 @@ labels: [dairy, drinks, pickles]
 
 ## Ingredients
 
-- ¼ tsp banana peel flour
-- ¼ tsp pink Himalayan salt or sea salt
-- ¼ tsp cream of tartar
+- 1ml banana peel flour
+- 1ml pink Himalayan salt or sea salt
+- 1ml cream of tartar
 - Juice of ½ lemon or lime
-- 1 tsp apple cider vinegar with the mother (optional)
-- 1 tsp honey or a pinch of stevia (optional)
+- 5ml apple cider vinegar with the mother (optional)
+- 5ml honey or a pinch of stevia (optional)
 - 300–500 ml water, still or lightly sparkling
 
 ## Instructions

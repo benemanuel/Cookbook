@@ -35,20 +35,20 @@ labels: [dairy, cake]
 
 ## Ingredients
 
-- 1 cup white sugar
-- 1 cup brown sugar
-- 1 cup oleo (margarine)
-- 1 cup oil
+- 240ml white sugar
+- 240ml brown sugar
+- 240ml oleo (margarine)
+- 240ml oil
 - 1 egg
-- 1 tsp vanilla
-- 1 tsp cream of tartar
-- 1 tsp baking soda
-- 1 cup rice crispies
-- 1 cup quick oatmeal
-- 1 tsp salt
-- 1 cup flaked coconut
-- 1 cup chopped nuts
-- 3 1/2 cups flour
+- 5ml vanilla
+- 5ml cream of tartar
+- 5ml baking soda
+- 240ml rice crispies
+- 240ml quick oatmeal
+- 5ml salt
+- 240ml flaked coconut
+- 240ml chopped nuts
+- 840ml flour
 
 ## Instructions
 

@@ -49,13 +49,13 @@ labels: [dairy, cake, soup]
 - 75g brown sugar
 - 3 large eggs
 - 55g unsweetened cocoa powder
-- ½ tsp baking powder
-- ¼ tsp salt
-- 1 tsp vanilla extract
-- 1 tbsp chia seeds
-- 2 tbsp milk
+- 2ml baking powder
+- 1ml salt
+- 5ml vanilla extract
+- 15ml chia seeds
+- 30ml milk
 - 80g dark chocolate chips (56%)
-- 1 tbsp cocoa nibs
+- 15ml cocoa nibs
 - 25g dried cranberries, chopped
 - 35g chopped walnuts
 
@@ -63,9 +63,9 @@ labels: [dairy, cake, soup]
 
 1. Rinse dried black beans and remove any debris.
 2. Quick soak by boiling for 2 minutes then letting sit for 1 hour, or overnight soak in plenty of water for 8 hours.
-3. Drain soaking water and add fresh water (about 3 cups per ½ cup of dried beans), then simmer for 60–90 minutes until tender, adding salt near the end of cooking.
-4. Preheat oven to 175°C (350°F) and line a square pan (20x20 cm) with parchment.
-5. Soak chia seeds in 2 tbsp milk until gelled, and soak cranberries briefly in warm water if firm.
+3. Drain soaking water and add fresh water (about 720ml per 120ml of dried beans), then simmer for 60–90 minutes until tender, adding salt near the end of cooking.
+4. Preheat oven to 175°C (177°C) and line a square pan (20x20 cm) with parchment.
+5. Soak chia seeds in 30ml milk until gelled, and soak cranberries briefly in warm water if firm.
 6. Blend beans, oats, sugar, eggs, cocoa powder, baking powder, salt, vanilla, and chia gel in a food processor until smooth.
 7. Add melted ghee and half the melted chocolate chips, then pulse lightly to combine.
 8. Stir in cranberries, walnuts, and cocoa nibs by hand.

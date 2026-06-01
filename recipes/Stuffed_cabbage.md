@@ -46,17 +46,17 @@ labels: [meat, sauce, vegetables]
 ## Ingredients
 
 - 1 large head of cabbage
-- 1 1/2 pounds ground chuck
-- 1/2 cup raw rice
+- 680g ground chuck
+- 120ml raw rice
 - 1 small onion, grated
 - 2 eggs
-- 2 teaspoons salt, divided
-- 3/4 teaspoon freshly ground pepper, divided
+- 10ml salt, divided
+- 4ml freshly ground pepper, divided
 - 1 large onion, sliced into thin half moons
-- 15-16 ounces canned tomato sauce
+- 15-454g canned tomato sauce
 - 2 28-ounce cans tomatoes with their juice
 - 2 medium-large lemons, juiced
-- 1/2 cup light brown sugar, gently packed
+- 120ml light brown sugar, gently packed
 
 ## Instructions
 
@@ -65,13 +65,13 @@ labels: [meat, sauce, vegetables]
 3. Gently lift the cabbage into a colander and pour cool water over it.
 4. When cool enough to handle, separate the leaves, and if inner leaves are not pliable, put the remaining cabbage back into boiling water for a few minutes.
 5. Shave off the thickest part of each leaf near where it was attached to the core.
-6. Preheat the oven to 375 degrees F.
-7. Mix the rice, grated onion, eggs, 1 teaspoon salt, and 1/4 teaspoon pepper in a medium bowl, then add the beef and combine with your hands.
+6. Preheat the oven to 191°C.
+7. Mix the rice, grated onion, eggs, 5ml salt, and 1ml pepper in a medium bowl, then add the beef and combine with your hands.
 8. Make small meatballs between golf ball and baseball-sized and set them aside on a plate.
 9. Loosely wrap each meatball in a cabbage leaf and place seam side down on a platter.
 10. Arrange the leftover leaves on the bottom of one or two heavy oven-safe pots.
 11. Move the cabbage rolls into the pot(s) seam side down and layer with about half of the thin onion slices.
-12. Add the tomatoes and their juice, tomato sauce, lemon juice, remaining teaspoon of salt, and 1/2 teaspoon of pepper to the pot(s).
+12. Add the tomatoes and their juice, tomato sauce, lemon juice, remaining teaspoon of salt, and 2ml of pepper to the pot(s).
 13. If the canned tomatoes are whole, open them with a spoon or knife so their juices flow out.
 14. Top with the remaining onions.
 15. Bring the pot(s) to a boil on the stovetop, sprinkle on the brown sugar, and gently mix it in.

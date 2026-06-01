@@ -38,9 +38,9 @@ labels: [dairy]
 - 170g molasses
 - 1 egg
 - 400g plain flour
-- 2 1/2 tsp bicarbonate of soda
-- 1 1/2 tsp cinnamon
-- 1 tsp mace
+- 12ml bicarbonate of soda
+- 8ml cinnamon
+- 5ml mace
 - 60 ml milk
 
 ## Instructions

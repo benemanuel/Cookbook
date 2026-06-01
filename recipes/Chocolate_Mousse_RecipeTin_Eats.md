@@ -39,11 +39,11 @@ labels: [dairy, drinks]
 
 ## Ingredients
 
-- 3  eggs ((~55g/2 oz each))
-- 125g / 4.5 oz   70% cocoa chocolate or bittersweet chocolate, (, break or cut into small 1 cm / 0.2&quot; pieces (Note 1))
-- 10g / 0.3 oz  unsalted butter
-- 1/2  cup cream (, full fat (Note 2))
-- 3 tbsp caster sugar ((superfine white sugar))
+- 3  eggs ((~55g/57g each))
+- 125g / 128g   70% cocoa chocolate or bittersweet chocolate, (, break or cut into small 1 cm / 0.2&quot; pieces (Note 1))
+- 10g / 9g  unsalted butter
+- 120ml cream (, full fat (Note 2))
+- 45ml caster sugar ((superfine white sugar))
 - More whipped cream
 - Chocolate shavings ((Note 3))
 
@@ -56,7 +56,7 @@ labels: [dairy, drinks]
 5. Whip cream - Beat cream until stiff peaks form, being careful not to over-whip (see video).
 6. Whip whites - Clean the whisks. Add sugar into the egg whites bowl. Beat until firm peaks form. GOAL - flopping &quot;elf hat&quot;! (see video and Note 5 for what this means).
 7. Yolks and cream - Fold egg yolks into cream using a rubber spatula - 8 folds max. Some streaks is fine.
-8. Check chocolate temperature - The chocolate should be cooled to room temperature but still runny (minimum 35°C / 95°F; ideal 40°C / 104°F). If too cool or thick, microwave in burst of 5 seconds at a time until runny.
+8. Check chocolate temperature - The chocolate should be cooled to room temperature but still runny (minimum 35°C / 35°C; ideal 40°C / 40°C). If too cool or thick, microwave in burst of 5 seconds at a time until runny.
 9. Chocolate into cream - Pour chocolate into cream yolk mixture. Fold through - 8 folds max. Some streaks here are ok.
 10. Fold in egg whites - Add 1/4 of beaten egg whites into chocolate mixture. Fold through until incorporated - &quot;smear&quot; the spatular across surface to blend white lumps in - aim for 10 folds.
 11. Pour chocolate mixture into egg whites. Fold through until incorporated and no more white lumps remain - aim for 12 folds max, but ensure there are no obvious egg white patches.

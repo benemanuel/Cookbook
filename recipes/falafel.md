@@ -39,17 +39,17 @@ labels: [cake, sauce, drinks, vegetables]
 
 ## Ingredients
 
-- 2 cups (400g) dried chickpeas
+- 480ml (400g) dried chickpeas
 - 1 small onion
 - 3-5 garlic cloves
 - 1/3 bunch parsley
 - 1/2 bunch cilantro
-- 4 tablespoons (30g) flour, breadcrumbs, or chickpea flour for gluten free version
+- 60ml (30g) flour, breadcrumbs, or chickpea flour for gluten free version
 - 1¼ teaspoon salt
-- 1/4 teaspoon pepper
-- 1 teaspoon cumin
-- 1 teaspoon paprika
-- 2 teaspoons baking soda
+- 1ml pepper
+- 5ml cumin
+- 5ml paprika
+- 10ml baking soda
 - Oil for frying
 
 ## Instructions

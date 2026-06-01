@@ -30,15 +30,15 @@ labels: [dairy, sauce]
 
 ## Ingredients
 
-- 8 tablespoons butter (1 stick)
-- 1 1/2 cup granulated sugar
-- 1/2 cup milk
-- 4 tablespoons unsweetened cocoa powder
-- 1 teaspoon vanilla extract
-- 1/8 teaspoon kosher salt
-- 3 cups old-fashioned oats
-- 1/2 cup shredded coconut
-- 1/2 cup peanut butter
+- 120ml butter (1 stick)
+- 360ml granulated sugar
+- 120ml milk
+- 60ml unsweetened cocoa powder
+- 5ml vanilla extract
+- 1ml kosher salt
+- 720ml old-fashioned oats
+- 120ml shredded coconut
+- 120ml peanut butter
 
 ## Instructions
 

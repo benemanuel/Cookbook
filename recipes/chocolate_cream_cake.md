@@ -20,30 +20,30 @@ labels: [dairy, cake]
 
 *Nana’s Devil’s Food Cake*
 
-\*1 cup cake flour
+\*240ml cake flour
 
-1/2 tsp salt
+2ml salt
 
-1/2 tsp baking powder
+2ml baking powder
 
-1 tsp baking soda
+5ml baking soda
 
-6 Tbsp cup cocoa
+90ml cup cocoa
 
-1 cups sugar
+240ml sugar
 
-1/2 cup oil
+120ml oil
 
-1/2 cup milk
+120ml milk
 
-1/2 cup coffee – room temp
+120ml coffee – room temp
 
 1 egg
 
-1/2 tsp vanilla
+2ml vanilla
 
 Whisk all dry ingredients together. Beat wet ingredients until foamy.
 
 Slowly fold dry into wet ingredients.
 
-Pour into greased \& floured tube pan. Bake at 375°F until done, 25\-30 mins/205°F
+Pour into greased \& floured tube pan. Bake at 191°C until done, 25\-30 mins/96°C

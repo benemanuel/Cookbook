@@ -67,8 +67,8 @@ labels: [soup, sauce, vegetables]
 
 1. Cut carrot and daikon into 3-4cm chunks, soak dried mushrooms for 10-15 minutes and halve them, cube tofu, slice vegan ham, and rinse herbs and bean sprouts.
 2. Boil 2.5 liters of water and add carrots, daikon, and mushrooms, then simmer on low heat for 30-45 minutes while skimming foam constantly.
-3. Season the broth with 1 tablespoon vegetable seasoning, 1 teaspoon salt, and 1 tablespoon rock sugar, and optionally add an apple or loofah for natural sweetness.
+3. Season the broth with 15ml vegetable seasoning, 5ml salt, and 15ml rock sugar, and optionally add an apple or loofah for natural sweetness.
 4. Fry tofu and bean curd sheets until golden, blanch bean sprouts and chives for 20 seconds, and lightly fry vegan ham.
-5. Soak noodles for 30 minutes, blanch them for 30-40 seconds, rinse with cold water, and toss with 1 teaspoon olive oil.
+5. Soak noodles for 30 minutes, blanch them for 30-40 seconds, rinse with cold water, and toss with 5ml olive oil.
 6. Layer noodles, tofu, bean curd, vegan ham, sprouts, and chives in a bowl, then ladle hot broth over the top.
 7. Garnish with fried shallots, cilantro, and pepper, and serve with soy sauce and chili sate on the side.

@@ -48,16 +48,16 @@ labels: [dairy, cake, sauce]
 - 400g caster sugar
 - 215g self rising flour
 - 90g cocoa powder
-- 3.5 tablespoons dried chilli flakes
+- 52ml dried chilli flakes
 - 100g roasted peanuts (salted or roasted)
 - Salt
 - 1 lime (to serve)
-- 1 teaspoon chilli flakes (to serve)
-- 1 teaspoon salt (to serve)
+- 5ml chilli flakes (to serve)
+- 5ml salt (to serve)
 
 ## Instructions
 
-1. Preheat the oven to 185°C/365°F.
+1. Preheat the oven to 185°C/185°C.
 2. Whisk all the eggs in a large mixing bowl and break in the dark chocolate, then set aside.
 3. On medium heat, melt all the butter in a large saucepan, watching closely to ensure it doesn't brown, then add the caster sugar and stir frequently until you have a thick, golden consistency.
 4. Remove the butter mixture from the heat and pour it into the egg and chocolate mix, stirring consistently until the chocolate has melted and you have a rich batter.

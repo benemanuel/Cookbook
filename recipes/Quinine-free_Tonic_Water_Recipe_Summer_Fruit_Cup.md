@@ -34,12 +34,12 @@ labels: [soup, sauce, drinks, vegetables, fermentation]
 
 - Zest of half a lime
 - Zest of half a lemon
-- 1.5 tsp citric acid
-- 1 tsp gentian root
+- 8ml citric acid
+- 5ml gentian root
 - 8 juniper berries, crushed
 - Pinch of spice (allspice, Chinese five spice, cinnamon, nutmeg, ginger, or chili pepper)
 - 180 ml water
-- 5 tsp sugar
+- 25ml sugar
 
 ## Instructions
 

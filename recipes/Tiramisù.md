@@ -31,8 +31,8 @@ labels: [dairy, cake, drinks]
 ## Ingredients
 
 - 7 large egg yolks
-- 71 grams (⅓ cup) white sugar
-- 454 grams (1 pound) mascarpone cheese, chilled
+- 71 grams (80ml) white sugar
+- 454 grams (454g) mascarpone cheese, chilled
 - 1½ cups brewed espresso (or very strong coffee), cooled to room temperature
 - 1 package (about 200 grams) crisp Italian ladyfingers (savoiardi) or Petibers / Petit Beurre Biscuits
 - Unsweetened cocoa powder, for dusting

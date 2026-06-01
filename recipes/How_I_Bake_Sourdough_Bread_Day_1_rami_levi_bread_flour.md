@@ -58,5 +58,5 @@ labels: [bread, drinks, fermentation]
 8. Lightly dust the banneton and top of the dough with rice flour, shape the dough simply into a cylinder, and place seam-side up in the banneton.
 9. Leave the dough out at room temperature uncovered for about 1.5 hours until it feels springy and expanding.
 10. Pop the dough into the fridge uncovered to ferment overnight.
-11. The next morning, preheat your oven to 220°C (430°F) with a baking stone, then score the dough and bake covered with a large pot for the first 20 minutes.
+11. The next morning, preheat your oven to 220°C (221°C) with a baking stone, then score the dough and bake covered with a large pot for the first 20 minutes.
 12. Uncover and bake for a final 30 minutes without steam until the bread is golden brown.

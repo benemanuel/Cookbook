@@ -20,14 +20,14 @@ labels: [drinks]
 
 • If you are using liquid wort extract, replace the packet of vörtmix in step 2 with:
 
-\- 6 g (1 tsp) ground seville orange peel (bitter orange peel)
+\- 6 g (5ml) ground seville orange peel (bitter orange peel)
 
-\- 12 g (2 tsp) salt
+\- 12 g (10ml) salt
 
-\- 6 g (1 tsp) ground ginger
+\- 6 g (5ml) ground ginger
 
-\- 4 g (½ tsp) ground cardamom
+\- 4 g (2ml) ground cardamom
 
-\- 2 g (¼ tsp) ground cloves.
+\- 2 g (1ml) ground cloves.
 
 and then, in step 5, add 45 g of liquid wort extract to the flours at the same time as you add the beer.

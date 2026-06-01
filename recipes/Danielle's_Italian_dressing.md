@@ -35,8 +35,8 @@ labels: [sauce, drinks, vegetables, pickles]
 - 100ml white wine vinegar
 - 30g minced garlic
 - 1/2 lemon
-- 1 teaspoon dried oregano
-- 1/4 teaspoon chilli flakes
+- 5ml dried oregano
+- 1ml chilli flakes
 - 40g minced shallots or onion
 
 ## Instructions

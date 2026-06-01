@@ -38,19 +38,19 @@ labels: [dairy, bread, cake, drinks, vegetables, fermentation]
 
 ## Ingredients
 
-- 1 tablespoon sourdough starter
-- 1/2 cup plus 1 tablespoon all-purpose flour
-- 3 1/2 tablespoons water
-- 1/2 cup active sourdough starter
-- 1 tablespoon honey
-- 1 cup milk
-- 3 cups all-purpose flour
-- 1 teaspoon fine sea salt
-- 1/4 cup cornmeal for sprinkling
+- 15ml sourdough starter
+- 120ml plus 15ml all-purpose flour
+- 52ml water
+- 120ml active sourdough starter
+- 15ml honey
+- 240ml milk
+- 720ml all-purpose flour
+- 5ml fine sea salt
+- 60ml cornmeal for sprinkling
 
 ## Instructions
 
-1. Feed your sourdough starter 12 hours before mixing dough by adding 1 tablespoon sourdough starter, 1/2 cup plus 1 tablespoon all-purpose flour, and 3 1/2 tablespoons water to a clean jar, stir until combined, loosely cover and let rise at room temperature until doubled in size with plenty of bubbles.
+1. Feed your sourdough starter 12 hours before mixing dough by adding 15ml sourdough starter, 120ml plus 15ml all-purpose flour, and 52ml water to a clean jar, stir until combined, loosely cover and let rise at room temperature until doubled in size with plenty of bubbles.
 
 2. Add 100g of active starter and the remaining dough ingredients except cornmeal to a large bowl and mix with your hands until well combined.
 
@@ -58,7 +58,7 @@ labels: [dairy, bread, cake, drinks, vegetables, fermentation]
 
 4. Turn the dough onto a floured surface and knead by hand for 5 minutes, or use a stand mixer with dough hook on lowest speed for 5 minutes.
 
-5. Place the dough back into the bowl, cover, and let ferment on the counter at room temperature for 8 to 12 hours at 65 to 70 degrees Fahrenheit.
+5. Place the dough back into the bowl, cover, and let ferment on the counter at room temperature for 8 to 12 hours at 65 to 21°C.
 
 6. Turn the dough onto a floured surface, flour the top, and press it out using your fingertips until it is 1/2 inch thick.
 
@@ -68,4 +68,4 @@ labels: [dairy, bread, cake, drinks, vegetables, fermentation]
 
 9. Preheat a non-stick skillet over low heat and place 4 muffins into the skillet spaced 2 inches apart.
 
-10. Cover and cook the first side for 4 minutes, then turn the muffins over and cook for an additional 4 minutes until the center registers about 200 degrees Fahrenheit on an instant-read thermometer.
+10. Cover and cook the first side for 4 minutes, then turn the muffins over and cook for an additional 4 minutes until the center registers about 93°C on an instant-read thermometer.

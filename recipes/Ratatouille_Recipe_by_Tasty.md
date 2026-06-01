@@ -53,24 +53,24 @@ labels: [sauce, vegetables]
 - 6 roma tomatoes
 - 2 yellow squashes
 - 2 zucchinis
-- 2 tablespoons olive oil
+- 30ml olive oil
 - 1 medium white onion, diced
 - 4 cloves garlic, minced
 - 1 red bell pepper, seeded and diced
 - 1 yellow bell pepper, seeded and diced
 - kosher salt, to taste
 - freshly ground black pepper, to taste
-- 28 oz crushed tomatoes (795 g)
-- 2 tablespoons thinly sliced fresh basil
-- 2 tablespoons thinly sliced fresh basil
-- 1 teaspoon minced garlic
-- 2 tablespoons finely chopped fresh parsley
-- 2 teaspoons fresh thyme leaves
-- 4 tablespoons olive oil
+- 794g crushed tomatoes (795 g)
+- 30ml thinly sliced fresh basil
+- 30ml thinly sliced fresh basil
+- 5ml minced garlic
+- 30ml finely chopped fresh parsley
+- 10ml fresh thyme leaves
+- 60ml olive oil
 
 ## Instructions
 
-1. Preheat the oven to 375°F (190°C).
+1. Preheat the oven to 191°C (190°C).
 2. Using a sharp knife or a mandoline, slice the eggplant, tomatoes, squash, and zucchini into approximately 1/16-inch (1-mm)-thick rounds, then set aside.
 3. Heat the olive oil in a 12-inch (30-cm) oven-safe pan over medium-high heat and sauté the onion, garlic, and bell peppers until soft, about 10 minutes.
 4. Season with salt and pepper, then add the crushed tomatoes and stir until the ingredients are fully incorporated.
@@ -81,4 +81,4 @@ labels: [sauce, vegetables]
 9. Spoon the herb seasoning over the vegetables.
 10. Cover the pan with foil and bake for 40 minutes.
 11. Uncover and bake for another 20 minutes until the vegetables are softened.
-12. Serve hot as a main dish or side, or cover with foil and reheat in a 350°F (180°C) oven for 15 minutes the next day.
+12. Serve hot as a main dish or side, or cover with foil and reheat in a 177°C (180°C) oven for 15 minutes the next day.

@@ -43,12 +43,12 @@ labels: [dairy, bread, candy]
 - 100g raw or lightly roasted pistachios
 - 100g raw or lightly roasted cashew nuts
 - 100g raw or lightly roasted almonds
-- 4 tablespoons ghee or coconut oil
-- 1 tablespoon chia seeds
-- ½ teaspoon ground cardamom or cinnamon
-- 1 teaspoon vanilla extract
-- 2 tablespoons cacao nibs
-- 1–2 tablespoons unsweetened shredded coconut
+- 60ml ghee or coconut oil
+- 15ml chia seeds
+- 2ml ground cardamom or cinnamon
+- 5ml vanilla extract
+- 30ml cacao nibs
+- 1–30ml unsweetened shredded coconut
 
 ## Instructions
 

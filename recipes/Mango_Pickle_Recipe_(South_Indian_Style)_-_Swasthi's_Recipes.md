@@ -39,13 +39,13 @@ labels: [soup, spice, vegetables, pickles]
 
 ## Ingredients
 
-- 1 ¼ cup mango pieces (cubed (heaped cup, 1 medium mango))
-- 1 tablespoon mustard seeds ( or 2 tbsp. mustard powder)
-- ½ teaspoon methi seeds ((fenugreek seeds))
-- 3 tablespoon red chili powder ((use low heat spice powder, or adjust to taste))
-- 1 ½ teaspoon salt (adjust as needed)
+- 300ml mango pieces (cubed (heaped cup, 1 medium mango))
+- 15ml mustard seeds ( or 30ml. mustard powder)
+- 2ml methi seeds ((fenugreek seeds))
+- 45ml red chili powder ((use low heat spice powder, or adjust to taste))
+- 8ml salt (adjust as needed)
 - 4  garlic cloves (crushed)
-- 3 tablespoon oil
+- 45ml oil
 
 ## Instructions
 
@@ -55,7 +55,7 @@ labels: [soup, spice, vegetables, pickles]
 4. To the same pan, pour oil and heat it up until slightly warm. Set aside to cool completely. You can skip warming the oil if you intend to finish the mango pickle  within 10 to 12 days. Skip heating if using cold pressed oil.
 5. Blend methi seeds along with mustard seeds to a fine powder. Crush garlic.
 6. Chop mangoes to slightly large cubes of 1 inch, using a large knife.
-7. Optional for shelf-life: Sun dry each separately - spice powders, salt, garlic and chopped mangoes. Alternately you may heat them in oven at 60 to 70 C (140 to 160F) for 1 hour (avoid keeping salt in oven)
+7. Optional for shelf-life: Sun dry each separately - spice powders, salt, garlic and chopped mangoes. Alternately you may heat them in oven at 60 to 70 C (140 to 71°C) for 1 hour (avoid keeping salt in oven)
 8. Add them to a dry bowl, along with red chili powder, mustard powder, salt and lightly crushed garlic.
 9. Pour the oil and mix well. The pickle will be dry at this stage. Cover and set aside for 24 to 28 hours in a dry place.
 10. After 24 to 28 hours, mango pieces will release juices and the consistency of the pickle will change. Check the step-by-step photos above. Stir mango pickle well and taste test it. If needed add more salt.

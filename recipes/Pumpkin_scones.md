@@ -44,13 +44,13 @@ labels: [dairy, cake, drinks, vegetables, pickles]
 
 - 250g pumpkin or butternut squash, peeled and seeded
 - 400g plain flour
-- 4 tsp baking powder
-- ½ tsp salt
+- 20ml baking powder
+- 2ml salt
 - 85g butter
 - 80g parmesan, grated
 - 100ml milk
 - 100ml water
-- 2 tsp grain mustard
+- 10ml grain mustard
 - 1 egg, beaten, for glazing
 - Black pepper to taste
 

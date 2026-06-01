@@ -37,22 +37,22 @@ labels: [sauce, vegetables]
 
 ## Ingredients
 
-- ¾ cup Worcestershire sauce
-- ¾ cup soy sauce
-- 1 tablespoon smoked paprika
-- 1 tablespoon honey
-- 2 teaspoons freshly ground black pepper
-- 1 teaspoon red pepper flakes
-- 1 teaspoon garlic powder
-- 1 teaspoon onion powder
-- 2 pounds beef top round, thinly sliced
+- 180ml Worcestershire sauce
+- 180ml soy sauce
+- 15ml smoked paprika
+- 15ml honey
+- 10ml freshly ground black pepper
+- 5ml red pepper flakes
+- 5ml garlic powder
+- 5ml onion powder
+- 907g beef top round, thinly sliced
 
 ## Instructions
 
 1. Whisk together Worcestershire sauce, soy sauce, smoked paprika, honey, black pepper, red pepper flakes, garlic powder, and onion powder in a large bowl.
 2. Add beef to the bowl and mix until completely coated with marinade.
 3. Cover the bowl with plastic wrap and marinate in the refrigerator for 3 hours to overnight.
-4. Preheat the oven to 175 degrees F (80 degrees C).
+4. Preheat the oven to 79°C (80 degrees C).
 5. Line a baking sheet with aluminum foil and place a wire rack on top.
 6. Transfer beef to paper towels to dry and discard the marinade.
 7. Arrange beef slices in a single layer on the prepared wire rack on the baking sheet.

@@ -40,26 +40,26 @@ labels: [dairy, bread, cake, drinks]
 ## Ingredients
 
 ### Streusel Topping
-- 115g (½ cup packed) brown sugar
-- 70g (½ cup) whole wheat flour
-- 1 Tbsp cinnamon
-- ¼ tsp salt
-- Shy ¼ tsp cardamom
-- 55g (4 Tbsp) unsalted butter, melted
+- 115g (120ml packed) brown sugar
+- 70g (120ml) whole wheat flour
+- 15ml cinnamon
+- 1ml salt
+- Shy 1ml cardamom
+- 55g (60ml) unsalted butter, melted
 
 ### Cake
-- 395g (2 cups) sugar
-- 170g (¾ cup) unsalted butter, softened
-- 4 tsp baking powder
-- 1 tsp salt
-- ½ oz vanilla extract
+- 395g (480ml) sugar
+- 170g (180ml) unsalted butter, softened
+- 20ml baking powder
+- 5ml salt
+- 14g vanilla extract
 - 3 eggs
 - 340g (2⅔ cups) all-purpose flour
 - 395g (1⅔ cups) plain Greek yogurt
 
 ## Instructions
 
-1. Preheat oven to 350°F and grease a 9x13 baking pan.
+1. Preheat oven to 177°C and grease a 9x13 baking pan.
 2. Combine brown sugar, flour, cinnamon, salt, cardamom, and melted butter to make the streusel, mix until crumbly, and set aside.
 3. In a large bowl, beat together sugar, butter, baking powder, salt, and vanilla until fluffy.
 4. Add eggs one at a time, mixing well after each addition.

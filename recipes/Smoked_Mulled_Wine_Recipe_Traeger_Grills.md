@@ -32,9 +32,9 @@ labels: [drinks, spice]
 ## Ingredients
 
 - 2 bottles red wine
-- 1/2 cup whiskey
-- 1/2 cup white rum
-- 1/2 cup honey
+- 120ml whiskey
+- 120ml white rum
+- 120ml honey
 - 1 cinnamon stick
 - 2 pods star anise
 - 4 whole cloves
@@ -42,7 +42,7 @@ labels: [drinks, spice]
 
 ## Instructions
 
-1. Set Traeger temperature to 180°F and preheat with the lid closed for 15 minutes, using Super Smoke if available for optimal flavor.
+1. Set Traeger temperature to 82°C and preheat with the lid closed for 15 minutes, using Super Smoke if available for optimal flavor.
 2. In a shallow baking dish, combine wine, whiskey, rum, honey, cinnamon stick, star anise, cloves, and orange peel, and stir well until combined.
 3. Place the dish directly on the grill grate and smoke for one hour until the mixture is warm.
 4. Remove from grill and ladle into mugs leaving the mulling spices behind, then garnish with fresh cinnamon sticks, anise, orange zest, or a combination and enjoy.

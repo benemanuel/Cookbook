@@ -37,22 +37,22 @@ labels: [dairy, drinks, vegetables]
 ## Ingredients
 
 - 3 medium cooking apples
-- 6 ounces granulated sugar
-- 4 ounces butter or cooking margarine
-- 4 ounces self-raising flour
-- 3/4 teaspoon cinnamon (optional)
-- 1/2 cup rolled oats or Corn Flakes (optional)
+- 170g granulated sugar
+- 113g butter or cooking margarine
+- 113g self-raising flour
+- 4ml cinnamon (optional)
+- 120ml rolled oats or Corn Flakes (optional)
 
 ## Instructions
 
-1. Preheat your oven to 180°C / 350°F / Gas Mark 5.
+1. Preheat your oven to 180°C / 177°C / Gas Mark 5.
 2. Mix the butter or margarine with the flour in a dry bowl using a fork until the mixture resembles breadcrumbs, taking about three minutes.
 3. If adding optional oatmeal or Corn Flakes, mix them in now.
-4. Add 4 ounces of sugar to the mixture and mix it all together with the fork.
+4. Add 113g of sugar to the mixture and mix it all together with the fork.
 5. Peel the apples and cut each one into four parts, then cut out the core from each section.
 6. Slice the apple quarters into about six slices per section.
 7. Put the apple slices into the casserole dish and sprinkle with cinnamon if using.
-8. Sprinkle the remaining 2 ounces of sugar evenly over the apples.
+8. Sprinkle the remaining 57g of sugar evenly over the apples.
 9. Evenly spread the crumble mixture over the sugared apples.
 10. Place the dish into the preheated oven for around 40 minutes.
 11. Optional: place the apple crumble under a hot grill for 30 to 45 seconds to brown the topping, watching carefully to avoid burning.

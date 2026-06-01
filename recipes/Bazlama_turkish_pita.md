@@ -33,12 +33,12 @@ labels: [dairy, bread]
 
 ## Ingredients
 
-- 500 g (1 pound) flour
+- 500 g (454g) flour
 - 150 ml (5 fl. oz) warm milk
 - 150 ml (5 fl. oz) warm water
-- 1 tsp salt
-- 2 tbsp dry yeast
-- 3 tbsp olive oil
+- 5ml salt
+- 30ml dry yeast
+- 45ml olive oil
 - Chopped parsley
 - Chili flakes
 

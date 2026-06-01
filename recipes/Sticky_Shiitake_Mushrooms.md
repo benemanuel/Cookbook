@@ -43,17 +43,17 @@ labels: [candy, sauce, drinks, vegetables, pickles]
 
 ## Ingredients
 
-- 1/4 cup groundnut oil
-- 2 cups shiitake mushrooms, thickly sliced and dipped in water
-- 1/4 cup cornstarch
-- 1 tbsp sesame oil
+- 60ml groundnut oil
+- 480ml shiitake mushrooms, thickly sliced and dipped in water
+- 60ml cornstarch
+- 15ml sesame oil
 - 2 cloves garlic, minced
 - 1 inch ginger, minced
-- 2 tbsp brown sugar
-- 2 tbsp rice wine vinegar
-- 1 tsp cornstarch mixed with 1/2 tsp water
-- 1/4 cup soy sauce
-- 1 tsp Sriracha
+- 30ml brown sugar
+- 30ml rice wine vinegar
+- 5ml cornstarch mixed with 2ml water
+- 60ml soy sauce
+- 5ml Sriracha
 - Basmati rice for serving
 - Finely sliced scallions for garnish
 - Sesame seeds for garnish

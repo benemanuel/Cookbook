@@ -40,22 +40,22 @@ labels: [dairy, cake, sauce, vegetables]
 
 ## Ingredients
 
-- 115 g (8 tbsp or 1 stick) unsalted butter
-- 30 ml (2 tbsp) coconut oil
+- 115 g (120ml or 1 stick) unsalted butter
+- 30 ml (30ml) coconut oil
 - 2 large eggs
-- 70 g (1/3 cup) granulated sugar
-- 1 tsp pure vanilla extract
-- 100 g (appx. 1/2 cup) sourdough discard
-- 125 g (1 cup lightly spooned & leveled) all purpose flour
-- 80 g (1/2 cup) medium grind cornmeal
-- 2 tsp baking powder
-- 1/2 tsp baking soda
-- 1 tsp fine sea salt
-- 120 ml (1/2 cup) half & half
+- 70 g (80ml) granulated sugar
+- 5ml pure vanilla extract
+- 100 g (appx. 120ml) sourdough discard
+- 125 g (240ml lightly spooned & leveled) all purpose flour
+- 80 g (120ml) medium grind cornmeal
+- 10ml baking powder
+- 2ml baking soda
+- 5ml fine sea salt
+- 120 ml (120ml) half & half
 
 ## Instructions
 
-1. Preheat the oven to 375°F and line an 8×8-inch pan with parchment paper.
+1. Preheat the oven to 191°C and line an 8×8-inch pan with parchment paper.
 2. Melt the butter and coconut oil together in a small saucepan over low heat and set aside to cool slightly.
 3. Whisk the eggs, sugar and vanilla together in a large mixing bowl, then pour in the melted butter mixture and whisk well, then add the sourdough discard and mix again.
 4. In a separate bowl, combine the flour and cornmeal, then sift the baking powder, baking soda and salt directly over the top and mix to combine.

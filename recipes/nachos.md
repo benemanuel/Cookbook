@@ -33,13 +33,13 @@ labels: [meat, dairy, spice, vegetables]
 - 1 onion
 - 1 can kidney beans
 - 250g tomato purée
-- 1/2 teaspoon salt
-- 1 teaspoon pepper
-- 1/4 teaspoon cumin
-- 1 teaspoon chili powder
+- 2ml salt
+- 5ml pepper
+- 1ml cumin
+- 5ml chili powder
 - 300g tortilla chips (salted)
 - 3 tomatoes
-- 4 tablespoons olive slices
+- 60ml olive slices
 - 1 package shredded cheese (Gouda or Mozzarella)
 
 ## Instructions

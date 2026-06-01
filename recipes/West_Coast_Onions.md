@@ -27,13 +27,13 @@ labels: [dairy, vegetables, pickles]
 
 ## Ingredients
 
-- 1 cup water
-- 1 cup white vinegar
-- 1 tablespoon sugar
+- 240ml water
+- 240ml white vinegar
+- 15ml sugar
 - 2 large onions, sliced
-- 1 cup mayo
-- 2 tablespoons sour cream
-- 1 tablespoon celery salt
+- 240ml mayo
+- 30ml sour cream
+- 15ml celery salt
 
 ## Instructions
 

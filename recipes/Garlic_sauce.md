@@ -26,9 +26,9 @@ labels: [dairy, sauce]
 ## Ingredients
 
 - 30 garlic cloves, peeled
-- 1 tsp salt
-- 3 Tbsp fresh lemon juice
-- 2 cups canola oil or other neutral oil
+- 5ml salt
+- 45ml fresh lemon juice
+- 480ml canola oil or other neutral oil
 
 ## Instructions
 

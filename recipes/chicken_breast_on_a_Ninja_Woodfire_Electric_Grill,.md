@@ -37,12 +37,12 @@ labels: [meat, sauce, spice, vegetables]
 
 ## Instructions
 
-1. Turn on your Ninja Woodfire Grill and set it to the Grill setting, preheating to about 400°F (205°C).
+1. Turn on your Ninja Woodfire Grill and set it to the Grill setting, preheating to about 204°C (205°C).
 2. Pound the chicken breasts to an even thickness if they are thick for even cooking.
 3. Lightly coat the chicken breasts with olive oil to prevent sticking and add moisture.
 4. Season both sides of the chicken with salt, pepper, or your preferred seasoning blend, and let it sit for at least 30 minutes (or overnight in the fridge) if using a marinade.
 5. Once the grill is preheated, place the chicken breasts on the grill grates.
 6. Cook for about 6 to 8 minutes on each side, avoiding pressing down on the chicken while it cooks.
-7. Use a meat thermometer to ensure the internal temperature reaches 165°F (75°C).
+7. Use a meat thermometer to ensure the internal temperature reaches 74°C (75°C).
 8. Remove the chicken from the grill and let it rest for 5 minutes to allow the juices to redistribute throughout the meat.
 9. Slice and serve the chicken breast with your favorite sides or use it in salads, sandwiches, or other dishes.

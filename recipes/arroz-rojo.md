@@ -32,19 +32,19 @@ labels: [soup, spice, vegetables]
 ## Ingredients
 
 - 200g long-grain rice
-- 2 tablespoons olive oil
+- 30ml olive oil
 - 1 medium onion
 - 4 cloves of garlic
 - 1 large carrot
 - 1 red bell pepper
 - 4 tomatoes
-- 1 cup peas
+- 240ml peas
 - 2 red chilies
 - 250ml vegetable broth
-- 1/2 teaspoon salt
-- 1/2 teaspoon pepper
-- 1/2 teaspoon cumin
-- 1 teaspoon chili powder
+- 2ml salt
+- 2ml pepper
+- 2ml cumin
+- 5ml chili powder
 
 ## Instructions
 

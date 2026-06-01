@@ -43,12 +43,12 @@ labels: [dairy, cake, candy, soup, drinks]
 - 230 grams chocolate (half semi sweet and half dark)
 - 170 grams butter
 - 200 grams sugar (half white and half brown)
-- 1 tsp salt
+- 5ml salt
 - 3 large eggs
 - 90 grams all purpose flour
 - Vanilla extract (optional)
 - 30 grams Dutch processed cocoa powder
-- 1 tsp espresso powder
+- 5ml espresso powder
 - 100 grams chocolate chips
 
 ## Instructions

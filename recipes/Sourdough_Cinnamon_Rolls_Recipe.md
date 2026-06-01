@@ -48,21 +48,21 @@ labels: [dairy, bread, cake, fermentation]
 
 ## Ingredients
 
-- 8 tablespoons (113 g) butter cold
-- 2 ½ cups (300 g) all-purpose flour
-- ⅓ cup (100 g) sourdough starter discard
-- 1 cup (240 g) buttermilk
-- 1 tablespoon + 1 teaspoon (25 g) honey or granulated sugar
-- ¾ teaspoon (4 g) fine sea salt
-- 1 teaspoon baking powder
-- ½ teaspoon baking soda
-- ¾ cup (150 g) light brown sugar
-- 2 teaspoons ground cinnamon
-- 4 tablespoons (56 g) butter melted
-- 1 tablespoon (14 g) butter melted
-- 1 cup (120 g) powdered sugar
-- 1 teaspoon (5 g) vanilla extract
-- 2 tablespoons (30 g) milk
+- 120ml (113 g) butter cold
+- 600ml (300 g) all-purpose flour
+- 80ml (100 g) sourdough starter discard
+- 240ml (240 g) buttermilk
+- 15ml + 5ml (25 g) honey or granulated sugar
+- 4ml (4 g) fine sea salt
+- 5ml baking powder
+- 2ml baking soda
+- 180ml (150 g) light brown sugar
+- 10ml ground cinnamon
+- 60ml (56 g) butter melted
+- 15ml (14 g) butter melted
+- 240ml (120 g) powdered sugar
+- 5ml (5 g) vanilla extract
+- 30ml (30 g) milk
 
 ## Instructions
 
@@ -70,7 +70,7 @@ labels: [dairy, bread, cake, fermentation]
 2. Add the sourdough starter discard, buttermilk, honey and salt. Mix with a spatula until the ingredients are well incorporated.
 3. Cover the bowl and let rest on the counter for 10-12 hours. Do not add the baking soda or baking powder yet.
 4. Mix the brown sugar and cinnamon in a small bowl, set aside. In a separate bowl, mix the glaze ingredients and set aside.
-5. Preheat oven to 375°F (190°C) and butter a 12" cast iron skillet.
+5. Preheat oven to 191°C (190°C) and butter a 12" cast iron skillet.
 6. Mix the baking powder and baking soda in a small bowl with a fork until there are no visible lumps. Sprinkle the mixture on top of the dough and mix it in with your hands.
 7. Generously flour your work surface and turn the dough onto it. Flour the top of the dough.
 8. Use a rolling pin to roll the dough into a 12" x 24" rectangle.

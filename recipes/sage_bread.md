@@ -52,7 +52,7 @@ labels: [dairy, bread, cake]
 2. Crack eggs into a bowl and add dry ingredients (sugar, flour, baking powder, and salt), making sure to mix flour and baking powder together.
 3. Add milk to the egg mixture.
 4. Add the butter and sage mixture and mix until well blended.
-5. Add batter to a greased loaf pan and bake at 350°F for 50-60 minutes until a toothpick or knife comes out clean.
+5. Add batter to a greased loaf pan and bake at 177°C for 50-60 minutes until a toothpick or knife comes out clean.
 6. Let the bread cool completely as it is delicate and will fall apart if not cooled properly.
 7. Cut cooled bread into 1-1.5 inch slices.
 8. Melt butter in a non-stick pan and thoroughly coat each slice on both sides with butter.

@@ -45,7 +45,7 @@ labels: [bread, drinks, fermentation]
 - 450g Demerara brown sugar
 - 75g lactose (optional)
 - 15 mL vanilla extract
-- 75 mL active ginger bug (for every 2L) or 2 tsp beer yeast
+- 75 mL active ginger bug (for every 2L) or 10ml beer yeast
 
 ## Instructions
 

@@ -34,8 +34,8 @@ labels: [meat]
 
 ## Ingredients
 
-- 1 whole chicken, 3-4 pounds
-- 2 tablespoons Montreal Chicken Seasoning or your favorite chicken rub
+- 1 whole chicken, 3-1.8kg
+- 30ml Montreal Chicken Seasoning or your favorite chicken rub
 - Wood pellets (apple, cherry, or pecan recommended)
 
 ## Instructions
@@ -49,6 +49,6 @@ labels: [meat]
 7. Place the chicken on the grill skin-side down and cook for 5 to 6 minutes to sear the skin.
 8. Flip the chicken over and reduce the heat to low.
 9. Continue cooking the chicken cut-side down for 15 to 20 minutes.
-10. Flip the chicken back to skin-side down and continue cooking until the internal temperature reaches 160°F.
+10. Flip the chicken back to skin-side down and continue cooking until the internal temperature reaches 71°C.
 11. Remove the chicken from the grill and let it rest for a few minutes so the juices can redistribute.
 12. Carve and serve.

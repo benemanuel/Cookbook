@@ -45,6 +45,6 @@ Facebook
 
 Twitter
 
-[WhatsApp](https://wa.me/?text=I%20am%20pleased%20to%20share%20this%20recipe%20with%20you%3A%20https%3A%2F%2Fwww.jewishfoodsociety.org%2Frecipes%2Fmasapan-marzipan)
+[WhatsApp](https://wa.me/?text=I%20am%20pleased%20to%20share%20this%20recipe%20with%20you%3A%20https%3A%-17°C%2Fwww.jewishfoodsociety.org%2Frecipes%2Fmasapan-marzipan)
 
 Print

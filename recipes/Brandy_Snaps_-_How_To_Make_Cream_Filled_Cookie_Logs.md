@@ -34,18 +34,18 @@ labels: [dairy, drinks]
 
 ## Ingredients
 
-- 1 cup butter
-- 1 cup granulated sugar
-- 2/3 cup dark molasses
-- 1 teaspoon cinnamon
-- 1/2 teaspoon ginger
-- 2 cups all-purpose flour
-- 4 teaspoons brandy
+- 240ml butter
+- 240ml granulated sugar
+- 160ml dark molasses
+- 5ml cinnamon
+- 2ml ginger
+- 480ml all-purpose flour
+- 20ml brandy
 - Heavy whipping cream (optional)
 
 ## Instructions
 
-1. Preheat oven to 325°F.
+1. Preheat oven to 163°C.
 2. Stir butter, sugar, molasses, cinnamon, and ginger together over low heat until melted.
 3. Remove from heat and add flour and brandy, then chill the dough until firm enough to shape, about 20 minutes.
 4. Roll dough into 3/4-inch balls and place on a baking sheet, leaving room for them to spread.

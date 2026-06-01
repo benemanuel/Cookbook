@@ -35,22 +35,22 @@ labels: [meat, dairy, soup, vegetables]
 
 ## Ingredients
 
-- 8 ounces fresh mushrooms
-- 2 tablespoons chopped onions
+- 227g fresh mushrooms
+- 30ml chopped onions
 - 1 to 2 minced garlic cloves
-- 2 tablespoons butter
-- 2 to 3 tablespoons flour, separated
-- 2 cups chicken broth
-- 1 cup light cream or 1 cup evaporated milk
-- 1/2 teaspoon salt
-- 1/4 teaspoon pepper
-- 1/4 teaspoon nutmeg
+- 30ml butter
+- 2 to 45ml flour, separated
+- 480ml chicken broth
+- 240ml light cream or 240ml evaporated milk
+- 2ml salt
+- 1ml pepper
+- 1ml nutmeg
 
 ## Instructions
 
 1. Cut the mushrooms into slices.
 2. Melt butter in a large frying pan and add the onions, garlic, and mushrooms, then cook until the onions are soft.
-3. Blend in 2 tablespoons of flour and stir.
+3. Blend in 30ml of flour and stir.
 4. Add the chicken broth and heat until slightly thickened while stirring frequently.
-5. Stir cream with an additional 1 tablespoon of flour and seasonings, then add the cream to the soup and heat to thicken while stirring frequently.
+5. Stir cream with an additional 15ml of flour and seasonings, then add the cream to the soup and heat to thicken while stirring frequently.
 6. Serve and enjoy.

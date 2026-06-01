@@ -31,12 +31,12 @@ labels: [dairy, cake]
 
 - 62.5 grams all-purpose flour
 - 30 grams sugar
-- 1/4 tsp baking powder
+- 1ml baking powder
 - dash of salt
 - 30 grams butter, melted
 - 45 grams milk
-- 1/2 tsp vanilla extract
-- 1 tsp sprinkles
+- 2ml vanilla extract
+- 5ml sprinkles
 
 ## Instructions
 

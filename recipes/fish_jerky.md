@@ -18,24 +18,24 @@ Homemade Jerk Seasoning Rub Spice Mix Recipe\- Easy, Frugal, Vegan and Paleo
 
 ## Ingredients
 
-2 tablespoons onion flakes
+30ml onion flakes
 
-1 tablespoon thyme
+15ml thyme
 
-1/2 tablespoon cinnamon
+8ml cinnamon
 
 1 heaping tablespoon all spice berries
 
-1 tablespoon dried ginger
+15ml dried ginger
 
-1 tablespoon smoked paprika
+15ml smoked paprika
 
-1 1/2 tablespoon garlic powder
+22ml garlic powder
 
-1/2 tablespoon nutmeg
+8ml nutmeg
 
 1/2\-3/4 teaspoom hot pepper flakes or to taste
 
-1/2 tablespoon salt
+8ml salt
 
 ## Instructions

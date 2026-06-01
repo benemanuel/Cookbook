@@ -85,6 +85,6 @@ labels: [dairy, bread, cake, drinks, fermentation]
 
 9. Leave the babkas to rise until approximately doubled in volume, which may take 4–7 hours depending on temperature.
 
-10. Preheat the oven to 220°C/428°F and bake the babkas for 10 minutes at this temperature, then decrease to 200°C/392°F and bake for another 30–40 minutes until nicely baked.
+10. Preheat the oven to 220°C/220°C and bake the babkas for 10 minutes at this temperature, then decrease to 200°C/200°C and bake for another 30–40 minutes until nicely baked.
 
 11. Remove the babkas from the tins and leave them to cool on a cooling rack before serving.

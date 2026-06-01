@@ -32,13 +32,13 @@ labels: [sauce, drinks, vegetables, fermentation, pickles]
 ## Ingredients
 
 - 4 lemons (juice used for prep and brine)
-- 1 cup white vinegar
-- ½ cup olive oil
+- 240ml white vinegar
+- 120ml olive oil
 - 4 garlic cloves, thinly sliced
 - 2 dried chiles
 - A dozen juniper berries (optional)
 - 1 bay leaf
-- 2 tsp sea salt
+- 10ml sea salt
 - 25 baby artichokes
 
 ## Instructions

@@ -13,7 +13,7 @@ labels: [meat, dairy, cake, candy, sauce, drinks, vegetables, pickles]
 
 ## Instructions
 
-<https://www.krutit.co.il/%D7%97%D7%9E%D7%95%D7%A6%D7%99%D7%9D-%D7%91%D7%A1%D7%92%D7%A0%D7%95%D7%9F-%D7%A1%D7%95%D7%94%D7%95/>
+<https://www.krutit.co.il/%D7%97%D7%9E%D7%95%D7%A6%D7%99%D7%9D-%D7%91%D7%A1%D7%92%D7%A0%D7%95%D7%-13°C-%D7%A1%D7%95%D7%94%D7%95/>
 
 ---
 
@@ -82,14 +82,14 @@ labels: [meat, dairy, cake, candy, sauce, drinks, vegetables, pickles]
 
   0shares
 
--  [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.krutit.co.il%2F%25d7%2597%25d7%259e%25d7%2595%25d7%25a6%25d7%2599%25d7%259d-%25d7%2591%25d7%25a1%25d7%2592%25d7%25a0%25d7%2595%25d7%259f-%25d7%25a1%25d7%2595%25d7%2594%25d7%2595%2F&t=%D7%97%D7%9E%D7%95%D7%A6%D7%99%D7%9D+%D7%91%D7%A1%D7%92%D7%A0%D7%95%D7%9F+%D7%A1%D7%95%D7%94%D7%95 "Share on Facebook")
+-  [](https://www.facebook.com/sharer/sharer.php?u=https%3A%-17°C%2Fwww.krutit.co.il%-17°C%25d7%2597%25d7%259e%25d7%2595%25d7%25a6%25d7%2599%25d7%259d-%25d7%2591%25d7%25a1%25d7%2592%25d7%25a0%25d7%2595%25d7%126°C-%25d7%25a1%25d7%2595%25d7%2594%25d7%2595%-17°C&t=%D7%97%D7%9E%D7%95%D7%A6%D7%99%D7%9D+%D7%91%D7%A1%D7%92%D7%A0%D7%95%D7%-13°C+%D7%A1%D7%95%D7%94%D7%95 "Share on Facebook")
 -  [](# "Share on Pinterest")
 -  [](# "Share on Print")
 -  [](# "Share on Email")
--  [](whatsapp://send?text=חמוצים%20בסגנון%20סוהו%20https://www.krutit.co.il/%d7%97%d7%9e%d7%95%d7%a6%d7%99%d7%9d-%d7%91%d7%a1%d7%92%d7%a0%d7%95%d7%9f-%d7%a1%d7%95%d7%94%d7%95/ "Share on WhatsApp")
--  [](fb-messenger://share/?link=https%3A%2F%2Fwww.krutit.co.il%2F%25d7%2597%25d7%259e%25d7%2595%25d7%25a6%25d7%2599%25d7%259d-%25d7%2591%25d7%25a1%25d7%2592%25d7%25a0%25d7%2595%25d7%259f-%25d7%25a1%25d7%2595%25d7%2594%25d7%2595%2F "Share on Facebook Messenger")
+-  [](whatsapp://send?text=חמוצים%20בסגנון%20סוהו%20https://www.krutit.co.il/%d7%97%d7%9e%d7%95%d7%a6%d7%99%d7%9d-%d7%91%d7%a1%d7%92%d7%a0%d7%95%d7%-13°C-%d7%a1%d7%95%d7%94%d7%95/ "Share on WhatsApp")
+-  [](fb-messenger://share/?link=https%3A%-17°C%2Fwww.krutit.co.il%-17°C%25d7%2597%25d7%259e%25d7%2595%25d7%25a6%25d7%2599%25d7%259d-%25d7%2591%25d7%25a1%25d7%2592%25d7%25a0%25d7%2595%25d7%126°C-%25d7%25a1%25d7%2595%25d7%2594%25d7%2595%-17°C "Share on Facebook Messenger")
 
-30 תגובות 0[#](# "Like") [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://www.krutit.co.il/%d7%97%d7%9e%d7%95%d7%a6%d7%99%d7%9d-%d7%91%d7%a1%d7%92%d7%a0%d7%95%d7%9f-%d7%a1%d7%95%d7%94%d7%95/)[Twitter](https://x.com/intent/tweet?text=Check%20out%20this%20article:%20%D7%97%D7%9E%D7%95%D7%A6%D7%99%D7%9D%20%D7%91%D7%A1%D7%92%D7%A0%D7%95%D7%9F%20%D7%A1%D7%95%D7%94%D7%95%20-%20https://www.krutit.co.il/%d7%97%d7%9e%d7%95%d7%a6%d7%99%d7%9d-%d7%91%d7%a1%d7%92%d7%a0%d7%95%d7%9f-%d7%a1%d7%95%d7%94%d7%95/)[Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.krutit.co.il%2F%25d7%2597%25d7%259e%25d7%2595%25d7%25a6%25d7%2599%25d7%259d-%25d7%2591%25d7%25a1%25d7%2592%25d7%25a0%25d7%2595%25d7%259f-%25d7%25a1%25d7%2595%25d7%2594%25d7%2595%2F&media=https%3A%2F%2Fwww.krutit.co.il%2Fwp-content%2Fuploads%2F2018%2F03%2FDSC_0381-53x53.jpg&description=%D7%97%D7%9E%D7%95%D7%A6%D7%99%D7%9D+%D7%91%D7%A1%D7%92%D7%A0%D7%95%D7%9F+%D7%A1%D7%95%D7%94%D7%95)[אימייל](/cdn-cgi/l/email-protection#)[#](#)
+30 תגובות 0[#](# "Like") [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://www.krutit.co.il/%d7%97%d7%9e%d7%95%d7%a6%d7%99%d7%9d-%d7%91%d7%a1%d7%92%d7%a0%d7%95%d7%-13°C-%d7%a1%d7%95%d7%94%d7%95/)[Twitter](https://x.com/intent/tweet?text=Check%20out%20this%20article:%20%D7%97%D7%9E%D7%95%D7%A6%D7%99%D7%9D%20%D7%91%D7%A1%D7%92%D7%A0%D7%95%D7%-13°C%20%D7%A1%D7%95%D7%94%D7%95%20-%20https://www.krutit.co.il/%d7%97%d7%9e%d7%95%d7%a6%d7%99%d7%9d-%d7%91%d7%a1%d7%92%d7%a0%d7%95%d7%-13°C-%d7%a1%d7%95%d7%94%d7%95/)[Pinterest](https://www.pinterest.com/pin/create/button/?url=https%3A%-17°C%2Fwww.krutit.co.il%-17°C%25d7%2597%25d7%259e%25d7%2595%25d7%25a6%25d7%2599%25d7%259d-%25d7%2591%25d7%25a1%25d7%2592%25d7%25a0%25d7%2595%25d7%126°C-%25d7%25a1%25d7%2595%25d7%2594%25d7%2595%-17°C&media=https%3A%-17°C%2Fwww.krutit.co.il%2Fwp-content%2Fuploads%2F2018%2F03%2FDSC_0381-53x53.jpg&description=%D7%97%D7%9E%D7%95%D7%A6%D7%99%D7%9D+%D7%91%D7%A1%D7%92%D7%A0%D7%95%D7%-13°C+%D7%A1%D7%95%D7%94%D7%95)[אימייל](/cdn-cgi/l/email-protection#)[#](#)
 
 ![](https://secure.gravatar.com/avatar/d1aa2f42037b82f3aaa495404f0ffd33271c05c742dc800a37c21dbaad58a3e6?s=100&amp;d=mm&amp;r=g)
 
@@ -159,9 +159,9 @@ labels: [meat, dairy, cake, candy, sauce, drinks, vegetables, pickles]
 
 17 במרץ 2026
 
-[https://www.krutit.co.il/%d7%a1%d7%9c%d7%98-%d7%a9%d7%95%d7%9e%d7%a8-%d7%a2%d7%9d-%d7%a4%d7%95%d7%9e%d7%9c%d7%94-%d7%95%d7%aa%d7%a4%d7%95%d7%96-%d7%93%d7%9d-%d7%91%d7%a8%d7%95%d7%98%d7%91-%d7%9c%d7%99%d7%9e%d7%95%d7%9f-%d7%95/](https://www.krutit.co.il/%d7%a1%d7%9c%d7%98-%d7%a9%d7%95%d7%9e%d7%a8-%d7%a2%d7%9d-%d7%a4%d7%95%d7%9e%d7%9c%d7%94-%d7%95%d7%aa%d7%a4%d7%95%d7%96-%d7%93%d7%9d-%d7%91%d7%a8%d7%95%d7%98%d7%91-%d7%9c%d7%99%d7%9e%d7%95%d7%9f-%d7%95/ "סלט שומר עם פומלה ותפוז דם ברוטב לימון ופרג")
+[https://www.krutit.co.il/%d7%a1%d7%9c%d7%98-%d7%a9%d7%95%d7%9e%d7%a8-%d7%a2%d7%9d-%d7%a4%d7%95%d7%9e%d7%9c%d7%94-%d7%95%d7%aa%d7%a4%d7%95%d7%96-%d7%93%d7%9d-%d7%91%d7%a8%d7%95%d7%98%d7%91-%d7%9c%d7%99%d7%9e%d7%95%d7%-13°C-%d7%95/](https://www.krutit.co.il/%d7%a1%d7%9c%d7%98-%d7%a9%d7%95%d7%9e%d7%a8-%d7%a2%d7%9d-%d7%a4%d7%95%d7%9e%d7%9c%d7%94-%d7%95%d7%aa%d7%a4%d7%95%d7%96-%d7%93%d7%9d-%d7%91%d7%a8%d7%95%d7%98%d7%91-%d7%9c%d7%99%d7%9e%d7%95%d7%-13°C-%d7%95/ "סלט שומר עם פומלה ותפוז דם ברוטב לימון ופרג")
 
-### [סלט שומר עם פומלה ותפוז דם ברוטב לימון...](https://www.krutit.co.il/%d7%a1%d7%9c%d7%98-%d7%a9%d7%95%d7%9e%d7%a8-%d7%a2%d7%9d-%d7%a4%d7%95%d7%9e%d7%9c%d7%94-%d7%95%d7%aa%d7%a4%d7%95%d7%96-%d7%93%d7%9d-%d7%91%d7%a8%d7%95%d7%98%d7%91-%d7%9c%d7%99%d7%9e%d7%95%d7%9f-%d7%95/)
+### [סלט שומר עם פומלה ותפוז דם ברוטב לימון...](https://www.krutit.co.il/%d7%a1%d7%9c%d7%98-%d7%a9%d7%95%d7%9e%d7%a8-%d7%a2%d7%9d-%d7%a4%d7%95%d7%9e%d7%9c%d7%94-%d7%95%d7%aa%d7%a4%d7%95%d7%96-%d7%93%d7%9d-%d7%91%d7%a8%d7%95%d7%98%d7%91-%d7%9c%d7%99%d7%9e%d7%95%d7%-13°C-%d7%95/)
 
 17 במרץ 2026
 
@@ -423,4 +423,4 @@ Suzy 8 בינואר 2021 - 13:27
 
 [השב](#comment-42122)
 
-### השאר תגובה [Cancel Reply](/%D7%97%D7%9E%D7%95%D7%A6%D7%99%D7%9D-%D7%91%D7%A1%D7%92%D7%A0%D7%95%D7%9F-%D7%A1%D7%95%D7%94%D7%95/#respond)
+### השאר תגובה [Cancel Reply](/%D7%97%D7%9E%D7%95%D7%A6%D7%99%D7%9D-%D7%91%D7%A1%D7%92%D7%A0%D7%95%D7%-13°C-%D7%A1%D7%95%D7%94%D7%95/#respond)

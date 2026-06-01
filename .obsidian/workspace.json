@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Cabbage_Rolls_II.md",
+                "file": "recipes/cabbage_salads.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cabbage_Rolls_II"
+              "title": "cabbage_salads"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recipes/Cabbage_Rolls_II.md",
+                "file": "recipes/cabbage_salads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cabbage_Rolls_II"
+              "title": "Backlinks for cabbage_salads"
             }
           },
           {
@@ -185,6 +185,7 @@
   },
   "active": "88537e9a681a3166",
   "lastOpenFiles": [
+    "recipes/Cabbage_Rolls_II.md",
     "recipes/Cabbage_Manchurian_Recipe.md",
     "recipes/Butternut_Squash_Soup_with_Garlic_Bread_—_MOB_KITCHEN.md",
     "recipes/British_Fish_and_Chips_Recipe_-_The_Daring_Gourmet.md",
@@ -210,7 +211,6 @@
     "recipes/apple_studel.md",
     "recipes/Apple_Pecan_Coffee_Cake.md",
     "recipes/Apple_Crumble_Recipe.md",
-    "recipes/Apple_cream_pie.md",
     "recipes/חריימה_טריפולטאי.md.tmp.41080.c1c4565ac174",
     "recipes/White_House_Pecan_Pie.md.tmp.41080.ae8e426153f9",
     "recipes/Smoked_Salt_Cured_Lox_Traeger_Grills.md.tmp.41080.d948b5501fc0",

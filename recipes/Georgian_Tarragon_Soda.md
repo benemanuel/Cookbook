@@ -33,14 +33,14 @@ labels: [cake, soup, sauce, vegetables]
 
 ## Ingredients
 
-- ¾ cup sugar
-- ½ cup water
+- 180ml sugar
+- 120ml water
 - 1 bunch fresh tarragon
-- 1 tsp aniseed or fennel seeds
-- 1 Tbsp lemon zest
-- ⅛ tsp baking soda
+- 5ml aniseed or fennel seeds
+- 15ml lemon zest
+- 1ml baking soda
 - Pinch kosher salt
-- ¼ cup fresh lemon juice
+- 60ml fresh lemon juice
 - Seltzer water, to serve
 
 ## Instructions
@@ -50,5 +50,5 @@ labels: [cake, soup, sauce, vegetables]
 3. Remove from heat and let steep for 15–20 minutes.
 4. Strain out solids and let syrup cool completely.
 5. Stir baking soda, salt, and lemon juice into the cooled syrup.
-6. Fill a glass with ice, add 2–3 Tbsp syrup, and top with seltzer water.
+6. Fill a glass with ice, add 2–45ml syrup, and top with seltzer water.
 7. Stir gently before serving.

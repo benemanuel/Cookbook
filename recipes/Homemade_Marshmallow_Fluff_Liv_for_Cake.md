@@ -35,12 +35,12 @@ labels: [dairy, cake, candy, sauce, vegetables, pickles]
 
 ## Ingredients
 
-- 1/3 cup water
-- 3/4 cup granulated sugar
-- 3/4 cup corn syrup  (or honey)
+- 80ml water
+- 180ml granulated sugar
+- 180ml corn syrup  (or honey)
 - 3 large egg whites (room temperature)
-- 1/2 tsp cream of tartar
-- 1 tsp vanilla extract
+- 2ml cream of tartar
+- 5ml vanilla extract
 
 ## Instructions
 

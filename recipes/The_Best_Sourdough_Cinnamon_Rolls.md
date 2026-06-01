@@ -52,12 +52,12 @@ labels: [dairy, cake]
 - 200 g cream cheese full fat
 - 50 g unsalted butter softened
 - 200 g powdered sugar sifted
-- 1/2 tsp vanilla extract
+- 2ml vanilla extract
 - 1 pinch salt
 
 ### Egg Wash
 - 1 egg
-- 1 tbsp water
+- 15ml water
 
 ## Instructions
 

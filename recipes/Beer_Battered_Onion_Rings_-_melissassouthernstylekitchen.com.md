@@ -40,7 +40,7 @@ labels: [fish, dairy, sauce, drinks, spice, vegetables, fermentation]
 ## Ingredients
 
 - Sweet onions such as Vidalia onions, sliced into 1/2-inch thick rings
-- One 12 ounce bottle or can of beer (lager or stout)
+- One 340g bottle or can of beer (lager or stout)
 - All purpose flour
 - Buttermilk
 - Hot sauce

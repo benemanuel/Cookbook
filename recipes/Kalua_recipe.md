@@ -32,12 +32,12 @@ labels: [drinks]
 
 ## Ingredients
 
-- 1/2 cup medium-roast coffee beans
-- 1 1/2 teaspoons cacao nibs
+- 120ml medium-roast coffee beans
+- 8ml cacao nibs
 - 1/4 vanilla bean, halved lengthwise
-- 8 ounces vodka
-- 4 ounces brandy
-- 4 ounces simple syrup
+- 227g vodka
+- 113g brandy
+- 113g simple syrup
 
 ## Instructions
 

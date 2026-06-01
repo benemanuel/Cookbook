@@ -102,7 +102,7 @@ labels: [dairy, sauce, drinks, vegetables, pickles]
 10. Combine 75g Worcestershire sauce and 150g water in a small bowl and mix.
 11. Fill 1.25" cube ice molds with the mixture and freeze until solid.
 12. Reserve the Worcestershire ice cubes in freezer.
-13. Preheat oven to 500°F.
+13. Preheat oven to 260°C.
 14. Halve 1000g heirloom tomatoes and place on a sheet tray with a silicone baking mat.
 15. Roast in oven for 30 minutes and let cool completely.
 16. Transfer 700g roasted tomatoes to blender.

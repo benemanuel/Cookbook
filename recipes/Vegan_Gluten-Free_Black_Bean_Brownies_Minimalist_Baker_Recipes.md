@@ -42,21 +42,21 @@ labels: [cake]
 ## Ingredients
 
 - 2 heaping Tbsp flaxseed meal
-- 6 Tbsp water
-- 1 15-oz. can black beans ((well rinsed and drained // 1 can yields ~ 1 3/4 cups))
-- 3 Tbsp coconut oil ((melted // or sub other oil of choice))
-- 3/4 cup cocoa powder
-- 1/4 tsp sea salt
-- 1 tsp pure vanilla extract
+- 90ml water
+- 1 15-oz. can black beans ((well rinsed and drained // 1 can yields ~ 420ml))
+- 45ml coconut oil ((melted // or sub other oil of choice))
+- 180ml cocoa powder
+- 1ml sea salt
+- 5ml pure vanilla extract
 - 1/2 heaping cup organic cane sugar ((slightly ground or pulsed in a food processor or coffee grinder for refined texture))
-- 1 1/2 tsp baking powder
+- 8ml baking powder
 - Crushed walnuts
 - Pecans
 - Dairy-free semisweet chocolate chips
 
 ## Instructions
 
-1. Preheat oven to 350 degrees F (176 C).
+1. Preheat oven to 177°C (176 C).
 2. Lightly grease a 12-slot standard size muffin pan (not mini // adjust pan size if altering batch size). Make sure you've rinsed and thoroughly drained your black beans at this point.
 3. Prepare flax egg by combining flax and water in the bowl of the food processor. Pulse a couple times and then let rest for a few minutes.
 4. Add remaining ingredients (besides walnuts or other toppings) and puree - about 3 minutes - scraping down sides as needed. You want it pretty smooth.

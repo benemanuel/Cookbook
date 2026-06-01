@@ -39,19 +39,19 @@ labels: [dairy, soup, sauce, vegetables]
 
 ## Ingredients
 
-- 4 tablespoons butter
-- 3 tablespoons flour
-- 2 cups milk (low-fat is OK)
-- ½ teaspoon smoked paprika
-- ½ teaspoon garlic powder
-- 1 teaspoon hot sauce (optional)
-- 1 teaspoon yellow mustard, or ½ teaspoon mustard powder
+- 60ml butter
+- 45ml flour
+- 480ml milk (low-fat is OK)
+- 2ml smoked paprika
+- 2ml garlic powder
+- 5ml hot sauce (optional)
+- 5ml yellow mustard, or 2ml mustard powder
 - Ground black pepper to taste
 - Salt to taste
 - 2¼ cups water
-- ½ pound elbow macaroni, uncooked
-- 2 cups (½ pound) shredded cheddar cheese
-- ¾ cup (3 ounces) shredded mozzarella cheese
+- 227g elbow macaroni, uncooked
+- 480ml (227g) shredded cheddar cheese
+- 180ml (85g) shredded mozzarella cheese
 
 ## Instructions
 

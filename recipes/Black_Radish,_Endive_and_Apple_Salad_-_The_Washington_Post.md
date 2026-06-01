@@ -21,7 +21,7 @@ ingredients:
   - 8 to 10 small black radishes, sliced very thin on a mandoline (may substitute 4 tender young turnips)
   - "Leaves from 0.5 bunches flat-leaf parsley, torn"
 steps: null
-labels: [drinks, vegetables, pickles]
+labels: [sauce, drinks, vegetables, pickles]
 ---
 
 # Black Radish, Endive and Apple Salad
@@ -30,12 +30,12 @@ labels: [drinks, vegetables, pickles]
 
 ## Ingredients
 
-- 1.33 cups apple cider vinegar
-- 0.25 cups  honey
-- 6 tablespoons fresh lemon juice (from 2 lemons)
+- 319ml apple cider vinegar
+- 60ml  honey
+- 90ml fresh lemon juice (from 2 lemons)
 - 2 3-inch cinnamon sticks
-- 6 tablespoons olive oil
-- 0.75 teaspoons coarse sea salt
+- 90ml olive oil
+- 4ml coarse sea salt
 - freshly ground black pepper
 - 3 or 4 small Cox or Pink Lady apples
 - 8 Belgian endive (trimmed and cored), leaves separated
@@ -44,7 +44,7 @@ labels: [drinks, vegetables, pickles]
 
 ## Instructions
 Step 1
-Combine the vinegar, honey, lemon juice and cinnamon sticks in a small saucepan over medium-high heat. Once the mixture comes to a boil, cook for 10 to 15 minutes, stirring occasionally, until it has reduced to a syrupy 6 to 7 tablespoons. Remove from the heat; let cool completely, then discard the cinnamon sticks.
+Combine the vinegar, honey, lemon juice and cinnamon sticks in a small saucepan over medium-high heat. Once the mixture comes to a boil, cook for 10 to 15 minutes, stirring occasionally, until it has reduced to a syrupy 6 to 105ml. Remove from the heat; let cool completely, then discard the cinnamon sticks.
 
 Step 2
 Whisk in the oil, along with the salt and a good pinch of pepper.

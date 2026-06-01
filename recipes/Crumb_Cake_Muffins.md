@@ -52,27 +52,27 @@ labels: [dairy, cake, drinks]
 
 ## Ingredients
 
-- 3 ¾ cups all purpose flour
-- 1 ¾ cups granulated sugar
-- 3 tsp baking powder
-- 1 tsp salt
-- 1 tsp cinnamon
-- ¼ tsp nutmeg
+- 900ml all purpose flour
+- 420ml granulated sugar
+- 15ml baking powder
+- 5ml salt
+- 5ml cinnamon
+- 1ml nutmeg
 - 2 large eggs
-- 1 ¼ cups buttermilk
-- ½ cup vegetable oil
-- 2 tsp vanilla extract
-- 3 Tbsp unsalted butter, melted
-- ⅓ cup brown sugar
-- 1 ½ tsp cinnamon
-- ¾ cup all purpose flour
-- ⅓ cup brown sugar
-- 1 tsp cinnamon
-- ¼ tsp salt
-- ¼ cup unsalted butter, melted
-- ¼ cup powdered sugar
-- ½ tsp vanilla extract
-- 1 tsp milk
+- 300ml buttermilk
+- 120ml vegetable oil
+- 10ml vanilla extract
+- 45ml unsalted butter, melted
+- 80ml brown sugar
+- 8ml cinnamon
+- 180ml all purpose flour
+- 80ml brown sugar
+- 5ml cinnamon
+- 1ml salt
+- 60ml unsalted butter, melted
+- 60ml powdered sugar
+- 2ml vanilla extract
+- 5ml milk
 
 ## Instructions
 
@@ -83,7 +83,7 @@ labels: [dairy, cake, drinks]
 5. Cover the bowl with a towel and allow the batter to rest for 15 minutes while preheating the oven to 425ºF.
 6. During the 15 minute rest, make the crumb topping by combining the flour, brown sugar, cinnamon, salt and melted butter in a mixing bowl, stirring well with a spatula and using your hands to squeeze clumps together until the mixture looks wet and sandy in texture.
 7. Line a 12 count muffin pan with 6 muffin liners in every other well to allow the muffins to spread and dome without running into each other.
-8. Fill the liners with 2 tablespoons of batter, drop 1 teaspoon of the cinnamon sugar mixture in the center of each muffin and spread with your fingers, then add 4-6 tablespoons of batter to cover the cinnamon sugar.
+8. Fill the liners with 30ml of batter, drop 5ml of the cinnamon sugar mixture in the center of each muffin and spread with your fingers, then add 4-90ml of batter to cover the cinnamon sugar.
 9. Crumble the crumb topping into fine crumbs over each muffin and press it on slightly, optionally sprinkling with sanding sugar.
 10. Place the pan in the center of the oven and bake for 7 minutes at 425ºF, then reduce the temperature to 350ºF and bake for 16-20 minutes until a toothpick inserted in the center comes out clean.
 11. Allow the muffins to cool in the pan for 15 minutes before removing, then repeat with the remaining batter.

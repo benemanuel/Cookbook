@@ -38,11 +38,11 @@ labels: [dairy, soup, vegetables, fermentation]
 - 4–5 green onions, sliced
 - Bunch of fresh dill, chopped
 - 1 liter kefir or buttermilk
-- 1 Tbsp horseradish or mustard
+- 15ml horseradish or mustard
 - Salt and pepper, to taste
 - 2–4 hard-boiled eggs, halved
 - Cold boiled water, to thin as needed
-- 2 Tbsp lemon juice
+- 30ml lemon juice
 - 100g sour cream
 
 ## Instructions

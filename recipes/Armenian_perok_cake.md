@@ -40,20 +40,20 @@ labels: [dairy, cake, pickles]
 ## Ingredients
 
 - 250g unsalted softened butter
-- 1 cup caster sugar
+- 240ml caster sugar
 - 1 whole egg
 - 2 egg yolks
-- 1 tsp vanilla
-- 1 cup sour cream or natural Greek yogurt
-- 3 cups flour, sifted
-- 2 tsp baking powder
-- 1/2 tsp salt
-- 1 cup jam (strawberry or any flavour)
+- 5ml vanilla
+- 240ml sour cream or natural Greek yogurt
+- 720ml flour, sifted
+- 10ml baking powder
+- 2ml salt
+- 240ml jam (strawberry or any flavour)
 - 1 shot of ouzo, optional
 
 ## Instructions
 
-1. Preheat oven to 175°C (350°F).
+1. Preheat oven to 175°C (177°C).
 2. Cream together the butter and sugar until fluffy and delightful.
 3. Mix in the egg, egg yolks, vanilla, and yogurt or sour cream.
 4. Sift in the flour, baking powder, and salt, then fold it all together.

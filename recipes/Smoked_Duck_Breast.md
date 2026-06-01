@@ -32,7 +32,7 @@ labels: [meat]
 - 2 duck breasts
 - 60 g salt
 - 20 g brown sugar
-- 1.5 tbsp molasses
+- 22ml molasses
 
 ## Instructions
 

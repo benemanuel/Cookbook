@@ -30,9 +30,9 @@ labels: [drinks, fermentation]
 
 ## Ingredients
 
-- 1 1/2 cups cranberry juice
+- 360ml cranberry juice
 - 1 (12-ounce) bottle ginger beer
-- 1/2 cup freshly squeezed lemon juice, from 2 to 3 lemons
+- 120ml freshly squeezed lemon juice, from 2 to 3 lemons
 - 2 (12-ounce) bottles pale ale or wheat beer
 - Ginger sugar, for optional rim
 - Lemon wedges, for garnish

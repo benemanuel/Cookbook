@@ -28,10 +28,10 @@ labels: [meat, drinks, spice, vegetables]
 
 ## Ingredients
 
-- 1 pound ground meat (pork, beef, veal, chicken, turkey or a combination)
-- ½ cup panko bread crumbs
+- 454g ground meat (pork, beef, veal, chicken, turkey or a combination)
+- 120ml panko bread crumbs
 - 1 egg
-- 1 teaspoon kosher salt, more as needed
+- 5ml kosher salt, more as needed
 - Black pepper and/or ground cumin, curry powder, chile flakes, garam masala, etc., to taste
 - Minced garlic, onion, scallions or shallot
 - Chopped parsley, basil or cilantro

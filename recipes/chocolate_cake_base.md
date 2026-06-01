@@ -53,7 +53,7 @@ labels: [dairy, cake, drinks]
 
 ## Instructions
 
-1. Preheat the oven to 350°F and line three 8-inch round cake pans with parchment paper and grease with butter or nonstick cooking spray.
+1. Preheat the oven to 177°C and line three 8-inch round cake pans with parchment paper and grease with butter or nonstick cooking spray.
 2. In a medium bowl, stir together the boiling water, espresso powder, and semi-sweet chocolate until the chocolate has dissolved and the mixture is smooth, then set aside to cool.
 3. In a large mixing bowl, whisk together the flour, cocoa powder, sugar, baking soda, baking powder, and salt until combined.
 4. In another bowl, whisk together the eggs, buttermilk, vegetable oil, and vanilla, then pour the wet ingredients into the dry ingredients and stir until smooth.

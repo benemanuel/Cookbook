@@ -31,11 +31,11 @@ labels: [dairy, drinks]
 ## Ingredients
 
 - 4 large eggs
-- 4.5 oz (135g) granulated sugar
-- 12 oz (360ml) whole milk
-- 8 oz (240ml) heavy whipping cream
-- 5 oz (150ml) añejo tequila
-- 7 oz (210ml) amontillado sherry
+- 128g (135g) granulated sugar
+- 340g (360ml) whole milk
+- 227g (240ml) heavy whipping cream
+- 142g (150ml) añejo tequila
+- 198g (210ml) amontillado sherry
 - Freshly-grated nutmeg
 
 ## Instructions

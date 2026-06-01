@@ -49,9 +49,9 @@ labels: [pickles]
 
 - 2 kilos (about 50) big, fresh green walnuts
 - Pickling lime and water to cover them (1 heaped tablespoon lime for every litre of water)
-- 1 cup lemon juice, divided (reserve 1/4 cup lemon to add at the end)
+- 240ml lemon juice, divided (reserve 60ml lemon to add at the end)
 - 1 kilo sugar
-- 5 cups water
+- 1200ml water
 - 1 piece of cinnamon stick
 - 6-7 cloves
 - 2-3 fragrant geranium leaves (optional)

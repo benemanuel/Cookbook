@@ -39,7 +39,7 @@ labels: [meat, soup, drinks, vegetables, pickles]
 - 2 medium carrots
 - 3 celery stalks
 - 2 medium onions
-- 2 tablespoons apple cider vinegar
+- 30ml apple cider vinegar
 - 1 bay leaf
 - 2.5 kg water
 

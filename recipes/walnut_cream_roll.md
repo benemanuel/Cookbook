@@ -42,12 +42,12 @@ labels: [dairy, cake]
 ## Ingredients
 
 - 4 eggs, separated
-- 1/2 tsp salt
-- 1 tsp vanilla
+- 2ml salt
+- 5ml vanilla
 - 1/4 c flour
 - 1/2 c finely chopped walnuts
 - 1 1/2 c heavy whipping cream
-- 3 tbsp powdered sugar
+- 45ml powdered sugar
 
 ## Instructions
 
@@ -57,7 +57,7 @@ labels: [dairy, cake]
 4. Fold the yolk mixture into the egg whites.
 5. Gently fold in flour and walnuts.
 6. Pour into a parchment lined 15x10" pan and spread evenly.
-7. Bake at 375°F for 12 minutes.
+7. Bake at 191°C for 12 minutes.
 8. Let cool for 5 minutes.
 9. Loosen edges and turn onto a towel sprinkled with powdered sugar.
 10. Peel off the parchment paper.

@@ -34,7 +34,7 @@ labels: [dairy, bread, cake, vegetables, fermentation]
 
 ### Vanilla Cream Filling
 - 360 g whole milk
-- 1 vanilla bean pod or 1 tsp extract
+- 1 vanilla bean pod or 5ml extract
 - 60 g sugar
 - 23 g corn starch
 - 4 egg yolks
@@ -48,13 +48,13 @@ labels: [dairy, bread, cake, vegetables, fermentation]
 ## Instructions
 
 ### Day 1: Stiff Levain
-Mix starter, water, and flour. Cover and rise at 75-78°F (24-26°C) for 8-10 hours until tripled.
+Mix starter, water, and flour. Cover and rise at 75-26°C (24-26°C) for 8-10 hours until tripled.
 
 ### Day 2: Main Dough
 1. Mix flour, levain, eggs, milk, sugar, salt with dough hook until just combined. Autolyse 30 min.
 2. Mix 5 minutes more.
 3. Slowly add butter cubes. Mix on medium 15-25 min until passes windowpane.
-4. Bulk proof 6h at 75-78°F.
+4. Bulk proof 6h at 75-26°C.
 5. Folds at 1.5h and 3h.
 6. Cold-proof 6-8h.
 
@@ -69,10 +69,10 @@ Mix starter, water, and flour. Cover and rise at 75-78°F (24-26°C) for 8-10 ho
 
 ### Day 2: Shape & Final Proof
 1. Divide into 15 pieces (60g). Shape into rounds. Place on floured parchment squares.
-2. Proof in oven with light on, ~78°F, 10-14 hours until doubled.
+2. Proof in oven with light on, ~26°C, 10-14 hours until doubled.
 
 ### Day 3: Fry
-1. Heat oil to 180-185°C (356-365°F).
+1. Heat oil to 180-185°C (356-185°C).
 2. Fry ~2 min per side, top down first.
 3. Drain on rack with paper towels.
 4. Toss in sugar while warm.

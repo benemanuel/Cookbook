@@ -73,8 +73,8 @@ labels: [dairy, bread, drinks]
 - 4 small mandarins for mandarin paste
 - 110 grams sugar for mandarin paste
 - 335 grams raisins for soaking
-- 1 cup rum
-- 1 cup water for soaking
+- 240ml rum
+- 240ml water for soaking
 - Peel of 4 oranges for candied orange peels
 - 120 grams water for candied orange peels
 - 70 grams sugar for candied orange peels

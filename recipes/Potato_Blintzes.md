@@ -22,9 +22,9 @@ labels: [bread, dairy, vegetables]
 ## Ingredients
 
 - 3 large eggs, beaten
-- 2/3 to 1 1/2 cup water
-- 1/4 to 1 cup potato starch
-- 1 teaspoon sea salt or kosher salt
+- 2/3 to 360ml water
+- 1/4 to 240ml potato starch
+- 5ml sea salt or kosher salt
 
 ## Instructions
 

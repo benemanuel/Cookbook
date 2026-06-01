@@ -42,10 +42,10 @@ labels: [meat, soup, sauce, vegetables, fermentation, pickles]
 
 - 1 calves or beef tongue
 - 3 quarts water
-- 9 ounces brown sugar
-- 27 ounces coarse sea salt
-- 1 teaspoon black peppercorns
-- 1 teaspoon juniper berries
+- 255g brown sugar
+- 765g coarse sea salt
+- 5ml black peppercorns
+- 5ml juniper berries
 - 2 cloves
 - 1 bouquet garni
 - 1 carrot, chopped

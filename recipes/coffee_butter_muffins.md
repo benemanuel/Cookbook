@@ -64,7 +64,7 @@ labels: [dairy, cake, drinks]
 4. Pour the wet mixture into the dry bowl and mix with a hand blender or by hand until you have a thick but smooth batter.
 5. For the crumb topping, stir together flour, sugars, and cinnamon in a medium bowl, then add melted butter and stir with a fork until the mixture is crumbly and resembles wet sand.
 6. For the cinnamon swirl, combine sugar and cinnamon in a small bowl.
-7. Scoop 2 tablespoons of batter into each muffin cavity, place a teaspoon of cinnamon sugar mixture on top, swirl quickly, and top with more batter, filling the tin ¾ to the top.
+7. Scoop 30ml of batter into each muffin cavity, place a teaspoon of cinnamon sugar mixture on top, swirl quickly, and top with more batter, filling the tin ¾ to the top.
 8. Sprinkle about a heaping tablespoon of crumb topping on top of each muffin, covering the tops.
 9. Bake for 15-17 minutes until the crumbly tops are golden and a toothpick inserted in the middle comes out clean.
 10. Remove from oven and allow muffins to cool to room temperature in the pan, then transfer to a wire rack.

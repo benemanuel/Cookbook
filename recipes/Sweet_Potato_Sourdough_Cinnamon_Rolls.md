@@ -66,18 +66,18 @@ labels: [dairy, bread, cake, drinks, spice, vegetables, fermentation]
 **Filling**
 - 345 g butter
 - 270 g demerara sugar
-- 9 tsp pumpkin spice mix
-  - 3 tsp cinnamon
-  - 2 tsp nutmeg
-  - 2 tsp ginger
-  - 2 tsp cloves
+- 45ml pumpkin spice mix
+  - 15ml cinnamon
+  - 10ml nutmeg
+  - 10ml ginger
+  - 10ml cloves
 
 **Frosting**
 - 230 g cream cheese
 - 230 g mascarpone
 - 30 g butter
 - 60 g powdered sugar
-- 1 tsp vanilla
+- 5ml vanilla
 
 ## Instructions
 

@@ -37,7 +37,7 @@ labels: [drinks, vegetables]
 
 ## Ingredients
 
-- 3 tablespoons olive oil
+- 45ml olive oil
 - 1 whole piece of meat
 - 1 onion, quartered
 - 2 whole carrots
@@ -47,11 +47,11 @@ labels: [drinks, vegetables]
 - 1 bunch parsley, halved
 - 1 basket whole button mushrooms
 - 7 whole garlic cloves
-- 1 cup dry red wine
+- 240ml dry red wine
 - 2 bay leaves
-- 1 tablespoon coarse salt
-- 1/2 tablespoon ground black pepper
-- 1 cup water
+- 15ml coarse salt
+- 8ml ground black pepper
+- 240ml water
 - A few leaves of sage
 
 ## Instructions

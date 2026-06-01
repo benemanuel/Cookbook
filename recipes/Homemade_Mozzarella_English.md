@@ -35,9 +35,9 @@ labels: [dairy, bread, sauce]
 ## Ingredients
 
 - 4L fresh whole milk
-- 1 1/2 tsp citric acid
-- 1 tsp cheese salt
-- 1/2 tsp rennet
+- 8ml citric acid
+- 5ml cheese salt
+- 2ml rennet
 
 ## Instructions
 

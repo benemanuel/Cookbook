@@ -43,18 +43,18 @@ labels: [dairy, cake, drinks]
 ## Ingredients
 
 - 4 eggs, yolks and whites separated (at room temperature)
-- 3/4 cup (150g) sugar
-- 1 tsp vanilla extract
+- 180ml (150g) sugar
+- 5ml vanilla extract
 - 1 stick (125g) unsalted butter, melted
-- 3/4 cup (115g) plain all purpose flour
-- 2 cups (500 ml) milk, lukewarm (full fat or low fat but not zero fat)
+- 180ml (115g) plain all purpose flour
+- 480ml (500 ml) milk, lukewarm (full fat or low fat but not zero fat)
 - Icing sugar (powdered sugar), for dusting
 - Fresh strawberries, for serving
 - Whipped cream, for serving
 
 ## Instructions
 
-1. Preheat oven to 325F/160C.
+1. Preheat oven to 163°C/160C.
 2. Butter an 8" x 8" square cake tin.
 3. Beat egg whites with a mixer until stiff peaks form and set aside.
 4. Place the egg yolks and sugar in a bowl and beat until pale yellow, about 1 minute.

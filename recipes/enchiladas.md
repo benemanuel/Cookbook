@@ -40,7 +40,7 @@ labels: [dairy, sauce, vegetables]
 - 75g cheddar
 - 100g sour cream
 - 1 avocado
-- 1 tbsp lemon juice
+- 15ml lemon juice
 
 ## Instructions
 

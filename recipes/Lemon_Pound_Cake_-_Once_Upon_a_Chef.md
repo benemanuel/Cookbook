@@ -47,24 +47,24 @@ labels: [dairy, bread, cake, sauce, drinks]
 
 ## Ingredients
 
-- 3 cups all-purpose flour, spooned into measuring cup and leveled-off
-- 1/2 teaspoon baking soda
-- 1/2 teaspoon salt
-- 1 cup buttermilk
-- 2 tablespoons packed grated lemon zest
-- 2 tablespoons fresh lemon juice
-- 1 cup unsalted butter, softened
-- 2 1/4 cups granulated sugar
+- 720ml all-purpose flour, spooned into measuring cup and leveled-off
+- 2ml baking soda
+- 2ml salt
+- 240ml buttermilk
+- 30ml packed grated lemon zest
+- 30ml fresh lemon juice
+- 240ml unsalted butter, softened
+- 540ml granulated sugar
 - 3 large eggs
-- 2 tablespoons water
-- 2 tablespoons granulated sugar
-- 2 teaspoons fresh lemon juice
-- 1 cup confectioners' sugar
-- 2 tablespoons fresh lemon juice
+- 30ml water
+- 30ml granulated sugar
+- 10ml fresh lemon juice
+- 240ml confectioners' sugar
+- 30ml fresh lemon juice
 
 ## Instructions
 
-1. Preheat the oven to 350°F and set an oven rack in the middle position.
+1. Preheat the oven to 177°C and set an oven rack in the middle position.
 2. Spray two 8½ x 4½-inch loaf pans with nonstick cooking spray and line the long sides with parchment paper slings, then spray again.
 3. In a medium bowl, whisk together the flour, baking soda, and salt, then set aside.
 4. In another bowl, whisk together the buttermilk, lemon zest, and lemon juice, then set aside.

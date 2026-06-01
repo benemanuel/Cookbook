@@ -56,10 +56,10 @@ labels: [drinks, fermentation]
 
 ## Instructions
 
-1. Rinse and drain 150 g uncooked Japanese short-grain white rice and add to the inner pot of a rice cooker, filling water to the porridge water line or white rice 4 cup line.
+1. Rinse and drain 150 g uncooked Japanese short-grain white rice and add to the inner pot of a rice cooker, filling water to the porridge water line or white rice 960ml line.
 2. Select the Porridge menu on your rice cooker and press Start, or cook the porridge according to your rice cooker's instructions.
 3. Once the porridge is cooked at around 175ºF (79ºC), take out the inner pot from the rice cooker.
-4. Gradually add 240 ml water, ⅛ cup at a time, to the porridge, stirring thoroughly after each addition and measuring the temperature with an instant-read thermometer.
+4. Gradually add 240 ml water, 30ml at a time, to the porridge, stirring thoroughly after each addition and measuring the temperature with an instant-read thermometer.
 5. Cool the porridge down to 140ºF (60ºC) as koji mold cannot live above that temperature.
 6. Crumble and add 200 g rice koji to the cooled porridge and stir thoroughly to incorporate.
 7. Ensure there is enough water to cover the porridge and rice koji so they are sufficiently soaked, adding warm water if needed to maintain 140ºF (60ºC).

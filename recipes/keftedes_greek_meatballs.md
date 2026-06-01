@@ -39,19 +39,19 @@ labels: [meat, dairy, sauce, drinks, vegetables, pickles]
 
 ## Ingredients
 
-- 500g ground beef (18 ounces)
-- 200g ground pork (7 ounces)
+- 500g ground beef (510g)
+- 200g ground pork (198g)
 - 1 medium red onion, grated
 - 1 medium clove of garlic, minced
-- 150g stale bread (5 oz.), soaked in water and squeezed to remove the excess water
+- 150g stale bread (142g), soaked in water and squeezed to remove the excess water
 - 1 large egg
-- 1 1/2 tbsp fresh parsley, chopped (optional)
-- 1 1/2 tbsp fresh spearmint (chopped) and a pinch dried. Or 3/4 tbsp fresh regular mint
-- 2 tbsps olive oil
-- 1 1/2 tbsps red wine vinegar
-- 1 teaspoon oregano
-- 1 teaspoon salt
-- 1 teaspoon pepper
+- 22ml fresh parsley, chopped (optional)
+- 22ml fresh spearmint (chopped) and a pinch dried. Or 11ml fresh regular mint
+- 30ml olive oil
+- 22ml red wine vinegar
+- 5ml oregano
+- 5ml salt
+- 5ml pepper
 - oil for frying
 - flour for dredging
 

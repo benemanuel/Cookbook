@@ -39,10 +39,10 @@ labels: [cake, vegetables]
 - 240g caster sugar
 - 2 large eggs or 3 small ones
 - 2 oranges, zested
-- 2 tsp fennel seeds
+- 10ml fennel seeds
 - 200g hazelnuts (almonds or pistachios)
 - 150g dark chocolate
-- 1 tsp baking powder
+- 5ml baking powder
 - Icing sugar
 - A pinch of salt
 

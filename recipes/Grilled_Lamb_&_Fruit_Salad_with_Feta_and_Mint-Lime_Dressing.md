@@ -39,22 +39,22 @@ labels: [meat, dairy, sauce, drinks, vegetables]
 
 ## Ingredients
 
-- 2 cups romaine lettuce, chopped
-- 1 cup cherry tomatoes, halved
-- 1 cup cantaloupe, cubed
-- 1 cup mango, cubed
+- 480ml romaine lettuce, chopped
+- 240ml cherry tomatoes, halved
+- 240ml cantaloupe, cubed
+- 240ml mango, cubed
 - 1 banana, cubed
 - 200 g lamb chops, chopped
 - Salt and pepper to taste
 - Touch of cinnamon for lamb
 - 100 g feta cheese, crumbled
-- 3 tbsp extra virgin olive oil
-- 1 tbsp fresh lime juice
-- 1 tsp honey
-- 1 tsp Dijon mustard
-- 1 tbsp fresh mint, finely chopped
+- 45ml extra virgin olive oil
+- 15ml fresh lime juice
+- 5ml honey
+- 5ml Dijon mustard
+- 15ml fresh mint, finely chopped
 - Pinch of chili flakes or Aleppo pepper
-- 1/4 tsp cinnamon
+- 1ml cinnamon
 
 ## Instructions
 
