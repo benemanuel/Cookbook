@@ -25,7 +25,7 @@ steps:
   - Trim and crimp edges.
   - For blind baking, line with parchment and fill with pie weights.
   - Bake at 200°C/390°F for 15 minutes, remove weights, and bake another 5–10 minutes until golden.
-labels: [dairy, pastry]
+labels: [dairy, drinks]
 ---
 
 # Flaky Dough

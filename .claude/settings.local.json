@@ -17,7 +17,24 @@
       "Bash(git add *)",
       "Bash(git push *)",
       "Bash(grep -E *)",
-      "Skill(commit-commands:commit)"
+      "Skill(commit-commands:commit)",
+      "Bash(claude doctor *)",
+      "Bash(Measure-Object)",
+      "Bash(Select-Object -ExpandProperty Count)",
+      "Bash(python *)",
+      "Bash(xargs -I{} basename {} .md)",
+      "Bash(node *)",
+      "Bash(npm list *)",
+      "Bash(npm install *)",
+      "Bash(pip install *)",
+      "Bash(curl -s http://localhost:8734/)",
+      "mcp__plugin_chrome-devtools-mcp_chrome-devtools__take_snapshot",
+      "mcp__plugin_chrome-devtools-mcp_chrome-devtools__click",
+      "Bash(pkill -f \"python -m http.server 8734\")",
+      "Bash(git reset *)",
+      "Bash(git rm *)",
+      "Bash(Select-String -Pattern \"SWIRLED|GARLIC_HERB\")",
+      "Bash(git mv *)"
     ]
   }
 }

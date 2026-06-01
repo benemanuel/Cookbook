@@ -34,7 +34,7 @@ steps:
   - Remove from oven and tap the pan firmly on the counter twice to deflate the cookies slightly.
   - Let cookies cool on the pan for 5 minutes to finish baking, then transfer to a wire rack to cool completely.
   - Top with a light sprinkle of flaky salt.
-labels: [dairy, cookies]
+labels: [dairy, cake, sauce]
 ---
 
 # Sourdough Chocolate Chip Cookies
