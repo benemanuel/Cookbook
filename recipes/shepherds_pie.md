@@ -1,7 +1,7 @@
 ---
 schema_version: 1
 title: Shepherd's Pie
-url: null
+url:  http://www.food.com/recipe/traditional-irish-shepherds-pie-302120
 source: null
 image: null
 servings: 4

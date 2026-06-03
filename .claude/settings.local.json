@@ -37,7 +37,8 @@
       "Bash(git mv *)",
       "WebFetch(domain:my.vinst.me)",
       "WebFetch(domain:www.hashulchan.co.il)",
-      "WebFetch(domain:webcache.googleusercontent.com)"
+      "WebFetch(domain:webcache.googleusercontent.com)",
+      "Bash(git pull *)"
     ]
   }
 }
