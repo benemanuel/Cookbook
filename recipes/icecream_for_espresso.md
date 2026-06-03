@@ -9,7 +9,7 @@ attachments:
     type: "application/pdf"
     size: 113162
     local_path: "attachments\\2019-09-06_06-46-06_Fwd_icecream_for_espresso\\The_Ultimate_Series_\u2014_James_Hoffmann.pdf"
-labels: [dairy]
+labels: [dairy, soup, drinks, pickles]
 ---
 
 # icecream for espresso
