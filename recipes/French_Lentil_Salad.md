@@ -14,7 +14,7 @@ labels: [fish, dairy, soup, sauce, drinks, vegetables, pickles]
 - 30ml olive oil
 - 15ml red wine vinegar
 - 5ml Dijon mustard
-- 2 tablespoons chopped parsley
+- 30ml chopped parsley
 - Salt and black pepper
 - Optional: celery or fennel, extra herbs
 

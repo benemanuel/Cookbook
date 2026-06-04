@@ -1,6 +1,6 @@
 ---
 schema_version: 1
-title: How I Bake Sourdough Bread
+title: Bake Sourdough Bread
 url: null
 source: null
 image: null
@@ -31,7 +31,7 @@ steps:
 labels: [bread, soup, fermentation]
 ---
 
-# How I Bake Sourdough Bread
+# Bake Sourdough Bread
 
 ## Ingredients
 

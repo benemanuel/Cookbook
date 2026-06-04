@@ -1,6 +1,6 @@
 ---
 schema_version: 1
-title: How I Bake Sourdough Bread Every Day in Less Than 30 Minutes
+title: Bake Sourdough Bread Every Day in Less Than 30 Minutes
 url: https://www.culinaryexploration.eu/blog/sourdough-scheduling
 source: culinaryexploration.eu
 image: null
@@ -32,7 +32,7 @@ steps:
 labels: [bread, drinks, fermentation]
 ---
 
-# How I Bake Sourdough Bread Every Day in Less Than 30 Minutes
+# Bake Sourdough Bread Every Day in Less Than 30 Minutes
 
 *Source: culinaryexploration.eu*
 
