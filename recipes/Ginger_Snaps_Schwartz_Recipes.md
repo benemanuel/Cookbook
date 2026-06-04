@@ -1,5 +1,5 @@
 ---
-labels: [, info]
+labels: [drinks]
 labels: [drinks]
 ---
 

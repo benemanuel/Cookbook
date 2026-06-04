@@ -1,54 +1,37 @@
 ---
-labels: [bread]
-labels: [dairy, bread, cake]
----
-
-```markdown
----
 schema_version: 1
-title: Simple Tortillas
+title: Soft Homemade Flour Tortillas
 url: https://www.kingarthurbaking.com/recipes/simple-tortillas-recipe
 source: kingarthurbaking.com
-image: null
 servings: 8
 prep_minutes: 15
 cook_minutes: 23
-imported_at: 2026-05-31
-ingredients: null
-steps: null
+labels: [dairy, bread, cake]
 ---
 
-# Simple Tortillas
+# Soft Homemade Flour Tortillas
 
 *Source: King Arthur Baking*
 
 ## Ingredients
 
-600ml (300g) King Arthur Unbleached All-Purpose Flour, plus additional as needed
-5ml baking powder
-2ml table salt
-60ml of any one of the following: 60ml butter, room temperature (57g), shortening (48g), lard (57g), or vegetable oil (50g)
-7/8 to 240ml (200g to 227g) water, hot, (about 43°C to 49°C)
-
+- 300g all-purpose flour, plus extra for dusting
+- 5ml baking powder
+- 2ml salt
+- 60ml fat — butter (room temperature), shortening, lard, or vegetable oil
+- 175ml–240ml hot water (about 43°C–49°C)
 
 ## Instructions
 
+1. Whisk together the flour, baking powder, and salt in a medium bowl.
+2. Work the fat into the flour with your fingers or a pastry blender until it disappears. (If using oil, add it in the next step.) Coating the flour with fat inhibits gluten and makes rolling easier.
+3. Pour in the lesser amount of hot water (plus oil if using), and stir briskly with a fork until the dough comes together in a shaggy mass. Add more water as needed.
+4. Turn out onto a lightly floured surface and knead briefly until the dough forms a smooth ball. Add a little more flour if very sticky.
+5. Divide into 8 pieces, shape into balls, flatten slightly, and let rest covered for 30 minutes. Optionally coat each ball lightly in oil before covering to prevent drying out.
+6. Preheat an ungreased cast iron griddle or skillet over medium-high heat (~200°C).
+7. Working one at a time, roll each ball into a 20cm round. Keep the rest covered.
+8. Cook each tortilla in the dry pan for about 30 seconds per side. Wrap in a clean cloth as they come off the griddle to keep them pliable.
 
-In a medium-sized bowl, whisk together the flour, baking powder, and salt.
+## Notes
 
-Add the lard (or butter, or shortening; if you're using vegetable oil, add it in step 3). Use your fingers or a pastry blender to work the fat into the flour until it disappears. Coating most of the flour with fat inhibits gluten formation, making the tortillas easier to roll out.
-
-Pour in the lesser amount of hot water (plus the oil, if you're using it), and stir briskly with a fork or whisk to bring the dough together into a shaggy mass. Stir in additional water as needed to bring the dough together.
-
-Turn the dough out onto a lightly floured counter and knead briefly, just until the dough forms a ball. If the dough is very sticky, gradually add a bit more flour.
-
-Divide the dough into 8 pieces. Round the pieces into balls, flatten slightly, and allow them to rest, covered, for about 30 minutes (see tips, below). If you wish, coat each ball lightly in oil before covering; this ensures the dough doesn't dry out.
-
-While the dough rests, preheat an ungreased cast iron griddle or skillet over medium high heat, about 204°C.
-
-Working with one piece of dough at a time, roll into a round about 8" in diameter. Keep the remaining dough covered while you work. Fry the tortilla in the ungreased pan for about 30 seconds on each side. Wrap the tortilla in a clean cloth when it comes off the griddle, to keep it pliable. Repeat with the remaining dough balls.
-
-If there are leftovers, allow them to cool completely, then wrap tightly in plastic and store in the refrigerator. Reheat in an ungreased skillet, or for a few seconds in the microwave.
-
-
-```
+- Leftover tortillas: cool completely, wrap tightly in plastic, refrigerate. Reheat in a dry skillet or briefly in the microwave.

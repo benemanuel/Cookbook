@@ -1,28 +1,18 @@
 ---
-labels: []
-labels: [drinks, spice, vegetables, fermentation]
----
-
-```markdown
----
 schema_version: 1
 title: Best Kombucha Flavors - Grape and Apple Spice Varieties
-url: https://www.stonefryingpans.com/best-kombucha-flavors/
+url: "https://www.stonefryingpans.com/best-kombucha-flavors/"
 source: stonefryingpans.com
 image: null
 servings: null
 prep_minutes: null
 cook_minutes: null
 imported_at: 2026-05-31
-ingredients:
-  - 75ml grape juice
-  - 20ml brown sugar
-  - 1 rosemary stick
-  - 120ml diluted apple juice
-  - 20ml brown sugar
-  - 1ml pumpkin spice
+ingredients: [75ml grape juice, 20ml brown sugar, 1 rosemary stick, 120ml diluted apple juice, 20ml brown sugar, 1ml pumpkin spice]
 steps: null
+labels: [drinks, spice, vegetables, fermentation]
 ---
+
 
 # Best Kombucha Flavors - Grape and Apple Spice Varieties
 
@@ -40,4 +30,3 @@ steps: null
 ## Instructions
 
 No instructions provided in source text.
-```

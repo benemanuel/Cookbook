@@ -7,7 +7,7 @@ date_parsed: 2023-12-06T16:21:37+02:00
 labels: [dairy, cake, pickles]
 ---
 
-# Fwd: Oatmeal עוגיות
+# Oatmeal עוגיות
 
 ## Ingredients
 

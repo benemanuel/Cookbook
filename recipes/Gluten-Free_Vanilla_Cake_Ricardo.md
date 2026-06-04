@@ -1,5 +1,5 @@
 ---
-labels: [cake, info]
+labels: [cake]
 labels: [cake]
 ---
 

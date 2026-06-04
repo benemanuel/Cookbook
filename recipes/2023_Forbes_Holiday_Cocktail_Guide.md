@@ -1,10 +1,4 @@
 ---
-labels: [dairy, candy, info]
-labels: [dairy, candy, soup, drinks, vegetables, pickles]
----
-
-```markdown
----
 schema_version: 1
 title: 2023 Forbes Holiday Cocktail Guide
 url: null
@@ -16,7 +10,9 @@ cook_minutes: null
 imported_at: 2026-05-31
 ingredients: null
 steps: null
+labels: [dairy, candy, soup, drinks, vegetables, pickles]
 ---
+
 
 # 2023 Forbes Holiday Cocktail Guide
 
@@ -43,5 +39,3 @@ This document contains 13 holiday cocktail recipes from acclaimed bartenders and
 15. **Hōjicha Tea Punch** (Overstory, New York) - Tokki Soju, hōjicha tea, aromatic rich syrup, almond extract, orange blossom water, lemon juice, chocolate bitters, Angostura bitters
 16. **Eggnog Fouetté** (Schmucks, New York) - Buttered Cognac, amontillado sherry-cinnamon syrup, black milk tea, half-and-half cream, egg, salt solution
 17. **Piña Panela Sour** (Platform 18, Phoenix) - Spiced reposado tequila, egg whites, panela syrup, pineapple juice, lime juice, panela salt crumbles
-
-```

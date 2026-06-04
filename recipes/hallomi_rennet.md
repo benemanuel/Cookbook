@@ -1,10 +1,4 @@
 ---
-labels: [dairy]
-labels: [dairy, fermentation]
----
-
-```markdown
----
 schema_version: 1
 title: Homemade Halloumi Cheese
 url: null
@@ -16,7 +10,9 @@ cook_minutes: null
 imported_at: 2026-05-31
 ingredients: null
 steps: null
+labels: [dairy, fermentation]
 ---
+
 
 # Homemade Halloumi Cheese
 
@@ -36,4 +32,3 @@ Not available
 - wholesome-cook.com/2012/07/18/homemade-haloumi-cheese-in-an-hour/
 - cheesemaking.com/Halloumi.html
 - getculture.com/Coagulant-Test.html
-```
