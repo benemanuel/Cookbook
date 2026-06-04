@@ -1,6 +1,6 @@
 ---
 schema_version: 1
-title: Homemade Veggie-Full Ground "Meat"
+title:  Veggie-Full Ground "Meat"
 url: null
 source: onegreenplanet.org
 image: null
@@ -28,7 +28,7 @@ steps:
 labels: [bread, sauce, drinks, vegetables]
 ---
 
-# Homemade Veggie-Full Ground "Meat"
+#  Veggie-Full Ground "Meat"
 
 *Source: onegreenplanet.org*
 

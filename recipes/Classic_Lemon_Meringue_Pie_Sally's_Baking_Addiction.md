@@ -9,7 +9,7 @@ prep_minutes: 360
 cook_minutes: 70
 imported_at: 2026-05-31
 ingredients:
-  - "Homemade Pie Crust*"
+  - " Pie Crust*"
   - 5 large egg yolks (use the whites in the meringue below)
   - 1 and 1/3 cups (320ml) water
   - 1 cup (200g) granulated sugar
@@ -41,7 +41,7 @@ labels: [dairy, cake, sauce, drinks, vegetables]
 
 ## Ingredients
 
-- Homemade Pie Crust*
+-  Pie Crust*
 - 5 large egg yolks (use the whites in the meringue below)
 - 1 and 80ml (320ml) water
 - 240ml (200g) granulated sugar

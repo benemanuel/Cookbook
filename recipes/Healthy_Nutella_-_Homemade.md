@@ -1,5 +1,5 @@
 ---
-subject: "Healthy Nutella \u2013 Homemade"
+subject: "Healthy Nutella \u2013 "
 from: "Avi Benemanuel <avi@jct.ac.il>"
 to: "\"benemanuel.family@gmail.com\" <benemanuel.family@gmail.com>"
 date: "Sun, 16 Dec 2018 10:58:15 +0000"
@@ -7,7 +7,7 @@ date_parsed: 2018-12-16T10:58:15+00:00
 labels: [dairy, cake, soup, sauce, drinks]
 ---
 
-# Healthy Nutella – Homemade
+# Healthy Nutella – 
 
 \#1
 
@@ -35,7 +35,7 @@ Yield: 480ml
 
 ## Instructions
 
-Homemade Nutella Recipe: Roast hazelnuts for 6\-8 minutes at 204°C. Rub them together in a paper towel to get the skins off. (It’s ok if a few stubborn skins won’t come off.) In a Vita\-mix or food processor,
+ Nutella Recipe: Roast hazelnuts for 6\-8 minutes at 204°C. Rub them together in a paper towel to get the skins off. (It’s ok if a few stubborn skins won’t come off.) In a Vita\-mix or food processor,
  blend the nuts until they’ve turned to butter, then add all other ingredients and blend a long time until it’s smooth like Nutella!
 
 \#2

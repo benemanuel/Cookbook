@@ -1,6 +1,6 @@
 ---
 schema_version: 1
-title: Homemade Cocktail Bitters
+title:  Cocktail Bitters
 url: https://www.thespruceeats.com/basic-homemade-bitters-recipe-760289
 source: The Spruce Eats
 image: null
@@ -35,7 +35,7 @@ steps:
 labels: [candy, soup, sauce, drinks]
 ---
 
-# Homemade Cocktail Bitters
+#  Cocktail Bitters
 
 *Source: The Spruce Eats*
 

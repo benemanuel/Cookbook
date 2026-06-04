@@ -1,7 +1,7 @@
 ---
 schema_version: 1
-title: Homemade Pomegranate Liqueur
-url: https://www.instructables.com/Homemade-Pomegranate-Liqueur/
+title:  Pomegranate Liqueur
+url: https://www.instructables.com/-Pomegranate-Liqueur/
 source: Instructables
 image: null
 servings: null
@@ -36,7 +36,7 @@ steps:
 labels: [drinks, pickles]
 ---
 
-# Homemade Pomegranate Liqueur
+#  Pomegranate Liqueur
 
 *Source: Instructables*
 

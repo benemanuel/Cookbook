@@ -1,6 +1,6 @@
 ---
 schema_version: 1
-title: Homemade Marshmallow Fluff
+title:  Marshmallow Fluff
 url: "https://livforcake.com/homemade-marshmallow-fluff/"
 source: livforcake.com
 image: "https://livforcake.com/wp-content/uploads/2015/01/IMG_5309-Version-5.jpg"
@@ -29,7 +29,7 @@ steps:
 labels: [dairy, cake, candy, sauce, vegetables, pickles]
 ---
 
-# Homemade Marshmallow Fluff
+#  Marshmallow Fluff
 
 *Source: livforcake.com*
 

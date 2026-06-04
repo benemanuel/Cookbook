@@ -5,16 +5,16 @@ to: "Family <benemanuel.family@gmail.com>"
 date: "Sun, 26 Jan 2025 20:45:31 +0200"
 date_parsed: 2025-01-26T20:45:31+02:00
 attachments:
-  - filename: "Homemade Jerk Flavored Fish Jerky Recipe -- Paleo, Frugal, and Easy.pdf"
+  - filename: " Jerk Flavored Fish Jerky Recipe -- Paleo, Frugal, and Easy.pdf"
     type: "application/pdf"
     size: 235246
-    local_path: "attachments\\2025-01-26_20-45-31_fish_jerky_1\\Homemade_Jerk_Flavored_Fish_Jerky_Recipe_--_Paleo,_Frugal,_and_Easy.pdf"
+    local_path: "attachments\\2025-01-26_20-45-31_fish_jerky_1\\_Jerk_Flavored_Fish_Jerky_Recipe_--_Paleo,_Frugal,_and_Easy.pdf"
 labels: [drinks, spice, vegetables]
 ---
 
 # fish jerky
 
-Homemade Jerk Seasoning Rub Spice Mix Recipe\- Easy, Frugal, Vegan and Paleo
+ Jerk Seasoning Rub Spice Mix Recipe\- Easy, Frugal, Vegan and Paleo
 
 ## Ingredients
 

@@ -1,6 +1,6 @@
 ---
 schema_version: 1
-title: How to Make Almond Milk
+title:  Almond Milk
 url: "https://minimalistbaker.com/how-to-make-almond-milk/"
 source: minimalistbaker.com
 image: "https://minimalistbaker.com/wp-content/uploads/2015/01/how-to-make-almond-milk-SQUARE.jpg"
@@ -23,7 +23,7 @@ steps:
 labels: [dairy, vegetables]
 ---
 
-# How to Make Almond Milk
+#  Almond Milk
 
 *Source: minimalistbaker.com*
 

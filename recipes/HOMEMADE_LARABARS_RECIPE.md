@@ -1,6 +1,6 @@
 ---
 schema_version: 1
-title: Homemade Larabars Recipe
+title:  Larabars Recipe
 url: http://leitesculinaria.com/88638/recipes-homemade-larabars.html
 source: leitesculinaria.com
 image: null
@@ -28,7 +28,7 @@ steps:
 labels: [bread, drinks]
 ---
 
-# Homemade Larabars Recipe
+#  Larabars Recipe
 
 *Source: leitesculinaria.com*
 

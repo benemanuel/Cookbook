@@ -1,6 +1,6 @@
 ---
 schema_version: 1
-title: Homemade Phyllo (or Filo) Dough
+title:  Phyllo (or Filo) Dough
 url: null
 source: allrecipes.com
 image: null
@@ -30,7 +30,7 @@ steps:
 labels: [bread, drinks, vegetables, pickles]
 ---
 
-# Homemade Phyllo (or Filo) Dough
+#  Phyllo (or Filo) Dough
 
 *Source: allrecipes.com*
 

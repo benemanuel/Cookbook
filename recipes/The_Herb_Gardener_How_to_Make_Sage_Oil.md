@@ -1,6 +1,6 @@
 ---
 schema_version: 1
-title: How to Make Sage Oil
+title:  Sage Oil
 url: https://theherbgardener.blogspot.com/2012/10/how-to-make-sage-oil.html?m=1
 source: The Herb Gardener
 image: null
@@ -13,7 +13,7 @@ steps: null
 labels: [meat, dairy, soup, sauce, drinks, vegetables, pickles]
 ---
 
-# How to Make Sage Oil
+#  Sage Oil
 
 *Source: The Herb Gardener*
 
@@ -55,7 +55,7 @@ Place the jar in a cool, dark spot for two to three weeks. (Test after two weeks
 Shake the jar three or four times a week (whenever you think about it) during the infusion process.
 After two (or three) weeks, pour the oil through a fine mesh strainer and place it in its final container with the 10 additional peppercorns.
 
-How to Make Sage Oil - Notes and Tips:
+ Sage Oil - Notes and Tips:
 
 
 If you don't have enough leaves, you can use sage stems.  They produce a stronger and sometimes slightly more resinous flavor, though.

@@ -1,6 +1,6 @@
 ---
 schema_version: 1
-title: How to Make Chicken Stock
+title:  Chicken Stock
 url: https://www.simplyrecipes.com/recipes/how_to_make_chicken_stock/
 source: SimplyRecipes.com
 image: null
@@ -51,7 +51,7 @@ steps:
 labels: [meat, soup, drinks, vegetables]
 ---
 
-# How to Make Chicken Stock
+#  Chicken Stock
 
 *Source: SimplyRecipes.com*
 

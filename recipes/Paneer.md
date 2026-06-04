@@ -1,6 +1,6 @@
 ---
 schema_version: 1
-title: Homemade Paneer
+title:  Paneer
 url: null
 source: null
 image: null
@@ -22,7 +22,7 @@ steps:
 labels: [dairy, pickles]
 ---
 
-# Homemade Paneer
+#  Paneer
 
 ## Ingredients
 

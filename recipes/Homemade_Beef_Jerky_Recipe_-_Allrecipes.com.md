@@ -1,6 +1,6 @@
 ---
 schema_version: 1
-title: Homemade Beef Jerky
+title:  Beef Jerky
 url: null
 source: allrecipes.com
 image: null
@@ -31,7 +31,7 @@ steps:
 labels: [sauce, vegetables]
 ---
 
-# Homemade Beef Jerky
+#  Beef Jerky
 
 *Source: allrecipes.com*
 

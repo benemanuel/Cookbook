@@ -1,6 +1,6 @@
 ---
 schema_version: 1
-title: Homemade Smoked Pastrami (Close to Katz's)
+title:  Smoked Pastrami (Close to Katz's)
 url: https://amazingribs.com/tested-recipes/beef-and-bison-recipes/home-made-pastrami-thats-close-katzs-recipe/
 source: amazingribs.com
 image: null
@@ -52,7 +52,7 @@ steps:
 labels: [meat, cake, drinks, spice, vegetables, fermentation, pickles]
 ---
 
-# Homemade Smoked Pastrami (Close to Katz's)
+#  Smoked Pastrami (Close to Katz's)
 
 *Source: amazingribs.com*
 

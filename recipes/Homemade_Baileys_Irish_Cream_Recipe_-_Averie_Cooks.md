@@ -1,6 +1,6 @@
 ---
 schema_version: 1
-title: Homemade Baileys Irish Cream
+title:  Baileys Irish Cream
 url: "https://www.averiecooks.com/homemade-baileys-irish-cream/"
 source: averiecooks.com
 image: "https://www.averiecooks.com/wp-content/uploads/2013/03/baileys-5.jpg"
@@ -22,7 +22,7 @@ steps:
 labels: [dairy, drinks, pickles]
 ---
 
-# Homemade Baileys Irish Cream
+#  Baileys Irish Cream
 
 *Source: averiecooks.com*
 

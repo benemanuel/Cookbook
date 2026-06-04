@@ -1,6 +1,6 @@
 ---
 schema_version: 1
-title: Soft Homemade Flour Tortillas
+title: Soft  Flour Tortillas
 url: https://www.kingarthurbaking.com/recipes/simple-tortillas-recipe
 source: kingarthurbaking.com
 servings: 8
@@ -9,7 +9,7 @@ cook_minutes: 23
 labels: [dairy, bread, cake]
 ---
 
-# Soft Homemade Flour Tortillas
+# Soft  Flour Tortillas
 
 *Source: King Arthur Baking*
 

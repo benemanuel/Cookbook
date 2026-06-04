@@ -21,7 +21,7 @@ steps:
   - "Cut the dough in half. Place both pieces on a floured work surface and gently knead. You can roll one piece out now into a 12- inch round."
   - To cook now, top with your favorite toppings. Brush the exposed dough with olive oil and place in a 450 degree oven on a pizza stone (if you have one) for 12 to 15 minutes until the dough is golden brown.
   - To freeze the second piece, wrap the dough in plastic and place it in a resealable freezer bag for up to 3 months.
-  - How to Grill a Pizza
+  -  Pizza
   - Grilled BLT Pizza Recipe
   - Tarte Flambée Recipe
 labels: [bread]
@@ -47,6 +47,6 @@ labels: [bread]
 4. Cut the dough in half. Place both pieces on a floured work surface and gently knead. You can roll one piece out now into a 12- inch round.
 5. To cook now, top with your favorite toppings. Brush the exposed dough with olive oil and place in a 450 degree oven on a pizza stone (if you have one) for 12 to 15 minutes until the dough is golden brown.
 6. To freeze the second piece, wrap the dough in plastic and place it in a resealable freezer bag for up to 3 months.
-7. How to Grill a Pizza
+7.  Pizza
 8. Grilled BLT Pizza Recipe
 9. Tarte Flambée Recipe

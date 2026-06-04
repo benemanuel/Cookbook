@@ -1,6 +1,6 @@
 ---
 schema_version: 1
-title: Homemade Cream of Mushroom Soup
+title:  Cream of Mushroom Soup
 url: https://www.food.com/recipe/homemade-cream-of-mushroom-soup-264191
 source: food.com
 image: null
@@ -29,7 +29,7 @@ steps:
 labels: [meat, dairy, soup, vegetables]
 ---
 
-# Homemade Cream of Mushroom Soup
+#  Cream of Mushroom Soup
 
 *Source: food.com*
 

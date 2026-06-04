@@ -1,6 +1,6 @@
 ---
 schema_version: 1
-title: Homemade Oatmeal Cream Pies
+title:  Oatmeal Cream Pies
 url: "https://www.mybakingaddiction.com/homemade-oatmeal-cream-pies/"
 source: mybakingaddiction.com
 image: "https://www.mybakingaddiction.com/wp-content/uploads/2019/01/stacked-oatmeal-cream-pies-hero.jpg"
@@ -36,7 +36,7 @@ steps:
 labels: [dairy, cake]
 ---
 
-# Homemade Oatmeal Cream Pies
+#  Oatmeal Cream Pies
 
 *Source: mybakingaddiction.com*
 

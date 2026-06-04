@@ -1,6 +1,6 @@
 ---
 schema_version: 1
-title: Homemade Halloumi Cheese
+title:  Halloumi Cheese
 url: null
 source: null
 image: null
@@ -14,7 +14,7 @@ labels: [dairy, fermentation]
 ---
 
 
-# Homemade Halloumi Cheese
+#  Halloumi Cheese
 
 *Source: Email forwarding*
 

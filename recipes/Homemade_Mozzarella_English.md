@@ -1,6 +1,6 @@
 ---
 schema_version: 1
-title: Homemade Mozzarella
+title:  Mozzarella
 url: null
 source: null
 image: null
@@ -30,7 +30,7 @@ steps:
 labels: [dairy, bread, sauce]
 ---
 
-# Homemade Mozzarella
+#  Mozzarella
 
 ## Ingredients
 
