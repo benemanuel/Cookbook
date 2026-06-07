@@ -26,7 +26,7 @@ steps:
   - Pour in kefir or buttermilk and stir in horseradish or mustard, lemon juice, salt, and pepper.
   - Add cold boiled water to reach desired consistency and stir well, tasting for seasoning.
   - Refrigerate until thoroughly chilled and serve cold, topped with hard-boiled egg halves and a dollop of sour cream.
-labels: [dairy, soup, vegetables, fermentation]
+labels: [dairy, fermentation]
 ---
 
 # Latvian Cold Beet Soup

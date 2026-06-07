@@ -48,7 +48,7 @@ steps:
   - Brush the crust with remaining egg and sprinkle lightly with salt, pepper, and thyme.
   - Place pie on a rimmed baking sheet and bake until golden brown, 20–30 minutes.
   - Let pie cool on a rack for 15 minutes before serving.
-labels: [meat, bread, soup, sauce, drinks, vegetables]
+labels: [meat]
 ---
 
 # Beef Pot Pie

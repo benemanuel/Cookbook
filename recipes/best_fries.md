@@ -25,7 +25,7 @@ steps:
   - Drain fries in a bowl lined with paper towels and season immediately with kosher salt.
   - Keep cooked fries hot and crisp on a wire rack set on a sheet tray in a 200°F oven while the second batch is cooked.
   - Serve immediately.
-labels: [bread, soup, sauce, pickles]
+labels: []
 ---
 
 # Best Fries

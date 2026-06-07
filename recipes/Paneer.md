@@ -19,7 +19,7 @@ steps:
   - Stop adding the acidic agent once the milk has started curdling well.
   - Pour the curdled milk through cheesecloth to strain.
   - Place the curds in cheesecloth and apply approximately 10 kg of weight on top to press the paneer.
-labels: [dairy, pickles]
+labels: [dairy]
 ---
 
 #  Paneer

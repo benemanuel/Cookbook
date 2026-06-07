@@ -21,7 +21,7 @@ steps:
   - Add beer to the pitcher just before serving.
   - Before serving, rim tall glasses with a ginger-sugar rim by wetting the rim with lemon juice and rolling it in a mix of ground ginger and sugar.
   - Pour the shandy into the prepared glasses over ice if desired and garnish with a lemon wedge.
-labels: [drinks, fermentation]
+labels: [drinks]
 ---
 
 # Cranberry Ginger Shandy

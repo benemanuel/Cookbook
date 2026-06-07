@@ -9,7 +9,7 @@ attachments:
     type: "image/jpeg"
     size: 1361924
     local_path: "attachments\\2019-08-24_20-15-53_sourcream_coffee_cake\\d8083f7.jpg"
-labels: [dairy, cake]
+labels: [cake]
 ---
 
 # sourcream coffee cake

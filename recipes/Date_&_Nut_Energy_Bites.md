@@ -30,7 +30,7 @@ steps:
   - Roll the mixture into small balls, about 25–30 pieces depending on size.
   - Optionally roll the balls in shredded coconut, cocoa powder, or ground nuts for coating.
   - Store in an airtight container in the fridge for 2–3 weeks or freeze for up to 3 months.
-labels: [dairy, bread, candy]
+labels: [candy]
 ---
 
 # Date & Nut Energy Bites

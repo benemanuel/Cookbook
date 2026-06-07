@@ -9,7 +9,7 @@ attachments:
     type: "application/pdf"
     size: 43317
     local_path: "attachments\\2021-05-24_09-27-06_chocolate_cream_cake_1\\Ding_Dong_Cake_-_i_am_baker.pdf"
-labels: [dairy, cake]
+labels: [cake, dairy]
 ---
 
 # chocolate cream cake

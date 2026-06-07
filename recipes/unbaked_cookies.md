@@ -23,7 +23,7 @@ steps:
   - Stir in the oatmeal, peanut butter and coconut and let cool for 5 minutes.
   - Spoon 1-inch balls onto parchment paper and cool for 20 minutes.
   - Store in an airtight container.
-labels: [dairy, sauce]
+labels: [dairy]
 ---
 
 # Unbaked Cookies

@@ -26,7 +26,7 @@ steps:
   - Stir in the cinnamon sticks, cloves, and nutmeg.Cover and simmer for five minutes; remove from heat and set aside to cool to room temperature.
   - "Strain, and discard the spices.Stir the spiced juice back into the 1-gallon glass jar with the reserved sweetened juice.Cover loosely with the lid, and set aside for at least 2 weeks before serving, occasionally shaking the jar with care.Serve at room temperature in small cordial or wine glasses."
   - Store extra in fridge.
-labels: [soup, drinks, pickles]
+labels: [drinks]
 ---
 
 # George Washington’s Cherry Bounce

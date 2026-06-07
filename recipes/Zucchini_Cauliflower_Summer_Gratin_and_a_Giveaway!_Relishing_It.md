@@ -31,7 +31,7 @@ steps:
   - Sprinkle flour and stir, then gradually add the reserved zucchini water, milk, and cream over medium heat, stirring for 2-3 minutes to prevent curdling.
   - Remove from heat and stir in ⅓ cup parmesan, rosemary, and parsley, then pour the mixture into the prepared baking dish and bake for 20 minutes.
   - Add the remaining parmesan and bake for 10 more minutes until golden, with optional broiling to brown the top further.
-labels: [dairy, vegetables, pickles]
+labels: [dairy, vegetables]
 ---
 
 # Zucchini Cauliflower Summer Gratin

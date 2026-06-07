@@ -37,7 +37,7 @@ steps:
   - Bake in a preheated 450 degrees oven for about 15 minutes or until the crust becomes golden brown.
   - Make a well in the center of each khachapuri with the back of a spoon (about 3 inches in diameter) and drop 1 egg into each well, then stick a few small pieces of butter into the cheese.
   - Return the khachapuri back into the oven and bake for another 5-6 minutes, then serve immediately with the cheese and egg mixed together with a fork.
-labels: [dairy, bread, drinks, vegetables]
+labels: [bread, dairy]
 ---
 
 # Khachapuri Georgian Cheese Bread

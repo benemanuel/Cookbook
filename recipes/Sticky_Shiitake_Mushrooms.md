@@ -34,7 +34,7 @@ steps:
   - Add the Sriracha and stir it into the sauce.
   - Pour the cooked mushrooms into the sauce and stir them around so they're warmed through and completely covered.
   - Serve the sticky mushrooms over basmati rice and garnish with scallions and sesame seeds.
-labels: [candy, sauce, drinks, vegetables, pickles]
+labels: []
 ---
 
 # Sticky Shiitake Mushrooms

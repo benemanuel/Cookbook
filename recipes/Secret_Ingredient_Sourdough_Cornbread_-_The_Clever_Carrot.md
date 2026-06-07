@@ -31,7 +31,7 @@ steps:
   - Bake on the center rack for 25–28 minutes until the top is golden brown.
   - Cool in the pan for 10 minutes, then remove the cornbread (still on the parchment paper) to finish cooling on a wire rack.
   - Serve slightly warm or at room temperature.
-labels: [dairy, cake, sauce, vegetables]
+labels: [bread]
 ---
 
 # Secret Ingredient Sourdough Cornbread

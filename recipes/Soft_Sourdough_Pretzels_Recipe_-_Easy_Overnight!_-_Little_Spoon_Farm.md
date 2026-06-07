@@ -36,7 +36,7 @@ steps:
   - Use a mesh strainer to remove the pretzels and place back on the parchment paper.
   - Brush each pretzel with egg wash and sprinkle with salt.
   - Bake the pretzels at 425°F (218°C) for 12-14 minutes or until golden brown.
-labels: [bread, cake, soup, fermentation]
+labels: [bread, fermentation]
 ---
 
 # Soft Sourdough Pretzels

@@ -39,7 +39,7 @@ steps:
   - "Place the loaf in the preheated oven and bake for 30-50 minutes, until a probe thermometer reaches 94°C/201°F when poked into the middle of the loaf. You may need to cover the top loosely with tin foil part way through baking if it starts to colour too much."
   - If you want the loaf to have a shinier crust, brush it with some more of the maple syrup water halfway through baking.
   - Once the bread is baked, remove it from the oven and brush with some more of the glaze. Let it cool in the tin for 10 minutes then lift it out onto a wire rack to cool completely before slicing. Store in an airtight container.
-labels: [dairy, bread, cake]
+labels: [bread, dairy]
 ---
 
 # Vegan Hokkaido Milk Bread

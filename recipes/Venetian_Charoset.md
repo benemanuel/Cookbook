@@ -23,7 +23,7 @@ ingredients:
   - honey to bind
 steps:
   - Combine all the ingredients, adding just enough brandy and honey to make the mixture bind.
-labels: [drinks]
+labels: [candy]
 ---
 
 # Venetian Charoset

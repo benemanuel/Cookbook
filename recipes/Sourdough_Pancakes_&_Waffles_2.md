@@ -25,7 +25,7 @@ steps:
   - מצקים ⅓ כוס בליל על המחבת החמה ומבשלים עד שהבליל מתחילה לבעבע מלמעלה, ואז הופכים בעדינות את הפנקייק.
   - מבשלים עוד 1-2 דקות בצד השני או עד שהלביבה מוכנה ומזהיבה.
   - מגישים חם עם חמאה וסירופ מייפל.
-labels: [dairy, bread, cake, fermentation]
+labels: [dairy, fermentation]
 ---
 
 # Sourdough Pancakes & Waffles

@@ -41,7 +41,7 @@ ingredients:
   - 120 grams water for candied lemon peels
   - 70 grams sugar for candied lemon peels
 steps: null
-labels: [dairy, bread, drinks]
+labels: [bread]
 ---
 
 # Sourdough Panettone

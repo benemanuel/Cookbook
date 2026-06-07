@@ -29,7 +29,7 @@ attachments:
     type: "image/jpeg"
     size: 390426
     local_path: "attachments\\2021-05-25_14-32-07_lower_gluten_sourdough\\Screenshot_20210525-124633_01.jpg"
-labels: [bread, fermentation]
+labels: [bread]
 ---
 
 # lower gluten sourdough

@@ -22,7 +22,7 @@ ingredients:
   - 1 avocado
   - 1 tbsp lemon juice
 steps: null
-labels: [dairy, sauce, vegetables]
+labels: [dairy, sauce]
 ---
 
 # Enchiladas

@@ -37,7 +37,7 @@ steps:
   - Brush the tops of the buns with egg and sprinkle each bun generously with sesame seeds.
   - Bake until the buns are golden brown and feel light when lifted off the sheet pan, about 10-15 minutes.
   - Allow the buns to cool completely before slicing.
-labels: [dairy, bread, cake, soup, sauce, fermentation]
+labels: [bread, dairy, fermentation]
 ---
 
 # Sourdough Potato Hamburger Buns

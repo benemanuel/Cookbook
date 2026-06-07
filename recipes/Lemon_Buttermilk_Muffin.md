@@ -30,7 +30,7 @@ steps:
   - Divide the batter evenly between the muffin cups and bake on the middle rack for 20–25 minutes, or until golden brown and a toothpick comes out clean.
   - Let the muffins cool in the tray for 5 minutes, then remove and cool completely on a rack.
   - In a small bowl, mix Greek yogurt with honey until smooth and spoon or pipe a little on top of each muffin before serving.
-labels: [dairy, cake]
+labels: [dairy]
 ---
 
 # Lemon Buttermilk Muffins with Greek Yogurt & Honey

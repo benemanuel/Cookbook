@@ -30,7 +30,7 @@ steps:
   - Add 1 teaspoon baking powder, 1 teaspoon salt, and 1 rounded cup of flour to bring the total to 5 cups of flour.
   - Make herby garlic butter by mixing 3/4 cup softened butter with garlic to taste.
   - Proceed as you would for cinnamon rolls, filling with the garlic butter mixture and topping with Parmesan cheese.
-labels: [dairy, bread, cake]
+labels: [dairy]
 ---
 
 # Garlic Buns

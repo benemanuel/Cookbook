@@ -4,7 +4,7 @@ url: https://www.ricardocuisine.com/en/recipes/7060-gluten-free-vanilla-cake
 source: Ricardo Cuisine
 prep_minutes: 60
 cook_minutes: 70
-labels: [dairy, cake, candy, soup, drinks]
+labels: [candy, dairy]
 ---
 
 # Gluten-Free Vanilla Cake

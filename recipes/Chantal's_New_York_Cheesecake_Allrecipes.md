@@ -26,7 +26,7 @@ steps:
   - Add sour cream, flour, and vanilla and mix until smooth.
   - Pour the filling onto the prepared crust and bake in the preheated oven for 1 hour.
   - Turn the oven off and let the cheesecake cool in the oven with the door closed for 5 to 6 hours to prevent cracking, then chill in the refrigerator until serving.
-labels: [dairy, cake, drinks]
+labels: [cake, dairy]
 ---
 
 # Chantal's New York Cheesecake

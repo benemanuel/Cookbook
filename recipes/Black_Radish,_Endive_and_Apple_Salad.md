@@ -21,7 +21,7 @@ ingredients:
   - 8 to 10 small black radishes, sliced very thin on a mandoline (may substitute 4 tender young turnips)
   - "Leaves from 0.5 bunches flat-leaf parsley, torn"
 steps: null
-labels: [sauce, drinks, vegetables, pickles]
+labels: [vegetables]
 ---
 
 # Black Radish, Endive and Apple Salad

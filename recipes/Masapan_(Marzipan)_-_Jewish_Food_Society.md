@@ -4,7 +4,7 @@ from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
 date: "Sat, 3 Dec 2022 17:08:22 +0200"
 date_parsed: 2022-12-03T17:08:22+02:00
-labels: [candy, soup]
+labels: [soup]
 ---
 
 # Masapan (Marzipan) — Jewish Food Society

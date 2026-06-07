@@ -34,7 +34,7 @@ steps:
   - Reroll the cake and use the remainder of filling to cover the outside.
   - Sprinkle with cinnamon or chocolate if desired.
   - Keep refrigerated.
-labels: [dairy, cake]
+labels: [dairy]
 ---
 
 # Walnut Cream Roll

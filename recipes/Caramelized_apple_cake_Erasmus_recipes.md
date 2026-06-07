@@ -28,7 +28,7 @@ steps:
   - Add the caramelized apples to the cake mix once they have cooled down and give a final good mix.
   - Cover an 18-20cm baking tin generously with butter so the cake will not stick.
   - Bake in a preheated oven at 170°C until the surface becomes golden brown and a knife inserted comes out clean, approximately 45 minutes.
-labels: [dairy, cake, candy]
+labels: [dairy]
 ---
 
 # Caramelized Apple Cake

@@ -43,7 +43,7 @@ steps:
   - Whip the filling for 4 minutes until fluffy.
   - Add salt to taste, about a pinch or two.
   - Once the cookies are cooled, assemble them into sandwiches with the filling.
-labels: [dairy, cake, spice, vegetables]
+labels: [dairy]
 ---
 
 # Oatmeal Creme Pies

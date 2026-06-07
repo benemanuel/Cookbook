@@ -28,7 +28,7 @@ steps:
   - Add this mixture to a pie pan, cover and store overnight in the refrigerator.
   - In a small bowl, cut together the crumb topping ingredients until the mixture is crumbly like small peas you can press together, then store overnight or make in the morning.
   - Top the oatmeal with the crumb topping and bake at 350°F for 30-35 minutes, or set under the broiler for a minute or two if the crumb topping doesn't look golden brown and slightly crispy.
-labels: [dairy, cake, drinks]
+labels: [dairy]
 ---
 
 # Overnight Baked Blueberry Muffin Oatmeal

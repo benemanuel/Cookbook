@@ -9,7 +9,7 @@ attachments:
     type: "application/pdf"
     size: 151969
     local_path: "attachments\\2020-02-13_12-58-48_Swedish_Wort-bread_1\\Wort-bread-2-sheet-version.pdf"
-labels: [drinks]
+labels: [bread]
 ---
 
 # Swedish Wort-bread

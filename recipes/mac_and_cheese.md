@@ -32,7 +32,7 @@ steps:
   - Cook the pasta at a simmer, stirring often, for 8-11 minutes or until the sauce thickens and the macaroni is just cooked al dente.
   - Turn off the heat and stir in the cheddar and mozzarella cheeses.
   - Taste and adjust the seasoning with salt and pepper to taste.
-labels: [dairy, soup, sauce, vegetables]
+labels: [dairy]
 ---
 
 # Mac and Cheese

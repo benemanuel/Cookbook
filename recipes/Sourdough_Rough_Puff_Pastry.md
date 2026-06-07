@@ -30,7 +30,7 @@ steps:
   - Roll the dough out into a large rectangle about 12 by 8 inches.
   - Cut two rectangular strips of parchment paper and fold the dough in thirds, tucking parchment between folds.
   - Refrigerate the dough for at least 2 hours before using according to recipe instructions.
-labels: [dairy]
+labels: [bread]
 ---
 
 # Sourdough Rough Puff Pastry

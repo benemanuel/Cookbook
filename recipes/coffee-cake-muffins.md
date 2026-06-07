@@ -36,7 +36,7 @@ steps:
   - Allow glaze to set before serving.
   - In a medium bowl, combine sugars, cinnamon and salt. Stir in melted butter. Add flour and stir using a rubber spatula just until moist. Spread out mixture on parchment paper to dry until ready to use.
   - In a small bowl, whisk together confectioners’ sugar, vanilla and milk until smooth. If the glaze is too thin, add more confectioners’ sugar as needed.
-labels: [dairy, cake, drinks]
+labels: [cake, dairy]
 ---
 
 # Coffee Cake Muffins

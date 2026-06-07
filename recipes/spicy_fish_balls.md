@@ -25,7 +25,7 @@ steps:
   - Heat oil in a large skillet or pot over medium heat and sauté shallots, yellow pepper, orange pepper, and jalapeño until softened, about 5 minutes.
   - Add diced tomatoes and tomato sauce, then stir in salt, basil, parsley, and bay leaf, bringing to a simmer and cooking for 10 minutes.
   - Add the gefilte fish pieces to the sauce and simmer on low heat for 20–25 minutes, spooning sauce over the fish occasionally, until heated through and flavors meld.
-labels: [fish, soup, sauce, drinks, vegetables]
+labels: [fish]
 ---
 
 # Spicy Fish Balls

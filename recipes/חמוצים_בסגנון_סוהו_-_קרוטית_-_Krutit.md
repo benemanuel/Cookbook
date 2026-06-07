@@ -4,7 +4,7 @@ from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
 date: "Mon, 25 Nov 2024 20:06:10 +0200"
 date_parsed: 2024-11-25T20:06:10+02:00
-labels: [meat, dairy, cake, candy, sauce, drinks, vegetables, pickles]
+labels: [cake, dairy, sauce, vegetables]
 ---
 
 # חמוצים בסגנון סוהו - קרוטית - Krutit

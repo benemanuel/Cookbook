@@ -35,7 +35,7 @@ steps:
   - Return the pan to the oven and bake until a wooden skewer inserted into the center comes out fudgy but the edges look cooked through, about 20 minutes more.
   - Set the brownies on a cooling rack and cool completely in the pan.
   - Use the parchment paper to lift the cooled brownies out of the pan, cut into 24 bars, and serve.
-labels: [dairy, cake, soup, sauce, drinks]
+labels: [cake]
 ---
 
 # Best Brownies

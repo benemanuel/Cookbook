@@ -30,7 +30,7 @@ steps:
   - "Divide the dough into 3.5 ounce (99g) portions. (Use a #14 or #16 scoop to get about 1/4 cup of dough and use your scale to adjust.) Place the mounds of dough on the prepared pans. (You can get about 6 cookies on a pan, but I often just bake 4 at a time to give them a little more space to spread.)  Sprinkle the top of each cookie with a pinch of sea salt."
   - Bake 18 to 20 minutes, or until golden brown but still soft.
   - Cool on the pans on a wire rack for 10 minutes. Then transfer the cookies to a rack to cool completely.
-labels: [dairy, bread, cake, drinks]
+labels: [cake]
 ---
 
 # Jacques Torres Chocolate Chip Cookies

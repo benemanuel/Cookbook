@@ -33,7 +33,7 @@ steps:
   - Turn the speed down to low and gradually add in the powdered sugar. Continue mixing on low speed until the powdered sugar is completely incorporated. Add in vanilla extract and milk and mix until combined.
   - "Turn mixer back up to medium-high speed and beat the mixture for an additional 3-5 minutes. If needed, add in a little more milk or half-and-half 1 teaspoon at a time until you reach the consistency you desire."
   - To assemble the cookies, pipe or spread the cream filling on the flat side of half of the cookies and put the remaining cookies on top.
-labels: [dairy, cake]
+labels: [dairy]
 ---
 
 #  Oatmeal Cream Pies

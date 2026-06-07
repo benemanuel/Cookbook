@@ -24,7 +24,7 @@ steps:
   - Add vanilla and powdered sugar.
   - When cheese mixture reaches a smooth consistency, set aside, keeping the mixture at room temperature.
   - Just before serving, lightly fold whipped cream into the cheese mixture.
-labels: [dairy, cake]
+labels: [dairy]
 ---
 
 # Mascarpone Mousse

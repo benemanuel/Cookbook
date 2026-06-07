@@ -45,7 +45,7 @@ steps:
   - Place the baking sheet into the center of the oven and turn it down to 400°F (200°C).
   - Bake for 18 to 22 minutes or until golden on top.
   - Cool on a wire rack until ready to serve.
-labels: [bread, cake, vegetables, fermentation]
+labels: [bread, fermentation]
 ---
 
 # New York Style Sourdough Bagels

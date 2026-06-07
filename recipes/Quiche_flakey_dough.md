@@ -14,7 +14,7 @@ ingredients:
   - 100 gr unsalted butter, cold, cut into cubes
   - 3 tablespoons ice cold water
 steps: null
-labels: [dairy]
+labels: []
 ---
 
 # Quiche Flaky Dough

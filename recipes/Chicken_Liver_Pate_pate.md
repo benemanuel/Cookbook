@@ -32,7 +32,7 @@ steps:
   - Scrape the pâté into 2 or 3 large ramekins.
   - Press a piece of plastic wrap directly onto the surface of the pâté and refrigerate until firm.
   - Serve chilled.
-labels: [meat, dairy, soup, sauce, drinks, vegetables]
+labels: [drinks, meat]
 ---
 
 # Chicken Liver Pâté

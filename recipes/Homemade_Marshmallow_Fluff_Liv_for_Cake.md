@@ -26,7 +26,7 @@ steps:
   - "Continue to whip for 7-8 minutes, or until the mixture is thick and fluffy."
   - Add in vanilla and whip until the fluff has cooled completely.
   - "Use right away as a frosting or filling or transfer into an airtight container and store for up to 2 weeks at room temperature.***"
-labels: [dairy, cake, candy, sauce, vegetables, pickles]
+labels: [candy]
 ---
 
 #  Marshmallow Fluff

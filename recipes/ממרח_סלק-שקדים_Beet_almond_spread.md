@@ -4,7 +4,7 @@ from: "benemanuel family <benemanuel.family@gmail.com>"
 to: "benemanuel family <benemanuel.family@gmail.com>"
 date: "Sat, 2 Dec 2023 13:57:28 +0200"
 date_parsed: 2023-12-02T13:57:28+02:00
-labels: [vegetables]
+labels: []
 ---
 
 # ממרח סלק-שקדים Beet almond spread

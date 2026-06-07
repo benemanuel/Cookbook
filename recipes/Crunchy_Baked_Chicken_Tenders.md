@@ -27,7 +27,7 @@ steps:
   - Pick up chicken with tongs and place it into the panko bowl, sprinkle the surface with breadcrumbs, press down to adhere, and transfer onto the baking tray.
   - Spray lightly with oil, sprinkle with a touch of salt if desired, and bake for 15 to 20 minutes.
   - Remove from oven and serve immediately with your choice of dipping sauce.
-labels: [sauce, drinks]
+labels: [sauce]
 ---
 
 # Crunchy Baked Chicken Tenders

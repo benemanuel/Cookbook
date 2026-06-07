@@ -23,7 +23,7 @@ steps:
   - Use a meat thermometer to ensure the internal temperature reaches 165°F (75°C).
   - Remove the chicken from the grill and let it rest for 5 minutes to allow the juices to redistribute throughout the meat.
   - Slice and serve the chicken breast with your favorite sides or use it in salads, sandwiches, or other dishes.
-labels: [meat, sauce, spice, vegetables]
+labels: [meat, spice]
 ---
 
 # Chicken Breast on a Ninja Woodfire Electric Grill

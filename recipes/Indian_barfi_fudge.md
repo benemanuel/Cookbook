@@ -27,7 +27,7 @@ steps:
   - Turn off the heat and add vanilla extract, cardamom, and a tablespoon of pistachios, then mix well.
   - Spread the mixture evenly on the greased pan and top with the remaining tablespoon of pistachios.
   - Let the barfi set for at least three hours before serving or storing in an airtight container at room temperature for up to seven days.
-labels: [dairy, cake, candy]
+labels: [dairy]
 ---
 
 # Indian Barfi Fudge

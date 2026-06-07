@@ -1,343 +1,374 @@
+"""
+add_labels.py — two-tier labeling system
+
+INCLUSIVE labels  (meat, fish, dairy, fermentation)
+  Applied whenever the ingredient/technique is significantly present.
+  A chicken soup gets both 'meat' AND 'soup'.
+
+DISH-TYPE labels  (bread, cake, candy, soup, sauce, vegetables, pickles, drinks, spice)
+  Applied only when the recipe IS that type of dish.
+  Higher threshold. A recipe that uses wine is not a 'drinks' recipe.
+  A recipe that has garlic is not a 'vegetables' recipe.
+
+Exclusion: 'vegetables' is not applied when meat or fish is labeled
+  (a chicken-and-vegetable stew is a meat dish, not a vegetable dish).
+"""
 import os
 import re
 
 RECIPES_DIR = r"C:\Users\avi\GitHub\Cookbook\recipes"
 
+INCLUSIVE_LABELS  = {'meat', 'fish', 'dairy', 'fermentation'}
+DISH_TYPE_LABELS  = {'bread', 'cake', 'candy', 'soup', 'sauce', 'vegetables', 'pickles', 'drinks', 'spice'}
+
+INCLUSIVE_THRESHOLD  = 4
+DISH_TYPE_THRESHOLD  = 8
+
 CONTENT_KEYWORDS = {
+    # ── INCLUSIVE ──────────────────────────────────────────────────────────────
+
     'meat': {
-        'ground beef': 3, 'ground chicken': 3, 'ground turkey': 3, 'ground lamb': 3,
-        'chicken breast': 3, 'chicken thigh': 3, 'chicken drumstick': 3, 'chicken wing': 3,
-        'whole chicken': 3, 'beef chuck': 3, 'beef brisket': 3, 'beef ribs': 3,
-        'short ribs': 3, 'lamb chop': 3, 'lamb shoulder': 3, 'leg of lamb': 3,
-        'pork loin': 3, 'pork chop': 3, 'pork belly': 3, 'duck breast': 3,
-        'veal': 3, 'turkey breast': 3, 'brisket': 2, 'steak': 2,
-        'pastrami': 2, 'corned beef': 2, 'pot roast': 2,
-        'chicken stock': 2, 'beef stock': 2, 'chicken broth': 2, 'beef broth': 2,
-        'bone broth': 2, 'meatball': 2, 'meatloaf': 2, 'tongue': 2,
-        'meat sauce': 2, 'meat filling': 2,
-        'meat': 1, 'chicken': 1, 'beef': 1, 'lamb': 1,
-        'poultry': 1, 'sausage': 1, 'bacon': 1, 'prosciutto': 1,
-        'kabanos': 2, 'basturma': 2, 'liver': 1, 'duck': 1,
+        # Specific cuts — strong signals
+        'ground beef': 4, 'ground chicken': 4, 'ground turkey': 4, 'ground lamb': 4,
+        'chicken breast': 4, 'chicken thigh': 4, 'chicken thighs': 4,
+        'chicken drumstick': 4, 'chicken wing': 4, 'whole chicken': 4,
+        'beef chuck': 4, 'beef brisket': 4, 'beef ribs': 4, 'short ribs': 4,
+        'lamb chop': 4, 'lamb shoulder': 4, 'leg of lamb': 4,
+        'duck breast': 4, 'veal': 4, 'turkey breast': 4, 'pork belly': 4,
+        'pork loin': 4, 'pork chop': 4,
+        'brisket': 3, 'steak': 3, 'pastrami': 3, 'corned beef': 3,
+        'meatball': 3, 'meatloaf': 3, 'tongue': 3,
+        'prosciutto': 3, 'kabanos': 3, 'basturma': 3, 'liver': 2,
+        # Generic
+        'chicken': 2, 'beef': 2, 'lamb': 2, 'duck': 2, 'turkey': 2,
+        'meat': 2, 'poultry': 2, 'sausage': 2, 'bacon': 2,
         # Hebrew
-        'בשר': 2, 'עוף': 2, 'כבש': 3, 'בקר': 2, 'עגל': 3,
-        'חזה עוף': 3, 'ירך עוף': 3, 'בשר טחון': 3, 'קציצות': 2,
-        'שניצל': 3, 'קבב': 3, 'סטייק': 2, 'כבד': 2, 'נקניק': 2,
-        'פסטרמה': 3, 'אסאדו': 3, 'אנטריקוט': 3,
+        'חזה עוף': 4, 'ירך עוף': 4, 'פרגית': 4, 'פרגיות': 4,
+        'בשר טחון': 4, 'כבש': 4, 'קציצות': 3, 'שניצל': 4, 'קבב': 4,
+        'סטייק': 3, 'כבד': 3, 'פסטרמה': 4, 'אסאדו': 4, 'אנטריקוט': 4,
+        'נקניק': 3, 'בשר': 2, 'עוף': 2, 'בקר': 2, 'עגל': 3,
     },
+
     'fish': {
-        'salmon': 3, 'tuna': 3, 'cod': 3, 'tilapia': 3, 'trout': 3,
-        'halibut': 3, 'sardine': 3, 'anchovy': 3, 'herring': 3, 'mackerel': 3,
-        'lox': 3, 'shrimp': 3, 'prawn': 3, 'crab': 3, 'lobster': 3,
-        'scallop': 3, 'clam': 3, 'squid': 3, 'octopus': 3,
-        'gefilte': 3, 'smoked fish': 3, 'fish fillet': 3,
-        'fish stock': 2, 'seafood': 2, 'fish and chips': 3,
-        'sea bass': 3, 'snapper': 3, 'haddock': 3, 'whitefish': 3,
+        'salmon': 4, 'tuna': 4, 'cod': 4, 'tilapia': 4, 'trout': 4,
+        'halibut': 4, 'sardine': 4, 'anchovy': 4, 'herring': 4, 'mackerel': 4,
+        'lox': 4, 'shrimp': 4, 'prawn': 4, 'crab': 4, 'lobster': 4,
+        'scallop': 4, 'clam': 4, 'squid': 4, 'octopus': 4,
+        'gefilte': 4, 'smoked fish': 4, 'fish fillet': 4,
+        'seafood': 3, 'sea bass': 4, 'snapper': 4, 'haddock': 4, 'whitefish': 4,
         # Hebrew
-        'סלמון': 3, 'טונה': 3, 'קרפיון': 3, 'פורל': 3, 'בקלה': 3,
-        'סרדין': 3, 'גפילטע': 3, 'לוקוס': 3, 'דניס': 3,
-        'שרימפס': 3, 'קלמרי': 3, 'פילה דג': 3, 'דגים': 2,
+        'סלמון': 4, 'טונה': 4, 'קרפיון': 4, 'פורל': 4, 'בקלה': 4,
+        'סרדין': 4, 'גפילטע': 4, 'לוקוס': 4, 'דניס': 4,
+        'שרימפס': 4, 'קלמרי': 4, 'פילה דג': 4, 'דגים': 3, 'דג': 2,
     },
+
     'dairy': {
-        'heavy cream': 3, 'whipping cream': 3, 'double cream': 3, 'sour cream': 3,
-        'cream cheese': 3, 'mascarpone': 3, 'ricotta': 3, 'mozzarella': 3,
-        'parmesan': 3, 'cheddar': 3, 'gouda': 3, 'feta': 3, 'brie': 3,
-        'camembert': 3, 'halloumi': 3, 'paneer': 3, 'gruyere': 3,
-        'condensed milk': 3, 'evaporated milk': 3, 'buttermilk': 3,
-        'creme fraiche': 3, 'clotted cream': 3,
-        'ghee': 2, 'kefir': 2, 'milk': 2, 'butter': 2, 'cream': 2,
-        'yogurt': 2, 'yoghurt': 2, 'cheese': 1, 'eggnog': 3,
+        'heavy cream': 4, 'whipping cream': 4, 'double cream': 4, 'sour cream': 4,
+        'cream cheese': 4, 'mascarpone': 4, 'ricotta': 4, 'mozzarella': 4,
+        'parmesan': 4, 'cheddar': 4, 'gouda': 4, 'feta': 4, 'brie': 4,
+        'camembert': 4, 'halloumi': 4, 'paneer': 4, 'gruyere': 4,
+        'condensed milk': 4, 'evaporated milk': 4, 'buttermilk': 4,
+        'creme fraiche': 4, 'clotted cream': 4,
+        'ghee': 3, 'kefir': 3, 'yogurt': 3, 'yoghurt': 3,
+        'milk': 2, 'butter': 2, 'cream': 2, 'cheese': 2,
         # Hebrew
-        'שמנת מתוקה': 3, 'שמנת חמוצה': 3, 'גבינת שמנת': 3,
-        'מסקרפונה': 3, 'ריקוטה': 3, 'מוצרלה': 3, 'פרמזן': 3,
-        'גבינה צהובה': 3, 'גבינה לבנה': 3, 'חלומי': 3, 'פטה': 3,
-        'חלב מרוכז': 3, 'חמאה': 2, 'שמנת': 2, 'חלב': 2, 'גבינה': 1, 'יוגורט': 2,
+        'שמנת מתוקה': 4, 'שמנת חמוצה': 4, 'גבינת שמנת': 4,
+        'מסקרפונה': 4, 'ריקוטה': 4, 'מוצרלה': 4, 'פרמזן': 4,
+        'גבינה צהובה': 4, 'גבינה לבנה': 4, 'חלומי': 4, 'פטה': 4,
+        'חלב מרוכז': 4, 'יוגורט': 3,
+        'חמאה': 2, 'שמנת': 2, 'חלב': 2, 'גבינה': 2,
     },
-    'bread': {
-        'active dry yeast': 3, 'instant yeast': 3, 'rapid rise yeast': 3,
-        'sourdough starter': 3, 'levain': 3, 'poolish': 3,
-        'autolyse': 3, 'bulk ferment': 3, 'stretch and fold': 3,
-        'bread flour': 3, 'rye flour': 3, 'spelt flour': 3,
-        'whole wheat flour': 2, 'semolina flour': 2,
-        'knead': 2, 'kneading': 2, 'proofing': 2,
-        'dutch oven': 2, 'loaf pan': 2, 'banneton': 3, 'bread pan': 2,
-        'pizza dough': 3, 'bread dough': 3,
-        'yeast': 2, 'flour': 1,
-        # Hebrew
-        'שמרים יבשים': 3, 'שמרים טריים': 3, 'מחמצת': 3,
-        'קמח לחם': 3, 'קמח מלא': 2, 'קמח שיפון': 3, 'קמח כוסמין': 3,
-        'לישה': 2, 'תפיחה': 2, 'שמרים': 2, 'קמח': 1,
-    },
-    'cake': {
-        'baking powder': 3, 'baking soda': 3,
-        'cake flour': 3, 'almond flour': 2,
-        'frosting': 3, 'ganache': 3, 'glaze': 2, 'streusel': 3,
-        'cheesecake': 3, 'tiramisu': 3, 'brownie': 3,
-        'muffin': 2, 'cupcake': 3, 'bundt': 3, 'chiffon': 3,
-        'sponge cake': 3, 'pound cake': 3, 'coffee cake': 3,
-        'pastry cream': 3, 'diplomat cream': 3,
-        'powdered sugar': 2, 'confectioners sugar': 2, 'icing': 2,
-        # Hebrew
-        'אבקת אפייה': 3, 'סודה לשתייה': 3, 'קמח שקדים': 2,
-        'גנאש': 3, 'עוגת גבינה': 3, 'מאפינס': 3, 'קרמבל': 3,
-        'עוגה': 1, 'עוגיות': 1,
-    },
-    'candy': {
-        'candy thermometer': 3, 'hard crack': 3, 'soft ball stage': 3,
-        'hard ball stage': 3, 'firm ball stage': 3,
-        'caramel': 2, 'toffee': 3, 'nougat': 3, 'marzipan': 3, 'fondant': 3,
-        'praline': 3, 'brittle': 3, 'fudge': 3, 'truffle': 2,
-        'corn syrup': 2, 'glucose syrup': 2,
-        'halva': 3, 'energy ball': 3, 'energy bite': 3, 'sugar syrup': 2,
-        # Hebrew
-        'קרמל': 2, 'טופי': 3, 'נוגט': 3, 'מרציפן': 3, 'חלבה': 3,
-        'כדורי אנרגיה': 3, 'ממתק': 2,
-    },
-    'soup': {
-        'soup': 2, 'stew': 2, 'broth': 2, 'stock': 2, 'chowder': 3,
-        'bisque': 3, 'gazpacho': 3, 'minestrone': 3, 'bouillabaisse': 3,
-        'consomme': 3, 'velouté': 3, 'potage': 3,
-        'slow cooker': 2, 'dutch oven': 2, 'simmer': 2,
-        'bone broth': 3, 'chicken stock': 3, 'beef stock': 3,
-        'lentil soup': 3, 'bean soup': 3, 'tomato soup': 3,
-        'goulash': 3, 'borscht': 3, 'ramen': 3, 'pho': 3,
-        # Hebrew
-        'מרק': 2, 'נזיד': 2, 'תבשיל': 2, 'ציר': 2,
-    },
-    'sauce': {
-        'sauce': 2, 'gravy': 3, 'dressing': 2, 'marinade': 2,
-        'vinaigrette': 3, 'aioli': 3, 'mayonnaise': 3,
-        'pesto': 3, 'salsa': 3, 'tapenade': 3,
-        'béchamel': 3, 'bechamel': 3, 'hollandaise': 3,
-        'chimichurri': 3, 'tahini sauce': 3, 'hummus': 3,
-        'tomato sauce': 3, 'pasta sauce': 3, 'meat sauce': 3,
-        'teriyaki': 3, 'soy sauce': 2, 'hot sauce': 3,
-        'garlic sauce': 3, 'toum': 3, 'tzatziki': 3,
-        'butter sauce': 3, 'cream sauce': 3,
-        # Hebrew
-        'רוטב': 2, 'טחינה': 2, 'חומוס': 2, 'פסטו': 3,
-        'מיונז': 3, 'וינגרט': 3, 'מרינדה': 2,
-    },
-    'drinks': {
-        'vodka': 3, 'whiskey': 3, 'whisky': 3, 'bourbon': 3, 'rum': 3,
-        'gin': 3, 'tequila': 3, 'brandy': 3, 'cognac': 3, 'armagnac': 3,
-        'wine': 2, 'red wine': 3, 'white wine': 3, 'champagne': 3, 'prosecco': 3,
-        'beer': 2, 'ale': 2, 'lager': 2, 'stout': 2,
-        'liqueur': 3, 'schnapps': 3, 'vermouth': 3, 'kahlua': 3,
-        'baileys': 3, 'drambuie': 3, 'cointreau': 3, 'triple sec': 3,
-        'amaretto': 3, 'frangelico': 3, 'limoncello': 3,
-        'cocktail': 2, 'bitters': 3, 'simple syrup': 2, 'muddle': 3,
-        'infuse': 2, 'ferment': 2, 'kombucha': 3, 'ginger beer': 3,
-        'mead': 3, 'cider': 2, 'hard cider': 3,
-        # Hebrew
-        'וודקה': 3, 'ויסקי': 3, 'רום': 3, 'ג\'ין': 3, 'טקילה': 3,
-        'יין': 2, 'בירה': 2, 'ליקר': 3, 'קוקטייל': 2, 'קומבוצ\'ה': 3,
-    },
-    'spice': {
-        'spice blend': 3, 'spice mix': 3, 'spice rub': 3, 'spice paste': 3,
-        'herb blend': 3, 'herb mix': 3, 'herbes de provence': 3,
-        'ras el hanout': 3, 'za\'atar': 3, 'baharat': 3, 'dukkah': 3,
-        'garam masala': 3, 'curry powder': 3, 'chili powder': 3,
-        'taco seasoning': 3, 'italian seasoning': 3, 'old bay': 3,
-        'pickling spice': 3, 'mulling spice': 3,
-        'dry rub': 3, 'seasoning blend': 3, 'masala': 2,
-        'pumpkin spice': 3, 'chimichurri': 3, 'harissa': 3,
-        'zhug': 3, 'chermoula': 3, 'dukka': 3,
-        # Hebrew
-        'תבלין': 2, 'תערובת תבלינים': 3, 'זעתר': 3, 'בהרט': 3,
-        'חריסה': 3, 'שוג': 3, 'קארי': 2,
-    },
-    'vegetables': {
-        'eggplant': 2, 'aubergine': 2, 'zucchini': 2, 'courgette': 2,
-        'carrot': 2, 'cauliflower': 2, 'broccoli': 2, 'spinach': 2,
-        'kale': 2, 'cabbage': 2, 'brussels sprout': 3, 'leek': 2,
-        'fennel': 2, 'celery': 2, 'parsnip': 2, 'turnip': 2,
-        'sweet potato': 2, 'butternut squash': 3, 'pumpkin': 2,
-        'beet': 2, 'beetroot': 2, 'kohlrabi': 3, 'radish': 2,
-        'artichoke': 2, 'asparagus': 2, 'green bean': 2, 'snap pea': 2,
-        'corn': 2, 'mushroom': 2, 'onion': 1, 'shallot': 2,
-        'tomato': 1, 'pepper': 1, 'bell pepper': 2, 'chili': 1,
-        'garlic': 1, 'potato': 1, 'sweet potato': 2,
-        'roasted vegetable': 3, 'vegetable soup': 3, 'vegetable stew': 3,
-        'vegetable gratin': 3, 'ratatouille': 3, 'gratin': 2,
-        'salad': 2, 'slaw': 2, 'coleslaw': 3,
-        # Hebrew
-        'חצילים': 2, 'קישואים': 2, 'גזר': 2, 'כרובית': 2, 'תרד': 2,
-        'כרוב': 2, 'סלק': 2, 'עגבניות': 1, 'פלפל': 1, 'בצל': 1,
-        'תפוחי אדמה': 2, 'בטטה': 2, 'פטריות': 2, 'מלפפון': 1,
-        'ירקות': 2, 'סלט': 2,
-    },
+
     'fermentation': {
-        'sourdough starter': 3, 'levain': 3, 'wild yeast': 3,
-        'kombucha': 3, 'kefir': 3, 'jun': 3,
-        'lacto-ferment': 3, 'lacto ferment': 3, 'lacto fermentation': 3,
-        'scoby': 3, 'second ferment': 3,
-        'fermented': 2, 'fermentation': 3, 'ferment': 2,
-        'kimchi': 3, 'sauerkraut': 3, 'miso': 3, 'tempeh': 3,
-        'natto': 3, 'kvass': 3, 'tepache': 3, 'amazake': 3,
-        'ginger bug': 3, 'ginger beer': 3, 'water kefir': 3,
-        'milk kefir': 3, 'rejuvelac': 3, 'brine': 2,
-        'culture': 2, 'starter culture': 3,
+        'sourdough starter': 4, 'levain': 4, 'wild yeast': 4,
+        'kombucha': 4, 'kefir': 4, 'jun': 4,
+        'lacto-ferment': 4, 'lacto ferment': 4, 'lacto fermentation': 4,
+        'scoby': 4, 'second ferment': 4,
+        'fermented': 3, 'fermentation': 4,
+        'kimchi': 4, 'sauerkraut': 4, 'miso': 4, 'tempeh': 4,
+        'natto': 4, 'kvass': 4, 'tepache': 4, 'amazake': 4,
+        'ginger bug': 4, 'water kefir': 4, 'milk kefir': 4,
+        'starter culture': 4, 'culture': 2, 'brine': 2,
         # Hebrew
-        'מחמצת': 3, 'תסיסה': 3, 'קומבוצ\'ה': 3, 'כבוש': 2,
+        'מחמצת': 4, 'תסיסה': 4, "קומבוצ'ה": 4, 'כבוש': 2,
     },
-    'pickles': {
-        'brine': 2, 'pickling': 3, 'pickled': 2, 'pickle': 2,
-        'fermented': 2, 'lacto-ferment': 3, 'lacto ferment': 3,
-        'canning': 2, 'water bath': 2, 'preserve': 2, 'preserving': 2,
-        'jam': 2, 'jelly': 2, 'marmalade': 3, 'chutney': 3, 'relish': 3,
-        'sauerkraut': 3, 'kimchi': 3, 'giardiniera': 3,
-        'vinegar': 2, 'apple cider vinegar': 2, 'white vinegar': 2,
-        'salt water': 2, 'salt brine': 3, 'pickling salt': 3,
-        'dill pickle': 3, 'bread and butter pickle': 3,
+
+    # ── DISH-TYPE ──────────────────────────────────────────────────────────────
+    # Threshold is 8 — generic cooking words are intentionally absent or low-weight.
+
+    'bread': {
+        # Technique — unambiguous bread-making signals
+        'sourdough starter': 6, 'levain': 6, 'poolish': 6, 'biga': 6,
+        'autolyse': 6, 'bulk ferment': 6, 'stretch and fold': 6, 'banneton': 6,
+        'pizza dough': 6, 'bread dough': 6,
+        # Flour types specific to bread
+        'bread flour': 5, 'rye flour': 5, 'spelt flour': 5,
+        'whole wheat flour': 3, 'semolina flour': 3,
+        # Leavening + technique words — need to accumulate
+        'active dry yeast': 4, 'instant yeast': 4, 'rapid rise yeast': 4,
+        'proofing': 4, 'knead': 3, 'kneading': 3,
+        'loaf pan': 3, 'bread pan': 3,
+        'yeast': 3,
+        # NOT 'flour' alone — appears in cakes, tempura, coatings, everything
         # Hebrew
-        'כבוש': 2, 'כבושים': 2, 'חמוצים': 2, 'מלפפון חמוץ': 3,
-        'ריבה': 2, 'מרמלדה': 3, 'צ\'אטני': 3, 'רלישׁ': 3,
-        'תסיסה': 3, 'מי מלח': 2,
+        'שמרים יבשים': 5, 'שמרים טריים': 5, 'קמח לחם': 5,
+        'קמח מלא': 3, 'קמח שיפון': 5, 'קמח כוסמין': 5,
+        'לישה': 3, 'תפיחה': 4, 'שמרים': 3,
+    },
+
+    'cake': {
+        # Named desserts — unambiguous
+        'cheesecake': 9, 'tiramisu': 9, 'brownie': 9, 'cupcake': 9,
+        'bundt': 9, 'chiffon cake': 9, 'sponge cake': 9, 'pound cake': 9,
+        'coffee cake': 9, 'layer cake': 9,
+        # Cake-specific elements
+        'frosting': 6, 'ganache': 6, 'streusel': 6,
+        'pastry cream': 6, 'diplomat cream': 6,
+        'cake flour': 6,
+        'confectioners sugar': 4, 'powdered sugar': 4, 'icing': 4,
+        'almond flour': 3,
+        # Baking soda/powder alone is not enough (used in batters, falafel, etc.)
+        'baking powder': 2, 'baking soda': 2,
+        # Hebrew
+        'גנאש': 6, 'עוגת גבינה': 9, 'מאפינס': 9,
+        'עוגה': 4, 'עוגיות': 4,
+        'אבקת אפייה': 2, 'סודה לשתייה': 2,
+    },
+
+    'candy': {
+        # Sugar-work — unambiguous
+        'candy thermometer': 9, 'hard crack': 9, 'soft ball stage': 9,
+        'hard ball stage': 9, 'firm ball stage': 9,
+        'toffee': 6, 'nougat': 6, 'marzipan': 6, 'fondant': 6,
+        'praline': 6, 'brittle': 6, 'fudge': 6,
+        'halva': 6, 'energy ball': 5, 'energy bite': 5,
+        'corn syrup': 4, 'glucose syrup': 4,
+        'caramel': 3, 'truffle': 3,
+        # Hebrew
+        'חלבה': 6, 'נוגט': 6, 'מרציפן': 6,
+        'כדורי אנרגיה': 5, 'ממתק': 4, 'קרמל': 3,
+    },
+
+    'soup': {
+        # Named soups — unambiguous
+        'gazpacho': 9, 'minestrone': 9, 'bouillabaisse': 9,
+        'consomme': 9, 'borscht': 8, 'ramen': 8, 'pho': 8, 'goulash': 8,
+        'chowder': 6, 'bisque': 6, 'velouté': 6, 'potage': 6,
+        # Functional soup words
+        'soup': 4, 'stew': 4, 'bone broth': 5,
+        'lentil soup': 6, 'bean soup': 6, 'tomato soup': 6,
+        'broth': 3, 'stock': 3,
+        # NOT: slow cooker, dutch oven, simmer — appear in braises, stews, sauces
+        # Hebrew
+        'מרק': 4, 'נזיד': 5, 'תבשיל': 3, 'ציר': 3,
+    },
+
+    'sauce': {
+        # Named condiments — unambiguous
+        'vinaigrette': 6, 'aioli': 6, 'mayonnaise': 6,
+        'pesto': 6, 'tapenade': 6,
+        'béchamel': 6, 'bechamel': 6, 'hollandaise': 6,
+        'chimichurri': 6, 'toum': 6, 'tzatziki': 6,
+        'hummus': 6, 'tahini sauce': 5, 'salsa': 5,
+        'gravy': 5, 'dressing': 4,
+        'sauce': 3, 'marinade': 3,
+        # Hebrew
+        'חומוס': 5, 'פסטו': 6, 'מיונז': 6, 'וינגרט': 6,
+        'רוטב': 3, 'טחינה': 3, 'מרינדה': 3,
+    },
+
+    'vegetables': {
+        # Vegetable-centric dish markers
+        'roasted vegetable': 6, 'vegetable soup': 6, 'vegetable stew': 6,
+        'vegetable gratin': 6, 'ratatouille': 9, 'gratin': 4,
+        'falafel': 8, 'vegan': 5, 'vegetarian': 5,
+        # Vegetables — need several to accumulate past threshold
+        # (garlic, onion, tomato, pepper excluded — in virtually every savory recipe)
+        'eggplant': 3, 'aubergine': 3, 'zucchini': 3, 'courgette': 3,
+        'cauliflower': 3, 'broccoli': 3, 'spinach': 3, 'kale': 3,
+        'cabbage': 3, 'brussels sprout': 4, 'leek': 3, 'fennel': 3,
+        'parsnip': 4, 'turnip': 4, 'butternut squash': 4, 'pumpkin': 3,
+        'beet': 3, 'beetroot': 3, 'kohlrabi': 4, 'radish': 3,
+        'artichoke': 4, 'asparagus': 4, 'green bean': 3, 'snap pea': 3,
+        'mushroom': 3, 'sweet potato': 3,
+        'salad': 3, 'slaw': 4, 'coleslaw': 5,
+        'chickpea': 4, 'lentil': 4, 'bean': 3,
+        # Hebrew
+        'חצילים': 4, 'קישואים': 3, 'כרובית': 3, 'תרד': 3,
+        'כרוב': 3, 'סלק': 3, 'בטטה': 3, 'פטריות': 3,
+        'ירקות': 4, 'סלט': 3, 'קולרבי': 4, 'אספרגוס': 4,
+    },
+
+    'pickles': {
+        # The recipe IS a pickling/preserving recipe — not just uses vinegar
+        'pickling': 6, 'pickled': 5, 'pickle': 4,
+        'lacto-ferment': 6, 'lacto ferment': 6,
+        'canning': 5, 'water bath canning': 6,
+        'preserve': 4, 'preserving': 5,
+        'jam': 4, 'jelly': 4, 'marmalade': 6, 'chutney': 6, 'relish': 6,
+        'sauerkraut': 6, 'kimchi': 6, 'giardiniera': 6,
+        'pickling salt': 6, 'pickling spice': 6,
+        'dill pickle': 6, 'bread and butter pickle': 6,
+        'salt brine': 4,
+        # NOT: vinegar alone, brine alone, fermented alone — appear in meats/sauces
+        # Hebrew
+        'כבושים': 5, 'חמוצים': 5, 'מלפפון חמוץ': 6,
+        'ריבה': 4, 'מרמלדה': 6, "צ'אטני": 6, 'כבוש': 3,
+    },
+
+    'drinks': {
+        # The recipe IS a drink — not a recipe that cooks with alcohol
+        'cocktail': 6, 'bitters': 5, 'muddle': 5,
+        'liqueur': 5, 'schnapps': 5, 'vermouth': 5,
+        'vodka': 4, 'whiskey': 4, 'whisky': 4, 'bourbon': 4, 'rum': 4,
+        'gin': 4, 'tequila': 4, 'brandy': 4, 'cognac': 4,
+        'champagne': 4, 'prosecco': 4,
+        'kahlua': 5, 'cointreau': 5, 'triple sec': 5, 'amaretto': 5, 'limoncello': 5,
+        'simple syrup': 3, 'kombucha': 5, 'ginger beer': 4, 'mead': 5, 'hard cider': 5,
+        # NOT: wine (2), beer (2), cider (2) — used as cooking ingredients constantly
+        # Hebrew
+        'וודקה': 4, 'ויסקי': 4, 'רום': 4, "ג'ין": 4, 'טקילה': 4,
+        'ליקר': 5, 'קוקטייל': 5, 'יין': 3, 'בירה': 3,
+    },
+
+    'spice': {
+        # The recipe IS a spice blend, rub, or seasoning mix
+        # NOT a recipe that uses spices as ingredients
+        'spice blend': 6, 'spice mix': 6, 'spice rub': 6, 'spice paste': 6,
+        'herb blend': 6, 'herb mix': 6,
+        'herbes de provence': 9, 'ras el hanout': 9,
+        "za'atar": 9, 'baharat': 9, 'dukkah': 9, 'dukkah': 9,
+        'garam masala': 9, 'taco seasoning': 6, 'italian seasoning': 6,
+        'pickling spice': 6, 'mulling spice': 6,
+        'dry rub': 6, 'seasoning blend': 6,
+        'pumpkin spice': 6, 'zhug': 6, 'chermoula': 6,
+        'harissa': 5, 'chimichurri': 5,
+        'masala': 4, 'curry powder': 6,
+        # Hebrew
+        'תערובת תבלינים': 6, 'זעתר': 6, 'בהרט': 6, 'חריסה': 5, 'שוג': 6,
     },
 }
 
-# Filename & subject patterns — broader than content keywords
+# Slug patterns: filename tokens and subject line matches.
+# For inclusive labels: cast a wide net.
+# For dish-type labels: only match unambiguous filename tokens.
 SLUG_PATTERNS = {
     'meat': [
         'chicken', 'beef', 'brisket', 'lamb', 'duck', 'turkey', 'veal', 'pork',
-        'steak', 'meatball', 'meatloaf', 'goulash', 'pastrami', 'corned',
+        'steak', 'meatball', 'meatloaf', 'pastrami', 'corned',
         'bourguignon', 'schnitzel', 'kabanos', 'basturma', 'sausage', 'karaage',
-        'gochujang', 'shepard', 'shepherd', 'stuffed_cabbage', 'pot_roast', 'chuck',
-        'asado', 'curd_meat', 'keftedes', 'swedish_meatball', 'cabbage_rolls',
+        'shepard', 'shepherd', 'stuffed_cabbage', 'pot_roast', 'chuck',
+        'asado', 'keftedes', 'swedish_meatball', 'cabbage_rolls',
         'musaka', 'moussaka', 'enchiladas', 'tongue', 'meat_sauce', 'meat_pie',
-        'meat_filling', 'meat_berakos', 'meat_6', 'rub', 'jerky', 'smoked_duck',
-        'smoked_pastrami', 'liver_pate', 'chicken_liver',
-        # Hebrew subject signals
+        'jerky', 'smoked_duck', 'smoked_pastrami', 'liver_pate', 'chicken_liver',
+        'salami', 'jambon',
         'בשר', 'עוף', 'כבש', 'עגל', 'קציצות', 'שניצל', 'קבב', 'סטייק',
         'פסטרמה', 'אסאדו', 'אנטריקוט', 'כבד',
     ],
     'fish': [
         'fish', 'salmon', 'lox', 'tuna', 'seafood', 'sardine', 'anchovy',
-        'herring', 'trout', 'cod', 'shrimp', 'gefilte', 'harissa',
+        'herring', 'trout', 'cod', 'shrimp', 'gefilte',
         'smoked_fish', 'fish_and_chips', 'fish_jerky', 'spicy_fish',
-        # Hebrew
         'דג', 'דגים', 'סלמון', 'טונה', 'גפילטע', 'דניס', 'קרפיון',
     ],
     'dairy': [
         'cheese', 'mozzarella', 'mozarella', 'halloumi', 'paneer', 'camembert',
         'butter', 'cream', 'milk', 'yogurt', 'tiramisu', 'cheesecake',
-        'khachapuri', 'hallomi', 'bechamel', 'eggnog', 'beet_soup',
+        'khachapuri', 'bechamel', 'eggnog',
         'polish_cheese', 'bulgarian_cheese', 'cottage', 'blintzes',
-        # Hebrew
         'גבינה', 'חלב', 'שמנת', 'חמאה', 'יוגורט', 'חלומי', 'קממבר',
         "חצ'פורי", 'חצפורי',
     ],
+    'fermentation': [
+        'kombucha', 'kamucha', 'kefir', 'kimchi', 'sauerkraut', 'kvass',
+        'tepache', 'amazake', 'ginger_bug', 'scoby',
+        'lacto', 'ferment', 'miso', 'tempeh',
+        'formented_lemons', 'fire_cider',
+        'מחמצת', 'תסיסה',
+    ],
     'bread': [
         'sourdough', 'bread', 'focaccia', 'pita', 'pitta', 'naan', 'flatbread',
-        'roll', 'bun', 'bagel', 'pretzel', 'rye', 'spelt', 'kubaneh', 'tortilla',
-        'danish', 'lachuch', 'wampanoag', 'croissant', 'brioche', 'biroche',
-        'pizza', 'khachapuri', 'cornbread', 'babka', 'cinnamon_roll',
-        'english_muffin', 'swedish_wort', 'lower_gluten', 'piana_bianko',
-        'blintzes', 'cracker', 'craqker',
-        # Hebrew
-        'לחם', 'לחמניות', 'פיתה', 'חלה', 'שמרים', 'קמח', 'מחמצת',
-        'קרקר', "חצ'פורי", 'חצפורי',
+        'bagel', 'pretzel', 'kubaneh', 'tortilla',
+        'danish', 'lachuch', 'croissant', 'brioche', 'biroche',
+        'pizza', 'cornbread', 'babka', 'cinnamon_roll',
+        'english_muffin', 'cracker',
+        'לחם', 'לחמניות', 'פיתה', 'חלה',
     ],
     'cake': [
         'cake', 'brownie', 'cookie', 'muffin', 'scone', 'tiramisu',
-        'cheesecake', 'pie', 'tart', 'mousse', 'strudel', 'napoleon',
+        'cheesecake', 'tart', 'mousse', 'strudel', 'napoleon',
         'galaktoboureko', 'pumpkin_roll', 'waffle', 'pancake',
         'coffee_cake', 'crumb_cake', 'cloud_cake', 'chocolate_cake',
-        'carrot_cake', 'spice_cake', 'jam_cake', 'custard', 'diplomat',
-        'apple_crumble', 'protein_bars', 'ice_cream', 'latkes', 'kugel',
-        # Hebrew
-        'עוגה', 'עוגיות', 'פאי', 'טארט', 'גלידה', 'לילות',
-        'עוגת', 'גלידת', 'לביבות', 'קוגל',
+        'carrot_cake', 'custard', 'diplomat',
+        'apple_crumble', 'ice_cream', 'kugel',
+        'עוגה', 'עוגיות', 'פאי', 'טארט', 'גלידה', 'עוגת', 'קוגל',
     ],
     'candy': [
         'halva', 'nougat', 'marzipan', 'toffee', 'fudge', 'truffle',
-        'praline', 'barfi', 'lekvar', 'charoset', 'pastila', 'energy_bite',
-        'energy_ball', 'larabar', 'walnut_toffee', 'date_nut', 'glyko',
-        'venetian_charoset',
-        # Hebrew
-        'חלבה', 'נוגט', 'מרציפן', 'קרמל', 'ממתק', 'חטיף_תמרים', 'חטיף תמרים',
+        'praline', 'charoset', 'pastila', 'energy_bite', 'energy_ball',
+        'larabar', 'walnut_toffee', 'date_nut', 'glyko', 'venetian_charoset',
+        'חלבה', 'נוגט', 'מרציפן', 'קרמל', 'ממתק',
     ],
     'drinks': [
-        'cocktail', 'coctail', 'liqueur', 'bitters', 'kombucha', 'ginger_beer',
+        'cocktail', 'coctail', 'liqueur', 'kombucha', 'ginger_beer',
         'vodka', 'whiskey', 'whisky', 'bourbon', 'rum', 'gin', 'tequila',
-        'brandy', 'wine', 'beer', 'mead', 'cider', 'bloody_mary',
-        'margarita', 'kalua', 'baileys', 'drambuie', 'coffee_liqueur',
+        'brandy', 'mead', 'bloody_mary', 'margarita',
+        'kalua', 'baileys', 'drambuie', 'coffee_liqueur',
         'cherry_bounce', 'nocino', 'pomegranate_liqueur', 'chestnut_liquor',
-        'georgian_tarragon', 'cranberry_ginger_shandy', 'switchel',
-        'root_beer', 'tonic_water', 'ginger_soda', 'pipitada',
-        'electrolyte', 'detox_juice',
-        # Hebrew
-        'יין', 'בירה', 'ליקר', 'קוקטייל', 'לילות_ביירות',
-    ],
-    'spice': [
-        'spice', 'seasoning', 'rub', 'herbes_de_provence', 'chimichurri',
-        'harissa', 'za_atar', 'baharat', 'garam_masala', 'masala',
-        'pumpkin_spice', 'pickling_spice', 'brine_calculator',
-        'chinese_salad_dressing', 'italian_marinade', 'italian_dressing',
-        'make_your_own_herbes', 'sage_oil', 'garlic_sauce',
-        # Hebrew
-        'תבלין', 'זעתר', 'בהרט', 'חריסה',
-    ],
-    'vegetables': [
-        'vegetable', 'vegtable', 'salad', 'eggplant', 'baba_ganoush', 'zucchini',
-        'chili', 'black_bean',
-        'cauliflower', 'broccoli', 'spinach', 'kale', 'cabbage',
-        'carrot', 'beet', 'beetroot', 'kohlrabi', 'radish', 'fennel',
-        'artichoke', 'asparagus', 'mushroom', 'sweet_potato', 'pumpkin',
-        'butternut', 'squash', 'ratatouille', 'gratin', 'slaw',
-        'potato', 'latke', 'knish', 'tourlou', 'soufico', 'briam',
-        'roasted_root', 'honey_roasted', 'roasted_chickpea',
-        'bean_salad', 'sprouted_bean', 'chickpea', 'falafel',
-        'tarka_dhal', 'dhal', 'lentil',
-        # Hebrew
-        'ירקות', 'סלט', 'חצילים', 'קישואים', 'כרובית', 'סלק', 'כרוב',
-        'בטטה', 'פטריות', 'תפוחי_אדמה', 'קולרבי',
-    ],
-    'fermentation': [
-        'kombucha', 'kamucha', 'kefir', 'kimchi', 'sauerkraut', 'kvass',
-        'tepache', 'amazake', 'ginger_beer', 'ginger_bug', 'scoby',
-        'sourdough', 'levain', 'lacto', 'ferment', 'miso', 'tempeh',
-        'brine_calculator', 'formented_lemons', 'fire_cider',
-        # Hebrew
-        'מחמצת', 'תסיסה', 'כבוש',
+        'cranberry_ginger_shandy', 'switchel',
+        'root_beer', 'ginger_soda', 'pipitada', 'electrolyte', 'detox_juice',
+        'ליקר', 'קוקטייל',
     ],
     'soup': [
         'soup', 'stew', 'broth', 'stock', 'chowder', 'bisque', 'goulash',
         'borscht', 'minestrone', 'ramen', 'pho', 'gazpacho', 'bouillabaisse',
-        'slow_cooker_beef', 'bone_broth', 'chicken_stock', 'cream_of_mushroom',
+        'bone_broth', 'chicken_stock', 'cream_of_mushroom',
         'mushroom_soup', 'pumpkin_soup', 'beet_soup', 'kohlrabi_soup',
-        'butternut_squash_soup', 'latvian_cold_beet', 'tourlou', 'dhal',
+        'butternut_squash_soup', 'latvian_cold_beet',
         'hungarian_goulash', 'hungarian_kohlrabi',
-        # Hebrew
-        'מרק', 'נזיד', 'תבשיל', 'ציר',
+        'מרק', 'נזיד', 'ציר',
     ],
     'sauce': [
         'sauce', 'gravy', 'dressing', 'marinade', 'vinaigrette',
         'pesto', 'salsa', 'tapenade', 'aioli', 'bechamel', 'hollandaise',
         'chimichurri', 'hummus', 'tahini', 'toum', 'tzatziki',
         'tomato_sauce', 'pasta_sauce', 'garlic_sauce', 'harissa',
-        'italian_dressing', 'chinese_salad_dressing', 'garlic_sauce',
-        'fresh_basil_pesto', 'marcella_hazan', 'meat_sauce',
-        # Hebrew
+        'italian_dressing', 'chinese_salad_dressing',
+        'fresh_basil_pesto', 'marcella_hazan',
         'רוטב', 'טחינה', 'חומוס', 'פסטו', 'מיונז',
     ],
+    'spice': [
+        'spice', 'seasoning', 'dry_rub', 'herbes_de_provence', 'chimichurri',
+        'harissa', 'za_atar', 'baharat', 'garam_masala', 'masala',
+        'pumpkin_spice', 'pickling_spice', 'brine_calculator',
+        'sage_oil', 'make_your_own_herbes',
+        'תבלין', 'זעתר', 'בהרט', 'חריסה',
+    ],
+    'vegetables': [
+        'vegetable', 'vegtable', 'salad', 'eggplant', 'baba_ganoush',
+        'cauliflower', 'broccoli', 'spinach', 'kale',
+        'beetroot', 'kohlrabi', 'artichoke', 'asparagus',
+        'butternut', 'ratatouille', 'gratin', 'slaw',
+        'latke', 'knish', 'tourlou', 'soufico', 'briam',
+        'roasted_root', 'roasted_chickpea',
+        'bean_salad', 'sprouted_bean', 'chickpea', 'falafel',
+        'tarka_dhal', 'dhal', 'lentil',
+        'ירקות', 'סלט', 'חצילים', 'קולרבי', 'אספרגוס',
+    ],
     'pickles': [
-        'pickle', 'pickled', 'ferment', 'brine', 'sauerkraut', 'kimchi',
+        'pickle', 'pickled', 'sauerkraut', 'kimchi',
         'relish', 'marmalade', 'chutney', 'jam', 'preserve', 'conserve',
         'formented_lemons', 'kolrabi_pickels', 'pickled_artichokes',
         'pickled_beets', 'pickled_tongue', 'glyko_karydaki', 'seville_orange',
-        'tomato_jam', 'end_of_season_zucchini', 'mango_pickle',
-        'fire_cider', 'garlic_pickle',
-        # Hebrew
-        'כבוש', 'כבושים', 'חמוצים', 'ריבה', 'מרמלדה',
+        'tomato_jam', 'end_of_season_zucchini', 'mango_pickle', 'garlic_pickle',
+        'כבושים', 'חמוצים', 'ריבה', 'מרמלדה',
     ],
 }
 
-THRESHOLD = 2
-
 FRONTMATTER_RE = re.compile(r'^---\n(.*?)\n---\n', re.DOTALL)
-LONG_LINE_RE = re.compile(r'[A-Za-z0-9+/]{100,}')
-URL_RE = re.compile(r'https?://\S+')
+LONG_LINE_RE   = re.compile(r'[A-Za-z0-9+/]{100,}')
+URL_RE         = re.compile(r'https?://\S+')
+
 
 def clean_body(content):
     m = FRONTMATTER_RE.match(content)
@@ -345,6 +376,7 @@ def clean_body(content):
     body = LONG_LINE_RE.sub(' ', body)
     body = URL_RE.sub(' ', body)
     return body
+
 
 def get_subject(content):
     m = FRONTMATTER_RE.match(content)
@@ -354,23 +386,28 @@ def get_subject(content):
             return sm.group(1)
     return ''
 
+
+def score_content(body, kw_weights):
+    """Return total score for a keyword dict against body text."""
+    body_lower = body.lower()
+    score = 0
+    for kw, weight in kw_weights.items():
+        if kw.lower() in body_lower or kw in body:
+            score += weight
+    return score
+
+
 def labels_from_content(content):
     body = clean_body(content)
-    body_lower = body.lower()
     labels = []
     for label, kw_weights in CONTENT_KEYWORDS.items():
-        score = 0
-        for kw, weight in kw_weights.items():
-            if kw.lower() in body_lower or kw in body:
-                score += weight
-                if score >= THRESHOLD:
-                    break
-        if score >= THRESHOLD:
+        threshold = INCLUSIVE_THRESHOLD if label in INCLUSIVE_LABELS else DISH_TYPE_THRESHOLD
+        if score_content(body, kw_weights) >= threshold:
             labels.append(label)
     return labels
 
+
 def labels_from_slug(text):
-    """Match against filename slug + subject text."""
     text_lower = text.lower()
     labels = []
     for label, patterns in SLUG_PATTERNS.items():
@@ -380,34 +417,43 @@ def labels_from_slug(text):
                 break
     return labels
 
+
+def apply_exclusions(labels):
+    """
+    'vegetables' is a dish-type label for vegetable-centric dishes.
+    If the recipe is already labeled meat or fish, it's not a vegetable dish.
+    """
+    if 'vegetables' in labels and ('meat' in labels or 'fish' in labels):
+        labels.remove('vegetables')
+    return labels
+
+
 def process_file(fpath):
     fname = os.path.basename(fpath)
     with open(fpath, 'r', encoding='utf-8', errors='replace') as f:
         content = f.read()
 
-    labels = labels_from_content(content)
+    labels = set(labels_from_content(content))
 
     if not labels:
-        # Fallback: check filename + subject field (handles sparse/Hebrew files)
+        # Fallback: filename + subject field
         subject = get_subject(content)
-        # Also scan subject through content keywords (catches Hebrew ingredient names)
-        subject_labels = set()
-        subj_lower = subject.lower()
-        for label, kw_weights in CONTENT_KEYWORDS.items():
-            for kw, weight in kw_weights.items():
-                if kw.lower() in subj_lower or kw in subject:
-                    subject_labels.add(label)
-                    break
         combined = fname.replace('.md', '') + ' ' + subject
-        slug_labels = set(labels_from_slug(combined))
-        labels = sorted(subject_labels | slug_labels)
+        labels = set(labels_from_slug(combined))
+        # Also score subject through content keywords
+        if subject:
+            body_like = clean_body(content) + ' ' + subject
+            for label, kw_weights in CONTENT_KEYWORDS.items():
+                threshold = INCLUSIVE_THRESHOLD if label in INCLUSIVE_LABELS else DISH_TYPE_THRESHOLD
+                if score_content(body_like, kw_weights) >= threshold:
+                    labels.add(label)
 
+    labels = sorted(apply_exclusions(list(labels)))
     labels_str = '[' + ', '.join(labels) + ']' if labels else '[]'
 
     m = FRONTMATTER_RE.match(content)
     if m:
-        fm = m.group(1)
-        fm = re.sub(r'\nlabels:.*', '', fm)
+        fm = re.sub(r'\nlabels:.*', '', m.group(1))
         new_content = f'---\n{fm}\nlabels: {labels_str}\n---\n' + content[m.end():]
     else:
         new_content = f'---\nlabels: {labels_str}\n---\n\n' + content
@@ -416,14 +462,15 @@ def process_file(fpath):
         f.write(new_content)
     return labels
 
+
 files = [f for f in os.listdir(RECIPES_DIR) if f.endswith('.md')]
 counts = {}
 unlabeled = []
 for f in sorted(files):
     fpath = os.path.join(RECIPES_DIR, f)
     labels = process_file(fpath)
-    for l in labels:
-        counts[l] = counts.get(l, 0) + 1
+    for lbl in labels:
+        counts[lbl] = counts.get(lbl, 0) + 1
     if not labels:
         unlabeled.append(f)
 

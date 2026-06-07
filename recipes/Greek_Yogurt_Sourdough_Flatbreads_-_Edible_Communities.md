@@ -27,7 +27,7 @@ steps:
   - These sourdough flatbreads are best enjoyed warm. You can also reheat them in a low oven, about 275°F (140°C), in a foil package. For crispy flatbreads, reheat directly on the center oven rack.
   - Flatbreads will keep fresh stacked, wrapped, and stored at room temperature for 1 to 2 days. Reheat as indicated above for best texture. To freeze, cover the flatbreads in plastic wrap and foil for up to 3 months.
   - "TIP: After you’ve made this recipe, try spicing up the dough with different seasonings. Chopped herbs including rosemary and sage are always nice or try a light dusting of garlic powder and sesame seeds. Sometimes I’ll fold in a handful of chopped scallions, which gives the dough a mild onion flavor."
-labels: [dairy, cake, sauce, vegetables]
+labels: [dairy]
 ---
 
 # Greek Yogurt Sourdough Flatbreads

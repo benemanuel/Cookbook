@@ -28,7 +28,7 @@ steps:
   - "Preparing to Bake Your Sourdough:Once you&#039;re ready to bake your sourdough, you&#039;ll need to preheat your oven to 230C/450F. Place your Dutch Oven into the oven when you turn it on so it gets hot. Try to preheat for around 1 hour to ensure your oven is super hot - but you know your oven so just adjust this time if you need to.Leave your dough in the fridge until the very last minute - placing a cold dough into a hot oven will give you a great &quot;spring&quot;."
   - "Baking Your Sourdough:When your oven is at temperature. Take your sourdough out of the fridge. Gently place it onto a piece of baking paper. Make sure that you make the baking paper big enough to use the edges as a handle to lower to dough into your Dutch Oven.Gently score your bread with a lame, clean razor blade or knife. Carefully take your dutch oven out of the oven. Place the sourdough into the pot using the baking paper as a handle. Put the lid on and place into the hot oven. If you want to you can spritz your dough with extra water before you put the lid on.BAKE TIME:30 Minutes with the lid on at 230C/450F plus10-15 Minutes with the lid off at 210C/410F"
   - "Finishing Your Bake:When you remove your dough from the oven, carefully remove it from the dutch oven as soon as possible and place on a wire rack to cool. You&#39;ll need to allow this bread a bit longer to cool due to its higher moisture content. It will take up to 12 hours for it to cool completely."
-labels: [dairy, bread, soup, drinks, fermentation, pickles]
+labels: [bread, dairy, fermentation]
 ---
 
 # Sourdough Rye Bread Recipe

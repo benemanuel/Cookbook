@@ -25,7 +25,7 @@ steps:
   - Fold in the chocolate chunks, then transfer the batter to the prepared baking dish.
   - Bake for 20-25 minutes, depending on how fudgy you like your brownies, then cool completely.
   - Slice and serve with a cold glass of milk.
-labels: [dairy, cake]
+labels: [cake, dairy]
 ---
 
 # The Best Fudgy Brownies

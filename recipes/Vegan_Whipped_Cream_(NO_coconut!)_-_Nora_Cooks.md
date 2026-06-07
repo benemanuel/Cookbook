@@ -19,7 +19,7 @@ steps:
   - With a hand mixer, start mixing on medium speed until foamy, then increase to high speed and beat for about 3 to 4 minutes until stiff peaks form.
   - Add the powdered sugar and vanilla extract and continue beating for about 1 more minute until fluffy and smooth.
   - Serve immediately for best results, or store leftover whipped cream in the freezer.
-labels: [dairy, cake]
+labels: [vegetables]
 ---
 
 # Vegan Whipped Cream (NO Coconut!)

@@ -26,7 +26,7 @@ steps:
   - At 13:20, quick pre-shape the dough and divide it into 6 equal rolls, then let them rest for 10 minutes.
   - At 13:30, shape each roll and roll in rice flour, then place in a dusted banneton basket.
   - At 15:00, once the dough has expanded and feels springy, place the rolls in the fridge until ready to bake.
-labels: [bread, soup, fermentation]
+labels: [bread, fermentation]
 ---
 
 # 6 Sourdough Bread Rolls

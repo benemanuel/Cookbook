@@ -1,6 +1,6 @@
 ---
 title: French Lentil Salad
-labels: [fish, dairy, soup, sauce, drinks, vegetables, pickles]
+labels: [dairy, fish]
 ---
 
 # French Lentil Salad

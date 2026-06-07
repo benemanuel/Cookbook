@@ -15,7 +15,7 @@ ingredients:
   - Walnuts (or any nuts)
   - Sugar-free milk, semisweet, or dark chocolate (or 85% dark chocolate)
 steps: null
-labels: [dairy, candy]
+labels: [dairy]
 ---
 
 # Walnut Toffee

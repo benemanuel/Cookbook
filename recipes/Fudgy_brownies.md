@@ -33,7 +33,7 @@ steps:
   - The skewer should come out a little wet with some crumbs clinging to it, which normally happens around the 25 minute mark.
   - If the skewer comes out completely clean, the brownies are overbaked.
   - Allow the brownies to cool down for at least 1 hour before cutting and serving.
-labels: [dairy, cake, candy, soup, drinks]
+labels: [cake, drinks]
 ---
 
 # Fudge Brownies

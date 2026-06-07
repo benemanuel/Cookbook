@@ -28,7 +28,7 @@ steps:
   - Remove from the oven, leave to cool a little, then chop into biscuits at an angle while still warm.
   - Lay the biscotti out on the trays and bake again at 150°C for another 20 minutes or more, turning halfway through until they are dry but not too hard.
   - Store in a jar when cooled and they will last for ages.
-labels: [cake, vegetables]
+labels: []
 ---
 
 # Biscotti Mandelbrot with Chocolate, Hazelnuts and Orange

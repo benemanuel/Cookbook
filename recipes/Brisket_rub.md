@@ -21,7 +21,7 @@ ingredients:
   - Cumin 1 teaspoon
   - Coriander 1 teaspoon
 steps: null
-labels: [meat, vegetables]
+labels: [meat]
 ---
 
 # Brisket Rub

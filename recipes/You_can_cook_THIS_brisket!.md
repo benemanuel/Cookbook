@@ -32,7 +32,7 @@ steps:
   - Slice across the grain, using toothpick marks as grain indicator if needed
   - For larger briskets with both flat and point muscle, adjust slicing angle as grain direction changes
   - Slice with fat side up for stability, making thinner slices in lean flat and thicker slices toward point
-labels: [meat, dairy, cake, drinks, spice, pickles]
+labels: [meat]
 ---
 
 # You can cook THIS brisket!

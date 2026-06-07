@@ -30,7 +30,7 @@ steps:
   - "Pour chocolate mixture into egg whites. Fold through until incorporated and no more white lumps remain - aim for 12 folds max, but ensure there are no obvious egg white patches."
   - "Chill in fridge - Divide mixture between 4 small glasses or pots. Refrigerate for at least 6 hours, preferably overnight."
   - "To serve, garnish with cream and chocolate shavings. Raspberries and a tiny sprig of mint for colour would also be lovely!"
-labels: [dairy, drinks]
+labels: [dairy]
 ---
 
 # Chocolate Mousse

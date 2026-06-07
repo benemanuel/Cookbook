@@ -8,7 +8,7 @@ attachments:
   - filename: "Classic Eggplant Parmesan (Baked & Fried Method) \u2013 A Simple Palate.pdf"
     type: "application/pdf"
     size: 13513231
-labels: [dairy, vegetables]
+labels: [dairy]
 ---
 
 # Classic Eggplant Parmesan

@@ -26,7 +26,7 @@ steps:
   - Flatten each ball slightly with your palm.
   - Bake for 8 minutes, until golden around the edges.
   - Cool on the pan for 5 minutes before transferring.
-labels: [cake]
+labels: [cake, sauce]
 ---
 
 # Honey Tahini Cookies

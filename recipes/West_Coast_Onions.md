@@ -20,7 +20,7 @@ steps:
   - Combine water, white vinegar, sugar, and sliced onions in a jar and let sit overnight.
   - Drain the onions.
   - Mix the drained onions with mayo, sour cream, and celery salt.
-labels: [dairy, vegetables, pickles]
+labels: [dairy]
 ---
 
 # West Coast Onions

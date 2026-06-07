@@ -38,7 +38,7 @@ steps:
   - Top with the remaining onions.
   - Bring the pot(s) to a boil on the stovetop, sprinkle on the brown sugar, and gently mix it in.
   - Transfer to the oven and bake covered for 1 hour, then bake uncovered for 1 1/2 to 2 hours.
-labels: [meat, sauce, vegetables]
+labels: [meat]
 ---
 
 # Stuffed Cabbage

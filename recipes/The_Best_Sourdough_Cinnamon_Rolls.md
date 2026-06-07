@@ -26,7 +26,7 @@ ingredients:
   - 1 egg
   - 1 tbsp water
 steps: null
-labels: [dairy, cake]
+labels: [cake, dairy]
 ---
 
 # The Best Sourdough Cinnamon Rolls

@@ -22,7 +22,7 @@ ingredients:
   - 2 teaspoons chili sauce
   - 1 tablespoon mustard
 steps: null
-labels: [meat, dairy, sauce, vegetables]
+labels: [dairy, meat, sauce]
 ---
 
 # Smashed Burger

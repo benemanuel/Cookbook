@@ -20,7 +20,7 @@ steps:
   - Stir in the milk.
   - Pour batter into a baking pan lined with parchment paper.
   - Bake for approximately 18 minutes at 160°C.
-labels: [dairy, cake]
+labels: [cake]
 ---
 
 # Nutella Brownies

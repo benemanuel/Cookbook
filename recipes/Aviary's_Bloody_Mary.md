@@ -57,7 +57,7 @@ steps:
   - Place a metal straw in a chilled collins glass.
   - Layer 20g Fresno chili ice, 10 celery marbles, Worcestershire cube, 20g Fresno chili ice, and 10 celery marbles in the glass in that order.
   - Pour the bloody mary batch over the contents of the glass and serve.
-labels: [dairy, sauce, drinks, vegetables, pickles]
+labels: [drinks]
 ---
 
 # Aviary's Bloody Mary

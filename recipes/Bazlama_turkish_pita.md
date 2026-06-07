@@ -26,7 +26,7 @@ steps:
   - Roll out each flatbread and place on a pan preheated on medium-high heat.
   - Cook for 5-6 minutes, 2.5-3 minutes on each side, flipping until the flatbread rises up to make a pocket in the middle.
   - Brush each hot flatbread with oil, then top with parsley and chili flakes.
-labels: [dairy, bread]
+labels: [bread]
 ---
 
 # Bazlama Turkish Pita

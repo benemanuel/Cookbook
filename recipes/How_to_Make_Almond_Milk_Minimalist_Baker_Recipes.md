@@ -20,7 +20,7 @@ steps:
   - "Add your soaked almonds, water, salt, and any additional add-ins (optional) to a high-speed blender and blend until creamy and smooth. Keep it running for at least 1-2 minutes so you get the most out of your almonds."
   - "Strain using a nut milk bag or my favorite trick - a thin dish towel. Simply lay a clean dish towel over a mixing bowl, pour over the almond milk, carefully gather the corners, and lift up. Then squeeze until all of the liquid is extracted. Discard pulp, or save for adding to baked goods (especially crackers). Find more ways to use almond pulp here."
   - "Transfer milk to a jar or covered bottle and refrigerate. Will keep for up to 4-5 days, though best when fresh. Shake well before drinking, as it tends to separate."
-labels: [dairy, vegetables]
+labels: [dairy]
 ---
 
 #  Almond Milk

@@ -44,7 +44,7 @@ steps:
   - Drop the battered cauliflower into the hot oil and cook until golden brown on all sides. We recommend using tongs to turn the cauliflower bites.
   - Once they are fried, place them on the parchment paper lined rimmed sheet tray or on the wire rack.
   - After all the cauliflower is fried put the pan in the oven on 200° to keep warm, if necessary.
-labels: [dairy, cake, vegetables]
+labels: [dairy]
 ---
 
 # The Best Gluten-Free Battered Cauliflower Recipe

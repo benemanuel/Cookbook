@@ -6,7 +6,7 @@ date: Wed, 21 Jul 2021 17:33:59 +0300
 date_parsed: 2021-07-21T17:33:59+03:00
   - dairy
   - alcohol
-labels: [dairy, sauce, drinks, vegetables, pickles]
+labels: [drinks]
 ---
 
 # Aviary’s Bloody Mary

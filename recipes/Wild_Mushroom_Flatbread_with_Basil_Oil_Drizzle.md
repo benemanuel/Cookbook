@@ -34,7 +34,7 @@ steps:
   - Top with mushrooms, onions and cheese and bake until cheese has melted, about 5 minutes longer.
   - Transfer flatbread to a cutting board, drizzle with basil oil, and garnish with arugula.
   - Cut flatbread into 16 squares.
-labels: [dairy, drinks, vegetables]
+labels: [dairy]
 ---
 
 # Wild Mushroom Flatbread with Basil Oil Drizzle

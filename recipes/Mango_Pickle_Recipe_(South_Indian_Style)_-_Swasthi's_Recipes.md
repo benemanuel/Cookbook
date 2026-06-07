@@ -30,7 +30,7 @@ steps:
   - Store this mango pickle in a clean dry glass jar. Store it in the refrigerator after 24 hours. If storing at room temperature avoid storing in the kitchen or places with high moisture.
   - It will be ready to serve after 3 days but it tastes best as it ages.
   - Use dry clean spoons every time you use. After every use, wipe off the sides of the jar with a clean tissue or dry cloth to avoid mold.
-labels: [soup, spice, vegetables, pickles]
+labels: [soup]
 ---
 
 # Mango Pickle Recipe

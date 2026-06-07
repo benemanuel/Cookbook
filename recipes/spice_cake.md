@@ -32,7 +32,7 @@ steps:
   - Divide the batter between two 9-inch pans.
   - Bake in a moderate oven at 350 degrees for 20 to 25 minutes.
   - Cool the cake and put the layers together, then frost with Seven Minute Frosting.
-labels: [dairy, cake]
+labels: [cake, dairy]
 ---
 
 # Spice Cake

@@ -1,7 +1,7 @@
 ---
 title: Ginger Snaps with Brandy Cream
 source: https://www.schwartz.co.uk/recipes/desserts/ginger-snaps-with-brandy-cream
-labels: [dairy, sauce, drinks]
+labels: [dairy, drinks]
 ---
 
 # Ginger Snaps with Brandy Cream

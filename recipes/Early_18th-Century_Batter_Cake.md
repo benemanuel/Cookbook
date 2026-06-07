@@ -34,7 +34,7 @@ steps:
   - Pour in the batter and smooth the surface.
   - Bake at 180°C (350°F) for 40–50 minutes, or until a skewer inserted in the center comes out clean.
   - Let cool in the pan for 10 minutes, then remove and cool completely on a wire rack.
-labels: [dairy, bread, drinks, fermentation]
+labels: [dairy, fermentation]
 ---
 
 # Early 18th-Century Batter Cake

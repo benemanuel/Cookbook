@@ -33,7 +33,7 @@ steps:
   - Allow the cake to cool in the tin for 10 minutes, then turn out onto a cooling rack and cool completely.
   - Cut into squares and dust with icing sugar just before serving.
   - Serve with whipped cream and strawberries if desired.
-labels: [dairy, cake, drinks]
+labels: [cake, dairy]
 ---
 
 # Magic Three Layer Custard Cake

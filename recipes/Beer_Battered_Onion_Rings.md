@@ -30,7 +30,7 @@ ingredients:
   - Creole or Cajun seasoning (for dipping sauce)
   - Prepared horseradish (for dipping sauce)
 steps: null
-labels: [fish, dairy, sauce, drinks, spice, vegetables, fermentation]
+labels: [dairy, fermentation, sauce]
 ---
 
 # Beer Battered Onion Rings

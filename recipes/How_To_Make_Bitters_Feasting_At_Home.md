@@ -21,7 +21,7 @@ ingredients:
   - ½ teaspoon orange peel
   - 1½ to 2 cups vodka or brandy
 steps: null
-labels: [drinks, vegetables]
+labels: [drinks]
 ---
 
 # Digest Well Bitters

@@ -32,7 +32,7 @@ steps:
   - "Bake for 20-26 minutes or until the tops are dry and the edges start to pull away from the sides. I found mine took about 25."
   - "Remove from oven and let cool for 30 minutes before removing from pan. They will be tender, so remove gently with a fork. The insides are meant to be very fudgy, so don't be concerned if they seem too moist - that's the point. Plus, they're vegan so it doesn't really matter."
   - Store in an airtight container for up to a few days. Refrigerate to keep longer.
-labels: [cake]
+labels: [cake, vegetables]
 ---
 
 # Vegan Gluten-Free Black Bean Brownies

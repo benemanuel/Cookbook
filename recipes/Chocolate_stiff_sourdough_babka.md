@@ -1,6 +1,6 @@
 ---
 title: Sourdough Stiff Babka
-labels: [dairy, bread, cake, candy, drinks, fermentation]
+labels: [bread, cake, dairy, fermentation]
 ---
 
 # Sourdough Stiff Babka (50% Hydration Starter)

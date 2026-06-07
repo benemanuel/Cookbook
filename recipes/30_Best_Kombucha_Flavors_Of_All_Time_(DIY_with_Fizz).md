@@ -10,7 +10,7 @@ cook_minutes: null
 imported_at: 2026-05-31
 ingredients: [75ml grape juice, 20ml brown sugar, 1 rosemary stick, 120ml diluted apple juice, 20ml brown sugar, 1ml pumpkin spice]
 steps: null
-labels: [drinks, spice, vegetables, fermentation]
+labels: [fermentation]
 ---
 
 

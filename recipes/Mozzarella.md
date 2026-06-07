@@ -26,7 +26,7 @@ steps:
   - Add salt and knead it into the cheese.
   - Stretch and fold the cheese until smooth and glossy, like taffy.
   - Form into a ball or desired shape, then place in cool water or salted whey to firm up, and use immediately or refrigerate.
-labels: [dairy, bread]
+labels: [bread, dairy]
 ---
 
 # Mozzarella

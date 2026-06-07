@@ -40,7 +40,7 @@ steps:
   - Cover with a tea towel and let rise another hour.
   - Brush with beaten egg.
   - Preheat oven to 375°F and bake for 25 to 35 minutes until golden brown.
-labels: [dairy, bread]
+labels: [bread, dairy]
 ---
 
 # Swirled Garlic Herb Bread

@@ -1,6 +1,6 @@
 ---
 title: Stiff Sourdough Buns
-labels: [dairy, bread, cake, drinks, fermentation]
+labels: [bread, dairy, fermentation]
 ---
 
 # Stiff Sourdough Buns

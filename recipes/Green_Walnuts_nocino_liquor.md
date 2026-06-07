@@ -32,7 +32,7 @@ steps:
   - Make a rich demerara syrup by cooking 1 cup plus 2 tablespoons demerara sugar with ¼ cup plus 2 tablespoons water.
   - Add 920 milliliters of water and 2 tablespoons of Angostura bitters to the filtered walnut liqueur.
   - Add the cooled demerara syrup to the liqueur and stir to combine.
-labels: [drinks, spice, fermentation]
+labels: [drinks, fermentation]
 ---
 
 # Green Walnuts Nocino Liqueur

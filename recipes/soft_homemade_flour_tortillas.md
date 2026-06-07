@@ -6,7 +6,7 @@ source: kingarthurbaking.com
 servings: 8
 prep_minutes: 15
 cook_minutes: 23
-labels: [dairy, bread, cake]
+labels: [dairy]
 ---
 
 # Soft  Flour Tortillas

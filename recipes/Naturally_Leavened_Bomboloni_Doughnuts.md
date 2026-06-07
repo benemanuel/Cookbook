@@ -44,7 +44,7 @@ steps:
   - Slowly pour warm milk over yolk mixture while whisking constantly. Return to pot on medium heat and whisk until large bubbles pop.
   - Strain crema through fine mesh. Stir in vanilla extract and lemon zest if desired.
   - Cover with plastic wrap on surface and refrigerate until firm. Pipe into bomboloni just before serving.
-labels: [dairy, bread, drinks, fermentation]
+labels: [bread, dairy, fermentation]
 ---
 
 # Naturally Leavened Bomboloni (Doughnuts)

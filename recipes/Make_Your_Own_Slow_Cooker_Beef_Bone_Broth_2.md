@@ -26,7 +26,7 @@ steps:
   - Strain the broth that's still in the crockpot through a fine meshed sieve or through a strainer lined with cheesecloth.
   - Transfer the bone broth into jars and refrigerate promptly.
   - Once the broth has fully cooled, remove some or all of the fat layer that formed at the top for use in cooking.
-labels: [meat, soup, drinks, vegetables, pickles]
+labels: [meat, soup]
 ---
 
 # Slow Cooker Beef Bone Broth

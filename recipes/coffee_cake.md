@@ -21,7 +21,7 @@ ingredients:
   - 1 large egg
   - 1 cup buttermilk
 steps: null
-labels: [dairy, cake]
+labels: [cake, dairy]
 ---
 
 # Coffee Cake

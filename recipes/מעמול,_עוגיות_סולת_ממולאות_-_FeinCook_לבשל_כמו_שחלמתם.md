@@ -4,7 +4,7 @@ from: "Avraham Ben Emanuel <avraham.benemanuel@gmail.com>"
 to: "Family <benemanuel.family@gmail.com>"
 date: "Tue, 23 Dec 2025 10:50:51 +0200"
 date_parsed: 2025-12-23T10:50:51+02:00
-labels: [dairy, bread]
+labels: [bread, dairy]
 ---
 
 # מעמול, עוגיות סולת ממולאות - FeinCook | לבשל כמו שחלמתם

@@ -21,7 +21,7 @@ ingredients:
   - 1 tablespoon ground ginger
 steps:
   - Combine all spices together in a container for use in pickling recipes.
-labels: [drinks, spice, vegetables, pickles]
+labels: [drinks, pickles]
 ---
 
 # Pickling Spice

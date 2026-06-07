@@ -27,7 +27,7 @@ steps:
   - "Bake for 30-40 minutes. Every 10 minutes, shake the pan, and re-spread the beans. Watch the last 10 minutes of baking carefully, as they can quickly burn. At this time, they will be thoroughly browned, but still soft in the center when you break open one of the beans."
   - "Turn off the oven, open the door slightly, and leave the pan inside as the oven cools for an additional 10-20 minutes to finish drying and creating a crispy outer surface."
   - Serve warm or cool. Store any leftovers in a paper bag.
-labels: [sauce, vegetables]
+labels: [vegetables]
 ---
 
 # The Best Smoky and Spicy Roasted Chickpeas

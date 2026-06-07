@@ -29,7 +29,7 @@ steps:
   - Preheat oven to 400 degrees F (200 degrees C) and line a baking sheet with aluminum foil or lightly grease a broiler pan.
   - Remove the chicken breasts from the marinade, shake off excess, discard the remaining marinade, and place the chicken breasts onto the baking sheet.
   - Bake in the preheated oven until the chicken breasts are golden brown and no longer pink in the center, 30 to 40 minutes, until an instant-read thermometer inserted into the center reaches 165 degrees F (74 degrees C).
-labels: [meat, sauce, spice, vegetables, pickles]
+labels: [meat]
 ---
 
 # Chicken Breast Marinade

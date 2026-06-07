@@ -24,7 +24,7 @@ ingredients:
   - 1/2 teaspoon cumin
   - 1 teaspoon chili powder
 steps: null
-labels: [soup, spice, vegetables]
+labels: []
 ---
 
 # Arroz Rojo

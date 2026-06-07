@@ -24,7 +24,7 @@ steps:
   - Place another piece of parchment on top and use your hands on top of the parchment to smooth out halvah.
   - Cool completely to room temperature and cut into squares.
   - Store at room temperature, well wrapped in plastic, for a week.
-labels: [candy, soup, sauce, drinks]
+labels: [candy]
 ---
 
 # Halva

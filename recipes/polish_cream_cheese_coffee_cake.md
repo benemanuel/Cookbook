@@ -35,7 +35,7 @@ steps:
   - Drop spoonfuls of remaining dough over the filling.
   - Sprinkle streusel over the top.
   - Bake for 45 minutes until golden and set, then cool before slicing.
-labels: [dairy, cake, drinks]
+labels: [cake, dairy]
 ---
 
 # Polish Cream Cheese Coffee Cake
