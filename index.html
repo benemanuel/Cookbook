@@ -213,15 +213,15 @@
             const body = markdown.replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n/, '').trimStart();
             const normalized = body.replace(/\r\n/g, '\n');
 
-            const titleMatch = normalized.match(/^#\s+(.+)\n([\s\S]*?)(?=\n##|$)/);
+            const titleMatch = normalized.match(/^#\s+(.+)\n([\s\S]*?)(?=\n##(?!#)|$)/);
             const title = titleMatch ? titleMatch[1].trim() : "Untitled";
             const description = titleMatch ? titleMatch[2].trim() : "";
 
             const getSection = (headingName, fallbackIndex) => {
-                const byName = new RegExp(`\\n##\\s+${headingName}\\s*\\n([\\s\\S]*?)(?=\\n##|$)`, 'i');
+                const byName = new RegExp(`\\n##\\s+${headingName}\\s*\\n([\\s\\S]*?)(?=\\n##(?!#)|$)`, 'i');
                 const named = normalized.match(byName);
                 if (named) return `## ${headingName}\n` + named[1];
-                const allSections = [...normalized.matchAll(/\n(##\s+[\s\S]*?)(?=\n##|$)/g)];
+                const allSections = [...normalized.matchAll(/\n(##\s+[\s\S]*?)(?=\n##(?!#)|$)/g)];
                 return allSections[fallbackIndex] ? allSections[fallbackIndex][1] : "";
             };
 
