@@ -25,7 +25,7 @@ steps:
   - Meanwhile, boil egg noodles until just tender and drain well.
   - Turn off heat, let kasha rest 5 minutes covered, then gently fold in noodles.
   - Add salt as needed, lots of black pepper, and a drizzle of olive oil, then toss gently.
-labels: []
+labels: [vegetables]
 ---
 
 # Kasha

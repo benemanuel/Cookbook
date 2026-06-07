@@ -18,7 +18,7 @@ steps:
   - Grind the dried peels in a blender or food processor until they become a fine powder.
   - Sift the powder through a fine-mesh sieve to remove any large pieces.
   - Store the banana peel flour in an airtight container in a cool, dry place.
-labels: []
+labels: [spice]
 ---
 
 # Banana Peel Flour

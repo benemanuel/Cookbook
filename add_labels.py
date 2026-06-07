@@ -294,7 +294,8 @@ SLUG_PATTERNS = {
         'danish', 'lachuch', 'croissant', 'brioche', 'biroche',
         'pizza', 'cornbread', 'babka', 'cinnamon_roll',
         'english_muffin', 'cracker', 'phyllo', 'filo', 'dough', 'piana_bianko',
-        'לחם', 'לחמניות', 'פיתה', 'חלה',
+        'knish', 'knishes', 'קניישעס', 'קנישעס',
+        'לחם', 'לחמניות', 'פיתה', 'חלה', 'קרקר',
     ],
     'cake': [
         'cake', 'brownie', 'cookie', 'muffin', 'scone', 'tiramisu',
@@ -303,14 +304,16 @@ SLUG_PATTERNS = {
         'coffee_cake', 'crumb_cake', 'cloud_cake', 'chocolate_cake',
         'carrot_cake', 'custard', 'diplomat',
         'apple_crumble', 'ice_cream', 'kugel', 'pie', 'biscotti', 'mandelbrot',
-        'עוגה', 'עוגיות', 'פאי', 'טארט', 'גלידה', 'עוגת', 'קוגל',
+        'granola',
+        'עוגה', 'עוגיות', 'פאי', 'טארט', 'גלידה', 'עוגת', 'קוגל', 'גרנולה', 'בקלוואה',
     ],
     'candy': [
         'halva', 'nougat', 'marzipan', 'toffee', 'fudge', 'truffle',
         'praline', 'charoset', 'pastila', 'energy_bite', 'energy_ball',
         'larabar', 'walnut_toffee', 'date_nut', 'glyko', 'venetian_charoset',
-        'protein_bar',
+        'protein_bar', 'chestnut_paste', 'chestnut',
         'חלבה', 'נוגט', 'מרציפן', 'קרמל', 'ממתק',
+        'חטיף', 'חטיפי', 'חתיף',  # Hebrew: snack bar
     ],
     'drinks': [
         'cocktail', 'coctail', 'liqueur', 'kombucha', 'ginger_beer',
@@ -339,13 +342,14 @@ SLUG_PATTERNS = {
         'tomato_sauce', 'pasta_sauce', 'garlic_sauce', 'harissa',
         'italian_dressing', 'chinese_salad_dressing',
         'fresh_basil_pesto', 'marcella_hazan', 'himmas',
+        'spread', 'ממרח',  # beet-almond spread and similar dips
         'רוטב', 'טחינה', 'חומוס', 'פסטו', 'מיונז',
     ],
     'spice': [
         'spice', 'seasoning', 'dry_rub', 'herbes_de_provence', 'chimichurri',
         'harissa', 'za_atar', 'baharat', 'garam_masala', 'masala',
         'pumpkin_spice', 'pickling_spice', 'brine_calculator',
-        'sage_oil', 'make_your_own_herbes',
+        'sage_oil', 'make_your_own_herbes', 'banana_peel',
         'תבלין', 'זעתר', 'בהרט', 'חריסה',
     ],
     'vegetables': [
@@ -353,13 +357,15 @@ SLUG_PATTERNS = {
         'cauliflower', 'broccoli', 'spinach', 'kale',
         'beetroot', 'kohlrabi', 'artichoke', 'asparagus',
         'butternut', 'ratatouille', 'gratin', 'slaw',
-        'latke', 'knish', 'tourlou', 'soufico', 'briam',
+        'latke', 'tourlou', 'soufico', 'briam',
         'roasted_root', 'roasted_chickpea', 'roasted_sweet',
         'bean_salad', 'sprouted_bean', 'chickpea', 'falafel',
         'tarka_dhal', 'dhal', 'lentil',
         'potato', 'potatoes', 'fries', 'onion_ring', 'shiitake', 'mushroom',
         'cabbage_manchurian', 'sweet_potato',
+        'kasha', 'arroz', 'mujaddara', 'majadra', 'mugaddara',
         'ירקות', 'סלט', 'חצילים', 'קולרבי', 'אספרגוס',
+        'כרובית', 'לביבות', 'מגדרה',
     ],
     'pickles': [
         'pickle', 'pickled', 'sauerkraut', 'kimchi',

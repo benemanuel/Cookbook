@@ -20,7 +20,7 @@ steps:
   - Shake the mixture every day to help the sugar dissolve.
   - After 2 weeks, strain the liquid through a fine mesh strainer or cheesecloth to remove the chestnut solids.
   - Bottle the chestnut liquor and enjoy it neat or in cocktails.
-labels: [drinks]
+labels: [candy, drinks]
 ---
 
 # Chestnut Liquor

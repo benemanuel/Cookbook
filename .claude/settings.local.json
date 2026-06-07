@@ -38,7 +38,10 @@
       "WebFetch(domain:my.vinst.me)",
       "WebFetch(domain:www.hashulchan.co.il)",
       "WebFetch(domain:webcache.googleusercontent.com)",
-      "Bash(git pull *)"
+      "Bash(git pull *)",
+      "Bash(Get-Content \"C:\\\\Users\\\\avi\\\\GitHub\\\\Cookbook\\\\recipes\\\\Jambon_de_Paris.md\" -Raw)",
+      "Bash(Out-String)",
+      "Bash(xxd \"C:\\\\Users\\\\avi\\\\GitHub\\\\Cookbook\\\\recipes\\\\Jambon_de_Paris.md\")"
     ]
   }
 }
