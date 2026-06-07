@@ -14,10 +14,6 @@ labels: [bread, drinks, fermentation, soup]
 
 # Sourdough Glass Bread (Pan de Cristal) – Breadtopia
 
-<https://breadtopia.com/sourdough-glass-bread-pan-de-cristal/>
-
----
-
 Glass bread, known as *pan de cristal* in Spanish and *pa de vidre* in Catalan, was developed in Barcelona, Spain around 2010 by the baker [Jordi Nomen](https://www.youtube.com/watch?v=kTzgIVNPfh4) of Concept Pa Bakery. This bread is a variation on the narrow, crusty bread that this region has long favored for its traditional tomato bread (more on that below). The distinction of glass bread is that the dough is quite wet and there is virtually no bready interior. The crumb should be mostly transparent (glass) webs of gluten.
 
 []
@@ -134,130 +130,12 @@ Total Time
 - If you want a darker crust, feel free to bake longer.
 - Turn off the oven, crack open the oven door, and leave the bread inside for another 10 minutes. This helps the crust get more crunchy.
 
-### Photo Gallery
+## Notes
 
-[![dough in a mixing bowl.](https://breadtopia.com/wp-content/uploads/2022/04/20220411_122628-Copy-400x400.jpg)](https://breadtopia.com/wp-content/uploads/2022/04/20220411_122628-Copy.jpg)
-Autolyse then add starter, salt, oil
+- Glass bread (*pan de cristal*) is ideal for *pan con tomate*: cut the bread lengthwise, toast it, rub the open faces with raw garlic and tomato, drizzle with olive oil, and sprinkle with salt.
+- [Video](https://www.youtube.com/watch?v=O4wiHIOZZOo) of the bassinage and gluten development for a 108% hydration glass bread.
+- [Video](https://www.youtube.com/watch?v=DXjmW66QePE) of cutting and shaping rolls of glass bread.
 
-[![risen dough in a bowl.](https://breadtopia.com/wp-content/uploads/2022/04/20220411_123241-Copy-400x400.jpg)](https://breadtopia.com/wp-content/uploads/2022/04/20220411_123241-Copy.jpg)
-Rubaud mix and rest
+## Source
 
-[![digital thermometer measuring dough temperature in proofing box](https://breadtopia.com/wp-content/uploads/2022/04/20220411_151116-Copy-400x400.jpg)](https://breadtopia.com/wp-content/uploads/2022/04/20220411_151116-Copy.jpg)
-Warm dough bulk fermented 5 hours
-
-[![1.5 Liter plastic container with green sticker.](https://breadtopia.com/wp-content/uploads/2022/04/20220411_172936-Copy-400x400.jpg)](https://breadtopia.com/wp-content/uploads/2022/04/20220411_172936-Copy.jpg)
-About 80% expansion
-
-[![fermenting dough in a square container](https://breadtopia.com/wp-content/uploads/2022/04/20220411_173115-Copy-400x400.jpg)](https://breadtopia.com/wp-content/uploads/2022/04/20220411_173115-Copy.jpg)
-Bubbly surface
-
-[![a pan in an oven.](https://breadtopia.com/wp-content/uploads/2022/04/20220411_182719-Copy-400x400.jpg)](https://breadtopia.com/wp-content/uploads/2022/04/20220411_182719-Copy.jpg)
-Oven preheat with heavy pan above for steam
-
-[![two raw dough on parchment](https://breadtopia.com/wp-content/uploads/2022/04/20220411_184157-Copy-400x400.jpg)](https://breadtopia.com/wp-content/uploads/2022/04/20220411_184157-Copy.jpg)
-Final proof of about 1 hour
-
-[![sliced sourdough bread on wooden board](https://breadtopia.com/wp-content/uploads/2022/04/20220412_122007-Copy-400x400.jpg)](https://breadtopia.com/wp-content/uploads/2022/04/20220412_122007-Copy.jpg)
-Crunchy crust
-
-[![sliced sourdough bread with open crumb](https://breadtopia.com/wp-content/uploads/2022/04/20220412_122114-Copy-400x400.jpg)](https://breadtopia.com/wp-content/uploads/2022/04/20220412_122114-Copy.jpg)
-Webby interior
-
-### Research Sources and Supplementary Videos
-
-[Video](https://www.youtube.com/watch?v=O4wiHIOZZOo) of the bassinage and gluten development for my batch of 108% hydration glass bread.
-
-[Video](https://www.youtube.com/watch?v=DXjmW66QePE) of cutting and shaping *rolls* of glass bread.
-
-Joy Ride Coffee [video](https://www.youtube.com/watch?v=pcAhxsl-UVE) for 106% hydration sourdough glass bread — in English.
-
-Forner De Alella [video](https://www.youtube.com/watch?v=oHuJ9MBQu7I&t=3s) for 85% hydration yeast glass bread — in Spanish.
-
-Thread on the Fresh Loaf [message board](https://www.thefreshloaf.com/node/50220/pan-de-cristal-glass-bread) discussing the important of oil and sugar in the recipe.
-
-#### Shopping List
-
-- [![sourdough starter packaging by Breadtopia](https://breadtopia.com/wp-content/themes/savoy/assets/img/placeholder.png)](https://breadtopia.com/store/sourdough-starter-dry/)
-
-  [#](# "Add to Wishlist")
-  ### [Sourdough Starter (Dry)](https://breadtopia.com/store/sourdough-starter-dry/)
-  Rated **5.00** out of 5$7.50
-  [Add to cart](/sourdough-glass-bread-pan-de-cristal/?add-to-cart=21300)
-
-- [![high protein bread flour.](https://breadtopia.com/wp-content/themes/savoy/assets/img/placeholder.png)](https://breadtopia.com/store/organic-bread-flour/)
-
-  [#](# "Add to Wishlist")
-  ### [Organic High Protein Bread Flour](https://breadtopia.com/store/organic-bread-flour/)
-  Rated **5.00** out of 5$7.50 – $81.50Price range: $7.50 through $81.50
-  [Select options](https://breadtopia.com/store/organic-bread-flour/) This product has multiple variants. The options may be chosen on the product page
-
-- [![a metal pastry cutter tool.](https://breadtopia.com/wp-content/themes/savoy/assets/img/placeholder.png)](https://breadtopia.com/store/danish-dough-whisk/)
-
-  [#](# "Add to Wishlist")
-  ### [Danish Dough Whisk — Large](https://breadtopia.com/store/danish-dough-whisk/)
-  Rated **4.91** out of 5$15.00
-  [Add to cart](/sourdough-glass-bread-pan-de-cristal/?add-to-cart=21292)
-
-- [![white plastic dough scraper tool.](https://breadtopia.com/wp-content/themes/savoy/assets/img/placeholder.png)](https://breadtopia.com/store/dr-oetker-dough-scraper/)
-
-  [#](# "Add to Wishlist")
-  ### [Dr. Oetker Dough Scraper Successor](https://breadtopia.com/store/dr-oetker-dough-scraper/)
-  Rated **5.00** out of 5$3.95
-  [Add to cart](/sourdough-glass-bread-pan-de-cristal/?add-to-cart=21427)
-
-- [![Lamson dough scraper tool for baking](https://breadtopia.com/wp-content/themes/savoy/assets/img/placeholder.png)](https://breadtopia.com/store/extra-long-bench-knife-walnut-handle/)
-
-  [#](# "Add to Wishlist")
-  ### [XL Walnut Bench Knife](https://breadtopia.com/store/extra-long-bench-knife-walnut-handle/)
-  Rated **5.00** out of 5$29.00
-  [Add to cart](/sourdough-glass-bread-pan-de-cristal/?add-to-cart=66743)
-
-- [![flour sack towels for bread baking](https://breadtopia.com/wp-content/themes/savoy/assets/img/placeholder.png)](https://breadtopia.com/store/natural-flour-sack-towels-natural-and-organic/)
-
-  [#](# "Add to Wishlist")
-  ### [Flour Sack Towels — Natural & Organic](https://breadtopia.com/store/natural-flour-sack-towels-natural-and-organic/)
-  Rated **5.00** out of 5$22.00
-  [Add to cart](/sourdough-glass-bread-pan-de-cristal/?add-to-cart=49258)
-
-- [![rectangular grooved baking pan](https://breadtopia.com/wp-content/themes/savoy/assets/img/placeholder.png)](https://breadtopia.com/store/usa-pan-cookie-sheet/)
-
-  [#](# "Add to Wishlist")
-  ### [USA Pan Cookie Sheet](https://breadtopia.com/store/usa-pan-cookie-sheet/)
-  Rated **5.00** out of 5$25.99
-  [Add to cart](/sourdough-glass-bread-pan-de-cristal/?add-to-cart=26737)
-
-- [![pizza on baking stone in oven](https://breadtopia.com/wp-content/themes/savoy/assets/img/placeholder.png)](https://breadtopia.com/store/home-oven-baking-stone/)
-
-  [#](# "Add to Wishlist")
-  ### [FibraMent Oven Baking Stones](https://breadtopia.com/store/home-oven-baking-stone/)
-  Rated **4.92** out of 5$93.00 – $129.00Price range: $93.00 through $129.00
-  [Select options](https://breadtopia.com/store/home-oven-baking-stone/) This product has multiple variants. The options may be chosen on the product page
-
-- [![digital infrared thermometer for baking measurements.](https://breadtopia.com/wp-content/themes/savoy/assets/img/placeholder.png)](https://breadtopia.com/store/infrared-thermometer-with-laser/)
-
-  [#](# "Add to Wishlist")
-  ### [Infrared Thermometer with Laser](https://breadtopia.com/store/infrared-thermometer-with-laser/)
-  Rated **5.00** out of 5$79.00
-  [Add to cart](/sourdough-glass-bread-pan-de-cristal/?add-to-cart=21684)
-
-- [![spray bottle with EVO logo](https://breadtopia.com/wp-content/themes/savoy/assets/img/placeholder.png)](https://breadtopia.com/store/evo-oil-sprayer/)
-
-  [#](# "Add to Wishlist")
-  ### [Evo Oil Sprayer](https://breadtopia.com/store/evo-oil-sprayer/)
-  Rated **5.00** out of 5$20.00
-  [Select options](https://breadtopia.com/store/evo-oil-sprayer/) This product has multiple variants. The options may be chosen on the product page
-
-- [![colorful oven mitts arranged in a circle.](https://breadtopia.com/wp-content/themes/savoy/assets/img/placeholder.png)](https://breadtopia.com/store/thermopop-instant-read-thermometer-thermopop2/)
-
-  [#](# "Add to Wishlist")
-  ### [ThermoPop® 2](https://breadtopia.com/store/thermopop-instant-read-thermometer-thermopop2/)
-  Rated **5.00** out of 5$39.00
-  [Select options](https://breadtopia.com/store/thermopop-instant-read-thermometer-thermopop2/) This product has multiple variants. The options may be chosen on the product page
-
-- [![baking tray with parchment paper inside.](https://breadtopia.com/wp-content/themes/savoy/assets/img/placeholder.png)](https://breadtopia.com/store/parchment-paper-sheets-200/)
-
-  [#](# "Add to Wishlist")
-  ### [Parchment Paper Sheets — 200 Sheets](https://breadtopia.com/store/parchment-paper-sheets-200/)$29.00
-  [Add to cart](/sourdough-glass-bread-pan-de-cristal/?add-to-cart=293923)
-
-### Sourdough Glass Bread (Pan de Cristal)
+<https://breadtopia.com/sourdough-glass-bread-pan-de-cristal/>
