@@ -1,7 +1,7 @@
 ---
 title: "Smoked Beef & Poultry Deli Loaf (Ninja Woodfire)"
 servings: 3 rolls (~1 kg each)
-labels: [meat]
+labels: [meat, salami]
 ---
 # Smoked Beef & Poultry Deli Loaf (Ninja Woodfire)
 

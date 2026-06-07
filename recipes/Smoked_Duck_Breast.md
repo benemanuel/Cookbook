@@ -20,7 +20,7 @@ steps:
   - Remove the breasts from the fridge, wash all the cure off, pat dry and wrap tightly in cheesecloth or an old tea towel, then put back in the fridge uncovered to dry for up to a week.
   - Give the duck a cold smoke over fruit wood for 4 hours if you prefer it smoked, using a cold smoke generator and kettle BBQ or smokehouse with cherry wood, oak, apple, or beech.
   - Put the smoked duck back in the fridge wrapped well in a tea towel and slice as desired, allowing a few days before eating if possible, and store in the fridge for a month or more or vacuum pack for longer storage.
-labels: [meat]
+labels: [meat, salami]
 ---
 
 # Smoked Duck Breast

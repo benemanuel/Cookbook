@@ -44,7 +44,7 @@ steps:
   - While rolls cool, beat cream cheese, mascarpone, butter, powdered sugar, and vanilla together until smooth.
   - Frost cooled rolls generously with the mascarpone frosting.
 
-labels: [bread, cake, dairy, fermentation, spice]
+labels: [bread, cake, dairy, fermentation, spice, vegetables]
 ---
 
 # Sweet Potato Sourdough Cinnamon Rolls — Smaller Batch

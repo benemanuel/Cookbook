@@ -1,6 +1,6 @@
 ---
 title: "Smoked Chicken & Beef Salami"
-labels: [meat]
+labels: [meat, salami]
 ---
 # Smoked Chicken & Beef Salami
 

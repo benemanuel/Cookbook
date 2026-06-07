@@ -1,7 +1,7 @@
 ---
 title: "ג'מבון דה פריז כשר"
 source: https://www.instagram.com/reel/DUi6zL6CCVp/
-labels: [meat]
+labels: [meat, salami]
 ---
 # ג'מבון דה פריז כשר
 

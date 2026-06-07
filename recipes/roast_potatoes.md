@@ -16,7 +16,7 @@ ingredients:
   - Pepper and salt
   - 1 package baking soda
 steps: null
-labels: []
+labels: [vegetables]
 ---
 
 # Roast Potatoes

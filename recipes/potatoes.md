@@ -20,7 +20,7 @@ steps:
   - Bake potatoes at 450°F until the internal temperature reaches 205°F.
   - Brush oil on the potatoes near the end of cooking.
   - Continue baking until the outside is crispy like a potato chip.
-labels: []
+labels: [vegetables]
 ---
 
 # Best Baked Potatoes

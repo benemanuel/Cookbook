@@ -13,7 +13,7 @@ attachments:
     type: "application/pdf"
     size: 683283
     local_path: "attachments\\2017-08-30_11-44-10_paper_bag_apple_pie_1\\Paper_Bag_Apple_Pie_King_Arthur_Flour.pdf"
-labels: []
+labels: [cake]
 ---
 
 # paper bag apple pie

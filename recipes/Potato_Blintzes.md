@@ -14,7 +14,7 @@ ingredients:
   - 1/4 to 1 cup potato starch
   - 1 teaspoon sea salt or kosher salt
 steps: null
-labels: [dairy]
+labels: [dairy, vegetables]
 ---
 
 # Potato Blintzes

@@ -26,7 +26,7 @@ ingredients:
   - 2 tsp fresh thyme, minced
   - 1 1/2 cup Comte cheese (Gruyere is a suitable substitute)
 steps: null
-labels: [dairy]
+labels: [dairy, salami]
 ---
 
 # Quiche

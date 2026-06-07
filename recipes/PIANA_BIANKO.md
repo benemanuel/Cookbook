@@ -9,7 +9,7 @@ attachments:
     type: "application/pdf"
     size: 450380
     local_path: "attachments\\2017-05-17_10-29-57_PIANA_BIANKO_\u05e4\u05d0\u05e0\u05d4_\u05d1\u05d9\u05d0\u05e0\u05e7\u05d5_\u05dc\u05d7\u05dd_\u05d0\u05d9\u05d8\u05dc\u05e7\u05d9_1\\PIANA_BIANKO.pdf"
-labels: []
+labels: [bread]
 ---
 
 # PIANA BIANKO פאנה ביאנקו לחם איטלקי

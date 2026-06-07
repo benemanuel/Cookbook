@@ -35,7 +35,7 @@ steps:
   - Fold in the parsley, mint, olive oil, and spices, then taste and adjust salt as needed.
   - Transfer to a shallow serving dish and garnish with olive oil, olives, and pistachios.
   - Serve with flatbread.
-labels: []
+labels: [sauce]
 ---
 
 # Himmas Kassa

@@ -9,7 +9,7 @@ attachments:
     type: "text/html"
     size: 36758
     local_path: "attachments\\2022-01-27_18-14-18_The_Very_Best_Corned_Beef_and_Cabbage\\The_Very_Best_Corned_Beef_and_Cabbage_-_The_Suburban_Soapbox.html"
-labels: [meat]
+labels: [meat, salami]
 ---
 
 # The Very Best Corned Beef and Cabbage

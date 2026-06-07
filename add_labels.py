@@ -1,7 +1,7 @@
 """
 add_labels.py — two-tier labeling system
 
-INCLUSIVE labels  (meat, fish, dairy, fermentation)
+INCLUSIVE labels  (meat, fish, dairy, fermentation, salami)
   Applied whenever the ingredient/technique is significantly present.
   A chicken soup gets both 'meat' AND 'soup'.
 
@@ -12,13 +12,16 @@ DISH-TYPE labels  (bread, cake, candy, soup, sauce, vegetables, pickles, drinks,
 
 Exclusion: 'vegetables' is not applied when meat or fish is labeled
   (a chicken-and-vegetable stew is a meat dish, not a vegetable dish).
+
+Schema version 1 files store ingredients in YAML frontmatter — those lists
+are included in scoring alongside the markdown body.
 """
 import os
 import re
 
 RECIPES_DIR = r"C:\Users\avi\GitHub\Cookbook\recipes"
 
-INCLUSIVE_LABELS  = {'meat', 'fish', 'dairy', 'fermentation'}
+INCLUSIVE_LABELS  = {'meat', 'fish', 'dairy', 'fermentation', 'salami'}
 DISH_TYPE_LABELS  = {'bread', 'cake', 'candy', 'soup', 'sauce', 'vegetables', 'pickles', 'drinks', 'spice'}
 
 INCLUSIVE_THRESHOLD  = 4
@@ -28,7 +31,6 @@ CONTENT_KEYWORDS = {
     # ── INCLUSIVE ──────────────────────────────────────────────────────────────
 
     'meat': {
-        # Specific cuts — strong signals
         'ground beef': 4, 'ground chicken': 4, 'ground turkey': 4, 'ground lamb': 4,
         'chicken breast': 4, 'chicken thigh': 4, 'chicken thighs': 4,
         'chicken drumstick': 4, 'chicken wing': 4, 'whole chicken': 4,
@@ -39,7 +41,6 @@ CONTENT_KEYWORDS = {
         'brisket': 3, 'steak': 3, 'pastrami': 3, 'corned beef': 3,
         'meatball': 3, 'meatloaf': 3, 'tongue': 3,
         'prosciutto': 3, 'kabanos': 3, 'basturma': 3, 'liver': 2,
-        # Generic
         'chicken': 2, 'beef': 2, 'lamb': 2, 'duck': 2, 'turkey': 2,
         'meat': 2, 'poultry': 2, 'sausage': 2, 'bacon': 2,
         # Hebrew
@@ -47,6 +48,24 @@ CONTENT_KEYWORDS = {
         'בשר טחון': 4, 'כבש': 4, 'קציצות': 3, 'שניצל': 4, 'קבב': 4,
         'סטייק': 3, 'כבד': 3, 'פסטרמה': 4, 'אסאדו': 4, 'אנטריקוט': 4,
         'נקניק': 3, 'בשר': 2, 'עוף': 2, 'בקר': 2, 'עגל': 3,
+    },
+
+    'salami': {
+        # Unambiguous cured/deli-meat signals
+        'curing salt': 5, 'curing salt #1': 5, 'curing salt #2': 5,
+        'prague powder': 5, 'pink salt': 4, 'instacure': 5,
+        'nitrite': 4, 'nitrate': 4, 'sodium nitrite': 5,
+        'salami': 5, 'jambon': 5, 'charcuterie': 5,
+        'deli loaf': 5, 'deli ham': 5, 'deli meat': 4,
+        'emulsified': 3, 'meat paste': 4, 'meat emulsion': 5,
+        'sausage casing': 5, 'natural casing': 5, 'collagen casing': 5,
+        'cold smoke': 4, 'cold smoking': 4,
+        'kabanos': 5, 'basturma': 5, 'pastrami': 4,
+        'corned beef': 4, 'bresaola': 5, 'coppa': 5, 'lardo': 5,
+        'color cure': 4, 'colour cure': 4,
+        # Hebrew
+        'מלח כבישה': 5, 'נקניק': 3, 'פסטרמה': 4,
+        'ג\'מבון': 5, 'שרקוטרי': 5,
     },
 
     'fish': {
@@ -94,22 +113,17 @@ CONTENT_KEYWORDS = {
     },
 
     # ── DISH-TYPE ──────────────────────────────────────────────────────────────
-    # Threshold is 8 — generic cooking words are intentionally absent or low-weight.
 
     'bread': {
-        # Technique — unambiguous bread-making signals
         'sourdough starter': 6, 'levain': 6, 'poolish': 6, 'biga': 6,
         'autolyse': 6, 'bulk ferment': 6, 'stretch and fold': 6, 'banneton': 6,
-        'pizza dough': 6, 'bread dough': 6,
-        # Flour types specific to bread
+        'pizza dough': 6, 'bread dough': 6, 'phyllo': 6, 'filo dough': 6,
         'bread flour': 5, 'rye flour': 5, 'spelt flour': 5,
         'whole wheat flour': 3, 'semolina flour': 3,
-        # Leavening + technique words — need to accumulate
         'active dry yeast': 4, 'instant yeast': 4, 'rapid rise yeast': 4,
         'proofing': 4, 'knead': 3, 'kneading': 3,
         'loaf pan': 3, 'bread pan': 3,
         'yeast': 3,
-        # NOT 'flour' alone — appears in cakes, tempura, coatings, everything
         # Hebrew
         'שמרים יבשים': 5, 'שמרים טריים': 5, 'קמח לחם': 5,
         'קמח מלא': 3, 'קמח שיפון': 5, 'קמח כוסמין': 5,
@@ -117,31 +131,28 @@ CONTENT_KEYWORDS = {
     },
 
     'cake': {
-        # Named desserts — unambiguous
         'cheesecake': 9, 'tiramisu': 9, 'brownie': 9, 'cupcake': 9,
         'bundt': 9, 'chiffon cake': 9, 'sponge cake': 9, 'pound cake': 9,
-        'coffee cake': 9, 'layer cake': 9,
-        # Cake-specific elements
+        'coffee cake': 9, 'layer cake': 9, 'strudel': 8, 'apple pie': 8,
+        'fruit pie': 8, 'biscotti': 8, 'mandelbrot': 8,
         'frosting': 6, 'ganache': 6, 'streusel': 6,
         'pastry cream': 6, 'diplomat cream': 6,
         'cake flour': 6,
         'confectioners sugar': 4, 'powdered sugar': 4, 'icing': 4,
         'almond flour': 3,
-        # Baking soda/powder alone is not enough (used in batters, falafel, etc.)
         'baking powder': 2, 'baking soda': 2,
         # Hebrew
         'גנאש': 6, 'עוגת גבינה': 9, 'מאפינס': 9,
-        'עוגה': 4, 'עוגיות': 4,
+        'עוגה': 4, 'עוגיות': 4, 'שטרודל': 8,
         'אבקת אפייה': 2, 'סודה לשתייה': 2,
     },
 
     'candy': {
-        # Sugar-work — unambiguous
         'candy thermometer': 9, 'hard crack': 9, 'soft ball stage': 9,
         'hard ball stage': 9, 'firm ball stage': 9,
         'toffee': 6, 'nougat': 6, 'marzipan': 6, 'fondant': 6,
         'praline': 6, 'brittle': 6, 'fudge': 6,
-        'halva': 6, 'energy ball': 5, 'energy bite': 5,
+        'halva': 6, 'energy ball': 5, 'energy bite': 5, 'protein bar': 6,
         'corn syrup': 4, 'glucose syrup': 4,
         'caramel': 3, 'truffle': 3,
         # Hebrew
@@ -150,21 +161,17 @@ CONTENT_KEYWORDS = {
     },
 
     'soup': {
-        # Named soups — unambiguous
         'gazpacho': 9, 'minestrone': 9, 'bouillabaisse': 9,
         'consomme': 9, 'borscht': 8, 'ramen': 8, 'pho': 8, 'goulash': 8,
         'chowder': 6, 'bisque': 6, 'velouté': 6, 'potage': 6,
-        # Functional soup words
         'soup': 4, 'stew': 4, 'bone broth': 5,
         'lentil soup': 6, 'bean soup': 6, 'tomato soup': 6,
         'broth': 3, 'stock': 3,
-        # NOT: slow cooker, dutch oven, simmer — appear in braises, stews, sauces
         # Hebrew
         'מרק': 4, 'נזיד': 5, 'תבשיל': 3, 'ציר': 3,
     },
 
     'sauce': {
-        # Named condiments — unambiguous
         'vinaigrette': 6, 'aioli': 6, 'mayonnaise': 6,
         'pesto': 6, 'tapenade': 6,
         'béchamel': 6, 'bechamel': 6, 'hollandaise': 6,
@@ -178,19 +185,17 @@ CONTENT_KEYWORDS = {
     },
 
     'vegetables': {
-        # Vegetable-centric dish markers
         'roasted vegetable': 6, 'vegetable soup': 6, 'vegetable stew': 6,
         'vegetable gratin': 6, 'ratatouille': 9, 'gratin': 4,
         'falafel': 8, 'vegan': 5, 'vegetarian': 5,
-        # Vegetables — need several to accumulate past threshold
-        # (garlic, onion, tomato, pepper excluded — in virtually every savory recipe)
         'eggplant': 3, 'aubergine': 3, 'zucchini': 3, 'courgette': 3,
         'cauliflower': 3, 'broccoli': 3, 'spinach': 3, 'kale': 3,
         'cabbage': 3, 'brussels sprout': 4, 'leek': 3, 'fennel': 3,
         'parsnip': 4, 'turnip': 4, 'butternut squash': 4, 'pumpkin': 3,
         'beet': 3, 'beetroot': 3, 'kohlrabi': 4, 'radish': 3,
         'artichoke': 4, 'asparagus': 4, 'green bean': 3, 'snap pea': 3,
-        'mushroom': 3, 'sweet potato': 3,
+        'shiitake': 4, 'mushroom': 3, 'sweet potato': 3, 'potato': 2,
+        'onion ring': 5, 'french fry': 5, 'french fries': 5,
         'salad': 3, 'slaw': 4, 'coleslaw': 5,
         'chickpea': 4, 'lentil': 4, 'bean': 3,
         # Hebrew
@@ -200,7 +205,6 @@ CONTENT_KEYWORDS = {
     },
 
     'pickles': {
-        # The recipe IS a pickling/preserving recipe — not just uses vinegar
         'pickling': 6, 'pickled': 5, 'pickle': 4,
         'lacto-ferment': 6, 'lacto ferment': 6,
         'canning': 5, 'water bath canning': 6,
@@ -210,14 +214,12 @@ CONTENT_KEYWORDS = {
         'pickling salt': 6, 'pickling spice': 6,
         'dill pickle': 6, 'bread and butter pickle': 6,
         'salt brine': 4,
-        # NOT: vinegar alone, brine alone, fermented alone — appear in meats/sauces
         # Hebrew
         'כבושים': 5, 'חמוצים': 5, 'מלפפון חמוץ': 6,
         'ריבה': 4, 'מרמלדה': 6, "צ'אטני": 6, 'כבוש': 3,
     },
 
     'drinks': {
-        # The recipe IS a drink — not a recipe that cooks with alcohol
         'cocktail': 6, 'bitters': 5, 'muddle': 5,
         'liqueur': 5, 'schnapps': 5, 'vermouth': 5,
         'vodka': 4, 'whiskey': 4, 'whisky': 4, 'bourbon': 4, 'rum': 4,
@@ -225,19 +227,17 @@ CONTENT_KEYWORDS = {
         'champagne': 4, 'prosecco': 4,
         'kahlua': 5, 'cointreau': 5, 'triple sec': 5, 'amaretto': 5, 'limoncello': 5,
         'simple syrup': 3, 'kombucha': 5, 'ginger beer': 4, 'mead': 5, 'hard cider': 5,
-        # NOT: wine (2), beer (2), cider (2) — used as cooking ingredients constantly
+        'soda water': 4, 'sparkling water': 3,
         # Hebrew
         'וודקה': 4, 'ויסקי': 4, 'רום': 4, "ג'ין": 4, 'טקילה': 4,
         'ליקר': 5, 'קוקטייל': 5, 'יין': 3, 'בירה': 3,
     },
 
     'spice': {
-        # The recipe IS a spice blend, rub, or seasoning mix
-        # NOT a recipe that uses spices as ingredients
         'spice blend': 6, 'spice mix': 6, 'spice rub': 6, 'spice paste': 6,
         'herb blend': 6, 'herb mix': 6,
         'herbes de provence': 9, 'ras el hanout': 9,
-        "za'atar": 9, 'baharat': 9, 'dukkah': 9, 'dukkah': 9,
+        "za'atar": 9, 'baharat': 9, 'dukkah': 9,
         'garam masala': 9, 'taco seasoning': 6, 'italian seasoning': 6,
         'pickling spice': 6, 'mulling spice': 6,
         'dry rub': 6, 'seasoning blend': 6,
@@ -249,9 +249,6 @@ CONTENT_KEYWORDS = {
     },
 }
 
-# Slug patterns: filename tokens and subject line matches.
-# For inclusive labels: cast a wide net.
-# For dish-type labels: only match unambiguous filename tokens.
 SLUG_PATTERNS = {
     'meat': [
         'chicken', 'beef', 'brisket', 'lamb', 'duck', 'turkey', 'veal', 'pork',
@@ -261,9 +258,14 @@ SLUG_PATTERNS = {
         'asado', 'keftedes', 'swedish_meatball', 'cabbage_rolls',
         'musaka', 'moussaka', 'enchiladas', 'tongue', 'meat_sauce', 'meat_pie',
         'jerky', 'smoked_duck', 'smoked_pastrami', 'liver_pate', 'chicken_liver',
-        'salami', 'jambon',
+        'salami', 'jambon', 'meat_6', 'vegi_meat',
         'בשר', 'עוף', 'כבש', 'עגל', 'קציצות', 'שניצל', 'קבב', 'סטייק',
         'פסטרמה', 'אסאדו', 'אנטריקוט', 'כבד',
+    ],
+    'salami': [
+        'salami', 'jambon', 'pastrami', 'kabanos', 'basturma',
+        'cured', 'deli', 'charcuterie', 'bresaola', 'coppa',
+        'פסטרמה', "ג'מבון",
     ],
     'fish': [
         'fish', 'salmon', 'lox', 'tuna', 'seafood', 'sardine', 'anchovy',
@@ -291,22 +293,23 @@ SLUG_PATTERNS = {
         'bagel', 'pretzel', 'kubaneh', 'tortilla',
         'danish', 'lachuch', 'croissant', 'brioche', 'biroche',
         'pizza', 'cornbread', 'babka', 'cinnamon_roll',
-        'english_muffin', 'cracker',
+        'english_muffin', 'cracker', 'phyllo', 'filo', 'dough', 'piana_bianko',
         'לחם', 'לחמניות', 'פיתה', 'חלה',
     ],
     'cake': [
         'cake', 'brownie', 'cookie', 'muffin', 'scone', 'tiramisu',
-        'cheesecake', 'tart', 'mousse', 'strudel', 'napoleon',
+        'cheesecake', 'tart', 'mousse', 'strudel', 'studel', 'napoleon',
         'galaktoboureko', 'pumpkin_roll', 'waffle', 'pancake',
         'coffee_cake', 'crumb_cake', 'cloud_cake', 'chocolate_cake',
         'carrot_cake', 'custard', 'diplomat',
-        'apple_crumble', 'ice_cream', 'kugel',
+        'apple_crumble', 'ice_cream', 'kugel', 'pie', 'biscotti', 'mandelbrot',
         'עוגה', 'עוגיות', 'פאי', 'טארט', 'גלידה', 'עוגת', 'קוגל',
     ],
     'candy': [
         'halva', 'nougat', 'marzipan', 'toffee', 'fudge', 'truffle',
         'praline', 'charoset', 'pastila', 'energy_bite', 'energy_ball',
         'larabar', 'walnut_toffee', 'date_nut', 'glyko', 'venetian_charoset',
+        'protein_bar',
         'חלבה', 'נוגט', 'מרציפן', 'קרמל', 'ממתק',
     ],
     'drinks': [
@@ -315,8 +318,9 @@ SLUG_PATTERNS = {
         'brandy', 'mead', 'bloody_mary', 'margarita',
         'kalua', 'baileys', 'drambuie', 'coffee_liqueur',
         'cherry_bounce', 'nocino', 'pomegranate_liqueur', 'chestnut_liquor',
-        'cranberry_ginger_shandy', 'switchel',
+        'cranberry_ginger_shandy', 'switchel', 'tarragon_soda',
         'root_beer', 'ginger_soda', 'pipitada', 'electrolyte', 'detox_juice',
+        'georgian_tarragon',
         'ליקר', 'קוקטייל',
     ],
     'soup': [
@@ -334,7 +338,7 @@ SLUG_PATTERNS = {
         'chimichurri', 'hummus', 'tahini', 'toum', 'tzatziki',
         'tomato_sauce', 'pasta_sauce', 'garlic_sauce', 'harissa',
         'italian_dressing', 'chinese_salad_dressing',
-        'fresh_basil_pesto', 'marcella_hazan',
+        'fresh_basil_pesto', 'marcella_hazan', 'himmas',
         'רוטב', 'טחינה', 'חומוס', 'פסטו', 'מיונז',
     ],
     'spice': [
@@ -350,9 +354,11 @@ SLUG_PATTERNS = {
         'beetroot', 'kohlrabi', 'artichoke', 'asparagus',
         'butternut', 'ratatouille', 'gratin', 'slaw',
         'latke', 'knish', 'tourlou', 'soufico', 'briam',
-        'roasted_root', 'roasted_chickpea',
+        'roasted_root', 'roasted_chickpea', 'roasted_sweet',
         'bean_salad', 'sprouted_bean', 'chickpea', 'falafel',
         'tarka_dhal', 'dhal', 'lentil',
+        'potato', 'potatoes', 'fries', 'onion_ring', 'shiitake', 'mushroom',
+        'cabbage_manchurian', 'sweet_potato',
         'ירקות', 'סלט', 'חצילים', 'קולרבי', 'אספרגוס',
     ],
     'pickles': [
@@ -370,11 +376,25 @@ LONG_LINE_RE   = re.compile(r'[A-Za-z0-9+/]{100,}')
 URL_RE         = re.compile(r'https?://\S+')
 
 
-def clean_body(content):
+def get_searchable_text(content):
+    """
+    Return text for label scoring: markdown body + title + YAML list items.
+    Schema version 1 files store ingredients/steps in YAML frontmatter lists;
+    including them ensures those recipes score correctly.
+    """
     m = FRONTMATTER_RE.match(content)
     body = content[m.end():] if m else content
     body = LONG_LINE_RE.sub(' ', body)
     body = URL_RE.sub(' ', body)
+
+    if m:
+        fm = m.group(1)
+        # Title
+        title_m = re.search(r'^title:\s*(.+)$', fm, re.MULTILINE)
+        title = title_m.group(1).strip('"\'') if title_m else ''
+        # YAML list items (ingredients:, steps:, etc.)
+        yaml_items = ' '.join(re.findall(r'^\s+-\s+(.+)$', fm, re.MULTILINE))
+        return f"{title} {yaml_items} {body}"
     return body
 
 
@@ -387,22 +407,21 @@ def get_subject(content):
     return ''
 
 
-def score_content(body, kw_weights):
-    """Return total score for a keyword dict against body text."""
-    body_lower = body.lower()
+def score_content(text, kw_weights):
+    text_lower = text.lower()
     score = 0
     for kw, weight in kw_weights.items():
-        if kw.lower() in body_lower or kw in body:
+        if kw.lower() in text_lower or kw in text:
             score += weight
     return score
 
 
 def labels_from_content(content):
-    body = clean_body(content)
+    text = get_searchable_text(content)
     labels = []
     for label, kw_weights in CONTENT_KEYWORDS.items():
         threshold = INCLUSIVE_THRESHOLD if label in INCLUSIVE_LABELS else DISH_TYPE_THRESHOLD
-        if score_content(body, kw_weights) >= threshold:
+        if score_content(text, kw_weights) >= threshold:
             labels.append(label)
     return labels
 
@@ -419,10 +438,7 @@ def labels_from_slug(text):
 
 
 def apply_exclusions(labels):
-    """
-    'vegetables' is a dish-type label for vegetable-centric dishes.
-    If the recipe is already labeled meat or fish, it's not a vegetable dish.
-    """
+    """'vegetables' is for vegetable-centric dishes, not meat/fish dishes with veg."""
     if 'vegetables' in labels and ('meat' in labels or 'fish' in labels):
         labels.remove('vegetables')
     return labels
@@ -436,17 +452,19 @@ def process_file(fpath):
     labels = set(labels_from_content(content))
 
     if not labels:
-        # Fallback: filename + subject field
         subject = get_subject(content)
         combined = fname.replace('.md', '') + ' ' + subject
         labels = set(labels_from_slug(combined))
-        # Also score subject through content keywords
-        if subject:
-            body_like = clean_body(content) + ' ' + subject
-            for label, kw_weights in CONTENT_KEYWORDS.items():
-                threshold = INCLUSIVE_THRESHOLD if label in INCLUSIVE_LABELS else DISH_TYPE_THRESHOLD
-                if score_content(body_like, kw_weights) >= threshold:
-                    labels.add(label)
+        # Also score subject+title through content keywords
+        m = FRONTMATTER_RE.match(content)
+        if m:
+            title_m = re.search(r'^title:\s*(.+)$', m.group(1), re.MULTILINE)
+            title = title_m.group(1).strip('"\'') if title_m else ''
+            if title or subject:
+                for label, kw_weights in CONTENT_KEYWORDS.items():
+                    threshold = INCLUSIVE_THRESHOLD if label in INCLUSIVE_LABELS else DISH_TYPE_THRESHOLD
+                    if score_content(title + ' ' + subject, kw_weights) >= threshold:
+                        labels.add(label)
 
     labels = sorted(apply_exclusions(list(labels)))
     labels_str = '[' + ', '.join(labels) + ']' if labels else '[]'

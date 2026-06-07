@@ -30,7 +30,7 @@ steps:
   - Add the quartered onion, whole carrots, celery stalks, halved celeriac, parsley root pieces, halved parsley, button mushrooms, garlic cloves, dry red wine, bay leaves, coarse salt, ground black pepper, water, and sage leaves to the pot.
   - Cover the pot and transfer it to a turbo oven at 160 degrees for three hours.
   - Serve with a side of pirto.
-labels: []
+labels: [meat]
 ---
 
 # Meat 6
