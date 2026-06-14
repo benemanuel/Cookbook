@@ -125,6 +125,143 @@
     return parts.join(" ");
   }
 
+  /* ---- Markdown recipe import ----
+   * Reverses toMarkdown(), and also reads recipe files like this project's
+   * `recipes/*.md`: optional YAML frontmatter, a "# Title" heading,
+   * "## Ingredients" / "## Instructions" lists, and optional
+   * "## Notes" / "## Timeline" / "## Images" / "## Source" sections.
+   */
+
+  function extractRef(text) {
+    var m = /!\[[^\]]*\]\(([^)\s]+)\)/.exec(text);
+    if (m) return m[1];
+    m = /<(https?:\/\/[^>]+)>/.exec(text);
+    if (m) return m[1];
+    m = /(https?:\/\/\S+)/.exec(text);
+    if (m) return m[1];
+    return text.trim();
+  }
+
+  /* Turn list-ish lines (bullets, numbered items, wrapped continuations)
+     into one entry per item. Sub-headings (###...) are dropped. */
+  function parseListItems(lines) {
+    var items = [];
+    lines.forEach(function (line) {
+      var m = /^\s*(?:[-*+]|\d+[.)])\s+(.*)$/.exec(line);
+      if (m) {
+        items.push(m[1].trim());
+      } else if (/^\s*#{1,6}\s/.test(line)) {
+        return; // sub-heading inside a list section, not an item
+      } else if (line.trim()) {
+        if (items.length) items[items.length - 1] += " " + line.trim();
+        else items.push(line.trim());
+      }
+    });
+    return items.filter(Boolean);
+  }
+
+  /* "*Servings: 4 · Prep: 10 min · Cook: 25 min*" -> { servings, prepTime, cookTime } */
+  function parseMetaLine(text) {
+    var meta = {};
+    var found = false;
+    text.split("·").forEach(function (part) {
+      var m = /^\s*(Servings|Prep|Cook)\s*:\s*(.+?)\s*$/i.exec(part);
+      if (!m) return;
+      found = true;
+      var key = m[1].toLowerCase();
+      if (key === "servings") meta.servings = m[2];
+      else if (key === "prep") meta.prepTime = m[2];
+      else if (key === "cook") meta.cookTime = m[2];
+    });
+    return found ? meta : null;
+  }
+
+  var MD_SECTIONS = {
+    ingredients: "ingredients",
+    instructions: "steps",
+    steps: "steps",
+    directions: "steps",
+    notes: "notes",
+    timeline: "timeline",
+    images: "images",
+    source: "source"
+  };
+
+  /* Parse a single recipe out of a markdown block into raw normalizeRecipe() input. */
+  function fromMarkdownRecipe(block) {
+    var raw = { tags: [] };
+    var section = null;
+    var buckets = { intro: [], ingredients: [], steps: [], notes: [], timeline: [], images: [], source: [] };
+
+    block.split(/\r?\n/).forEach(function (line) {
+      var h1 = /^#\s+(.+)$/.exec(line);
+      if (h1 && !raw.title) {
+        raw.title = h1[1].trim();
+        return;
+      }
+      var h2 = /^##\s+(.+)$/.exec(line);
+      if (h2) {
+        var name = h2[1].trim().toLowerCase();
+        section = MD_SECTIONS[name] || "notes";
+        if (!MD_SECTIONS[name]) buckets.notes.push("**" + h2[1].trim() + "**");
+        return;
+      }
+      var trimmed = line.trim();
+      var sourceMatch = /^\*?Source:\s*(.+?)\*?$/i.exec(trimmed);
+      if (sourceMatch) {
+        buckets.source.push(sourceMatch[1]);
+        return;
+      }
+      var tagsMatch = /^Tags:\s*(.+)$/i.exec(trimmed);
+      if (tagsMatch) {
+        raw.tags = tagsMatch[1];
+        return;
+      }
+      if (!section) {
+        var starred = /^\*(.+)\*$/.exec(trimmed);
+        var meta = starred && parseMetaLine(starred[1]);
+        if (meta) {
+          if (meta.servings) raw.servings = meta.servings;
+          if (meta.prepTime) raw.prepTime = meta.prepTime;
+          if (meta.cookTime) raw.cookTime = meta.cookTime;
+          return;
+        }
+      }
+      buckets[section || "intro"].push(line);
+    });
+
+    raw.description = buckets.intro.join("\n").trim();
+    raw.ingredients = parseListItems(buckets.ingredients);
+    raw.steps = parseListItems(buckets.steps);
+
+    var notes = [];
+    if (buckets.notes.join("").trim()) notes.push(buckets.notes.join("\n").trim());
+    if (buckets.timeline.join("").trim()) notes.push("Timeline:\n" + buckets.timeline.join("\n").trim());
+    raw.notes = notes.join("\n\n");
+
+    var images = parseListItems(buckets.images);
+    if (images.length) raw.image = extractRef(images[0]);
+
+    if (buckets.source.length) raw.source = extractRef(buckets.source.join(" ").trim());
+
+    return raw;
+  }
+
+  /* Split markdown into recipe blocks (toMarkdown() joins multiple recipes
+     with a "---" rule), strip any leading YAML frontmatter, and normalize each. */
+  function fromMarkdown(text) {
+    var body = String(text || "").replace(/^﻿/, "");
+    var frontmatter = /^---\r?\n[\s\S]*?\r?\n---\r?\n?/.exec(body);
+    if (frontmatter) body = body.slice(frontmatter[0].length);
+    var recipes = [];
+    body.split(/\r?\n-{3,}\r?\n/).forEach(function (block) {
+      if (!block.trim()) return;
+      var recipe = normalizeRecipe(fromMarkdownRecipe(block));
+      if (recipe) recipes.push(recipe);
+    });
+    return recipes;
+  }
+
   /* Pull recipe candidates out of any parsed-JSON shape. */
   function collectCandidates(data, out) {
     if (!data || typeof data !== "object") return;
@@ -153,28 +290,36 @@
    *  - a Recipe Box export (object with recipes/collections arrays)
    *  - a bare array of recipes, or a single recipe object
    *  - schema.org Recipe JSON-LD (single, array, or @graph)
+   *  - Markdown: either toMarkdown() output, or recipe files like this
+   *    project's `recipes/*.md` ("# Title", "## Ingredients", etc.,
+   *    with optional YAML frontmatter)
    * Returns { recipes, collections }; throws on unparseable input.
    */
   function parseImport(text) {
-    var data = JSON.parse(text);
+    var trimmed = String(text || "").trim();
     var recipes = [];
-    collectCandidates(data, recipes);
-    recipes = recipes.filter(Boolean);
-    if (!recipes.length) {
-      throw new Error("No recipes found in file (need at least a title/name per recipe).");
-    }
     var collections = [];
-    if (data && !Array.isArray(data) && Array.isArray(data.collections)) {
-      collections = data.collections
-        .map(function (c) {
-          if (!c || typeof c !== "object" || !c.name) return null;
-          return {
-            id: typeof c.id === "string" && c.id ? c.id : uid(),
-            name: String(c.name).trim(),
-            recipeIds: cleanLines(c.recipeIds)
-          };
-        })
-        .filter(Boolean);
+    if (trimmed.charAt(0) === "{" || trimmed.charAt(0) === "[") {
+      var data = JSON.parse(text);
+      collectCandidates(data, recipes);
+      recipes = recipes.filter(Boolean);
+      if (data && !Array.isArray(data) && Array.isArray(data.collections)) {
+        collections = data.collections
+          .map(function (c) {
+            if (!c || typeof c !== "object" || !c.name) return null;
+            return {
+              id: typeof c.id === "string" && c.id ? c.id : uid(),
+              name: String(c.name).trim(),
+              recipeIds: cleanLines(c.recipeIds)
+            };
+          })
+          .filter(Boolean);
+      }
+    } else {
+      recipes = fromMarkdown(text);
+    }
+    if (!recipes.length) {
+      throw new Error("No recipes found in file (need at least a title/name per recipe, or a '# Title' heading for Markdown).");
     }
     return { recipes: recipes, collections: collections };
   }
@@ -274,6 +419,7 @@
     mergeImport: mergeImport,
     toExportJSON: toExportJSON,
     toMarkdown: toMarkdown,
+    fromMarkdown: fromMarkdown,
     humanDuration: humanDuration
   };
 });

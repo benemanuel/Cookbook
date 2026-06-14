@@ -88,4 +88,90 @@ assert.ok(md.includes("# Shakshuka"));
 assert.ok(md.includes("## Ingredients"));
 assert.ok(md.includes("1. Heat the olive oil"));
 
+// 7. Markdown export round-trips back through parseImport
+const fromMd = Lib.parseImport(md);
+assert.strictEqual(fromMd.recipes.length, sample.recipes.length);
+assert.strictEqual(fromMd.recipes[0].title, "Shakshuka");
+assert.deepStrictEqual(fromMd.recipes[0].ingredients, sample.recipes[0].ingredients);
+assert.deepStrictEqual(fromMd.recipes[0].steps, sample.recipes[0].steps);
+assert.deepStrictEqual(fromMd.recipes[0].tags, sample.recipes[0].tags);
+assert.strictEqual(fromMd.recipes[0].servings, sample.recipes[0].servings);
+assert.strictEqual(fromMd.recipes[0].prepTime, sample.recipes[0].prepTime);
+assert.strictEqual(fromMd.recipes[0].cookTime, sample.recipes[0].cookTime);
+assert.strictEqual(fromMd.recipes[1].notes, sample.recipes[1].notes);
+
+// 8. Markdown recipe in this project's `recipes/*.md` style: YAML frontmatter,
+//    "## Instructions" (not "## Steps"), "## Notes", "## Timeline", "## Images",
+//    and a "## Source" section with a bare link.
+const cookbookStyle = `---
+title: French Lentil Salad
+labels: [dairy, fish]
+---
+
+# French Lentil Salad
+
+A hearty, tangy salad.
+
+## Ingredients
+
+### For the salad
+
+- 200g French green lentils
+- 1 bay leaf
+
+### For the dressing
+
+- 30ml olive oil
+- 15ml red wine vinegar
+
+## Instructions
+
+1. Cook the lentils.
+2. Whisk the dressing.
+3. Toss together.
+
+## Timeline
+
+**Morning** — Cook the lentils ahead of time.
+
+## Notes
+
+- Best served at room temperature.
+
+## Images
+
+![salad](images/lentil-salad.jpg)
+
+## Source
+
+<https://example.com/lentil-salad>
+`;
+const cb = Lib.parseImport(cookbookStyle);
+assert.strictEqual(cb.recipes.length, 1);
+const cbRecipe = cb.recipes[0];
+assert.strictEqual(cbRecipe.title, "French Lentil Salad");
+assert.strictEqual(cbRecipe.description, "A hearty, tangy salad.");
+assert.deepStrictEqual(cbRecipe.ingredients, [
+  "200g French green lentils",
+  "1 bay leaf",
+  "30ml olive oil",
+  "15ml red wine vinegar"
+]);
+assert.deepStrictEqual(cbRecipe.steps, [
+  "Cook the lentils.",
+  "Whisk the dressing.",
+  "Toss together."
+]);
+assert.ok(cbRecipe.notes.includes("Best served at room temperature."));
+assert.ok(cbRecipe.notes.includes("Timeline:"));
+assert.ok(cbRecipe.notes.includes("Morning"));
+assert.strictEqual(cbRecipe.image, "images/lentil-salad.jpg");
+assert.strictEqual(cbRecipe.source, "https://example.com/lentil-salad");
+
+// 9. Multiple recipes in one Markdown file, separated by "---"
+const multi = Lib.parseImport(`# First\n\n## Ingredients\n\n- a\n\n---\n\n# Second\n\n## Ingredients\n\n- b\n`);
+assert.strictEqual(multi.recipes.length, 2);
+assert.strictEqual(multi.recipes[0].title, "First");
+assert.strictEqual(multi.recipes[1].title, "Second");
+
 console.log("All lib.js tests passed.");

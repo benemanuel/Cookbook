@@ -82,18 +82,33 @@
   <h2>Import recipes in bulk</h2>
   <p>Accepted formats:</p>
   <ul class="import-help">
-    <li>A Recipe Box export file (<code>.json</code>)</li>
+    <li>A Recipe Box export file (<code>.json</code> or <code>.md</code>)</li>
     <li>A JSON array of recipes (<code>title</code>, <code>ingredients</code>, <code>steps</code>, …)</li>
     <li>schema.org Recipe JSON-LD — copied from any recipe website's source</li>
+    <li>Markdown recipes (<code>.md</code>) — a "# Title" heading with "## Ingredients" / "## Instructions" lists, optionally with YAML frontmatter</li>
   </ul>
   <p>You can also drag &amp; drop files anywhere on the page. Duplicates (same id or title) are skipped automatically.</p>
   <label class="file-label">Choose file(s)
-    <input id="import-file" type="file" accept=".json,application/json" multiple>
+    <input id="import-file" type="file" accept=".json,application/json,.md,text/markdown" multiple>
   </label>
-  <p>…or paste JSON here:</p>
-  <textarea id="import-text" rows="8" placeholder='[{"title": "Pancakes", "ingredients": ["1 cup flour", "1 egg"], "steps": ["Mix", "Fry"]}]'></textarea>
+  <p>…or paste JSON or Markdown here:</p>
+  <textarea id="import-text" rows="8" placeholder='[{"title": "Pancakes", "ingredients": ["1 cup flour", "1 egg"], "steps": ["Mix", "Fry"]}]
+
+or
+
+# Pancakes
+
+## Ingredients
+
+- 1 cup flour
+- 1 egg
+
+## Instructions
+
+1. Mix
+2. Fry'></textarea>
   <div class="dialog-actions">
-    <button id="btn-import-paste" class="primary">Import pasted JSON</button>
+    <button id="btn-import-paste" class="primary">Import pasted text</button>
     <button id="btn-close-import">Close</button>
   </div>
 </dialog>

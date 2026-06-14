@@ -22,6 +22,12 @@ device.
   - [schema.org Recipe](https://schema.org/Recipe) JSON-LD as published by most
     recipe websites (single object, arrays, or `@graph` documents; `HowToStep`
     and `HowToSection` instructions and ISO-8601 durations are handled).
+  - Markdown (`.md`) — both this app's own exported Markdown, and recipe files
+    like the ones in this repo's `recipes/` folder: a `# Title` heading,
+    `## Ingredients` / `## Instructions` lists (optional `### ` sub-groups),
+    and optional `## Notes`, `## Timeline`, `## Images`, `## Source` sections.
+    Leading YAML frontmatter is ignored; multiple recipes can be separated by
+    a `---` rule.
   - Duplicates (same id or same title, case-insensitive) are skipped and
     reported; imported collections are merged by name.
 - **Bulk export** — the whole box, the current collection/filter, or a manual
