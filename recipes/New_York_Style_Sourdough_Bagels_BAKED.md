@@ -57,7 +57,7 @@ labels: [bread, fermentation]
 - 240ml active sourdough starter
 - 300ml cold water
 - 30ml barley malt syrup (or maple syrup)
-- 1200ml all-purpose flour
+- 650gr all-purpose flour
 - 10ml fine salt
 - Flour (or semolina for proofing)
 - 15ml baking soda

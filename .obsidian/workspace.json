@@ -11,14 +11,10 @@
             "id": "88537e9a681a3166",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recipes/cabbage_salads.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "cabbage_salads"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recipes/cabbage_salads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cabbage_salads"
+              "title": "Backlinks"
             }
           },
           {
@@ -185,41 +180,41 @@
   },
   "active": "88537e9a681a3166",
   "lastOpenFiles": [
-    "recipes/Cabbage_Rolls_II.md",
-    "recipes/Cabbage_Manchurian_Recipe.md",
-    "recipes/Butternut_Squash_Soup_with_Garlic_Bread_—_MOB_KITCHEN.md",
-    "recipes/British_Fish_and_Chips_Recipe_-_The_Daring_Gourmet.md",
-    "recipes/Brisket_rub.md",
-    "recipes/Brine_Calculator_-_Brine_Salt_to_Water_Ratio_-_My_Fermented_Foods.md",
-    "recipes/bread.md",
-    "recipes/Best_Sourdough_Pizza_Crust_(No_Steel_or_Stone!)_-_The_Clever_Carrot.md",
-    "recipes/best_fries.md",
-    "recipes/Best_Brownies.md",
-    "recipes/Best_Basic_Pizza_Dough_Recipe_-_Food_Republic.md",
-    "recipes/Beer_Battered_Onion_Rings_-_melissassouthernstylekitchen.com.md",
-    "recipes/Beer_Batter_Fish_Made_Great_Recipe_-_Allrecipes.com.md",
-    "recipes/Beef_Pot_Pie_-_Good_Dinner_Mom.md",
-    "recipes/Bazlama_turkish_pita.md",
-    "recipes/basic_sourdough_2_loafs.md",
-    "recipes/basic_sourdough.md",
-    "recipes/Banana_peel.md",
-    "recipes/Avocado_brioche_sourdough_bread.md",
-    "recipes/Aviary’s_Bloody_Mary.md",
-    "recipes/Authentic_Hungarian_Goulash_(Gulyás)_-_The_Daring_Gourmet.md",
-    "recipes/arroz-rojo.md",
-    "recipes/Armenian_perok_cake.md",
-    "recipes/apple_studel.md",
-    "recipes/Apple_Pecan_Coffee_Cake.md",
-    "recipes/Apple_Crumble_Recipe.md",
-    "recipes/חריימה_טריפולטאי.md.tmp.41080.c1c4565ac174",
-    "recipes/White_House_Pecan_Pie.md.tmp.41080.ae8e426153f9",
-    "recipes/Smoked_Salt_Cured_Lox_Traeger_Grills.md.tmp.41080.d948b5501fc0",
-    "recipes/Overnight_waffle.md.tmp.41080.5681295a242c",
-    "recipes/Biroche_sourdough_buns.md.tmp.41080.a9d6dd5b7597",
-    "CLAUDE.md.tmp.41080.fba93568579b",
-    "b.txt",
-    "a.txt",
-    "index.html.tmp.14260.70f19d521e57",
-    "index.html.tmp.14260.7e0b33674986"
+    "recipes/30_Best_Kombucha_Flavors_Of_All_Time_(DIY_with_Fizz).md",
+    "recipes/2023_Forbes_Holiday_Cocktail_Guide.md",
+    "recipes/ABC_coctails.md",
+    "recipes/Ancient_cookies.md",
+    "recipes/׳–׳™׳×׳™׳_׳›׳‘׳•׳©׳™׳.md",
+    "recipes/_כבאנה_תימנית_עם_מחמצת_יבשה_(גרסה_מודרנית_לשבת).md",
+    "recipes/_׳›׳‘׳׳ ׳”_׳×׳™׳׳ ׳™׳×_׳¢׳_׳׳—׳׳¦׳×_׳™׳‘׳©׳”_(׳’׳¨׳¡׳”_׳׳•׳“׳¨׳ ׳™׳×_׳׳©׳‘׳×).md",
+    "recipes/׳¢׳•׳’׳×_׳“׳׳¢׳×_׳•׳׳’׳•׳–׳™׳.md",
+    "recipes/cabbage_salads.md",
+    "recipes/מרק לקוסקוס.md.tmp.32988.a94f4ec19c36",
+    "recipes/בצק_פילו,_מה_עושים_איתו_גזור_ושמור!_-_שבי_רגע.md.tmp.32988.7091ab2da605",
+    "recipes/שבלול_בורקס_ביתי_עם_תרד_וגבינות_-_נשואה_למאפייה.md.tmp.32988.48fd57ac6cde",
+    "recipes/לחם_שאור_כפרי_הנחתום_-_האתר_לחובבי_האפייה_בישראל.md.tmp.32988.4556245ed28a",
+    "recipes/בקלוואה_מתכון_מנצח_והכי_קל_שיש_-_מתכונים_ב-10_דקות.md.tmp.32988.c2d14ee696df",
+    "recipes/בורקס_2.md.tmp.32988.26f3f0ca0baa",
+    "recipes/The_Guardian_Nigel_Slater's_recipes_for_raspberry_and_apricot_shortcake,_and_apricot_and_harissa_chu.md.tmp.32988.ddc1c1d31d32",
+    "recipes/Sourdough_Glass_Bread_(Pan_de_Cristal)_-_Breadtopia.md.tmp.32988.0d5a90b90fca",
+    "recipes/Sourdough_Glass_Bread_(Pan_de_Cristal)_-_Breadtopia.md.tmp.32988.15a370079797",
+    "recipes/World's_Best_Pumpkin_Soup.md.tmp.32988.ec0cf8d45812",
+    "recipes/smoked_chicken_beef_salami_ninja.md",
+    "recipes/smoked_chicken_beef_salami.md",
+    "recipes/Jambon_de_Paris.md",
+    "recipes/stiff_sourdough_buns.md",
+    "recipes/Cretan_Beet_Apple_and_Yogurt_Salad_with_Walnuts_Greek_Food.md",
+    "recipes/Cretan_Beet_and_Yogurt_Salad_with_Walnuts_Greek_Food2.md",
+    "recipes/Cretan_Beet_and_Yogurt_Salad_with_Walnuts_Greek_Food.md",
+    "recipes/classic_moussaka_recipe_without_potatoes.md",
+    "recipes/Butternut_Squash_Soup_with_Garlic_Bread.md",
+    "recipes/British_Fish_and_Chips_Recipe.md",
+    "recipes/Bread_newsletter_no.12.md",
+    "recipes/Brine_Calculator_-_Brine_Salt_to_Water_Ratio.md",
+    "recipes/Brazilian_Cheese_Puffs.md",
+    "recipes/Brandy_Snaps.md",
+    "recipes/Black_Radish,_Endive_and_Apple_Salad.md",
+    "recipes/Black_Bean_And_Chocolate_Chili_Recipe.md",
+    "recipes/Best_Sourdough_Pizza_Crust_(No_Steel_or_Stone).md"
   ]
 }
